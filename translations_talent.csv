@@ -1,0 +1,1250 @@
+|en|fi|pt|ru|zh|ja|ko|de
+talent_name_basicMovement|Movement|||||||
+talent_desc_basicMovement|Move around without attacking.|||||||
+talent_name_basicAttack|Attack|||||||
+talent_desc_basicAttack|Basic Attack|||||||
+||||||||
+talent_name_weaponMaster|Weapon Master|Ase Mestari|Mestre das Armas|Мастер Ближнего Боя|武器大师|ウェポンマスター|무기 마스터|Waffenmeister
+talent_name_charge|Charge|||||||
+talent_name_devastatingCharge|Devastating Charge|||||||
+talent_name_shieldMaster|Shield Master|||||||
+talent_name_stoneskin|Stoneskin|Kivikuori|Pele de pedra|Каменная Кожа|石肤术|ストーンズキン|금강불괴|Steinhaut
+talent_name_norseResistance|Norse Resistance|||||||
+talent_name_defensiveShout|Defensive Shout|||||||
+talent_name_odinsFury|Odin's Fury|Odinin viha|Furia de Odin|Ярость Одина|奥丁之怒|オーディンの怒り|오딘의 분노|Odins Zorn
+talent_name_battleAgility|Battle Agility|||||||
+talent_name_combatOrders|Combat Orders|||||||
+talent_name_seismicSlam|Seismic Slam|Maan läimäys|Batida sismica|Сейсмический удар|地震猛击|サイズミック・スラム|지진타|Seismischer Schlag
+talent_name_bruteForce|Brute Force|Ryntäys|Carregar|Рывок|冲锋|チャージ|돌진|Laden
+talent_name_zeal|Zeal|Kiihko|Zelar|Усердие|热诚|熱意|열의|Eifer
+talent_name_monsterThrow|Throw!|Heitto!|Lançar!|Бросок!|扔！|スロー！|던지다!|Werfen!
+talent_name_ymirsChampion|Ymir's Champion|Ymirin Soturi|Campeão de Ymir|Воин Имира|伊米尔的冠军|イミールのチャンピオン|이미르의 용사|Ymirs Champion
+talent_name_whirlwind|Whirlwind|||||||
+talent_name_shockwave|Shockwave|Paineaalto|Onda de Choque|Ударная волна|冲击波|ショック・ウェーブ|충격파|Stoßwelle
+talent_name_berserk|Berserk|Sykkyräpyörähdys|Turbilhão|Вихрь|旋风|旋風|선풍|Wirbelwind
+talent_name_demolishingWinds|Demolishing Winds|Raivo|Furioso|Берсерк|狂怒|ベルセルク（凶暴）|광분|Berserker
+||||||||
+talent_augment_odinsFury|Augmented skill gains increased Damage and reduced Mana Cost.|||||||
+talent_augment_ymirsChampion|Augmented skill gains increased Cold Damage and deals AOE Damage.|||||||
+talent_augment_whirlwind|Augmented skill gains increased Damage and increased Size.|||||||
+||||||||
+talent_desc_weaponMaster|Increases your Attack Damage and Attack Rating when using Weapons and no Shield.|||||||
+talent_desc_charge|Charge towards faced direction dealing Damage and Stunning enemies on impact.|||||||
+talent_desc_devastatingCharge|When hitting enemies with Charge release a pulse dealing additional Damage and decreasing enemy Attack Rating.|||||||
+talent_desc_shieldMaster|Increases your Attack Damage and Attack Rating when using a Shield.|||||||
+talent_desc_stoneskin|Passively increases your Defense Rating.|||||||
+talent_desc_norseResistance|Passively increases all of your Resistances.|||||||
+talent_desc_defensiveShout|Powerful warcry which buffs you and your party members Defense Rating.|||||||
+talent_desc_odinsFury|Powerful warcry which deals Damage and Stuns enemies around you.|||||||
+talent_desc_battleAgility|Passively increases your Movement Speed.|||||||
+talent_desc_combatOrders|Powerful warcry which buffs you and your party members Life and Mana values.|||||||
+talent_desc_seismicSlam|Smash enemies in front of you dealing Damage and knocking them up.|||||||
+talent_desc_bruteForce|Passively increases your Chance of Critical Strike and the Damage from Critical Strike attacks.|||||||
+talent_desc_zeal|Strike three fast and powerful attacks.|||||||
+talent_desc_monsterThrow|Pick up and throw a monster which deals AOE Damage and Stuns other enemies when landing.|||||||
+talent_desc_ymirsChampion|Strike an attack enhanced with ice dealing Damage and Freezing enemies struck.|||||||
+talent_desc_whirlwind|Spin your weapons around you dealing AOE Damage to enemies struck.|||||||
+talent_desc_shockwave|Smash the ground in front of you releasing a shockwave dealing Damage and Stunning enemies struck.|||||||
+talent_desc_berserk|Every successful hit increases your Attack Speed and Movement Speed stacking up to 8 times.|||||||
+talent_desc_demolishingWinds|Whirlwind now unleashes tornados dealing Damage to enemies struck.|||||||
+||||||||
+talent_name_blazingTrail|Blazing Trail|||||||
+talent_name_fireEnchant|Fire Enchant|||||||
+talent_name_phoenixFlight|Phoenix Flight|||||||
+talent_name_infernoSlash|Inferno Slash|||||||
+talent_name_ignite|Ignite|||||||
+talent_name_fireShield|Fire Shield|||||||
+talent_name_searingChains|Searing Chains|||||||
+talent_name_fieryPresence|Fiery Presence|||||||
+talent_name_avatarOfFire|Avatar of Fire|||||||
+talent_name_fireBall|Fireball|||||||
+talent_name_breathOfFire|Breath of Fire|||||||
+talent_name_meteor|Meteor|||||||
+talent_name_scorchingAura|Scorching Aura|||||||
+talent_name_hydra|Hydra|||||||
+talent_name_comet|Comet|||||||
+talent_name_fireNova|Fire Nova|||||||
+talent_name_volcano|Volcano|||||||
+talent_name_armageddon|Armageddon|||||||
+||||||||
+talent_augment_blazingTrail|Augmented skill increases the Size of blazes and Slows enemies on impact.|||||||
+talent_augment_hydra|Augmented skill enhances Hydras to fire Meteors with increased Attack Speed.|||||||
+talent_augment_comet|Augmented skill summons two Comets instead of one with increased Damage.|||||||
+||||||||
+talent_desc_blazingTrail|Leave behind a trail of fire dealing Damage to enemies.|||||||
+talent_desc_fireEnchant|Enchant your attacks with additive Fire Damage.|||||||
+talent_desc_phoenixFlight|Charge forward through the air dealing massive AOE Damage when landing.|||||||
+talent_desc_infernoSlash|Strike a fire enchanted Cleave Attack dealing extra Fire Damage and setting enemies struck on Fire.|||||||
+talent_desc_ignite|All fire enchanted attacks add a stack of ignite on the enemy combusting the enemy at 10 stacks dealing AOE Fire Damage.|||||||
+talent_desc_fireShield|Cast a shield of fire to increase your Damage Reduction and Burning enemies around you.|||||||
+talent_desc_searingChains|Unleash a powerful chain attack on the nearest enemy dealing Damage and Stunning enemies struck.|||||||
+talent_desc_fieryPresence|Passively increases your Fire Skill Damage.|||||||
+talent_desc_avatarOfFire|Turns you into an avatar of fire; Increasing your Attack Speed, Fire Resistance and Attack Rating.|||||||
+talent_desc_fireBall|Cast a Fireball dealing Fire Damage to enemies.|||||||
+talent_desc_breathOfFire|Breathe burning flames igniting enemies struck on Fire.|||||||
+talent_desc_meteor|Cast a powerful meteor forwards dealing AOE Damage on impact.|||||||
+talent_desc_scorchingAura|Scorch enemies around you when active.|||||||
+talent_desc_hydra|Spawn a fiery Hydra that shoots fireballs towards the closest enemy.|||||||
+talent_desc_comet|Call down a huge Comet exploding on impact dealing AOE Damage.|||||||
+talent_desc_fireNova|Cast a nova of Fire dealing Damage to enemies around you.|||||||
+talent_desc_volcano|Spawn a molten Volcano shooting out burning rocks that deal Damage around the volcano on impact.|||||||
+talent_desc_armageddon|Call down a rain of meteors from the sky dealing AOE Damage to enemies struck.|||||||
+||||||||
+talent_name_trickShot|Trickshot|||||||
+talent_name_vault|Vault|||||||
+talent_name_multishot|Multishot|Moniampuminen|Multiplos tiros|Мультивыстрел|多重射击|マルチショット|멀티샷|Mehrfachschuss
+talent_name_arrowRampage|Arrow Rampage|Nuoliryntäys|Voracidade da Flecha|Град Стрел|狂暴箭|アロー・ラムページ（暴れ矢）|광란의 화살|Pfeilwut
+talent_name_arrowRain|Arrow Rain|Nuolisade|Chuva de flechas|Ливень Стрел|箭雨|アローレイン|화살표 비|Pfeil Regen
+talent_name_homingMissile|Homing Missile|||||||
+talent_name_agility|Agility|Ketteryys|Agilidade|Ловкость|敏捷|アジリティー（素早さ）|에너지성|Agilität
+talent_name_criticalAccuracy|Critical Accuracy|||||||
+talent_name_volatileShot|Volatile Shot|Tuhoammus|Tiro volátil|Разрывной Снаряд|挥发射击|揮発ショット|휘발성 샷|Flüchtiger Schuss
+talent_name_clusterBomb|Cluster Bomb|||||||
+talent_name_arrowTurret|Arrow Turret|||||||
+talent_name_landMine|Landmine|Maamiina|Minas terrestres|Минное поле|地雷|地雷|지뢰|Landmine
+talent_name_beacon|B.E.A.C.O.N.|||||||
+talent_name_masterMechanic|Master Mechanic|Mestarimekaanikko|Mestre mecânico|Мастер Механик|机械师|マスターメカニック|마스터 정비공|Meistermechaniker
+talent_name_turretMastery|Turret Mastery|||||||
+talent_name_cannonTurret|Cannon Turret|||||||
+talent_name_rocketTurret|Rocket Turret|||||||
+talent_name_gunnerDrone|Gunner Drone|||||||
+||||||||
+talent_augment_multishot|Augmented skill now causes Multishot projectiles to explode on contact dealing increased Damage.|||||||
+talent_augment_arrowRain|Augmented skill causes Arrow Rain to pour down in a line towards target location dealing increased Damage.|||||||
+talent_augment_landMine|Augmented skill causes Landmines to scatter Cluster Bombs with increased Damage when triggered.|||||||
+||||||||
+talent_desc_trickShot|With great accuracy shoot an arrow that bounces from enemy to enemy dealing less Damage with every bounce.|||||||
+talent_desc_vault|Vault in the direction aimed unleashing arrows towards nearby enemies.|||||||
+talent_desc_multishot|Shoot multiple Arrows. Each point adds an additional arrow. The base Damage is split between the arrows (not including skill Damage increase).|||||||
+talent_desc_arrowRampage|Unleash a swarm of arrows towards the direction aimed.|||||||
+talent_desc_arrowRain|Unleash a rain of arrows from the sky!|||||||
+talent_desc_homingMissile|Launch a homing missile which seeks down its target dealing AOE Damage.|||||||
+talent_desc_agility|Temporarily increases your Movement Speed and Attack Speed.|||||||
+talent_desc_criticalAccuracy|Increases your Attack Rating reducing your chance to miss enemies with attacks.|||||||
+talent_desc_volatileShot|Shoot a massive arrow dealing AOE Damage and Breaking enemy Physical Armor.|||||||
+talent_desc_clusterBomb|Throw a cluster bomb that scatters around its impact area dealing AOE Damage.|||||||
+talent_desc_arrowTurret|Build an arrow turret that shoots arrows at the closest enemy.|||||||
+talent_desc_landMine|Lay down a Landmine that explodes and Stuns enemies that trigger it.|||||||
+talent_desc_beacon|Build a Beacon that increases nearby allies Life and Mana Replenish.|||||||
+talent_desc_masterMechanic|Temporarily increase the Attack Speed and Damage of all your existing turrets and drones!|||||||
+talent_desc_turretMastery|Increase Damage and Attack Speed of all Turrets.|||||||
+talent_desc_cannonTurret|Build a Cannon Turret that launches cannonballs towards the nearest enemy dealing AOE Damage.|||||||
+talent_desc_rocketTurret|Build a Rocket Turret that shoots rockets towards the nearest enemy dealing AOE Damage.|||||||
+talent_desc_gunnerDrone|Build a Gunner Drone which follows you and shoots Bullets towards the nearest enemy that bounces from enemy to enemy.|||||||
+||||||||
+talent_name_explosiveBarrel|Explosive Barrel|Räjähtävä tynnyri|Barril Explosivo|Пороховая Бочка|炸药桶|爆発バレル|폭팔성 배럴|Explosives Fass
+talent_name_buckshot|Buckshot|Rämmäleammus|Chumbo|Картечь|铅弹|バックショット|벅샷|Rehposten
+talent_name_bombBarrage|Bomb Barrage|Pommitulitus|Bomba de barragem|Град Бомб|炸弹桶|ボム・バラージー|폭탄 일제 엄호 사격|Bombensperre
+talent_name_cannonball|Cannonball|Kanuunankuula|Bala de Canhão|Пушечное Ядро|加农炮弹|キャノンボール|포탄|Kanonenkugel
+talent_name_grenado|Grenade Jump|Räjähdehyppy|Pular com granada|Граната|与手榴弹一起跳|手榴弾でジャンプ|수류탄으로 점프|Mit Granate springen
+talent_name_powderTrail|Powder Trail|Ruutivana|Trilha em pó|Пороховой След|粉径|パウダートレイル|파우더 트레일|Pulverspur
+talent_name_explosiveBullet|Explosive Bullets|Räjähtävät luodit|Balas Explosivas|Разрывные Пули|爆炸子弹|爆発弾丸|폭발탄|Explosive Kugeln
+talent_name_kneeCap|Kneecap|Polven murskaus|Rótula|Пуля в Колено|护膝|ニーカップ（膝攻撃）|슬개골|Kniekehle
+talent_name_rapidFire|Rapid Fire|Pikatulitus|Fogo Rápido|Стрельба Навскидку|快速开火|ラピッド・ファイア（速射）|속사|Schnellfeuer
+talent_name_freezeChainShot|Freezing Chain Shot|Jäätävä Ketjuammus|Tiro em cadeia de congelamento|Морозные Цепные Ядра|冻结链射击|冷凍チェーンショット|동결 체인 샷|Gefrierkettenschuss
+talent_name_torrent|Torrent|Tulva|Torrente|Поток|激流|激流|급류|Sturzflut
+talent_name_setSail|Set Sail|Ankkurit Ylös!|Zarpar|Поднять Паруса!|启航|出航する|세트 항해|Segel setzen
+talent_name_parrot|Parrot|Papukaija|Papagaio|Попугай|鹦鹉|パロット（鸚鵡）|앵무새|Papagei
+talent_name_anchorSwing|Anchor Swing|Ankkurin Pyöräytys|Gancho de Âncora|Якорь|锚钩|アンカーフック|닻 돌리기|Anker-Schaukel
+talent_name_remiges|Remiges|Tehosiipi|Remadores|Маховые Перья|赛艇运动员|漕ぎ手|노 젓는 사람|Ruderer
+talent_name_frozenLead|Frozen Lead|Jäinen Etusija|Chumbo Congelado|Ледяные Снаряды|冷冻铅|冷凍リード|얼어 붙은 납|Gefrorenes Blei
+talent_name_treasureHunter|Treasure Hunter|Aarteen Metsästäjä|Caçador de tesouros|Охотница за Сокровищами|淘金者|トレジャーハンター|보물 사냥꾼|Schatzjäger
+talent_name_landAhoy|Land Ahoy!|Maata Näkyvissä!|Terra Ahoy!|Земля на Горизонте!|土地啊！|ランドアホイ！|랜드 어이!|Land in Sicht!
+||||||||
+talent_desc_explosiveBarrel|Spawn a barrel of explosives which detonates after some time or when shot with a projectile.|||||||
+talent_desc_buckshot|Quick draw your musket and release a short ranged buckshot.|||||||
+talent_desc_bombBarrage|Launch a rain of bombs on the target location.|||||||
+talent_desc_cannonball|Shoot a big cannonball that pierces enemies.|||||||
+talent_desc_grenado|Launch your self in air traveling a short distance dealing Damage to enemies around you.|||||||
+talent_desc_powderTrail|Throw a keg of gunpowder causing a chain explosion.|||||||
+talent_desc_explosiveBullet|Shoot an explosive bullet that explodes in contact dealing AOE Damage.|||||||
+talent_desc_kneeCap|Passively Increases your Attack Rating and Chance for Critical Strike.|||||||
+talent_desc_rapidFire|Increase your Attack Speed and Attack Rating for a short period of time.|||||||
+talent_desc_freezeChainShot|Shoot a piercing chainshot that Freezes and deals Damage to enemies struck.|||||||
+talent_desc_torrent|Summon a pool of corrupted water on target location bursting into a massive torrent that Knocks Up enemies struck dealing Cold Damage.|||||||
+talent_desc_setSail|Increases your Cold Skill Damage and Mana Replenish for a short time.       |||||||
+talent_desc_parrot|Summon a parrot to peck your enemies.|||||||
+talent_desc_anchorSwing|Unleash a massive anchor swinging around you dealing Damage and Freezing enemies it hits.       |||||||
+talent_desc_remiges|Passively increases your parrots Damage and Attack Speed.       |||||||
+talent_desc_frozenLead|Using specially hand crafted frozen lead add Cold Damage to your attacks.|||||||
+talent_desc_treasureHunter|Search for treasure from the corpses of dead enemies with additional Magic Find.       |||||||
+talent_desc_landAhoy|Call for the main ship to bombard target location dealing massive AOE Damage.       |||||||
+||||||||
+talent_name_sandCarver|Sand Carver|||||||
+talent_name_cloudOfSand|Cloud of Sand|||||||
+talent_name_sandGush|Sand Gush|||||||
+talent_name_sandEntombment|Sand Entombment|||||||
+talent_name_oasisAura|Oasis Aura|||||||
+talent_name_sandTremors|Sand Tremors|||||||
+talent_name_mysticSand|Mystic Sand|||||||
+talent_name_dissipatingTornado|Dissipating Tornado|||||||
+talent_name_sandVortex|Sand Vortex|||||||
+talent_name_bladeStrike|Blade Strike|||||||
+talent_name_scimitarCharge|Scimitar Charge|||||||
+talent_name_eyeOfRa|Eye of Ra|||||||
+talent_name_sunRay|Healing Sunrays|||||||
+talent_name_flyingScimitar|Flying Scimitar|||||||
+talent_name_rupture|Rupture|||||||
+talent_name_chainSlice|Chainslice|||||||
+talent_name_phantomBlade|Phantom Blade|||||||
+talent_name_hemorrhage|Hemorrhage|||||||
+||||||||
+talent_desc_sandCarver|Perform a sand enhanced attack with increased Damage and Attack Rating.|||||||
+talent_desc_cloudOfSand|Unleash a cloud of sand that travels forwards, by casting the skill again Nomad will re-locate on the sand clouds position.|||||||
+talent_desc_sandGush|Unleash a gush of sand dealing Damage and Slowing enemies around you.|||||||
+talent_desc_sandEntombment|Each successful attack stacks sand on the enemy eventually bursting into an AOE Sand Blast dealing Damage to all nearby enemies.|||||||
+talent_desc_oasisAura|When active, increases your and your party members Attack Rating.|||||||
+talent_desc_sandTremors|Strike enemies in front of you with Sand Tremors dealing Damage.|||||||
+talent_desc_mysticSand|Your attacks Leech Mana from enemies.|||||||
+talent_desc_dissipatingTornado|Unleash sand at enemies when struck dealing Damage and Stunning them.|||||||
+talent_desc_sandVortex|Summon a massive vortex of quick sand that pulls enemies inside dealing Damage and Slowing them.|||||||
+talent_desc_bladeStrike|Perform an AOE attack with increased Chance for Critical Strike and Attack Rating.|||||||
+talent_desc_scimitarCharge|Charge in target direction and unleash a powerful AOE swipe.|||||||
+talent_desc_eyeOfRa|Perform a light enchanted attack bringing rays of sun down to nearby enemies.|||||||
+talent_desc_sunRay|Increases your Life Steal.|||||||
+talent_desc_flyingScimitar|Throw a huge piercing scimitar dealing Damage to enemies in its path which returns back to the player after a short delay.|||||||
+talent_desc_rupture|Perform a rupturing attack causing your enemies to Bleed for a portion of your Attack Damage.|||||||
+talent_desc_chainSlice|Perform an enhanced attack that causes a sharp blade to chain between enemies nearby dealing Physical Damage.|||||||
+talent_desc_phantomBlade|Spawn a ghostly blade that attacks nearby enemies.|||||||
+talent_desc_hemorrhage|Lowers the Physical Resistance of all Bleeding targets.|||||||
+||||||||
+talent_name_moonshineMolotov|Moonshine Molotov|||||||
+talent_name_pipeBombs|Pipe Bombs|||||||
+talent_name_oilSpill|Oil Spill|||||||
+talent_name_tireFire|Tire Fire|||||||
+talent_name_spontaneousCombustion|Spontaneous Combustion|||||||
+talent_name_hillbillyRage|Hillbilly Rage|||||||
+talent_name_moonshineMadness|Moonshine Madness|||||||
+talent_name_combustibleOil|Combustible Oil|||||||
+talent_name_pickupRaid|Pickup Raid|||||||
+talent_name_chainsawSlash|Chainsaw Slash|||||||
+talent_name_durableWear|Durable Wear|||||||
+talent_name_chainsawMassacre|Chainsaw Massacre|||||||
+talent_name_chainsawMastery|Chainsaw Mastery|||||||
+talent_name_revvedUp|Revved Up|||||||
+talent_name_experiencedLogger|Experienced Logger|||||||
+talent_name_loggersEndurance|Logger’s Endurance|||||||
+talent_name_rogueChainsaw|Rogue Chainsaw|||||||
+talent_name_treeTrunkTriumph|Tree Trunk Triumph|||||||
+||||||||
+talent_desc_moonshineMolotov|Throw a bottle of moonshine setting the impacted area on Fire.|||||||
+talent_desc_pipeBombs|Throw three handcrafted pipe bombs dealing AOE Damage.|||||||
+talent_desc_oilSpill|Spill Oil on the ground Slowing and lowering enemy Attack Rating. Oil also ignites into flames when coming in contact with Fire.|||||||
+talent_desc_tireFire|Throw a truck tire that deals damage to enemies and leaves oil behind if Oil Spill is skilled.|||||||
+talent_desc_spontaneousCombustion|When igniting Oil in flames, also make the enemies combust dealing AOE Damage around them.|||||||
+talent_desc_hillbillyRage|Increases your Attack Damage and Fire Skill damage for a short period.|||||||
+talent_desc_moonshineMadness|Increases your Attack Rating and Movement Speed.|||||||
+talent_desc_combustibleOil|Passively increases your Fire Skill Damage.|||||||
+talent_desc_pickupRaid|Call your hillbilly friends to siege your opponents in a pickup truck. Leaves oil behind if Oil Spill is skilled.|||||||
+talent_desc_chainsawSlash|Perform a powerful AOE slash with increased Damage and Attack Rating.|||||||
+talent_desc_durableWear|Incres your Defense Rating.|||||||
+talent_desc_chainsawMassacre|Spin your chainsaw with force loosing control over time and dealing Damage to enemies around you.|||||||
+talent_desc_chainsawMastery|Increases your Damage and Attack Rating when using a chainsaw.|||||||
+talent_desc_revvedUp|Increases your Attack Rating and Attack Speed for a short period.|||||||
+talent_desc_experiencedLogger|Increases your Chance for Critical Strike and Critical Strike Damage.|||||||
+talent_desc_loggersEndurance|Increases your Life and Life Replenish.|||||||
+talent_desc_rogueChainsaw|Throw a chainsaw on the ground spinning and dealing Damage to enemies it hits.|||||||
+talent_desc_treeTrunkTriumph|Summon a massive tree and cut it down on nearby enemies dealing Damage and Stunning them.|||||||
+||||||||
+talent_name_boneShred|Bone Shred|||||||
+talent_name_meatShield|Meat Shield|||||||
+talent_name_meatBomb|Meat Bomb|||||||
+talent_name_poisonBreath|Poison Breath|||||||
+talent_name_boneSpear|Bone Spear|||||||
+talent_name_cursedGround|Cursed Ground|||||||
+talent_name_boneSpirit|Bone Spirit|||||||
+talent_name_poisonNova|Poison Nova|||||||
+talent_name_corpseExplosion|Corpse Explosion|||||||
+talent_name_raiseSkeletonWarrior|Raise Skeleton|||||||
+talent_name_skeletonMastery|Skeleton Mastery|||||||
+talent_name_amplifyDamage|Amplify Damage|||||||
+talent_name_raiseSkeletonMage|Raise Skeleton Mage|||||||
+talent_name_lifeTap|Life Tap|||||||
+talent_name_summonFrenzy|Summon Frenzy|||||||
+talent_name_summonDamnedLegion|Summon Damned Legion|||||||
+talent_name_summonResistances|Summon Resistances|||||||
+talent_name_summonVengefulSpirit|Summon Vengeful Spirit|||||||
+||||||||
+talent_desc_boneShred|Unleash Bone Fragments dealing Damage to enemies. Additional points increase the amount of Fragments.|||||||
+talent_desc_meatShield|Cast a Meat Shield decreasing Damage Taken.|||||||
+talent_desc_meatBomb|Throw a huge lump of Meat that explodes on impact dealing Damage and leaving corpses on the ground.|||||||
+talent_desc_poisonBreath|Unleash a rotten breath of toxins Poisoning all enemies that it touches.|||||||
+talent_desc_boneSpear|Launch a Bone Spear dealing Damage to enemies on its path.|||||||
+talent_desc_cursedGround|Corrupt the ground at the target area, reducing any enemies Poison Resist that enters it.|||||||
+talent_desc_boneSpirit|Spawn a Bone Spirit which travels into the nearest enemy and explodes on impact dealing AOE Damage.|||||||
+talent_desc_poisonNova|Unleash a toxic Poison Nova Poisoning all enemies on its path.|||||||
+talent_desc_corpseExplosion|Explode the target corpse dealing heavy AOE Damage.|||||||
+talent_desc_raiseSkeletonWarrior|Raise a Skeleton Warrior from target corpse to fight on your side.|||||||
+talent_desc_skeletonMastery|Increases the Life, Damage and Attack Rating of all your Skeletons.|||||||
+talent_desc_amplifyDamage|Unleash a curse on the target area which decreases enemy Defense and Damage dealt.|||||||
+talent_desc_raiseSkeletonMage|Raise a Skeleton Mage from target corpse to fight on your side.|||||||
+talent_desc_lifeTap|Unleash a curse on the target area which increases any attackers Life Steal.|||||||
+talent_desc_summonFrenzy|Enrage your summons increasing their Attack Speed and Movement Speed for a short period.|||||||
+talent_desc_summonDamnedLegion|Summon a Damned Legion to fight on your side.|||||||
+talent_desc_summonResistances|Increases the Resistances of all your summons.|||||||
+talent_desc_summonVengefulSpirit|Summon a Vengeful Spirit to fight on your side.|||||||
+||||||||
+talent_name_quickSlash|Quickslash|||||||
+talent_name_battleGlance|Battle Glance|||||||
+talent_name_evasion|Evasion|||||||
+talent_name_smokeBomb|Smoke Bomb|||||||
+talent_name_shurikenThrow|Shuriken Throw|||||||
+talent_name_warriorsSpirit|Warrior’s Spirit|||||||
+talent_name_bushido|Bushido|||||||
+talent_name_explosiveKunai|Explosive Kunai|||||||
+talent_name_liveByTheSword|Live by the Sword|||||||
+talent_name_fanOfKnives|Fan of Knives|||||||
+talent_name_bladeBarrier|Blade Barrier|||||||
+talent_name_omnislash|Omnislash|||||||
+talent_name_explodingBolas|Exploding Bolas|||||||
+talent_name_wayOfTheWarrior|Way of the Warrior|||||||
+talent_name_forHonor|For Honor|||||||
+talent_name_shadowStep|Shadow Step|||||||
+talent_name_burstOfSpeed|Burst of Speed|||||||
+talent_name_empiresSlash|Empire’s Slash|||||||
+||||||||
+talent_desc_quickSlash|Perform a short but fast dash to target location dealing Damage to nearby enemies.|||||||
+talent_desc_battleGlance|Perform an AOE attack with increased Attack Rating and Damage.|||||||
+talent_desc_evasion|Gain a chance to evade Melee and Ranged attacks.|||||||
+talent_desc_smokeBomb|Explode a smoke bomb Slowing, dealing Damage and lowering enemy Attack Rating.|||||||
+talent_desc_shurikenThrow|Throw piercing shurikens in target direction dealing Physical Damage.|||||||
+talent_desc_warriorsSpirit|Increases your Attack Speed.|||||||
+talent_desc_bushido|Gain increased Attack Damage for every 10% of missing Life.|||||||
+talent_desc_explosiveKunai|Throw an explosive Kunai dealing AOE Damage and Stunning enemies on impact.|||||||
+talent_desc_liveByTheSword|Increases your Attack Speed and Movement Speed for a short period.|||||||
+talent_desc_fanOfKnives|Spray knives around you dealing Damage to nearby enemies.|||||||
+talent_desc_bladeBarrier|Cast a barrier of rotating blades around you dealing Damage to enemies that come in contact.|||||||
+talent_desc_omnislash|Strike multiple enemies while being untargetable.|||||||
+talent_desc_explodingBolas|Throw piercing bolas Slowing enemies and dealing AOE Damage when exploding.|||||||
+talent_desc_wayOfTheWarrior|Increases all Physical Damage dealt.|||||||
+talent_desc_forHonor|Increases your Attack Damage and Movement Speed for a short period.|||||||
+talent_desc_shadowStep|Step into the shadows re-appearing at target location dealing AOE Damage to all nearby enemies.|||||||
+talent_desc_burstOfSpeed|Gain increased Movement Speed for a short period after killing an enemy.|||||||
+talent_desc_empiresSlash|Perform a huge AOE attack blinking a short distance and dealing Damage to enemies in its path.|||||||
+||||||||
+talent_name_vengeance|Vengeance|||||||
+talent_name_thunderShield|Thunder Shield|||||||
+talent_name_lightningFury|Lightning Fury|||||||
+talent_name_holyShockAura|Holy Shock Aura|||||||
+talent_name_divineStorm|Divine Storm|||||||
+talent_name_fanaticismAura|Fanaticism Aura|||||||
+talent_name_ballLightning|Ball Lightning|||||||
+talent_name_eyeOfTheStorm|Eye of the Storm|||||||
+talent_name_thorsFury|Thor's Fury|||||||
+talent_name_holyBolt|Holy Bolt|||||||
+talent_name_divineWisdom|Divine Wisdom|||||||
+talent_name_holyAura|Holy Aura|||||||
+talent_name_holyHammer|Holy Hammer|||||||
+talent_name_holyRetribution|Holy Retribution|||||||
+talent_name_lightsEmbrace|Light's Embrace|||||||
+talent_name_fistOfTheHeavens|Fist of the Heavens|||||||
+talent_name_holyNova|Holy Nova|||||||
+talent_name_theVeneratedOne|The Venerated One|||||||
+||||||||
+talent_desc_vengeance|Strike enemies with a lightning shock dealing increased Damage and additive Lightning Damage.|||||||
+talent_desc_thunderShield|Cast a shield of thunder shocking enemies attacking you with Lightning Damage.|||||||
+talent_desc_lightningFury|Strike enemies with a furious attack releasing a Chain Lightning.|||||||
+talent_desc_holyShockAura|When active shock enemies around you with Lightning Damage.|||||||
+talent_desc_divineStorm|Perform a thunder enhanced AOE attack shocking enemies around you with Lightning Damage.|||||||
+talent_desc_fanaticismAura|When active, increases your and your party members Attack Speed.|||||||
+talent_desc_ballLightning|Turn into a ball of lightning traveling through the air to target location dealing AOE Damage to nearby enemies when landing.|||||||
+talent_desc_eyeOfTheStorm|Increases you Lightning Skill Damage.|||||||
+talent_desc_thorsFury|Increases your Attack Speed and all Attack and Skill Damage dealt for a short period.|||||||
+talent_desc_holyBolt|Cast a bolt of holy light dealing Magic Damage to enemies.|||||||
+talent_desc_divineWisdom|Increases your Mana Replenish.|||||||
+talent_desc_holyAura|When active, increases your and your party members Attack Damage and Skill Damage dealt.|||||||
+talent_desc_holyHammer|Summon a Holy Hammer that orbits around you dealing Magic Damage to enemies in its path.|||||||
+talent_desc_holyRetribution|Gain Mana after killing an enemy.|||||||
+talent_desc_lightsEmbrace|Increases your Casting Rate.|||||||
+talent_desc_fistOfTheHeavens|Call down a fist of divine energy exploding into multiple Holy Bolts dealing Magic Damage.|||||||
+talent_desc_holyNova|Cast a nova of holy light dealing Magic Damage to enemies and Healing allies.|||||||
+talent_desc_theVeneratedOne|Increases your Casting Rate and Mana Replenish for a short period.|||||||
+||||||||
+talent_name_noxiousStrike|Noxious Strike|||||||
+talent_name_causticSpearhead|Caustic Spearhead|||||||
+talent_name_leapingAmbush|Leaping Ambush|||||||
+talent_name_deathFromAbove|Death from Above|||||||
+talent_name_toxicRemains|Toxic Remains|||||||
+talent_name_masterPoisoner|Master Poisoner|||||||
+talent_name_jungleCamouflage|Jungle Camouflage|||||||
+talent_name_thrillOfTheHunt|Thrill of the Hunt|||||||
+talent_name_envenom|Envenom|||||||
+talent_name_astropesGift|Astrope's Gift|||||||
+talent_name_feint|Feint|||||||
+talent_name_rebound|Rebound|||||||
+talent_name_spearnage|Spearnage|||||||
+talent_name_stormDash|Storm Dash|||||||
+talent_name_thunderGoddessesChosen|Thunder Goddesses Chosen|||||||
+talent_name_chooserOfTheSlain|Chooser of the Slain|||||||
+talent_name_thunderFury|Thunder Fury|||||||
+talent_name_astropesBattleMaiden|Astrope's Battle Maiden|||||||
+||||||||
+talent_desc_noxiousStrike|Strike enemies with increased Damage and Poisoning them for a portion of the damage.|||||||
+talent_desc_causticSpearhead|Perform a piercing attack piercing enemies and dealing increased Damage and Poisoning them for a portion of the damage.|||||||
+talent_desc_leapingAmbush|Jump towards target location dealing Damage and Knocking Up enemies around you when landing.|||||||
+talent_desc_deathFromAbove|Call down a rain of falling spears on target location dealing Damage to enemies within the area.|||||||
+talent_desc_toxicRemains|Killing an enemy causes them to explode into toxic gas Poisoning enemies it touches.|||||||
+talent_desc_masterPoisoner|Increases your Poison Damage.|||||||
+talent_desc_jungleCamouflage|Gain increased Poison Skill Damage for a short period.|||||||
+talent_desc_thrillOfTheHunt|Increases your Movement Speed.|||||||
+talent_desc_envenom|Unleash toxic fissures on all enemies around you dealing Damage and Poisoning them.|||||||
+talent_desc_astropesGift|Perform a lightning enhanced attack with increased Damage and additive Lightning Damage.|||||||
+talent_desc_feint|Increases your chance to Dodge attacks.|||||||
+talent_desc_rebound|Your attacks rebound into the closest enemy of your target with increased Lightning Damage.|||||||
+talent_desc_spearnage|Furiously throw lightning enchanted spears towards target location.|||||||
+talent_desc_stormDash|Dash towards target location striking nearby enemies with Chain Lightning.|||||||
+talent_desc_thunderGoddessesChosen|Increases Lightning Skill Damage.|||||||
+talent_desc_chooserOfTheSlain|Replenish a portion of your Life and Mana after killing an enemy.|||||||
+talent_desc_thunderFury|Perform an attack that spreads Lightning into all enemies nearby the target.|||||||
+talent_desc_astropesBattleMaiden|Gain increased Lightning Skill Damage and Attack Speed for a short period.|||||||
+||||||||
+talent_name_triggerFinger|Trigger Finger|||||||
+talent_name_eagleEye|Eagle Eye|||||||
+talent_name_execute|Execute|||||||
+talent_name_bulletHell|Bullet Hell|||||||
+talent_name_shredderTrap|Shredder Trap|||||||
+talent_name_possessedBullet|Possessed Bullet|||||||
+talent_name_demonsPresence|Demon's Presence|||||||
+talent_name_concentrationAura|Concentration Aura|||||||
+talent_name_absoluteMayhem|Absolute Mayhem|||||||
+talent_name_fastSlices|Fast Slices|||||||
+talent_name_demonsCalling|Demon's Calling|||||||
+talent_name_heartAttack|Heart Attack|||||||
+talent_name_shadowAnomalies|Shadow Anomalies|||||||
+talent_name_soulLeech|Soul Leech|||||||
+talent_name_swordHandler|Sword Handler|||||||
+talent_name_demonsShield|Demon's Shield|||||||
+talent_name_sliceOfShadows|Slice of Shadows|||||||
+talent_name_demonForm|Demon Form|||||||
+||||||||
+talent_desc_triggerFinger|Rapidly fire your weapon multiple times with increased Attack Damage and Additive Fire Damage.|||||||
+talent_desc_eagleEye|Increases your Attack Damage and Critical Strike Damage when using Ranged Weapons.|||||||
+talent_desc_execute|Deal extra Attack Damage to enemies below 30% Life.|||||||
+talent_desc_bulletHell|Fire a barrage of bullets towards target direction dealing Damage.|||||||
+talent_desc_shredderTrap|Throw a Shredder on the ground spinning with deadly speed dealing Damage and Slowing enemies it comes in contact with.|||||||
+talent_desc_possessedBullet|Fire a satanic bullet possessed by darkness which explodes into multiple bullets on impact.|||||||
+talent_desc_demonsPresence|Increase your Attack Speed and all Damage dealt for a short period.|||||||
+talent_desc_concentrationAura|When active, increases your and your party members Attack Rating.|||||||
+talent_desc_absoluteMayhem|Harness the power of your inner demon and fire multiple massive bullets in a line dealing heavy Damage.|||||||
+talent_desc_fastSlices|Perform a series of dashing attacks dealing Damage and finally Stunning enemies around you on the final attack.|||||||
+talent_desc_demonsCalling|Become airborne and smash the ground dealing AOE Damage and stunning enemies around you.|||||||
+talent_desc_heartAttack|Increases your Critical Strike Damage and Chance for Critical Strikes.|||||||
+talent_desc_shadowAnomalies|Demon's Calling now spawns 5 Shadow Anomalies that perform Demon's Calling with increased Damage when re-casted.|||||||
+talent_desc_soulLeech|Leech Life out of enemies in target location dealing Damage and Healing you.|||||||
+talent_desc_swordHandler|Increases your Life Steal and Attack Rating when using Swords.|||||||
+talent_desc_demonsShield|Increases all Resistances.|||||||
+talent_desc_sliceOfShadows|Perform an attack that releases a wave of shadow dealing increased Damage.|||||||
+talent_desc_demonForm|Turn into a demon gaining increased Attack Damage and Attack Speed for a short period.|||||||
+||||||||
+talent_name_boneFragments|Bone Fragments|Luun Jäänteet|Fragmentos de Ossos|Фрагменты Костей|骨碎片|骨片|뼈 파편|Knochenfragmente
+talent_name_impale|Impale|Lävistys|Empalar|Прокол|穿刺|インパール（突き刺す）|찌르기|Pfahl
+talent_name_boneStorm|Bone Storm|Luumyrsky|Tempestade de Ossos|Костяной Вихрь|骨风暴|ボーンストーム|뼈 폭풍|Knochensturm
+talent_name_singleOut|Single Out|Eristetty|Destacar|Отбор|单出|シングルアウト|발탁하다|Herausgreifen
+talent_name_ossification|Ossification|Luutuminen|Ossificação|Окостенение|骨化|骨化|골화|Ossifikation
+talent_name_cartilageBuildUp|Cartilage Build Up|Rustoutuminen|Acumulação de cartilagem|Хрящ|软骨积聚|軟骨の蓄積|연골 형성|Knorpelaufbau
+talent_name_ominousPresence|Ominous Aura|||||||
+talent_name_spinalTap|Spinal Tap|Selkäydinpunktio|Punção lombar|Спинномозговая Пункция|脊椎丝锥|脊椎タップ|척추 탭|Wirbelsäulenhahn
+talent_name_boneBarrage|Bone Barrage|Luuryntäys|Barragem Óssea|Костяной Залп|骨弹幕|骨弾幕|뼈 사격|Knochensperre
+talent_name_gutSpread|Gut Spread|Suolilevitys|Propagação intestinal|Кольцо Крови|内脏传播|ガット・スプレッド（散らした内臓）|내장 뿌리기|Eingeweide-Aufstrich
+talent_name_bloodBolts|Blood Bolts|Veripallot|Raios de Sangue|Кровяные Стрелы|血栓|ブラッドボルト|혈액 볼트|Blutblitze
+talent_name_manaPoolAura|Manapool Aura|Mana-allas Aura|Aura da Piscina de Mana|Аура Прилив Маны|马纳浦光环|マナプールオーラ|마나 풀 아우라|Manavorrat Aura
+talent_name_bloodSurge|Blood Surge|Veriaalto|Surto de sangue|Прилив Крови|血之涌动|ブラッド・サージ（血の波動）|혈액 분출|Bluthochdruck
+talent_name_demonicPresence|Demonic Presence|Demoninen olemus|Presença demoníaca|Демоническое Присутствие|恶魔现身|デーモニック・プレゼンス（悪魔参列）|악마의 존재|Dämonische Präsenz
+talent_name_manaShield|Mana Shield|Manakilpi|Escudo de Mana|Щит Маны|能量盾|マナ・シールド|마나 방어막|Manaschild
+talent_name_manaDevour|Mana Devour|Mana nielaisu|Devorar Mana|Поглощение Маны|能量吞食|マナ食い|마나 흡수|Mana Verschlingung
+talent_name_bloodDemons|Blood Demons|Veridemonit|Demônios do sangue|Кровавые Демоны|血恶魔|ブラッド・デーモンズ（血の悪魔）|피의 악마들|Blutdämonen
+talent_name_bloodTendrils|Blood Tendrils|Verilonkerot|Gavinhas de sangue|Кровавые Щупальца|血卷须|血の触手|핏줄|Blutranken
+||||||||
+talent_desc_boneFragments|Cast fragments of bone towards target location dealing Magic Damage.|||||||
+talent_desc_impale|Smash the ground pushing spikes out dealing Magic Damage and Knocking enemies into air.|||||||
+talent_desc_boneStorm|Summon a storm of bone and cartilage that orbit around you dealing Magic Damage to enemies. Additional points add additional bones and cartilage.|||||||
+talent_desc_singleOut|Enemies that have no other enemies around them take increased Magic Damage.|||||||
+talent_desc_ossification|Increases your Defense.|||||||
+talent_desc_cartilageBuildUp|When damaged by cartilage and bone enemies are stacked up and at 10 stacks they explode spreading bone and cartilage around them. |||||||
+talent_desc_ominousPresence|When active, increases your and your party members Magic Skill Damage.|||||||
+talent_desc_spinalTap|Rip the spine out of your enemies dealing Magic Damage.|||||||
+talent_desc_boneBarrage|Unleash a barrage of bones in target direction dealing Magic Damage.|||||||
+talent_desc_gutSpread|Every 10th cast causes your intestines to boil and burst lumps of blood around you.|||||||
+talent_desc_bloodBolts|Release a bunch of bloody projectiles towards target location dealing Magic Damage.|||||||
+talent_desc_manaPoolAura|When active, increases your and your party members Mana Replenish.|||||||
+talent_desc_bloodSurge|Channel a massive surge of blood towards target direction dealing heavy Damage and Slowing enemies on its path.|||||||
+talent_desc_demonicPresence|Increases your Magic Skill damage.|||||||
+talent_desc_manaShield|When Active take a portion of incoming Damage as Mana.|||||||
+talent_desc_manaDevour|Instantly Replenish a portion of your Mana.|||||||
+talent_desc_bloodDemons|Every time you cast a spell summon a blood demon towards the closest enemy.|||||||
+talent_desc_bloodTendrils|Blood Surge now causes its target to release Blood Tendrils with increased Magic Damage.|||||||
+||||||||
+talent_name_tectonicBoulder|Tectonic Boulder|||||||
+talent_name_twisters|Twisters|||||||
+talent_name_rockFragments|Rock Fragments|||||||
+talent_name_earthBind|Earth Bind|||||||
+talent_name_tornado|Tornado|||||||
+talent_name_earthsGrace|Earth's Grace|||||||
+talent_name_meteorStorm|Meteor Storm|||||||
+talent_name_naturesProphet|Nature's Prophet|||||||
+talent_name_fissures|Fissures|||||||
+talent_name_earthTotem|Earth Totem|||||||
+talent_name_spiritualGuide|Spiritual Guide|||||||
+talent_name_stormTotem|Storm Totem|||||||
+talent_name_spiritWolves|Spirit Wolves|||||||
+talent_name_scentOfTheWolf|Scent of the Wolf|||||||
+talent_name_fireTotem|Fire Totem|||||||
+talent_name_fractalMind|Fractal Mind|||||||
+talent_name_astralIntellect|Astral Intellect|||||||
+talent_name_chaosTotem|Chaos Totem|||||||
+||||||||
+talent_desc_tectonicBoulder|Unleash a massive boulder traveling in target location dealing Magic Damage to enemies on its path.|||||||
+talent_desc_twisters|Summon small twisters towards target location dealing Magic Damage.|||||||
+talent_desc_rockFragments|Unleash rock fragments towards target location dealing Magic Damage.|||||||
+talent_desc_earthBind|Raise vines from the ground dealing Magic Damage over time and Rooting enemies in place.|||||||
+talent_desc_tornado|Summon a tornado traveling towards target direction dealing Magic Damage and Slowing enemies on impact.|||||||
+talent_desc_earthsGrace|Increases your Life and Mana.|||||||
+talent_desc_meteorStorm|Call down a meteor storm on target location dealing Magic Damage.|||||||
+talent_desc_naturesProphet|Increases your Magic Skill Damage.|||||||
+talent_desc_fissures|Smash the ground causing cracks that release fissures dealing Magic Damage.|||||||
+talent_desc_earthTotem|Summon a totem that fires flying rock fragments that explode on landing dealing Magic Damage.|||||||
+talent_desc_spiritualGuide|Increases your Mana and Mana Replenish.|||||||
+talent_desc_stormTotem|Summon a totem that releases Chain Lightning on nearby enemies dealing Lightning Damage.|||||||
+talent_desc_spiritWolves|Spawn a Spirit Wolf to fight on your side.|||||||
+talent_desc_scentOfTheWolf|Increases Spirit Wolves Damage and Life.|||||||
+talent_desc_fireTotem|Spawn a totem that casts piercing Fire Projectiles dealing Fire Damage.|||||||
+talent_desc_fractalMind|Increases your Movement Speed and Skill Damage.|||||||
+talent_desc_astralIntellect|Increases your Mana and the Attack Range of all totems.|||||||
+talent_desc_chaosTotem|Summon a totem that rapidly shoots Piercing Chaos Bolts dealing Magic Damage.|||||||
+||||||||
+talent_name_satansMark|Satan’s Mark|||||||
+talent_name_restlessSpirits|Restless Spirits|||||||
+talent_name_digestSouls|Digest Souls|||||||
+talent_name_shadowBolt|Shadow Bolt|||||||
+talent_name_soulSpurn|Soul Spurn|||||||
+talent_name_martyr|Martyr|||||||
+talent_name_darkOath|Dark Oath|||||||
+talent_name_malediction|Malediction|||||||
+talent_name_blackMass|Black Mass|||||||
+talent_name_heavenlyFire|Heavenly Fire|||||||
+talent_name_burstOfLight|Burst of Light|||||||
+talent_name_flashHeal|Flash Heal|||||||
+talent_name_benediction|Benediction|||||||
+talent_name_divineHealing|Divine Healing|||||||
+talent_name_chainOfHolyLight|Chain of Holy Light|||||||
+talent_name_holyShield|Holy Shield|||||||
+talent_name_healingZone|Healing Zone|||||||
+talent_name_manaOrb|Mana Orb|||||||
+||||||||
+talent_desc_satansMark|Mark the enemies on target area for Satan causing them to pulse unholy energy when being struck with Magic Damage.|||||||
+talent_desc_restlessSpirits|Unleash Restless Spirits from an unholy dimension to seek new hosts inflicting Magic Damage to the target. Additional points increase the amount of spirits.|||||||
+talent_desc_digestSouls|By sacrificing your victims to the Devil gain increased Mana Replenish after each kill.|||||||
+talent_desc_shadowBolt|Gather your inner darkness and unleash a powerful Piercing Shadow Bolt inflicting Magic Damage to enemies on its path.|||||||
+talent_desc_soulSpurn|Rip the souls from nearest enemies dealing Magic Damage Replenishing your Life and Mana.|||||||
+talent_desc_martyr|Sacrifice your own blood when taking Damage from any source increasing your Life and Mana Replenish for a short period.|||||||
+talent_desc_darkOath|Unleash a wave of unholy energy around you inflicting Magic Damage to nearby enemies.|||||||
+talent_desc_malediction|Your unholy essence drives birds into insanity sending Crows towards random nearby enemies combusting into Magic Damage on impact.|||||||
+talent_desc_blackMass|Summon all the coven's cultists to march in the name of Satan inflicting heavy Magic Damage to enemies on their path.|||||||
+talent_desc_heavenlyFire|Light target location into holy flames dealing Magic Damage.|||||||
+talent_desc_burstOfLight|Cast divine light in target direction dealing Magic Damage.|||||||
+talent_desc_flashHeal|Heal your self and any nearby ally.|||||||
+talent_desc_benediction|Healing your self smites enemies around you with holy light.|||||||
+talent_desc_divineHealing|Using Flash Heal increases Life Replenish for a short period.|||||||
+talent_desc_chainOfHolyLight|Cast a holy light jumping from enemy to enemy dealing Magic Damage.|||||||
+talent_desc_holyShield|By the power of God bless your self and any nearby allies with immortality for a short period.|||||||
+talent_desc_healingZone|Bless the target area with divine energy Healing players and dealing Magic Damage to enemies.|||||||
+talent_desc_manaOrb|Summon a pulsating orb of mana that Replenishes Mana for players and deals Magic Damage to enemies.|||||||
+||||||||
+talent_name_heavyBall|Heavy Ball|||||||
+talent_name_bouncingGrenade|Bouncing Grenade|||||||
+talent_name_unstableBomb|Unstable Bomb|||||||
+talent_name_theBigBoom|The Big Bo-oM|||||||
+talent_name_wreckingBall|Wrecking Ball|||||||
+talent_name_crazyGrapple|Crazy Grapple|||||||
+talent_name_flailMastery|Flail Mastery|||||||
+talent_name_bombardment|Bombardment|||||||
+talent_name_forceOverwhelming|Force Overwhelming|||||||
+talent_name_serratedChains|Serrated Chains|||||||
+talent_name_retiariusNet|Retiarius Net|||||||
+talent_name_chainTrap|Chain Trap|||||||
+talent_name_titaniumChains|Titanium Chains|||||||
+talent_name_masterTrapMaker|Master Trap Maker|||||||
+talent_name_rendFlesh|Rend Flesh|||||||
+talent_name_madnessControl|Madness Control|||||||
+talent_name_resilientGladiator|Resilient Gladiator|||||||
+talent_name_annihilation|Annihilation|||||||
+||||||||
+talent_desc_heavyBall|Flail a big chained Spike Ball dealing Damage to enemies on its path.|||||||
+talent_desc_bouncingGrenade|Throw a Grenade that bounces and explodes on impact dealing AOE Damage.|||||||
+talent_desc_unstableBomb|All bombs scatter small bombs around when exploding.|||||||
+talent_desc_theBigBoom|Throw a huge bomb scattering into shrapnell on impact dealing heavy AOE damage.|||||||
+talent_desc_wreckingBall|Increases the Damage and Size of Heavy Ball.|||||||
+talent_desc_crazyGrapple|Throw a massive spike ball into target location dealing AOE Damage and dragging your self towards it through the air.|||||||
+talent_desc_flailMastery|Increase Attack Speed and Attack Damage when using Mace weapons.|||||||
+talent_desc_bombardment|Rapidly throw a barrage of small bombs in target direction dealing AOE Damage.|||||||
+talent_desc_forceOverwhelming|Gain increased Attack Damage, Attack Rating and Attack Speed for a short period.|||||||
+talent_desc_serratedChains|Perform an AOE attack with increased Attack Rating and Damage attaching Chains to the enemy.|||||||
+talent_desc_retiariusNet|Throw a retiarius net into the target location dealing Damage and Rooting enemies on the area.|||||||
+talent_desc_chainTrap|Throw a Chain Trap into the target location dealing Damage and Hooking nearby enemies.|||||||
+talent_desc_titaniumChains|Enemies affected by Chains Explode upon death.|||||||
+talent_desc_masterTrapMaker|Increases the Damage and amount of enemies hooked by Chain Trap.|||||||
+talent_desc_rendFlesh|Perform an AOE attack that causes the target to Bleed.|||||||
+talent_desc_madnessControl|Hook all enemies towards you and drop a huge bomb from the sky into your position.|||||||
+talent_desc_resilientGladiator|Gain Damage Reduction and Life.|||||||
+talent_desc_annihilation|Violently rip all Chains out of enemies dealing heavy AOE Damage.|||||||
+||||||||
+talent_name_surgicalBloodLetting|Surgical Blood Letting|||||||
+talent_name_malpractice|Malpractice|||||||
+talent_name_crowMasksPresence|Crow Mask's Presence|||||||
+talent_name_bloodSustenance|Blood Sustenance|||||||
+talent_name_miasma|Miasma|||||||
+talent_name_boosterShot|Booster Shot|||||||
+talent_name_lifeBloodAura|Lifeblood Aura|||||||
+talent_name_devoutDoctor|Devout Doctor|||||||
+talent_name_defunctSurgeon|Defunct Surgeon|||||||
+talent_name_plagueOfRats|Plague of Rats|||||||
+talent_name_toxicFlask|Toxic Flask|||||||
+talent_name_crematus|Crematus|||||||
+talent_name_oops|Oops|||||||
+talent_name_chantOfWeakness|Chant of Weakness|||||||
+talent_name_explodingMice|Exploding Mice|||||||
+talent_name_jarOfLeeches|Jar of Leeches|||||||
+talent_name_plagueMaster|Plague Master|||||||
+talent_name_randyTheRancidRat|Randy the Rancid Rat|||||||
+||||||||
+talent_desc_surgicalBloodLetting|Throw a surgical knife with razor sharp accuracy that bounces from enemy to enemy dealing Physical Damage.|||||||
+talent_desc_malpractice|Increases the force of Surgical Blood Letting causing targets to Bleed.|||||||
+talent_desc_crowMasksPresence|Increases Life and All Resistances.|||||||
+talent_desc_bloodSustenance|Gain increased Life Steal from Bleeding targets.|||||||
+talent_desc_miasma|Empower your attack with a mixture of chemicals causing the enemy to release a toxic cloud that lowers enemy Attack Rating and deals Magic Damage.|||||||
+talent_desc_boosterShot|Inject your self with a mRNA gene altering shot increasing your Skill Damage and Movement Speed for a short period.|||||||
+talent_desc_lifeBloodAura|When active, increases your and your party members Life and Life Replenish.|||||||
+talent_desc_devoutDoctor|Gain increased Attack Damage based on your Life.|||||||
+talent_desc_defunctSurgeon|Gain increased Attack Speed and Life Steal for a short period. When Active lose a portion of your maximum Life per second (Non-Fatal).|||||||
+talent_desc_plagueOfRats|Send plague rats in target direction dealing Poison Damage on impact.|||||||
+talent_desc_toxicFlask|Throw a toxic flask in target location dealing Poison Damage.|||||||
+talent_desc_crematus|Unleash a breath of toxic flames towards target location dealing Poison Damage.|||||||
+talent_desc_oops|Toxic Flask also leaves a pool of poisonous substance on the ground dealing Poison Damage, Plaguing and Slowing enemies.|||||||
+talent_desc_chantOfWeakness|Causes Plagued targets to take increased Poison Damage.|||||||
+talent_desc_explodingMice|Plague Rats explode on impact causing heavy AOE Poison Damage.|||||||
+talent_desc_jarOfLeeches|Throw a glass jar into target location releasing leeches dealing Poison Damage and infecting them with the Plague on impact.|||||||
+talent_desc_plagueMaster|Cause all Plagued targets on target location to spread the Plague and Damage enemies around them.|||||||
+talent_desc_randyTheRancidRat|Summon Randy the Rancid Rat dealing Poison Damage and inflicting Plague when attacking enemies.|||||||
+||||||||
+talent_name_gloriousStrike|Glorious Strike|||||||
+talent_name_commendingBanner|Commending Banner|||||||
+talent_name_battleCharge|Battle Charge|||||||
+talent_name_lanceThrust|Lance Thrust|||||||
+talent_name_parry|Parry|||||||
+talent_name_armorCrush|Armor Crush|||||||
+talent_name_crushingLance|Crushing Lance|||||||
+talent_name_lanceThrow|Lance Throw|||||||
+talent_name_glory|Glory|||||||
+talent_name_shieldSlam|Shield Slam|||||||
+talent_name_taunt|Taunt|||||||
+talent_name_counter|Counter|||||||
+talent_name_knightsResilience|Knight's Resilience|||||||
+talent_name_damageReflect|Damage Reflect|||||||
+talent_name_honedDefenses|Honed Defenses|||||||
+talent_name_shieldWall|Shield Wall|||||||
+talent_name_spikedShields|Spiked Shields|||||||
+talent_name_lastStand|Last Stand|||||||
+||||||||
+talent_desc_gloriousStrike|Perform a powerful attack with increased Damage and Attack Rating.|||||||
+talent_desc_commendingBanner|Place a commending banner on the target location increasing nearby players Attack Speed and Attack Rating.|||||||
+talent_desc_battleCharge|Charge towards target location Stunning and dealing Damage to enemies on impact.|||||||
+talent_desc_lanceThrust|Perform a long ranged lance attack that Pierces enemies in a line dealing Physical Damage. If the lance comes in contact with a Commending Banner you get dragged to the banner Stunning enemies around you.|||||||
+talent_desc_parry|Gives you a Chance to Parry incoming attacks.|||||||
+talent_desc_armorCrush|Battle Charge breaks enemy Defense and lowers their Attack Rating.|||||||
+talent_desc_crushingLance|Call a crushing lance down from the sky smashing the target location dealing AOE Damage and Stunning enemies.|||||||
+talent_desc_lanceThrow|When Casting also throw a Lance at the closest enemy.|||||||
+talent_desc_glory|Gain increased Attack Damage and Skill Damage for a short period.|||||||
+talent_desc_shieldSlam|Perform an attack with your Shield dealing Damage according to your shield's Defense Rating.|||||||
+talent_desc_taunt|Taunt enemies to attack you. Additional points increase the duration and enemy amount.|||||||
+talent_desc_counter|When Active all enemy attacks get countered with thrusting lances for a short period.|||||||
+talent_desc_knightsResilience|Increases your Life and All Resistances.|||||||
+talent_desc_damageReflect|Increases your Damage Return.|||||||
+talent_desc_honedDefenses|Every time you get hit by an enemy attack gain Stacks. At maximum Stacks unleash a huge AOE pulse dealing Damage to enemies around you. Can also be casted to consume the Stacks.       |||||||
+talent_desc_shieldWall|Cast a wall of shields around you blocking enemy projectiles.|||||||
+talent_desc_spikedShields|Shield Wall is enhanced with spikes dealing Damage to enemies on impact.|||||||
+talent_desc_lastStand|Replenish full Life and gain increased Skill Damage and Damage Reduction for short period.|||||||
+||||||||
+talent_name_sandGuardian|Sand Guardians|||||||
+talent_name_callForWar|Call For War|||||||
+talent_name_circleOfGuardians|Circle of Guardians|||||||
+talent_name_piercingSand|Piercing Sand|||||||
+talent_name_linkOfSand|Link of Sand|||||||
+talent_name_dissipation|Dissipation|||||||
+talent_name_spiritLink|Spirit Link|||||||
+talent_name_cheapShot|Cheapshot|||||||
+talent_name_combatOrder|Combat Order|||||||
+talent_name_ageProliferation|Age Proliferation|||||||
+talent_name_gravitationalSlam|Gravitation Slam|||||||
+talent_name_splitReality|Split Reality|||||||
+talent_name_sandsOfTime|Sands of Time|||||||
+talent_name_timeDeceleration|Time Deceleration|||||||
+talent_name_dimensionalDisplacement|Dimensional Displacement|||||||
+talent_name_precognition|Precognition|||||||
+talent_name_expansiveMind|Expansive Mind|||||||
+talent_name_temporalHeroes|Temporal Heroes|||||||
+||||||||
+talent_desc_sandGuardian|Summon a Sand Guardian that attacks nearby enemies dealing Magic Damage.|||||||
+talent_desc_callForWar|Send a cloud of sand towards target location dealing Magic Damage on impact and forcing all Sand Guardians to charge towards the area.|||||||
+talent_desc_circleOfGuardians|Summon a circle of Sand Guardians around you increasing Sand Guardian Damage.|||||||
+talent_desc_piercingSand|Sand Guardians Break enemy Magic Resistance on attack.|||||||
+talent_desc_linkOfSand|Pull your self into the closest Sand Guardian in the target location empowering all nearby Sand Guardians Damage for a short period.|||||||
+talent_desc_dissipation|Sand Guardians explode upon expiration dealing AOE Magic Damage.|||||||
+talent_desc_spiritLink|Link of Sand now increases your Magic Skill Damage and Damage Reduction for a short period.|||||||
+talent_desc_cheapShot|Order Sand Guardians to deal a deadly attack with increased Magic Damage and Stunning their target.|||||||
+talent_desc_combatOrder|Order Sand Guardians to perform a deadly AOE attack dealing heavy Damage.|||||||
+talent_desc_ageProliferation|Channel waves of fractal energy on the target enemy sending pulses out Slowing and dealing Magic Damage to nearby enemies.|||||||
+talent_desc_gravitationalSlam|Raise enemies in target location into the air smashing them down with quantum force dealing Magic Damage.|||||||
+talent_desc_splitReality|Detach from your quantum self leaving your fractal self behind that Taunts nearby enemies and explodes after a short period.|||||||
+talent_desc_sandsOfTime|Increase Magic Skill Damage and Cast Rate for a short period.|||||||
+talent_desc_timeDeceleration|Break time and space causing all nearby enemies to be Slowed and take Magic Damage.|||||||
+talent_desc_dimensionalDisplacement|Warp a short distance towards target location gaining Movement Speed for a short period.|||||||
+talent_desc_precognition|Increase Magic Skill Damage dealt.|||||||
+talent_desc_expansiveMind|Increase Mana and Mana Replenish.|||||||
+talent_desc_temporalHeroes|Summon a fractal Viking, Pyromancer and Marksman to fight on your side.|||||||
+||||||||
+talent_name_frozenBoulder|Frozen Boulder|||||||
+talent_name_breathOfIce|Breath of Ice|||||||
+talent_name_powerOfTheAncients|Power of the Ancients|||||||
+talent_name_orbOfFrost|Orb of Frost|||||||
+talent_name_frozenHide|Frozen Hide|||||||
+talent_name_icicles|Icicles|||||||
+talent_name_portalOfIce|Portal of Ice|||||||
+talent_name_avatarOfFrost|Avatar of Frost|||||||
+talent_name_blizzard|Blizzard|||||||
+talent_name_glacialTremors|Glacial Tremors|||||||
+talent_name_flashFreeze|Flash Freeze|||||||
+talent_name_freezingLeap|Freezing Leap|||||||
+talent_name_permaFrost|Permafrost|||||||
+talent_name_glacialArmor|Glacial Armor|||||||
+talent_name_sweepFreeze|Sweep Freeze|||||||
+talent_name_avalanche|Avalanche|||||||
+talent_name_absoluteZero|Absolute Zero|||||||
+talent_name_theEmbodimentOfAurgelmir|The Embodiment of Aurgelmir|||||||
+||||||||
+talent_desc_frozenBoulder|Throw a huge Frozen Boulder dealing Cold Damage to enemies on its path.|||||||
+talent_desc_breathOfIce|Breathe freezing air into target location Freezing and dealing Cold Damage to enemies.|||||||
+talent_desc_powerOfTheAncients|Gain additional Cold Skill Damage for every 100 points of Mana.|||||||
+talent_desc_orbOfFrost|Cast a frozen orb traveling in target direction releasing Icicles Freezing and dealing Cold Damage to enemies on its path.|||||||
+talent_desc_frozenHide|Cast a frost enhanced shield on your self reducing incoming Damage, Freezing and dealing Cold Damage to enemies that attack you.|||||||
+talent_desc_icicles|Every time you cast a spell also release an Icicle dealing Cold Damage.|||||||
+talent_desc_portalOfIce|Teleport a short distance releasing a Frost Nova on target location.|||||||
+talent_desc_avatarOfFrost|Increase your Cold Skill Damage.|||||||
+talent_desc_blizzard|Cast a freezing Blizzard into the target location dealing Cold Damage and Freezing enemies.|||||||
+talent_desc_glacialTremors|Every 7th attack unleashes an AOE blast dealing Cold Damage.|||||||
+talent_desc_flashFreeze|Perform an attack enhanced with ice dealing additional Cold Damage.|||||||
+talent_desc_freezingLeap|Leap through the air into target location Freezing and dealing Cold Damage to enemies when landing.|||||||
+talent_desc_permaFrost|Flash Freeze and Sweep Freeze deal additional Cold Damage and stacks Permafrost on enemies eventually Deep Freezing them.|||||||
+talent_desc_glacialArmor|Increases All Resistances.|||||||
+talent_desc_sweepFreeze|Perform an AOE attack dealing Cold Damage.|||||||
+talent_desc_avalanche|Release a bellowing shout dealing Cold Damage based on your Maximum Life to all enemies around you.|||||||
+talent_desc_absoluteZero|Break enemy Cold Resistance on attack.|||||||
+talent_desc_theEmbodimentOfAurgelmir|Summon the power of Aurgelmir and turn into a war machine of the frozen tundra increasing your Cold Skill Damage, Attack Speed and Life Replenish for a short period.|||||||
+||||||||
+talent_name_mercenaryMeleeWarriorsMight|Warrior's Might|||||||
+talent_name_mercenaryMeleeDefenses|Defenses|||||||
+talent_name_mercenaryMeleeChargeStrike|Charge Strike|||||||
+talent_name_mercenaryMeleeFatalStrike|Fatal Strike|||||||
+talent_name_mercenaryMeleeSpikedArmor|Spiked Armor|||||||
+talent_name_mercenaryMeleeTaunt|Taunt|||||||
+talent_name_mercenaryMeleeStackedRage|Stacked Rage|||||||
+talent_name_mercenaryMeleeSwordGrip|Sword Grip|||||||
+talent_name_mercenaryMeleePlatedArmor|Plated Armor|||||||
+talent_name_mercenaryMeleeStackedPain|Stacked Pain|||||||
+talent_name_mercenaryMeleeHulkingRage|Hulking Rage|||||||
+talent_name_mercenaryMeleeAuraExpert|Aura Expert|||||||
+talent_name_mercenaryMeleeEvasiveTactics|Evasive Tactics|||||||
+talent_name_mercenaryMeleeCommandersHeart|Commander's Heart|||||||
+talent_name_mercenaryMeleeBlessedStrike|Blessed Strike|||||||
+talent_name_mercenaryMeleeBrutalBash|Brutal Bash|||||||
+talent_name_mercenaryMeleeBacklash|Backlash|||||||
+talent_name_mercenaryMeleeProtectingCharge|Protecting Charge|||||||
+||||||||
+talent_desc_mercenaryMeleeWarriorsMight|Increases the Mercenarys Strength.|||||||
+talent_desc_mercenaryMeleeDefenses|Increases the Mercenarys Armor.|||||||
+talent_desc_mercenaryMeleeChargeStrike|The Mercenary charges into the closest enemy stunning and damaging all enemies around.|||||||
+talent_desc_mercenaryMeleeFatalStrike|Increases the Mercenarys critical attack damage.|||||||
+talent_desc_mercenaryMeleeSpikedArmor|Increases damage return from enemy attacks.|||||||
+talent_desc_mercenaryMeleeTaunt|The Mercenary taunts nearby enemies.|||||||
+talent_desc_mercenaryMeleeStackedRage|Each attack on an enemy generates a stack of rage. When fully stacked the Mercenary releases a powerful AOE attack that deals damage and breaks enemy armor.|||||||
+talent_desc_mercenaryMeleeSwordGrip|Increases damage done by melee attacks.|||||||
+talent_desc_mercenaryMeleePlatedArmor|Increases damage reduction from all sources.|||||||
+talent_desc_mercenaryMeleeStackedPain|Incoming attacks generated stacks of pain. Once fully stacked, release a powerful AOE pulse that damages, knocks back and slows enemies.|||||||
+talent_desc_mercenaryMeleeHulkingRage|Increases life per hit from melee attacks.|||||||
+talent_desc_mercenaryMeleeAuraExpert|Increases the value of Mercenarys aura.|||||||
+talent_desc_mercenaryMeleeEvasiveTactics|Increases the Mercenarys Dodge chance.|||||||
+talent_desc_mercenaryMeleeCommandersHeart|Increases health regeneration the less health the Mercenary has.|||||||
+talent_desc_mercenaryMeleeBlessedStrike|The Mercenary unleashes a powerful long ranged attack.|||||||
+talent_desc_mercenaryMeleeBrutalBash|The Mercenary has a chance on attack to deal additional damage, knock back enemies and slow them.|||||||
+talent_desc_mercenaryMeleeBacklash|Enemies have a chance to get stunned when attacking the Mercenary.|||||||
+talent_desc_mercenaryMeleeProtectingCharge|The Mercenary detects enemies who attack the player, charging into them and taunting all enemies nearby.|||||||
+||||||||
+talent_name_mercenaryRangedTriggerPower|Trigger Power|||||||
+talent_name_mercenaryRangedRapidfire|Rapidfire|||||||
+talent_name_mercenaryRangedPowershot|Powershot|||||||
+talent_name_mercenaryRangedRavensClaw|Raven's Claw|||||||
+talent_name_mercenaryRangedSpreadshot|Spreadshot|||||||
+talent_name_mercenaryRangedHeatseekingMissile|Heatseeking Missile|||||||
+talent_name_mercenaryRangedExplosiveShot|Explosive Shot|||||||
+talent_name_mercenaryRangedHawkEye|Hawk Eye|||||||
+talent_name_mercenaryRangedPiercingshot|Piercingshot|||||||
+talent_name_mercenaryRangedAbilityExpert|Ability Expert|||||||
+talent_name_mercenaryRangedSoulFunnel|Soul Funnel|||||||
+talent_name_mercenaryRangedAuraExpert|Aura Expert|||||||
+talent_name_mercenaryRangedShatterArmor|Shatter Armor|||||||
+talent_name_mercenaryRangedQuickslugs|Quickslugs|||||||
+talent_name_mercenaryRangedArtilleryCommand|Artillery Command|||||||
+talent_name_mercenaryRangedBrainfreeze|Brainfreeze|||||||
+talent_name_mercenaryRangedBurstofAgility|Burst of Agility|||||||
+talent_name_mercenaryRangedHuntersTrap|Hunter's Trap|||||||
+||||||||
+talent_desc_mercenaryRangedTriggerPower|Increases the Mercenarys Strength.|||||||
+talent_desc_mercenaryRangedRapidfire|Increases the Mercenarys Attack Speed.|||||||
+talent_desc_mercenaryRangedPowershot|The Mercenary shoots a powerful piercing shot that stuns enemies on impact.|||||||
+talent_desc_mercenaryRangedRavensClaw|Increases the Mercenarys Critical Attack Damage and Critical Rate.|||||||
+talent_desc_mercenaryRangedSpreadshot|The Mercenary has a chance on attack to shoot multiple projectiles with increased damage.|||||||
+talent_desc_mercenaryRangedHeatseekingMissile|The Mercenary launches a barrage of Heat Seeking Missiles.|||||||
+talent_desc_mercenaryRangedExplosiveShot|Each attack on an enemy stacks up. When fully stacked the Mercenary shoots a projectile that explodes on collision.|||||||
+talent_desc_mercenaryRangedHawkEye|Increases the Mercenarys Attack Power.|||||||
+talent_desc_mercenaryRangedPiercingshot|The Mercenary has a chance on attack to shoot a piercing projectile with increased damage.|||||||
+talent_desc_mercenaryRangedAbilityExpert|Increases the Mercenarys Ability Power.|||||||
+talent_desc_mercenaryRangedSoulFunnel|Increases the Mercenarys and Players life per hit.|||||||
+talent_desc_mercenaryRangedAuraExpert|Increases the value of Mercenarys aura.|||||||
+talent_desc_mercenaryRangedShatterArmor|The Mercenary has a chance on attack to break enemy resistances.|||||||
+talent_desc_mercenaryRangedQuickslugs|The Mercenary has a chance on attack to perform a burstshot.|||||||
+talent_desc_mercenaryRangedArtilleryCommand|The Mercenary drops a huge bomb into the nearest enemy which scatters arrows around when hitting the ground.|||||||
+talent_desc_mercenaryRangedBrainfreeze|The Mercenary has a chance on attack to deal AOE damage and confuse all enemies impacted.|||||||
+talent_desc_mercenaryRangedBurstofAgility|The Mercenary has a chance on attack to give the Player and Mercenary an Attack Speed boost.|||||||
+talent_desc_mercenaryRangedHuntersTrap|The Mercenary throws a trap that hooks nearby enemies in damaging and stunning them.|||||||
+||||||||
+talent_name_mercenarySpellElementalIntellect|Elemental Intellect|||||||
+talent_name_mercenarySpellTomeofPower|Tome of Power|||||||
+talent_name_mercenarySpellArcaneBlast|Arcane Blast|||||||
+talent_name_mercenarySpellArcaneFire|Arcane Fire|||||||
+talent_name_mercenarySpellReplenishingTouch|Replenishing Touch|||||||
+talent_name_mercenarySpellMagicChain|Magic Chain|||||||
+talent_name_mercenarySpellArcanesBlessing|Arcane's Blessing|||||||
+talent_name_mercenarySpellCosmicBolt|Cosmic Bolt|||||||
+talent_name_mercenarySpellArcaneMeteor|Arcane Meteor|||||||
+talent_name_mercenarySpellManaflux|Manaflux|||||||
+talent_name_mercenarySpellSpellburn|Spellburn|||||||
+talent_name_mercenarySpellAuraExpert|Aura Expert|||||||
+talent_name_mercenarySpellReptilianBrain|Reptilian Brain|||||||
+talent_name_mercenarySpellArcaneNova|Arcane Nova|||||||
+talent_name_mercenarySpellArcaneLink|Arcane Link|||||||
+talent_name_mercenarySpellArcaneBarrage|Arcane Barrage|||||||
+talent_name_mercenarySpellWordofProtection|Word of Protection|||||||
+talent_name_mercenarySpellArcaneApocalypse|Arcane Apocalypse|||||||
+||||||||
+talent_desc_mercenarySpellElementalIntellect|Increases the Mercenarys Elemental Damage.|||||||
+talent_desc_mercenarySpellTomeofPower|Increases the Mercenarys Ability Power.|||||||
+talent_desc_mercenarySpellArcaneBlast|The Mercenary blasts the nearest enemy with a powerful Arcane Blast.|||||||
+talent_desc_mercenarySpellArcaneFire|The Mercenary has a chance on attack to scorch the ground beneath the target.|||||||
+talent_desc_mercenarySpellReplenishingTouch|The Mercenary has a chance on attack to regenerate mana for the Player.|||||||
+talent_desc_mercenarySpellMagicChain|The Mercenary casts a chain of Arcane that bounces from enemy to enemy dealing damage and lowering their magic resistance.|||||||
+talent_desc_mercenarySpellArcanesBlessing|The Mercenary has a chance on attack to buff Player and Mercenary Ability Power.|||||||
+talent_desc_mercenarySpellCosmicBolt|Taking damage stacks up. Once fully stacked the Mercenary casts a Cosmic Bolt towards the nearest enemy.|||||||
+talent_desc_mercenarySpellArcaneMeteor|The Mercenary has a chance on attack to cast an Arcane Meteor down from the sky damaging enemies it impacts.|||||||
+talent_desc_mercenarySpellManaflux|Increases Player maximum mana.|||||||
+talent_desc_mercenarySpellSpellburn|The Mercenary has a chance on attack to burn and slow enemies.|||||||
+talent_desc_mercenarySpellAuraExpert|Increases the value of Mercenarys aura.|||||||
+talent_desc_mercenarySpellReptilianBrain|The Mercenary gains cooldown reduction.|||||||
+talent_desc_mercenarySpellArcaneNova|The Mercenary has a chance on attack to unleash an Arcane Nova dealing damage to enemies.|||||||
+talent_desc_mercenarySpellArcaneLink|The Mercenary creates an Arcane Link between the Mercenary and the Player dealing damage to enemies it collides with.|||||||
+talent_desc_mercenarySpellArcaneBarrage|The Mercenary has a chance on attack to unleash a barrage of arcane bolts.|||||||
+talent_desc_mercenarySpellWordofProtection|The Mercenary has a chance on attack to shield the player for a portion of maximum health.|||||||
+talent_desc_mercenarySpellArcaneApocalypse|The Mercenary blasts all nearby enemies with arcane explosions dealing damage and slowing them.|||||||
+||||||||
+talent_name_holyFreezeAura|Holy Freeze Aura|||||||
+talent_name_thornsAura|Thorn’s Aura|||||||
+talent_name_defianceAura|Defiance Aura|||||||
+talent_name_redemptionAura|Redemption Aura|||||||
+talent_name_teleport|Teleport|||||||
+talent_name_eyeOfTarethiel|Eye of Tarethiel|||||||
+talent_name_grimBones|Grim Bones|||||||
+talent_name_odinsDemise|Odin’s Demise|||||||
+talent_name_faultLine|Fault Line|||||||
+talent_name_gabrielsGlory|Gabriel’s Glory|||||||
+talent_name_steve|Steve’s Itchy Sack|||||||
+talent_name_shrapnelShells|Shrapnel Shells|||||||
+talent_name_frozenCanisterRounds|Frozen Canister Rounds|||||||
+talent_name_overwhelmingPower|Overwhelming Power|||||||
+talent_name_faceBreakers|Face Breakers|||||||
+talent_name_shadowWeave|Shadow Weave|||||||
+talent_name_shitaMorphosis|Shitamorphosis|||||||
+talent_name_angelicVibrance|Angel’s Vibrance Aura|||||||
+||||||||
+talent_desc_holyFreezeAura||||||||
+talent_desc_thornsAura||||||||
+talent_desc_defianceAura||||||||
+talent_desc_redemptionAura||||||||
+talent_desc_teleport||||||||
+talent_desc_eyeOfTarethiel||||||||
+talent_desc_grimBones||||||||
+talent_desc_odinsDemise||||||||
+talent_desc_faultLine||||||||
+talent_desc_gabrielsGlory||||||||
+talent_desc_steve||||||||
+talent_desc_shrapnelShells||||||||
+talent_desc_frozenCanisterRounds||||||||
+talent_desc_overwhelmingPower||||||||
+talent_desc_faceBreakers||||||||
+talent_desc_shadowWeave||||||||
+talent_desc_shitaMorphosis||||||||
+talent_desc_angelicVibrance||||||||
+||||||||
+[Relic Talents]||||||||
+talent_name_relicRubberDuck|Duck Throw|||||||
+talent_name_relicApple|Apple Blast|||||||
+talent_name_relicAaronsStaff|Healing Touch|||||||
+talent_name_relicBookOfBelial|Satanic Chant|||||||
+talent_name_relicSwordOfBlood|Flying Scythe|||||||
+talent_name_relicRainbow|Rainbow Drool|||||||
+talent_name_relicFlySwatter|Memes|||||||
+talent_name_relicAngelStaff|Arch Angel’s Fury|||||||
+talent_name_relicRocketBarrage|Barrage of Rockets|||||||
+talent_name_relicShiv|Flying Shivs|||||||
+talent_name_relicStickmanSteve|Call of Steve|||||||
+talent_name_relicBomb|Regular Bomb|||||||
+talent_name_relicMeatHook|Meat Hook|||||||
+talent_name_relicCandyCrusher|Candy Crush|||||||
+talent_name_relicNinjaHook|Ninja Hooks|||||||
+talent_name_relicShadeOfDeath|Shadow Strike|||||||
+talent_name_relicDislocatedEye|Crippling Cold|||||||
+talent_name_relicOrbOfFire|Hydra’s Calling|||||||
+talent_name_relicOrbOfIce|Frost Orb’s Calling|||||||
+talent_name_relicOrbOfPoison|Toxic Nova’s Calling|||||||
+talent_name_relicOrbOfChaos|Calling of Chaos|||||||
+talent_name_relicBouncy|Bouncing Spikeball|||||||
+talent_name_relicBalalayka|Classic Tunes|||||||
+talent_name_relicDarts|Flying Darts|||||||
+talent_name_relicSatansHorn|Satanic Groundsmash|||||||
+talent_name_relicJarOfFlies|Nasty Flies|||||||
+talent_name_relicSatansTooth|Molten Toothache|||||||
+talent_name_relicBoomerang|Australian Sport|||||||
+talent_name_relicSquishy|Suicidal Pig|||||||
+talent_name_relicLightCola|Boost of Energy|||||||
+talent_name_relic1000kg|Heavy Weight|||||||
+talent_name_relicKeyGen|Bluescreen of Death|||||||
+talent_name_relicDragonsHead|Molten Breath|||||||
+talent_name_relicCasinoDice|Lucky Dice|||||||
+talent_name_relicVajdra|Stormy Javelin|||||||
+talent_name_relicMaryosPipe|Pipe Diver|||||||
+talent_name_relicRottenApple|Mass Hex|||||||
+talent_name_relicDeliciousPie|So Good|||||||
+talent_name_relicWizardsHat|Manalicious|||||||
+talent_name_relicLootarang|Sticky Boomerang|||||||
+talent_name_relicPropHunt|Prop Hunting|||||||
+talent_name_relicDogeRocket|To the MOON|||||||
+talent_name_relicHalloweenBasket|Candy Basket|||||||
+talent_name_relicSnowBall|Snowball Throw|||||||
+talent_name_relicThievesGlove|Fiddling Glove|||||||
+talent_name_relicShocker|Shocker 9000|||||||
+talent_name_relicFlail|Flailstrike|||||||
+talent_name_relicSoulBox|Open the Box|||||||
+talent_name_relicChickenMask|All them Chickens|||||||
+talent_name_relicCursedBook|Dare to Read?|||||||
+talent_name_relicSucker|Extract Heads|||||||
+talent_name_relicBombBoat|Naval Bomb|||||||
+talent_name_relicFishNet|Trap the Fish|||||||
+talent_name_relicBookOfCommand|Commanding Power|||||||
+talent_name_relicSucker5000|Sucking Power|||||||
+talent_name_relicSucker5000b|Empowered Sucking Power|||||||
+talent_name_relicDevilHorn|Satanic Replenishment|||||||
+talent_name_relicFrozenOrb|Frozen Orb|||||||
+talent_name_relicStormDagger|Lightning Strike|||||||
+talent_name_relicOdinsSword|Flames of Odin|||||||
+talent_name_relicDevilSkull|Soul Scatter|||||||
+talent_name_relicOgreClub|Paralyzing Strike|||||||
+talent_name_relicBasiliksTooth|Medusas Gaze|||||||
+talent_name_relicFireAndIce|Frostburn|||||||
+talent_name_relicDeathsScythe|Reaping|||||||
+talent_name_relicCactus|Spiky Plant|||||||
+talent_name_relicAssassinsShuriken|Shruken Strike|||||||
+talent_name_relicRazerHeadSet|Sonar Pulse|||||||
+talent_name_relicRazorLeaf|Razor Leaves|||||||
+talent_name_relicTequila|Drunken Arson|||||||
+talent_name_relicMightySushi|Tasty Explosion|||||||
+talent_name_relicRiceChopsticks|Disarming Strike|||||||
+talent_name_relicDaPlayer|Rotting Carcas|||||||
+talent_name_relicWitchClaw|Hexing Strike|||||||
+talent_name_relicShatteredKatana|Gust of Wind|||||||
+talent_name_relicLargeBeer|Nausea|||||||
+talent_name_relicNecromancersFinger|Lost Soul|||||||
+talent_name_relicLightningBall||||||||
+talent_name_relicEsEnergy|Jonnen Valinta|||||||
+talent_name_relicSatansEye|Burning Vision|||||||
+talent_name_relicHolyGrail|Heaven’s Light|||||||
+talent_name_relicWinnersDrug|Manastream|||||||
+talent_name_relicLotteryTicket|Lucky Numbers|||||||
+talent_name_relicHandOfMidas||||||||
+talent_name_relicAmazonsSpears|Poisonous Hit|||||||
+talent_name_relicManaDice|Mana Recovery|||||||
+talent_name_relicZombiesFace|Disease|||||||
+talent_name_relicMetalDetector|Node Detection|||||||
+talent_name_relicPickledBrain|Aldo’s Rotten Brain|||||||
+talent_name_relicDemonSheep|Demon Sheep|||||||
+talent_name_relicSkullbat|Skull Bat|||||||
+talent_name_relicShredder|Shredder|||||||
+talent_name_relicFetus|F.E.T.U.S.|||||||
+talent_name_relicTheEye|The Eye|||||||
+talent_name_relicShrunkenHead|Shrunken Head|||||||
+talent_name_relicAncientRock|Ancient Rock|||||||
+talent_name_relicTemplarShield|Templar Shield|||||||
+talent_name_relicTheAllmightyFedora|The Allmighty Fedora|||||||
+talent_name_relicGuardianAngel|Guardian Angel|||||||
+talent_name_relicWarZeppelin|War Zeppelin|||||||
+talent_name_relicKarpHead|Karp Head|||||||
+talent_name_relicMinisect|Minisect|||||||
+talent_name_relicHoneyBee|Honey Bee|||||||
+talent_name_relicStevesDirtyHead|Steves Dirty Head|||||||
+||||||||
+talent_desc_relicRubberDuck|All tested and working, this feels good!|||||||
+talent_desc_relicApple|All tested and working, this feels good!|||||||
+talent_desc_relicAaronsStaff|All tested and working, this feels good!|||||||
+talent_desc_relicBookOfBelial|All tested and working, this feels good!|||||||
+talent_desc_relicSwordOfBlood|All tested and working, this feels good!|||||||
+talent_desc_relicRainbow|All tested and working, this feels good!|||||||
+talent_desc_relicFlySwatter|All tested and working, this feels good!|||||||
+talent_desc_relicAngelStaff|All tested and working, this feels good!|||||||
+talent_desc_relicRocketBarrage|All tested and working, this feels good!|||||||
+talent_desc_relicShiv|All tested and working, this feels good!|||||||
+talent_desc_relicStickmanSteve|All tested and working, this feels good!|||||||
+talent_desc_relicBomb|All tested and working, this feels good!|||||||
+talent_desc_relicMeatHook|All tested and working, this feels good!|||||||
+talent_desc_relicCandyCrusher|All tested and working, this feels good!|||||||
+talent_desc_relicNinjaHook|All tested and working, this feels good!|||||||
+talent_desc_relicShadeOfDeath|All tested and working, this feels good!|||||||
+talent_desc_relicDislocatedEye|All tested and working, this feels good!|||||||
+talent_desc_relicOrbOfFire|All tested and working, this feels good!|||||||
+talent_desc_relicOrbOfIce|All tested and working, this feels good!|||||||
+talent_desc_relicOrbOfPoison|All tested and working, this feels good!|||||||
+talent_desc_relicOrbOfChaos|All tested and working, this feels good!|||||||
+talent_desc_relicBouncy|All tested and working, this feels good!|||||||
+talent_desc_relicBalalayka|All tested and working, this feels good!|||||||
+talent_desc_relicDarts|All tested and working, this feels good!|||||||
+talent_desc_relicSatansHorn|All tested and working, this feels good!|||||||
+talent_desc_relicJarOfFlies|All tested and working, this feels good!|||||||
+talent_desc_relicSatansTooth|All tested and working, this feels good!|||||||
+talent_desc_relicBoomerang|All tested and working, this feels good!|||||||
+talent_desc_relicSquishy|All tested and working, this feels good!|||||||
+talent_desc_relicLightCola|All tested and working, this feels good!|||||||
+talent_desc_relic1000kg|All tested and working, this feels good!|||||||
+talent_desc_relicKeyGen|All tested and working, this feels good!|||||||
+talent_desc_relicDragonsHead|All tested and working, this feels good!|||||||
+talent_desc_relicCasinoDice|All tested and working, this feels good!|||||||
+talent_desc_relicVajdra|All tested and working, this feels good!|||||||
+talent_desc_relicMaryosPipe|All tested and working, this feels good!|||||||
+talent_desc_relicRottenApple|All tested and working, this feels good!|||||||
+talent_desc_relicDeliciousPie|All tested and working, this feels good!|||||||
+talent_desc_relicWizardsHat|All tested and working, this feels good!|||||||
+talent_desc_relicLootarang|All tested and working, this feels good!|||||||
+talent_desc_relicPropHunt|All tested and working, this feels good!|||||||
+talent_desc_relicDogeRocket|All tested and working, this feels good!|||||||
+talent_desc_relicHalloweenBasket|All tested and working, this feels good!|||||||
+talent_desc_relicSnowBall|All tested and working, this feels good!|||||||
+talent_desc_relicThievesGlove|All tested and working, this feels good!|||||||
+talent_desc_relicShocker|All tested and working, this feels good!|||||||
+talent_desc_relicFlail|All tested and working, this feels good!|||||||
+talent_desc_relicSoulBox|All tested and working, this feels good!|||||||
+talent_desc_relicChickenMask|All tested and working, this feels good!|||||||
+talent_desc_relicCursedBook|All tested and working, this feels good!|||||||
+talent_desc_relicSucker|All tested and working, this feels good!|||||||
+talent_desc_relicBombBoat|All tested and working, this feels good!|||||||
+talent_desc_relicFishNet|All tested and working, this feels good!|||||||
+talent_desc_relicBookOfCommand|All tested and working, this feels good!|||||||
+talent_desc_relicSucker5000|All tested and working, this feels good!|||||||
+talent_desc_relicSucker5000b|All tested and working, this feels good!|||||||
+talent_desc_relicDevilHorn|All tested and working, this feels good!|||||||
+talent_desc_relicFrozenOrb|All tested and working, this feels good!|||||||
+talent_desc_relicStormDagger|All tested and working, this feels good!|||||||
+talent_desc_relicOdinsSword|All tested and working, this feels good!|||||||
+talent_desc_relicDevilSkull|All tested and working, this feels good!|||||||
+talent_desc_relicOgreClub|All tested and working, this feels good!|||||||
+talent_desc_relicBasiliksTooth|All tested and working, this feels good!|||||||
+talent_desc_relicFireAndIce|All tested and working, this feels good!|||||||
+talent_desc_relicDeathsScythe|All tested and working, this feels good!|||||||
+talent_desc_relicCactus|All tested and working, this feels good!|||||||
+talent_desc_relicAssassinsShuriken|All tested and working, this feels good!|||||||
+talent_desc_relicRazerHeadSet|All tested and working, this feels good!|||||||
+talent_desc_relicRazorLeaf|All tested and working, this feels good!|||||||
+talent_desc_relicTequila|All tested and working, this feels good!|||||||
+talent_desc_relicMightySushi|All tested and working, this feels good!|||||||
+talent_desc_relicRiceChopsticks|All tested and working, this feels good!|||||||
+talent_desc_relicDaPlayer|All tested and working, this feels good!|||||||
+talent_desc_relicWitchClaw|All tested and working, this feels good!|||||||
+talent_desc_relicShatteredKatana|All tested and working, this feels good!|||||||
+talent_desc_relicLargeBeer|All tested and working, this feels good!|||||||
+talent_desc_relicMagnet|All tested and working, this feels good!|||||||
+talent_desc_relicNecromancersFinger|All tested and working, this feels good!|||||||
+talent_desc_relicLightningBall|All tested and working, this feels good!|||||||
+talent_desc_relicEsEnergy|All tested and working, this feels good!|||||||
+talent_desc_relicSatansEye|All tested and working, this feels good!|||||||
+talent_desc_relicHolyGrail|All tested and working, this feels good!|||||||
+talent_desc_relicWinnersDrug|All tested and working, this feels good!|||||||
+talent_desc_relicLotteryTicket|All tested and working, this feels good!|||||||
+talent_desc_relicHandOfMidas|All tested and working, this feels good!|||||||
+talent_desc_relicAmazonsSpears|All tested and working, this feels good!|||||||
+talent_desc_relicManaDice|All tested and working, this feels good!|||||||
+talent_desc_relicZombiesFace|All tested and working, this feels good!|||||||
+talent_desc_relicMetalDetector|All tested and working, this feels good!|||||||
+talent_desc_relicPickledBrain|All tested and working, this feels good!|||||||
+talent_desc_relicDemonSheep|All tested and working, this feels good!|||||||
+talent_desc_relicSkullbat|All tested and working, this feels good!|||||||
+talent_desc_relicShredder|All tested and working, this feels good!|||||||
+talent_desc_relicFetus|All tested and working, this feels good!|||||||
+talent_desc_relicTheEye|All tested and working, this feels good!|||||||
+talent_desc_relicShrunkenHead|All tested and working, this feels good!|||||||
+talent_desc_relicAncientRock|All tested and working, this feels good!|||||||
+talent_desc_relicTemplarShield|All tested and working, this feels good!|||||||
+talent_desc_relicTheAllmightyFedora|All tested and working, this feels good!|||||||
+talent_desc_relicGuardianAngel|All tested and working, this feels good!|||||||
+talent_desc_relicWarZeppelin|All tested and working, this feels good!|||||||
+talent_desc_relicKarpHead|All tested and working, this feels good!|||||||
+talent_desc_relicMinisect|All tested and working, this feels good!|||||||
+talent_desc_relicHoneyBee|All tested and working, this feels good!|||||||
+talent_desc_relicStevesDirtyHead|All tested and working, this feels good!|||||||
+||||||||
+tree_1_0|Shield Bearer|Kilvenkäyttäjä|Portador de Escudo|Щитоносец|盾牌持有人|シールドベアラー|방패 무기명|Schildknappe
+tree_2_0|Berserker|Raivopää|Berserker|Берсерк|狂战士|バーサーカー|맹렬한|Berserker
+tree_1_1|Flame Diviner|Tuliennustaja|Adivinho Flamejante|Прорицатель|火焰神|炎の占い師|화염 분배기|Flammenwahrsager
+tree_2_1|Arsonist|Tuhopolttaja|Incendiário|Поджигатель|纵火犯|放火犯|방화범|Brandstifter
+tree_1_2|Sharpshooter|Tarkka-ampuja|Atirador afiado|Снайпер|神枪手|シャープシューター|명사수|Scharfschütze
+tree_2_2|Engineer|Nikkaroija|Engenheiro|Инженер|工程师|エンジニア|공학자|Ingenieur
+tree_1_3|Gunner|Ampuja|Artilheiro|Канонир|炮手|砲手|포수|Kanonier
+tree_2_3|Plunderer|Laivojenupottaja|Saqueador|Расхитительница|掠夺者|略奪者|약탈자|Plünderer
+tree_1_4|Wanderer|Vaeltaja|Andarilho|Странник|流浪者|放浪者|뜨내기|Wanderer
+tree_2_4|Vagabond|Kiertolainen|Vagabundo|Скиталец|流浪者|バガボンド|부랑자|Vagabund
+tree_1_5|Hillbilly|Punaniska|Caipira|Деревенщина|乡下人|ヒルビリー|힐 빌리|Hinterwäldler
+tree_2_5|Logger|Puunhakkaaja|Marmota|Дровосек|记录仪|ロガー|나무꾼|Logger
+tree_1_6|Venomancer|Myrkyttäjä|Envenenador|Веномансер|剧毒术士|ヴェノマンサー|맹독 사|Giftmischer
+tree_2_6|Lord of the Dead|Kuolleiden Ruhtinas|Senhor dos Mortos|Владыка Мертвых|死者之王|死者の主|죽음의 군주|Herr der Toten
+tree_1_7|Ronin|Yksinäinen Susi|Ronin|Ронин|罗宁|浪人|로닌|Ronin
+tree_2_7|Emperor's Blade|Keisarin Miekka|Lâmina do Imperador|Меч Императора|皇帝之刃|皇帝の刃|황제의 칼날|Klinge des Kaisers
+tree_1_8|Justiciar|Oikeuttaja|Juiz|Праведный|司法公正|司法|정당한|Justiziar
+tree_2_8|Lionheart|Leijonasydän|Coração de Leão|Бесстрашный|狮子之心|ライオンハート|사자의 심장|Löwenherz
+tree_1_9|Huntress|Metsästäjä|Caçadora|Охотница|女猎手|狩人|여자 사냥꾼|Jägerin
+tree_2_9|Valkyrie|Valkyria|Valquíria|Валькирия|女武神|ヴァルキリー|발키리|Walküre
+tree_1_10|Gunslinger|Pyssysankari|Pistoleiro|Бандит|枪手|ガンスリンガー|건슬링거|Revolverheld
+tree_2_10|Executioner|Teloittaja|Carrasco|Палач|子手|死刑執行人|실행자|Henker
+tree_1_11|Bone Conjurer|Luidentekijä|Conjurador de Ossos|Заклинатель Костей|骨魔术师|ボーンコンジュラー|뼈 요술사|Knochenbeschwörer
+tree_2_11|Blood Lord|Veren Ruhtinas|Senhor do Sangue|Кровавый Лорд|鲜血领主|ブラッドロード|블러드로드|Blutlord
+tree_1_12|Elementalist|Elementalisti|Elementalista|Повелитель Стихий|元素论者|エレメンタリスト|엘리멘탈리스트|Elementalist
+tree_2_12|Chieftain|Johtaja|Chefe|Вождь|头目|チーフテン|지도자|Häuptling
+tree_1_13|Zealot|Kiihkoilija|Fanático|Фанатик|狂热者|ジーロット|질럿|Eiferer
+tree_2_13|Divine Being|Taivaallinen Olemus|Ser Divino|Божественная Сущность|神灵|神の存在|신성한 존재|Göttliches Wesen
+tree_1_14|Juggernaut|Pysäyttämätön Voima|Juggernaut|Джаггернаут|剑圣|ジャガーノート|절대적인 힘|Moloch
+tree_2_14|Gladiator|Gladiaattori|Gladiador|Гладиатор|角斗士|剣闘士|검투사|Gladiator
+tree_1_15|Sanguine Physician|Sangviininen Tohtori|Médico Sanguíneo|Флеботомист|血缘医师|血統の医師|상귀 인 의사|Heiterer Arzt
+tree_2_15|Plague Caller|Rutonkutsuja|Chamador de Peste|Предвестник Чумы|瘟疫召唤者|ペストコーラー|역병 발신자|Pestrufer
+tree_1_16|Champion|Sotamestari|Campeão|Чемпион|冠军|チャンピオン|챔피언|Champion
+tree_2_16|Knight|Ritari|Cavaleiro|Рыцарь|骑士|騎士|기사|Ritter
+tree_1_17|Son of Ymir|Son of Ymir|Son of Ymir|Son of Ymir|Son of Ymir|Son of Ymir|Son of Ymir|Son of Ymir
+tree_2_17|Son of Aurgelmir|Son of Aurgelmir|Son of Aurgelmir|Son of Aurgelmir|Son of Aurgelmir|Son of Aurgelmir|Son of Aurgelmir|Son of Aurgelmir
+tree_1_18|Sand Manipulator|Sand Manipulator|Sand Manipulator|Sand Manipulator|Sand Manipulator|Sand Manipulator|Sand Manipulator|Sand Manipulator
+tree_2_18|Chronomancer|Chronomancer|Chronomancer|Chronomancer|Chronomancer|Chronomancer|Chronomancer|Chronomancer
+||||||||
+[hero_talents]||||||||
+hero_header_1|Warrior's Blessing|||||||
+hero_header_2|Mystic Knowledge|||||||
+hero_header_3|Huskar's Blood|||||||
+hero_header_4|Grasp of Life|||||||
+hero_header_5|Astral Energy|||||||
+hero_header_6|Evasion|||||||
+hero_header_7|Ancient Thorn's|||||||
+hero_header_8|Warlord's Might|||||||
+hero_header_9|Grasp of Divinity|||||||
+hero_header_10|Wizard's Intellect|||||||
+hero_header_11|Vagabond's Might|||||||
+hero_header_12|Resistancy|||||||
+hero_header_13|Bloodlust|||||||
+hero_header_14|Manahunger|||||||
+hero_header_15|Assassin's Focus|||||||
+hero_header_16|Hail of Blades|||||||
+hero_header_17|Fleet Footwork|||||||
+hero_header_18|God's Wrath|||||||
+hero_header_19|Cannibalizer|||||||
+hero_header_20|Soul Leecher|||||||
+hero_header_21|Knight's Vow|||||||
+hero_header_22|Archaeology|||||||
+hero_header_23|Goblin’s Greed|||||||
+hero_header_24|Ancient Warrior|||||||
+hero_header_25|Deadly Accuracy|||||||
+hero_header_26|Armadillo|||||||
+hero_header_27|Wizard’s Prestige|||||||
+hero_header_28|Jack of All Trades|||||||
+hero_header_29|God’s Presence|||||||
+hero_header_30|Holy Knight's Resilience|||||||
+||||||||
+hero_talent_1|Strength Increased by |||||||
+hero_talent_2|Energy Increased by |||||||
+hero_talent_3|Vitality Increased by |||||||
+hero_talent_4|Life Replenish Increased by |||||||
+hero_talent_5|Mana Replenish Increased by |||||||
+hero_talent_6|Hit Recovery Increased by |||||||
+hero_talent_7|Damage Return increased by |||||||
+hero_talent_8|Attack Damage increased by |||||||
+hero_talent_9|Cast Rate increased by |||||||
+hero_talent_10|Mana increased by |||||||
+hero_talent_11|Life increased by |||||||
+hero_talent_12|All Resistances increased by |||||||
+hero_talent_13|Life Steal increased by |||||||
+hero_talent_14|Mana Steal increased by |||||||
+hero_talent_15|Critical Strike Damage increased by |||||||
+hero_talent_16|Attack Speed increased by |||||||
+hero_talent_17|Movement Speed increased by |||||||
+hero_talent_18|Skill Damage increased by |||||||
+hero_talent_19|Life After Kill increased by |||||||
+hero_talent_20|Mana After Kill increased by |||||||
+hero_talent_21|Life and Mana increased by |||||||
+hero_talent_22|Magic Find increased by |||||||
+hero_talent_23|Extra Gold from monsters increased by |||||||
+hero_talent_24|Experience Gain increased by |||||||
+hero_talent_25|Attack Rating increased by |||||||
+hero_talent_26|Defense increased by |||||||
+hero_talent_27|Cooldowns Reduced by |||||||
+hero_talent_28|All Attributes increased by |||||||
+hero_talent_29|All Skills increased by |||||||
+hero_talent_30|All Resistances increased by |||||||
+||||||||
+hero_mark_1||||||||
+hero_mark_2||||||||
+hero_mark_3||||||||
+hero_mark_4|%|||||||
+hero_mark_5|%|||||||
+hero_mark_6|%|||||||
+hero_mark_7|%|||||||
+hero_mark_8|%|||||||
+hero_mark_9|%|||||||
+hero_mark_10|%|||||||
+hero_mark_11|%|||||||
+hero_mark_12|%|||||||
+hero_mark_13|%|||||||
+hero_mark_14|%|||||||
+hero_mark_15|%|||||||
+hero_mark_16|%|||||||
+hero_mark_17|%|||||||
+hero_mark_18|%|||||||
+hero_mark_19||||||||
+hero_mark_20||||||||
+hero_mark_21||||||||
+hero_mark_22||||||||
+hero_mark_23||||||||
+hero_mark_24||||||||
+hero_mark_25|%|||||||
+hero_mark_26|%|||||||
+hero_mark_27|%|||||||
+hero_mark_28||||||||
+hero_mark_29||||||||
+hero_mark_30|%|||||||
+||||||||
+[GUILD_PERKS]||||||||
+guild_perk_name_0|Magic Find Perk|||||||
+guild_perk_text_0|Yeah boiiiii find that loot. 5% increase to MF|||||||
+guild_perk_name_1|Speed Boooooost|||||||
+guild_perk_text_1|Ez pz your movement speed is increased by 5%|||||||
+guild_perk_name_2|Rich Boi|||||||
+guild_perk_text_2|Gold drops increased by 10%|||||||
+guild_perk_name_3|Businessman|||||||
+guild_perk_text_3|All vendors give you a 10% discount!|||||||
+guild_perk_name_4|Top Tier Guild|||||||
+guild_perk_text_4|All Heroes of the guild receive an additional 5% experience from kills and quests. Guild stash extra tab unlocked!|||||||

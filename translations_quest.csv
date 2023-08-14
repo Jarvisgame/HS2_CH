@@ -1,0 +1,576 @@
+[quest]|en|fi|pt|ru|zh|ja|ko|de
+quest_name_18|Learn to mine|Louhitaan|Aprenda a minerar|Научись добывать руду|学习挖矿|鉱山を学ぶ|광산 배우기|Lerne meine
+quest_description_18|Mine copper ore on normal difficulty.|Louhi kuparimalmia normaalilla vaikeusasteella.|Mina de minério de cobre na dificuldade normal.|Добыча медной руды на нормальной сложности.|铜矿开采难度一般。|銅鉱石を通常の難易度で鉱山します。|정상적인 난이도에서 광산 구리 광석.|Minen Sie Kupfererz auf normalem Schwierigkeitsgrad.
+quest_objective_18_1|Copper Ore|Kuparimalmia|Minério de cobre|Медная руда|铜矿|銅鉱石|구리 광석|Kupfererz
+||||||||
+quest_name_19|Chaos Tower|Kaaositorni|Torre do Caos|Башня Хаоса|混沌塔|カオスタワー|카오스 타워|Chaosturm
+quest_description_19|Solve the mystery of the Chaos Tower.|Ratkaise kaaostornin mysteeri.|Resolva o mistério da Torre do Caos.|Разгадайте тайну Башни Хаоса.|解决混沌塔的奥秘。|カオスタワーの謎を解き明かそう。|카오스 타워의 수수께끼를 풀어보세요.|Löse das Geheimnis des Chaosturms.
+quest_objective_19_1|Towers cleared|Tornia läpäisty|Torres limpas|Башни очищены|清除塔楼|タワーがクリアされました|타워가 삭제되었습니다.|Türme geräumt
+quest_objective_19_2|Find Kukkonen|Löydä Kukkonen|Encontre Kukkonen|Найдите Кукконена|寻找库科宁|クッコネンを探す|Kukkonen 찾기|Finde Kukkonen
+||||||||
+quest_name_20|Learn Jewelcrafting|||||||
+quest_description_20|Prospect copper ore|||||||
+quest_objective_20_1|Copper Ore prospected|||||||
+||||||||
+quest_name_21|Fortune told|Ennustettu|Fortune told|Fortune told|Fortune told|Fortune told|Fortune told|Fortune told
+quest_description_21|Prophet Luna has shown you a glimpse into the future... Now the question is when?|Profeetta Luna on näyttänyt sinulle silmäyksen tulevaan... Nyt kysymys kuuluu, milloin?|Prophet Luna has shown you a glimpse into the future... Now the question is when?|Prophet Luna has shown you a glimpse into the future... Now the question is when?|Prophet Luna has shown you a glimpse into the future... Now the question is when?|Prophet Luna has shown you a glimpse into the future... Now the question is when?|Prophet Luna has shown you a glimpse into the future... Now the question is when?|Prophet Luna has shown you a glimpse into the future... Now the question is when?
+quest_objective_21_1|Fortune fulfilled|Ennustus täytetty|Fortune fulfilled|Fortune fulfilled|Fortune fulfilled|Fortune fulfilled|Fortune fulfilled|Fortune fulfilled
+quest_objective_21_2|Enemies killed|Enemies killed|Enemies killed|Enemies killed|Enemies killed|Enemies killed|Enemies killed|Enemies killed
+||||||||
+||||||||
+[HALLOWEEN EVENT]||||||||
+quest_name_100|Trick or Treat!|Karkki tai kepponen!|Doçura ou travessura!|Кошелек или жизнь!|不给糖果就捣蛋！|トリック・オア・トリート！|먹을 걸 안 주면 장난칠 거야!|Suesses oder Saures!
+quest_description_100|You must collect a lot of candy. A. Lot.|Kerää karkkia. Paljon. Karkkia.|Você deve coletar muitos doces. Muito.|Вы должны собрать много конфет. Много.|你得找一大堆糖。一 大 堆。|あなたはキャンディをたくさん集めなければなりません。たーくーさーん。|사탕을 많이 모으십시오. 무조건. 많이.|Sammle Suessigkeiten. Viele. Suessigkeiten.
+quest_objective_100_1|Candy collected|Karkkia kerätty.|Doces coletados.|Конфеты собраны.|已收集糖果。|キャンディーが集められました。|모은 사탕.|Suessigkeiten gesammelt.
+||||||||
+quest_name_101|Find the Candy Apples!|Etsi karkkiomenat!|Encontre as maçãs de doces!|Найти конфеты яблоки!|找到苹果糖！|リンゴのキャンディーを見つけよう！|사과 사탕을 찾아라!|Suche nach kandierten aepfeln!
+quest_description_101|Find a Candy Apple in each Act.|Löydä karkkiomena jokaisesta tasosta.|Encontre uma Candy Candy em cada ATO.|Найдите конфетное яблоко в каждом акте.|在每个章节找到苹果糖。|各幕のリンゴキャンディーを見つけましょう。|모든 액트에 숨겨져 있는 사과 사탕을 찾으십시오.|Finde einen kandierten Apfel in jedem Akt.
+quest_objective_101_1|Act I Apple found|Taso I omena löydetty.|Maçã do ATO I encontrada.|Акт I Яблоко найдено.|章节 I的苹果糖找到了。|幕 I のリンゴキャンディーが見つかりました。|발견한 액트 I 사과.|Akt I: Apfel gefunden.
+quest_objective_101_2|Act II Apple found|Taso II omena löydetty.|Maçã do ATO II encontrada.|Акт II Яблоко найдено.|章节II的苹果糖找到了。|幕 II のリンゴキャンディーが見つかりました。|발견한 액트 II 사과.|Akt II: Apfel gefunden.
+quest_objective_101_3|Act III Apple found|Taso III omena löydetty.|Maçã do ATO III encontrada.|Акт III Яблоко найдено.|章节III的苹果糖找到了。|幕 III のリンゴキャンディーが見つかりました。|발견한 액트 III 사과.|Akt III: Apfel gefunden.
+quest_objective_101_4|Act IV Apple found|Taso IV omena löydetty.|Maçã do ATO IV encontrada.|Акт IV Яблоко найдено.|章节IV的苹果糖找到了。|幕 IV のリンゴキャンディーが見つかりました。|발견한 액트 IV 사과.|Akt IV: Apfel gefunden.
+||||||||
+quest_name_102|Trick them all!|Keppostelua!|Engane todos eles!|Обмани их всех!|骗过他们！|奴らを騙せ！|모두 속여주지!|Streiche spielen!
+quest_description_102|Use the Candy Basket to trick enemies.|Käytä karkkikoreja houkutellaksesi vihollisia.|Utilizar a cesta de doces para enganar os inimigos.|Используйте корзину с конфетами, чтобы обмануть врагов.|用糖果篮欺骗敌人。|キャンディバスケットを使って敵を騙しましょう。|사탕 바구니로 적들을 속이십시오.|Verwende Suessigkeiten, um Gegner anzulocken.
+quest_objective_102_1|Enemies lured into baskets|Vihollista houkuteltu koreihin.|Inimigos atraídos para cestas.|Враги заманивают в корзины.|上钩的敌人。|敵が小箱に誘い込まれました。|유인당한 적.|Gegner in Koerbe gelockt.
+||||||||
+quest_name_103|Death has the answer|Kuolemalla on vastaus|A morte tem a resposta|Смерть имеет ответ|死亡就是答案|死は答えである|죽음에는 답이 있다|Der Tod hat die Antwort
+quest_description_103|Kill Candy Grim Reaper in Act II.|Surmaa Karkkiviikatemies tasossa II.|Mate o Ceifador de doces no ATO II.|Убейте леденца Мрачного Жнеца в Акте II.|杀死在章节II的糖果死神。|幕 II でキャンディ・グリム・リーパーを殺してください。|액트 II에서 사탕 사신을 죽이십시오.|Besiegt den kandierten Gevatter Tod in Akt II.
+quest_objective_103_1|Candy Grim Reaper killed|Karkkiviikatemies surmattu.|Ceifador dos Doces morto.|конфеты мрачный жнец убит.|已杀死糖果死神。|キャンディー・グリム・リーパーが殺されました。|처치한 사탕 사신.|Kandierter Gevatter Tod getoetet.
+||||||||
+quest_name_104|Kill the Pumpkin King|Surmaa Kurpitsakuningas|Mate o rei da abóbora|Убить тыкву короля|杀死南瓜国王|パンプキン・キングを殺す|호박 왕 죽이기|Toete den Kuerbiskoenig
+quest_description_104|Kill Damien the Pumpkin King in Act IV.|Surmaa Kurpitsakuningas Damien tasossa IV.|Mate Damien, o Rei da Abóbora, no ATO IV.|Убейте Дэмиена, Тыквенного Короля в Акте IV.|杀死章节IV的南瓜国王达米安|幕 IV でパンプキン・キングのダミアンを殺してください。|액트 IV에서 호박 왕 데미언을 죽이십시오.|Toete Damien den Kuerbiskoenig im Akt IV.
+quest_objective_104_1|Damien the Pumpkin King killed|Kurpitsakuningas Damien surmattu.|Damien, o rei da abóbora morto.|Дэмиен, Тыквенный Король, убит.|已杀死南瓜国王达米安。|パンプキン・キングのダミアンが殺されました。|처치한 호박 왕 데미언.|Damien der Kuerbiskoenig getoetet.
+||||||||
+quest_name_110|Lost Skull|Kadonnut kallo|Caveira perdida|Потерянный череп|骷髅头|失われた頭蓋骨|잃어버린 해골|Verlorener Schaedel
+quest_description_110|Take this snoring skull back to Town of Inoya and hang it somewhere.|Vie kuorsaava kallo Inoyan kylään ja ripusta se jonnekin.|Leve esse crânio ressonante de volta à cidade de Inoya e pendure-o em algum lugar.|Отнеси этот храпящий череп обратно в город Иною и повесь его где-нибудь.|将这个打头骨的 骷髅带回到伊诺亚镇， 并将其挂在某个地方。|このいびきを かく頭蓋骨をイ ノヤの町に戻し、 どこかに掛 けてください。|이 코골이 두개골을 이노 야 마을로 가져가 어딘가에 매달 아라.|Bring diesen Schnarchschaedel zurueck zur Stadt von Inoya und haeng ihn irgendwo auf.
+quest_objective_110_1|Skull hanged|Kallo ripustettu.|Caveira enforcada.|Повешен череп.|骷髅吊死。|頭蓋骨が絞首刑に。|해골 교수형.|Schaedel aufgehaengt.
+||||||||
+quest_name_111|Hanging Straight|Roiku suorassa|Pendurado reto|Висеть прямо|直吊|まっすぐぶら下げ|똑바로 매달려|Gerade gehaengt
+quest_description_111|Find the skeleton's spine and pelvis from any boss.|Löydä luurangon selkäranka ja lantio miltä tahansa pomolta.|Encontre a coluna e a pélvis do esqueleto de qualquer chefe.|Найдите позвоночник скелета и таз у любого босса.|从任何老板那里 找到骨骼的脊椎和骨盆。|ボスからスケル トンの脊椎と骨 盤を見つけます。|보스로부터 골격의 척추와 골반을 찾으십시오.|Finde das Rueckgrat und Becken von jedem Boss.
+quest_objective_111_1|Spine found|Selkäranka löydetty.|Coluna encontrada.|Позвоночник найден.|发现脊椎。|脊椎が見つかりました。|척추 발견.|Vollstaendige Wirbelsaeule gefunden.
+||||||||
+quest_name_112|Main Hand|Oikea käsi|Mão principal|Основная рука|主手|利き手|주요 손|Die Rechte Hand
+quest_description_112|Collect the skeleton's right hand from any boss.|Löydä luurangon oikea käsi miltä tahansa pomolta.|Colete a mão direita do esqueleto de qualquer chefe.|Соберите правую руку скелета от любого босса.|从任何老板那里 收集骷髅的右手。|ボスからスケルト ンの右手を集める。|보스로부터 해골의 오른손을 모으십시오.|Sammle die rechte Hand von jedem Boss.
+quest_objective_112_1|Hand found|Käsi löydetty.|Mão encontrada.|Рука найдена.|发现手。|手が見つかりました。|손을 찾았습니다.|Rechte Hand gefunden.
+||||||||
+quest_name_113|Secondary Hand|Vasen käsi|Mão secundária|Вторичная рука|次要手|セカンダリーハンド|이차 손|Die Linke Hand
+quest_description_113|Collect the skeleton's left hand from any boss.|Löydä luurangon vasen käsi miltä tahansa pomolta.|Colete a mão esquerda do esqueleto de qualquer chefe.|Соберите левую руку скелета от любого босса.|从任何老板那里 收集骷髅的左手。|ボスからスケルト ンの左手を集めてください。|보스로부터 해골의 왼손을 수집하십시오.|Sammle die linke Hand von jedem Boss.
+quest_objective_113_1|Hand found|Käsi löydetty.|Mão encontrada.|Рука найдена.|发现手。|手が見つかりました。|손을 찾았습니다.|Linke Hand gefunden.
+||||||||
+quest_name_114|Footwork|Jalkatyötä|Trabalho pé|работа ног|步法|フットワーク|발놀림|Fussarbeit
+quest_description_114|Collect the skeleton's right foot from any boss.|Löydä luurangon oikea jalka miltä tahansa pomolta.|Colete o pé direito do esqueleto de qualquer chefe.|Соберите правую ногу скелета от любого босса.|从任何老板那里 收集骨骼的右脚。|ボスからスケルト ンの右足を集めます。|보스로부터 해골의 오른발을 모으십시오.|Sammle den rechten Fuss von jedem Boss.
+quest_objective_114_1|Leg found|Jalka löydetty.|Perna encontrada.|Нога найдена.|找到腿。|足が見つかりました。|다리 발견.|Rechten Fuss gefunden.
+||||||||
+quest_name_115|Happy Feet|Iloiset jalat|Pés felizes|Счастливые ноги|快乐的脚|ハッピーフィート|해피 피트|Glueckliche Fuesse
+quest_description_115|Collect the skeleton's left foot from any boss.|Löydä luurangon vasen jalka miltä tahansa pomolta.|Colete o pé esquerdo do esqueleto de qualquer chefe.|Соберите левую ногу скелета от любого босса.|从任何老板那里 收集骷髅的左脚。|ボスからスケルト ンの左足を集めます。|보스로부터 해골의 왼발을 모으십시오.|Sammle den linken Fuss von jedem Boss.
+quest_objective_115_1|Leg found|Jalka löydetty.|Perna encontrada.|Нога найдена.|找到腿。|足が見つかりました。|다리 발견.|Linken Fuss gefunden.
+[Halloween dailies]||||||||
+quest_name_120|Fill the Pot|Pata täyteen|Encha a panela|Заполните горшок|加满锅|ポットを埋める|냄비를 채우십시오|Fülle den Topf
+quest_description_120|Collect ingredients in Act I.|Kerää aineksia tasossa I.|Colete ingredientes no ATO I.|Соберите ингредиенты в акте I.|在第一幕中收集成分。|幕 Iで成分を収集します。|법 I에서 재료를 수집하십시오.|Sammle Zutaten in Akt I.
+quest_objective_120_1|Spider legs|Hämähäkin jalat|Pernas de aranha|Паучьи ноги|蜘蛛腿|クモの足|거미 다리|Spinnenbeine
+quest_objective_120_2|Maggot's slime|Tuokan lima|O lodo da larva|Слизь личинки|蛆粘液|ウジのスライム|구더기 점액|Madenschleim
+quest_objective_120_3|Pumpkin juice|Kurpitsamehu|Suco de abóbora|Тыквенный сок|南瓜汁|かぼちゃジュース|호박 쥬스|Kürbissaft
+quest_objective_120_4|Rat ears|Rotan korvat|Orelhas de rato|Крысиные уши|老鼠的耳朵|ラットの耳|쥐 귀|Rattenohren
+||||||||
+quest_name_121|Kill Gurag|Surmaa Gurag|Matar Gurag|Убей Гурага|杀死古拉格|グラグを殺す|구라 그 처치|Töte Gurag
+quest_description_121|Collect Gurag's spirit by using the Soul Box.|Kerää Guragin sielu Sielulaatikon avulla.|Colete o espírito de Gurag usando a caixa da alma.|Соберите дух Гурага, используя Коробку Души.|使用灵魂盒子收 集古拉格的精神。|ソウルボックス を使用して、 グラッグの精神 を収集します。|영혼 상자 유물을 사용하여 구라 그의 영혼을 모으십시오.|Sammle Gurags Geist mit der Seelenbox.
+quest_objective_121_1|Gurag's spirit|Guragin sielu|Espírito de Gurag|Дух Гурага|古拉格精神|グラッグの精神|구라 그의 정신|Gurags Geist
+||||||||
+quest_name_122|Feather party!|Höyhenjuhlat!|Festa de penas!|Вечеринка с перьями!|羽毛派对！|フェザーパーティ！|깃털 파티!|Federparty!
+quest_description_122|Find chickens in Act II and collect their feathers.|Löydä kanoja tasosta II ja kerää niiden höyheniä.|Encontre galinhas no ATO II e colete suas penas.|Найдите кур в Акте II и соберите их перья.|在第二幕中找到鸡并收集羽毛。|幕 IIでニワトリを見つけ、羽を集めます。|행위 II에서 닭을 찾아서 깃털을 모으십시오.|Finde Hühner in Akt II und sammle ihre Federn ein.
+quest_objective_122_1|Feathers|Höyheniä|Penas|Перья|羽毛|羽毛|깃털|Gefieder
+||||||||
+quest_name_123|Embarrass Death|Nöyryytä Kuolemaa|Embaraçar a Morte|Смущение Смерти|尴尬死亡|恥ずかしい死|난처한 죽음|Peinlicher Tod
+quest_description_123|During the fight throw the chicken mask at the Grim Reaper and kill him.|Tappelun aikana, heitä Kananaamari Viikatemiestä päin ja surmaa hänet.|Durante a luta, jogue a máscara de galinha no Ceifador e mate-o.|Во время боя бросьте Куриную маску в Мрачного Жнеца и убейте его.|在战斗中， 将鸡面具扔向死神， 并杀死他。|戦いの最中に、 死神にチキ ンマスクを 投げて殺し てください。|전투 중에 그림 리퍼에 치킨 마스크를 던져 죽입니다.|Während des Kampfes wirf die Hühnermaske auf Sensenmann und töte ihn.
+quest_objective_123_1|Death embarrassed|Kuolema nöyryytetty|Morte envergonhada|Смерть смущена|死亡尴尬|死神は恥ずかしい|부끄러운 죽음|Der Tod ist verlegen
+||||||||
+quest_name_124|Gathering ingredients|Kerää aineksia|Recolha de ingredientes|Сбор ингредиентов|收集成分|材料を集める|재료 수집|Zutaten sammeln
+quest_description_124|Collect the following ingredients in Act III.|Kerää seuraavat ainekset tasosta III.|Colete os seguintes ingredientes no ATO III.|Соберите следующие ингредиенты в акте III.|在第三幕中 收集以下成分。|幕 IIIで次の成分を収集します。|법 III에서 다음 재료를 수집하십시오.|Sammeln Sie die folgenden Zutaten in Akt III.
+quest_objective_124_1|Ghost skulls|Haamukallot|Caveiras fantasmas|Призрачные черепа|鬼头骨|ゴーストスカル|유령 두개골|Geisterschädel
+quest_objective_124_2|Dust feeder teeth|Tomunsyöjän hampaat|Dentes do alimentador de poeira|Зубы подачи пыли|除尘器齿|ダストフィーダー歯|먼지 피더 이빨|Staubzufuhrzähne
+quest_objective_124_3|Mummy bandages|Muumion siteet|Ligaduras de múmia|Мумия бинты|木乃伊绷带|ミイラ包帯|미라 붕대|Mumienbinden
+quest_objective_124_4|Spellbook|Loitsukirja|Livro de feitiços|Книга заклинаний|拼写书|魔法書|마법서|Zauberbuch
+||||||||
+quest_name_125|Anubis' Own Medicine|Anubiksen omaa lääkettä|Medicina Própria de Anúbis|Собственное лекарство Анубиса|阿努比斯自己的药|アヌビス自身の薬|아누비스의 약|Anubis 'eigene Medizin
+quest_description_125|Finish Anubis off with the Cursed Book.|Viimeistele Anubis Kirotulla Kirjalla.|Finalize Anubis com o Livro Amaldiçoado.|Прикончи Анубиса с Проклятой Книгой.|用 《被诅咒的书》 结束阿努比斯。|呪われた本でア ヌビスを締めく くってください。|저주받은 책으로 아누비스를 마무리하십시오.|Beende Anubis mit dem verfluchten Buch.
+quest_objective_125_1|Anubis killed|Anubis surmattu|Anúbis morto|Анубис убит|阿努比斯被杀|アヌビス殺害|아누비스|Anubis getötet
+||||||||
+quest_name_126|Suck it!|Imuroi!|Chupe!|Соси это!|吸！|吸いなさい！|빨다!|Saugen Sie es!
+quest_description_126|Suck in 30 Damien's heads using the head extractor.|Imuroi 30 Damienin päätä Päänkeräimellä.|Chupe 30 cabeças de Damien usando o extrator de cabeça.|Соси 30 голов Дэмиена с помощью экстрактора.|使用洗头机吸取 30 个达米恩头。|ヘッドエク ストラクタ を使用して 30 のダミアン ヘッドを吸 い込みます。|헤드 추출기를 사용하여 30 개의 데미언 헤드를 빨아들입니다.|Saugen Sie 30 Damien-Köpfe mit dem Kopfextraktor ein.
+quest_objective_126_1|Heads extracted|Päätä kerätty|Cabeças extraídas|Извлеченные головы|抽头|抽出された頭|추출 된 헤드|Köpfe extrahiert
+||||||||
+[XMAS EVENT]||||||||
+quest_name_200|Sweet annihilation|Ihana tuho|Aniquilação doce|Сладкое уничтожение|甜蜜的毁灭|甘美な消滅|달콤한 전멸|Suesse Vernichtung
+quest_description_200|Collect candy canes in Act I.|Kerää karkkitankoja tasossa I.|Colete bastões de doces no ATO I.|Соберите леденцы в Акте I.|在章节I收集拐杖糖。|幕 I のケーンのキャンデーを集めてください。|액트 I에서 지팡이 사탕을 모으십시오.|Sammle Zuckerstangen in Akt I.
+quest_objective_200_1|Candy canes collected|Karkkitankoa kerätty.|Bastões de doces coletados.|Конфеты собраны.|已收集拐杖糖。|ケーンのキャンディーが集められました。|모은 지팡이 사탕.|Zuckerstangen gesammelt.
+||||||||
+quest_name_201|My Grandma made those!|Ne ovat mummoni tekemät!|Minha avó fez isso!|Моя бабушка сделала это!|这些是我奶奶做的！|私のおばあちゃんが作った！|우리 할머니가 만들어 준 거라구!|Meine Oma hat die gemacht!
+quest_description_201|Retrieve the Christmas stockings from Gurag in Act I.|Hae joulusukat Guragilta tasossa I.|Recupere as meias de Natal de Gurag no ATO I.|Получить рождественские чулки от Гурага в акте I.|从章节I的古拉格收集圣诞袜。|幕 I のグラゴからのクリスマス・ストッキングを取り戻してください。|액트 I에서 구라그에게 빼앗긴 크리스마스 양말을 되찾아오십시오.|Hole die Weihnachtsstruempfe von Gurag im ersten Akt.
+quest_objective_201_1|Christmas stockings retrieved|Joulusukat haettu.|Meias de Natal recuperadas.|Рождественские чулки восстановлены.|已收集圣诞袜。|クリスマス・ストッキングが取り戻されました。|되찾은 크리스마스 양말.|Weihnachtsstruempfe gefunden.
+||||||||
+quest_name_202|Building a Snowman|Lumiukkoa rakentamassa|Construindo um boneco de neve|Строим снеговика|造雪人|雪だるまを作る|눈사람 만들기|Schneemann bauen
+quest_description_202|Collect snowballs by killing enemies in Act II.|Kerää lumipalloja surmaamalla vihollisia tasossa II.|Colete bolas de neve matando inimigos no ATO II.|Собирайте снежки, убивая врагов в акте II.|通过杀死章节II的敌人收集雪球。|幕 II で敵を殺すことによってスノーボールを集めてください。|액트 II에서 적을 죽여 눈덩이를 모으십시오.|Sammle Schneebaelle durch Toeten von Gegnern in Akt II.
+quest_objective_202_1|Snowballs collected|Lumipalloa kerätty.|Bolas de neve coletadas.|Снежки собраны.|已收集雪球。|スノーボールが集められました。|모은 눈덩이.|Schneebaelle gesammelt.
+||||||||
+quest_name_203|Find my head!|Etsi pääni!|Encontre minha cabeça!|Найди мою голову!|找到我的头！|私の頭を見つけ！|내 머리를 찾아줘!|Finde meinen Kopf!
+quest_description_203|Retrieve Snowman's head from Grim Reaper in Act II.|Hae lumiukon pää Viikatemieheltä tasossa II.|Recupere a cabeça de Boneco de Neve do Ceifador no ATO II.|Получить голову Снеговика из Мрачного Жнеца в Акте II.|从章节II的死神收集雪人的头。|幕 II のグリム・リーパーから雪だるまの頭を取り戻してください。|액트 II에서 사신에게 빼앗긴 눈사람 머리를 되찾아오십시오.|Hole im zweiten Akt den Kopf des Schneemanns vom Sensenmann.
+quest_objective_203_1|Snowman's head retrieved|Lumiukon pää haettu.|Cabeça do boneco de neve recuperada.|Голова снеговика восстановлена.|已收集雪人的头。|雪だるまの頭が取り戻されました。|되찾은 눈사람 머리.|Schneemanns Kopf gefunden.
+||||||||
+quest_name_204|Snowball fight!|Lumisota!|Luta na neve!|Снежный бой!|打雪仗！|雪合戦！|눈 싸움!|Schneeballschlacht!
+quest_description_204|Use the Snowball relic to cover enemies in snow!|Käytä lumipalloaarretta peittääksesi harvinaisia vihollisia lumeen!|Utilizar a relíquia da bola de neve para cobrir os inimigos na neve!|Используйте реликвию Снежка, чтобы покрыть врагов в снегу!|用雪球遗物将稀有敌人埋起来！|スノーボールの遺物を使って珍しい敵を雪の中に埋めましょう！|눈덩이 유물을 사용하여 희귀 몬스터를 눈으로 덮어버리십시오!|Verwende Schneebaelle, um seltene Gegner im Schnee zu entdecken!
+quest_objective_204_1|Enemies hit|Vihollista osuttu.|Inimigos atingidos.|Враги попали.|已击中稀有敌人。|レアな敵がヒットされました。|눈덩이에 맞은 희귀 몬스터.|Seltenen Gegner gefunden.
+||||||||
+quest_name_205|It's so dark|On niin pimeää|Está tão escuro|Это так темно|太暗了|とても暗い|너무 어두워|Es ist so dunkel
+quest_description_205|Collect Christmas lights in Act III.|Kerää jouluvaloja tasossa III.|Colete luzes de Natal no ATO III.|Соберите рождественские огни в акте III.|在章节III收集圣诞灯。|幕 III でクリスマス・ライトを集めましょう。|액트 III에서 크리스마스 전구를 모으십시오.|Sammle Weihnachtsbeleuchtung in Akt III.
+quest_objective_205_1|Christmas lights collected|Jouluvaloja kerätty.|Luzes de Natal recolhidas.|Рождественские огни собраны.|已收集圣诞灯。|クリスマス・ライトが集められました。|모은 크리스마스 전구.|Weihnachtsbeleuchtung gesammelt.
+||||||||
+quest_name_206|This town is missing something...|Tästä kylästä puuttuu jotain...|Esta cidade está faltando alguma coisa...|В этом городе чего-то не хватает...|这个小镇缺什么东西…|この町は何かが欠けている…|뭔가가 빠졌는데...|Dieser Stadt fehlt etwas ...
+quest_description_206|Retrieve the Christmas Tree from Anubis in Act III.|Hae joulukuusi Anubikselta tasossa III.|Recupere a árvore de Natal de Anúbis no ATO III.|Получите рождественскую елку от Анубиса в Акте III.|从章节III的阿努比斯收集圣诞树。|幕 III のアヌビスからクリスマス・ツリーを取り戻してください。|액트 III에서 아누비스에게 빼앗긴 크리스마스 트리를 되찾아오십시오.|Holt den Weihnachtsbaum von Anubis in Akt III.
+quest_objective_206_1|Christmas tree retrieved|Joulukuusi haettu.|Árvore de Natal recuperada.|Рождественская елка восстановлена.|已收集圣诞树。|クリスマス・ツリーが取り戻されました。|되찾은 크리스마스 트리.|Weihnachtsbaum abgeholt.
+||||||||
+quest_name_207|Robin Hood is my idol|Robin Hood on idolini|Robin Hood é meu ídolo|Робин Гуд мой кумир|罗宾汉是我的偶像|ロビンフッドは私のアイドル|로빈 훗은 내 우상|Robin Hood ist mein Idol
+quest_description_207|Use Thief's glove to steal Christmas decorations from enemies.|Käytä varkaan käsinettä varastaaksesi joulukoristeita vihollisilta.|Utilizar a luva de ladrão para roubar decorações de Natal dos inimigos.|Используйте перчатку Вора, чтобы украсть рождественские украшения у врагов.|使用盗贼手套从敌人那里偷取圣诞装饰。|泥棒の手袋を使って敵からクリスマスの装飾品を盗んでください。|도둑의 장갑을 사용해서 적들로부터 크리스마스 장식을 훔치십시오.|Benutze die Diebeshandschuhe, um Weihnachtsschmuck vonGegnern zu stehlen.
+quest_objective_207_1|Christmas decoration stolen|Joulukoristeita varastettu.|Decoração de Natal roubada.|Новогоднее украшение украдено.|已偷到圣诞装饰。|クリスマス装飾が盗まれました。|훔친 크리스마스 장식.|Weihnachtsdekoration gestohlen.
+||||||||
+quest_name_208|Let's bring the Christmas spirit!|Tulkoon joulun henki!|Vamos trazer o espírito de Natal!|Давайте принесем дух Рождества!|让我们带来圣诞之魂吧！|クリスマス・スピリットを持っていこう！|제대로 크리스마스 분위기를 내보자!|Lasst uns den Weihnachtsgeist holen!
+quest_description_208|Retrieve the Christmas star from Damien in Act IV.|Hae joulutähti Damienilta tasossa IV.|Recupere a estrela de Natal de Damien no ATO IV.|Получите рождественскую звезду от Дэмиена в Акте IV.|从章节IV的达米安处取得圣诞星。|幕 IV のダミアンからクリスマス・スターを取り戻してください。|액트 IV에서 데미언에게 빼앗긴 크리스마스 별을 되찾아오십시오.|Holt den Weihnachtsstern von Damien in Akt IV.
+quest_objective_208_1|Christmas star retrieved|Joulutähti haettu.|Estrela de Natal recuperada.|Рождественская звезда восстановлена.|已收集圣诞星。|クリスマス・スターが取り戻されました。|되찾은 크리스마스 별.|Weihnachtsstern abgeholt.
+||||||||
+quest_name_209|Santa needs help!|||||||
+quest_description_209|Help Santa in Act 2 Zone 1|||||||
+quest_objective_209_1|North Pole reached|||||||
+quest_objective_209_2|Santa saved|||||||
+||||||||
+[ANNIVERSARY EVENT]||||||||
+quest_name_300|Insert Coin|Aseta kolikko|Insira moeda|Вставьте монету|投币|コインを入れる|동전을 넣으세요|Muenze einwerfen
+quest_description_300|Retrieve an Ancient Coin from Gurag in Act I.|Hae muinainen kolikko Guragilta tasossa I.|Recupere uma moeda antiga de Gurag no ATO I.|Извлеките древнюю монету из Гурага в акте I.|在第一幕中从古拉格 （Gurag） 取回古钱币。|幕 Iでグラグから古代のコインを回収します。|행위 I에서 구라 그에서 고대 주화를 회수하십시오.|Holt in Akt I eine uralte Muenze von Gurag.
+quest_objective_300_1|Coin retrieved|Kolikko haettu.|Moeda recuperada.|Монета найдена.|找回硬币。|コインを回収。|동전을 회수했습니다.|Muenze gesammelt.
+||||||||
+[GATES_OF_VALHALLA]||||||||
+quest_name_400|Welcome to Valhalla|Tervetuloa Valhallaan|Welcome to Valhalla|Welcome to Valhalla|Welcome to Valhalla|Welcome to Valhalla|Welcome to Valhalla|Welcome to Valhalla
+quest_description_400|Reach Plain of Ida in Act 8 Zone 2.|Etsi pääsy Idan tasangolle taso 8 alueella 2.|Reach Plain of Ida in Act 8 Zone 2.|Reach Plain of Ida in Act 8 Zone 2.|Reach Plain of Ida in Act 8 Zone 2.|Reach Plain of Ida in Act 8 Zone 2.|Reach Plain of Ida in Act 8 Zone 2.|Reach Plain of Ida in Act 8 Zone 2.
+quest_objective_400_1|Plain of Ida reached|Idan tasanko löydetty.|Plain of Ida reached|Plain of Ida reached|Plain of Ida reached|Plain of Ida reached|Plain of Ida reached|Plain of Ida reached
+||||||||
+quest_name_401|Valkyrie Hunting|Valkyrien metsästys|Valkyrie Hunting|Valkyrie Hunting|Valkyrie Hunting|Valkyrie Hunting|Valkyrie Hunting|Valkyrie Hunting
+quest_description_401|Get the key to Valhalla from the Valkyrie.|Get the key to Valhalla from the Valkyrie.|Get the key to Valhalla from the Valkyrie.|Get the key to Valhalla from the Valkyrie.|Get the key to Valhalla from the Valkyrie.|Get the key to Valhalla from the Valkyrie.|Get the key to Valhalla from the Valkyrie.|Get the key to Valhalla from the Valkyrie.
+quest_objective_401_1|Valkyrie found|Valkyrie löydetty|Valkyrie found|Valkyrie found|Valkyrie found|Valkyrie found|Valkyrie found|Valkyrie found
+quest_objective_401_2|Key obtained|Avain saatu|Key obtained|Key obtained|Key obtained|Key obtained|Key obtained|Key obtained
+||||||||
+quest_name_402|Gates of Valhalla|Valhallan portit|Gates of Valhalla|Gates of Valhalla|Gates of Valhalla|Gates of Valhalla|Gates of Valhalla|Gates of Valhalla
+quest_description_402|Return to Act 8 Zone 2 and enter Valhalla. |Mene Valhallaan.|Enter Valhalla. |Enter Valhalla. |Enter Valhalla. |Enter Valhalla. |Enter Valhalla. |Enter Valhalla. 
+quest_objective_402_1|Valhalla entered|Valhalla entered|Valhalla entered|Valhalla entered|Valhalla entered|Valhalla entered|Valhalla entered|Valhalla entered
+||||||||
+quest_name_403|Access Denied|Pääsy evätty|Access Denied|Access Denied|Access Denied|Access Denied|Access Denied|Access Denied
+quest_description_403|Find a way forward through the caves.|Find a way forward through the caves.|Find a way forward through the caves.|Find a way forward through the caves.|Find a way forward through the caves.|Find a way forward through the caves.|Find a way forward through the caves.|Find a way forward through the caves.
+quest_objective_403_1|Cave explored|Luola tutkittu|Cave explored.|Cave explored.|Cave explored.|Cave explored.|Cave explored.|Cave explored.
+||||||||
+quest_name_404|Eternal Peace|Ikuinen rauha|Eternal Peace|Eternal Peace|Eternal Peace|Eternal Peace|Eternal Peace|Eternal Peace
+quest_description_404|Help Astrid find her childs Toy Bear in Act 8 Zone 4.|Help the souls in the camp.|Help the souls in the camp.|Help the souls in the camp.|Help the souls in the camp.|Help the souls in the camp.|Help the souls in the camp.|Help the souls in the camp.
+quest_objective_404_1|Toy found|Lelu löydetty|Toy found.|Toy found.|Toy found.|Toy found.|Toy found.|Toy found.
+||||||||
+quest_name_405|Purge|Puhdistus|Purge|Purge|Purge|Purge|Purge|Purge
+quest_description_405|Slay the Corrupted Refugees in Act 8 Zone 4.|Slay the corrupted souls.|Slay the corrupted souls.|Slay the corrupted souls.|Slay the corrupted souls.|Slay the corrupted souls.|Slay the corrupted souls.|Slay the corrupted souls.
+quest_objective_405_1|Corrupted souls slain|Sielut surmattu|Souls slain.|Souls slain.|Souls slain.|Souls slain.|Souls slain.|Souls slain.
+||||||||
+quest_name_406|River Rapids|River Rapids|River Rapids|River Rapids|River Rapids|River Rapids|River Rapids|River Rapids
+quest_description_406|Travel to Helheim through River Gjöll.|Travel to Helheim through River Gjöll.|Travel to Helheim through River Gjöll.|Travel to Helheim through River Gjöll.|Travel to Helheim through River Gjöll.|Travel to Helheim through River Gjöll.|Travel to Helheim through River Gjöll.|Travel to Helheim through River Gjöll.
+quest_objective_406_1|Helheim reached|Helheim saavutettu|Helheim reached.|Helheim reached.|Helheim reached.|Helheim reached.|Helheim reached.|Helheim reached.
+||||||||
+quest_name_407|Destiny|Kohtalo|Destiny|Destiny|Destiny|Destiny|Destiny|Destiny
+quest_description_407|Slay Corrupted Odin.|Surmaa korruptoitunut Odin.|Slay Corrupted Odin.|Slay Corrupted Odin.|Slay Corrupted Odin.|Slay Corrupted Odin.|Slay Corrupted Odin.|Slay Corrupted Odin.
+quest_objective_407_1|Odin slain|Odin surmattu|Odin slain.|Odin slain.|Odin slain.|Odin slain.|Odin slain.|Odin slain.
+||||||||
+quest_name_408|The Awesome Ring - part 1|||||||
+quest_description_408|Collect lots of braggite.|||||||
+quest_objective_408_1|Braggite collected|||||||
+||||||||
+quest_name_409|Mystery Key|||||||
+quest_description_409|Find out where the key goes to.|||||||
+quest_objective_409_1|Find the owner of the key.|||||||
+||||||||
+quest_name_410|The Awesome Ring - part 2|||||||
+quest_description_410|Collect Essence of the Gods from bosses.|||||||
+quest_objective_410_1|Essence of the Gods collected|||||||
+||||||||
+quest_name_411|The Awesome Ring - part 3|||||||
+quest_description_411|Find your desired Awesome Gem.|||||||
+quest_objective_411_1|Gem collected|||||||
+||||||||
+quest_name_420|Chains of Gold|||||||
+quest_description_420|Mine and transport 20 kg of gold from the fallen chains to safety.|||||||
+quest_objective_420_1|kg gold transported|||||||
+quest_objective_420_2|Troll patrol slain|||||||
+||||||||
+quest_name_430|Hungry Haldor|||||||
+quest_description_430|Get the meat of a delicious hog.|||||||
+quest_objective_430_1|Meat collected|||||||
+quest_objective_430_2|Meat cooked|||||||
+||||||||
+quest_name_431|Hurrdurr’s Rollercoaster|||||||
+quest_description_431|Find and attach wheels to Hurrdurr’s cart.|||||||
+quest_objective_431_1|Wheels found|||||||
+quest_objective_431_2|Wheels attached|||||||
+||||||||
+quest_name_432|Balldur Muspelheim|||||||
+quest_description_432|Do the thing|||||||
+quest_objective_432_1|Thing done|||||||
+||||||||
+quest_name_433|Frøya’s Scale Armor|||||||
+quest_description_433|Collect Naga scales and return them to Frøya in Act 8 Zone 2.|||||||
+quest_objective_433_1|Scales collected|||||||
+||||||||
+quest_name_434|Tired Viking|||||||
+quest_description_434|Find potion reagents and conjure it in Act 8 Zone 5.|||||||
+quest_objective_434_1|Doom weed|||||||
+quest_objective_434_2|Water from Gjöll|||||||
+quest_objective_434_3|Corrupted dirt|||||||
+quest_objective_434_4|Potion conjured|||||||
+||||||||
+[Valhalla dailies]||||||||
+quest_name_440|River Raider|||||||
+quest_description_440|Complete River Gjöll minigame.|||||||
+quest_objective_440_1|Jörmungar slain|||||||
+quest_dialog_440|Gjallarknut here! Remember me? We had an epic adventure on river Gjöll and gave that big snake a good whoop! But alas, it's back eating my customers! I'll reward you if you're up for another whooping.|||||||
+||||||||
+quest_name_441|The Golden Heist |||||||
+quest_description_441|Retrieve the Golden Warrior statue from Gladsheim.|||||||
+quest_objective_441_1|Statue collected|||||||
+quest_dialog_441|I know this job is no for a hero, but to be one you sometimes need to take a dip to the dark side. Inside the walls of Gladsheim Halls is hidden a precious little statue, the Golden Warrior portraying the Leader of Valkyries. I wa... WE need it, for uhm.. MUSEUM! Yes, a museum of.. statues... Anyway, we pay a handsome amount of rubies for it. |||||||
+||||||||
+quest_name_442|Naga Treasury |||||||
+quest_description_442|Retrieve the Golden Snake amulet from Naga Temple.|||||||
+quest_objective_442_1|Amulet found|||||||
+quest_objective_442_2|Temple escaped|||||||
+quest_dialog_442|Rumor has it that the Naga Temple holds the greatest treasury in Valhalla. It is also said to be the home of the Golden Snake amulet. Find it, and bring it here for my collection. Beware: Nagas are known to be sneaky and mischievous, your way back might not be as easy as you think. |||||||
+||||||||
+quest_name_443|The Crown of Surtr |||||||
+quest_description_443|Remove Surtr's crown in Muspelheim.|||||||
+quest_objective_443_1|Crown removed|||||||
+quest_dialog_443|In the realm of fire and lava stands Surtr, forever chained to his realm. For eons he has been dormant, turned into obsidian statue that merely displays a fraction of his burning soul. But something is happening, signs indicate he's waking up. We need a hero who could pull of the impossible: get Surtr's crown off of him, it's the source of his power. Good luck to the brave soul who might attempt this. |||||||
+||||||||
+quest_name_444|Grim Skull |||||||
+quest_description_444|Find the mystical skull in Niflhel.|||||||
+quest_objective_444_1|Skull collected|||||||
+quest_dialog_444|There is an old tale of a great and respected warrior who lost his life and was sent to Niflhel to rot. His skull is rumored to be somewhere in there collected by the legendary beast Grimbone and it’s said to hold some mystical powers. Find the skull and return it here, perhaps we would find some use for it. |||||||
+||||||||
+quest_name_445|Daily Hunt|||||||
+quest_description_445|Find [daily_hunt_enemy] in Act [daily_hunt_act].|||||||
+quest_objective_445_1|[daily_hunt_enemy] slain|||||||
+quest_dialog_445|WANTED: [daily_hunt_enemy], for crimes against humanity and the kingdom of Tarethiel. Last seen in Act [daily_hunt_act]. Reward for proof of demise.|||||||
+||||||||
+quest_name_446|Mysterious Fragment|||||||
+quest_description_446|Seems like something Örre would like|||||||
+quest_objective_446_1|Find Örre the blacksmith|||||||
+||||||||
+quest_name_447|The Awesome Signet – part 1|||||||
+quest_description_447|Find Rainbow Fragments|||||||
+quest_objective_447_1|Fragments collected|||||||
+||||||||
+quest_name_448|The Awesome Signet - part 2|||||||
+quest_description_448|Collect Essence of the Gods from bosses.|||||||
+quest_objective_448_1|Essence of the Gods collected|||||||
+||||||||
+quest_name_449|The Awesome Signet - part 3|||||||
+quest_description_449|Find your desired Awesome Gem.|||||||
+quest_objective_449_1|Gem collected|||||||
+||||||||
+[HS 2.0 ACT SIDEQUESTS]||||||||
+||||||||
+quest_name_500|Pest Control|||||||
+quest_description_500|Find and kill Fragrat in Rat Den|||||||
+quest_objective_500_1|Fragrat slain|||||||
+||||||||
+||||||||
+quest_name_501|Hunger Issue|||||||
+quest_description_501|Collect ingredients to the maggot stew and cook it|||||||
+quest_objective_501_1|Maggots collected|||||||
+quest_objective_501_2|Crimson Pumpkins harvested|||||||
+quest_objective_501_3|Maggot stew cooked|||||||
+||||||||
+quest_name_502|Murder of Crows|||||||
+quest_description_502|Find Ahriman's spellbook in Gurag's dungeon|||||||
+quest_objective_502_1|Spellbook found|||||||
+||||||||
+quest_name_503|Help Anita|||||||
+quest_description_503|Collect ginseng plants|||||||
+quest_objective_503_1|Ginseng collected|||||||
+||||||||
+quest_name_504|Lost Belongins|||||||
+quest_description_504|Find Anita's Herbs|||||||
+quest_objective_504_1|Herb Pouch|||||||
+quest_objective_504_2|Frost Dill|||||||
+quest_objective_504_3|Loska|||||||
+quest_objective_504_4|Vermroot|||||||
+quest_objective_504_5|Fanglen|||||||
+||||||||
+quest_name_505|The Revenant|||||||
+quest_description_505|Track and kill Carnage at the Glacial Trail|||||||
+quest_objective_505_1|Track Carnage|||||||
+quest_objective_505_2|Kill Carnage|||||||
+quest_objective_505_3|Skin Carnage's hide|||||||
+||||||||
+quest_name_506|Whip It Good|||||||
+quest_description_506|Find Jasper's whip at Mos'Arathim Desert|||||||
+quest_objective_506_1|Whip collected|||||||
+||||||||
+quest_name_507|We Are Gonna Be Rich!|||||||
+quest_description_507|Find the Ancient Map in Cauflax Tomb|||||||
+quest_objective_507_1|Map found|||||||
+||||||||
+quest_name_508|Raider of the Lost Staff|||||||
+quest_description_508|Find Staff of Anubis inside Mysterious Pyramid|||||||
+quest_objective_508_1|Staff found|||||||
+||||||||
+quest_name_509|Devil's Cabbage|||||||
+quest_description_509|Collect herbs for Ragnar in Old Copper Mine|||||||
+quest_objective_509_1|Devil's Cabbage collected|||||||
+||||||||
+quest_name_510|Search for Hurrdurr – part 1|||||||
+quest_description_510|Find out what happened to Hurrdurr|||||||
+quest_objective_510_1|Abandoned Mine searched|||||||
+||||||||
+quest_name_511|Search for Hurrdurr – part 2|||||||
+quest_description_511|Find Hurrdurr in Damien's Altar|||||||
+quest_objective_511_1|Hurrdurr located|||||||
+quest_objective_511_2|Knights defeated|||||||
+quest_objective_511_3|Hurrdurr raptured|||||||
+||||||||
+quest_name_512|Bamboozled|||||||
+quest_description_512|Gather materials for fishing equipment|||||||
+quest_objective_512_1|Bamboo sticks|||||||
+quest_objective_512_2|Rod crafted|||||||
+||||||||
+quest_name_513|Hook on the Line|||||||
+quest_description_513|Find spiderwebs and a viable hook|||||||
+quest_objective_513_1|Spiderwebs|||||||
+quest_objective_513_2|Hook|||||||
+||||||||
+quest_name_514|Fish for the Greedy|||||||
+quest_description_514|Find Aki in Temple of Zamjo and rescue him|||||||
+quest_objective_514_1|King Tuna slain|||||||
+quest_objective_514_2|Aki rescued|||||||
+||||||||
+quest_name_515|The Eternal Chalice|||||||
+quest_description_515|Get the Eternal Chalice in the Steam Train|||||||
+quest_objective_515_1|Eternal Chalice collected|||||||
+||||||||
+quest_name_516|Souls of the Damned|||||||
+quest_description_516|Harvest the souls in Prison, find a seal in Unmarked Graves and purify the souls|||||||
+quest_objective_516_1|Souls harvested|||||||
+quest_objective_516_2|Souls purified|||||||
+||||||||
+||||||||
+quest_name_517|Lilith|||||||
+quest_description_517|...|||||||
+quest_objective_517_1|Kill Lilith|||||||
+quest_objective_517_2|Lilith's Black Heart taken|||||||
+||||||||
+quest_name_518|The Perfect Spot|||||||
+quest_description_518|Clear the area around Moira's telescope in Deep Space|||||||
+quest_objective_518_1|Area cleared|||||||
+||||||||
+quest_name_519|Drink Tea|||||||
+quest_description_519|Drink stardust infused tea|||||||
+quest_objective_519_1|Tea drunk|||||||
+||||||||
+quest_name_520|Stardust Poisoning|||||||
+quest_description_520|Find antidote in Distorted Horizons|||||||
+quest_objective_520_1|Antidote found|||||||
+quest_objective_520_2|Antidote consumed|||||||
+||||||||
+quest_name_521|The Bestest Tea|||||||
+quest_description_521|Find ingredients at the Parallel Dimension|||||||
+quest_objective_521_1|Cosmic Roots|||||||
+quest_objective_521_2|Nebula Lily|||||||
+quest_objective_521_3|Anti-matter shroom|||||||
+quest_objective_521_4|Schrödinger's Cat|||||||
+||||||||
+||||||||
+||||||||
+||||||||
+||||||||
+||||||||
+||||||||
+||||||||
+||||||||
+||||||||
+||||||||
+||||||||
+||||||||
+[MAIN QUEST]||||||||
+quest_name_1000|Corrupted Nature|||||||
+quest_description_1000|Kill Scorchwood in the River of Inoya.|||||||
+quest_objective_1000_1|Scorchwood killed|||||||
+||||||||
+quest_name_1001|Sarcaster's coffee beans|Sarcasterin kahvipavut|Os grãos de café de Sarcaster|Кофе в зернах Саркастера|萨卡斯特的咖啡豆|サーカスターのコーヒー豆|사캐스터의 커피  콩|Sarcasters Kaffeebohnen
+quest_description_1001|Retrieve Sarcaster's coffee beans from Act I Zone I Waypoint.|Hae Sarcasterin kahvipavut tason I alueen I reittipisteeltä.|Recupere os grãos de café de Sarcaster no Waypoint da Zona I do Act I.|Верните кофейные зёрна Саркастера с Путевой точки Акта 1, Зоны 1|从第一章第 I 幕的传送点取回萨卡斯特咖啡豆。|幕 I のゾーン I のボスからサーカスターのコーヒー豆を取り戻してください。|액트 I의 첫 번째 구역 보스에게서 사캐스터의 커피 콩을 되찾아오십시오!|Sammle Sarcasters Kaffeebohnen von Wegpunkt AKT I Zone I.
+quest_objective_1001_1|Coffee beans retrieved.|Kahvipavut haettu.|Grãos de café recuperados.|Кофе в зернах восстановлен.|已取得咖啡豆。|コーヒー豆が取り戻されました。|되찾은 커피 콩.|Kaffeebohnen gesammelt.
+||||||||
+quest_name_1002|Bricks.. So many Bricks|Tiiliä... Niin paljon tiiliä|Tijolos... Tantos tijolos|Кирпичи... так много кирпичей|砖块…好多砖块|レンガ…たくさんのレンガ|벽돌이.. 너무나 많네|Ziegel .. So viele Ziegel
+quest_description_1002|Collect Bricks from boxes.|Kerää tiiliä laatikoista.|Colete tijolos de caixas.|Соберите кирпичи из коробок.|从盒子里收集砖块。|箱からレンガを集めましょう。|상자에서 벽돌을 모으십시오.|Sammle Ziegel ??aus Kisten.
+quest_objective_1002_1|Bricks collected.|Tiiltä kerätty.|Tijolos coletados.|Кирпичи собраны.|已收集砖块。|レンガが集められました。|모은 벽돌.|Ziegel gesammelt.
+||||||||
+quest_name_1003|Hot Water|Kuumaa vettä|Água quente|Горячая вода|热水|お湯|뜨거운 물|Heisses Wasser
+quest_description_1003|Collect hot water from Act I Zone III.|Kerää kuumaa vettä tason I alueelta III.|Colete água quente da Act I Zona III.|Соберите горячую воду из Акта I, Зона III.|从章节I地区III收集热水。|幕 I のゾーン III からお湯を集めましょう。|액트 I의 세 번째 구역에서 뜨거운 물을 모으십시오.|Sammle heisses Wasser aus AKT I Zone III
+quest_objective_1003_1|Hot water collected|Kuumaa vettä kerätty.|Água quente coletada.|Горячая вода собрана.|已收集热水。|お湯が集められました。|모은 뜨거운 물.|Heisses Wasser gesammelt.
+||||||||
+||||||||
+||||||||
+||||||||
+||||||||
+||||||||
+||||||||
+||||||||
+||||||||
+||||||||
+quest_name_1021|Purging the Lands|||||||
+quest_description_1021|Collect body parts from monsters and bring them to Dr. Tinkerdink in the Fields of Battle.|||||||
+quest_objective_1021_1|Body parts collected|Ruumiinosia kerätty|Partes do corpo coletadas|Собранные части тела|已收集身体部位|ボディパーツが集められました|모은 신체 조각|Koerperteile gesammelt
+||||||||
+quest_name_1022|Shock Therapy|Shokkiterapiaa|Terapia de choque|Шоковая терапия|惊吓疗法|ショック・セラピー|충격 요법|Schocktherapie
+quest_description_1022|Use the Shocker-3000 to shock monsters.|Käytä Sähkötin-3000 vihollisten sähkötykseen.|Usar o Shocker-3000 para chocar os inimigos.|Используйте Шокер-3000, чтобы шокировать врагов.|用惊吓者-3000惊吓敌人。|ショッカー-3000を使って敵に衝撃を与えてください。|적들에게 쇼커-3000을 사용하십시오.|Verwende den Shocker-3000, um Feinde zu schocken.
+quest_objective_1022_1|Enemies shocked|Vihollista sähkötetty|Inimigos chocados|Враги в шоке|已惊吓敌人|敵が衝撃を受けました|충격받은 적.|Feinde geschockt
+||||||||
+quest_name_1023|Corruptor of the Forest|Metsän korruptoija|Corruptor da Floresta|Корруптор леса|森林的腐化者|森の破壊者|숲 파괴자|Verderber des Waldes
+quest_description_1023|Find Gurag in King’s Throne and kill him! Report to Gunhild Yngouf in Danethorpe.|||||||
+quest_objective_1023_1|Gurag slain|Gurag surmattu|Gurag morto|Гураг убит|已杀死古拉格|グラゴが殺されました|구라그 처치|Gurag getoetet
+||||||||
+quest_name_1024|Provide your aid|||||||
+quest_description_1024|Kill monsters in the lands of Danethorpe. Meet Halstein at the Chilling Lake to claim your reward.|||||||
+quest_objective_1024_1|Frost Goblins slain|||||||
+quest_objective_1024_2|Frost Skeletons slain|||||||
+quest_objective_1024_3|Frost Dragons slain|||||||
+||||||||
+||||||||
+quest_name_1025|Icy Enchanters|Jäiset lumoajat|Encantadores Gelados|Ледяные чародеи|寒冰咏唱者|アイシーエンチャンター|냉기를 부르는 자|Eisige Zauberer
+quest_description_1025|Interrupt frozen portals in Snowy Mountains and meet me at the entrance of the Glacial Trail!|||||||
+quest_objective_1025_1|Portals interrupted|Portaalia estetty|Portais interrompidos|Порталы прерваны|已干扰传送门|ポータルが中断されました|닫은 포탈.|Portalebeschoerung unterbrochen
+||||||||
+quest_name_1026|Death Itself|Itse kuolema|A própria morte|Сама Смерть|死亡本身|死そのもの|죽음 그 자체|Selbst ist der Tod
+quest_description_1026|Kill Grim Reaper Death’s Breach!|Surmaa Viikatemies tasossa II.|Mate o Ceifador no ATO II.|Убить мрачного жнеца в акте II.|杀死章节II的死神。|幕 II でグリム・リーパーを殺してください。|액트 II의사신을 처치하십시오.|Besiege den Sensenmann in AKT II.
+quest_objective_1026_1|Grim Reaper slain|Viikatemies surmattu|Ceifador morto|Мрачный Жнец убит|已杀死死神|グリム・リーパーが殺されました|사신 처치.|Sensenmann getoetet
+||||||||
+quest_name_1027|Save the Innocent!|Pelasta viattomat!|Salve os inocentes!|Спаси невинных!|拯救无辜者！|無実な人たちを救え！|결백한 사람들 구하기!|Rette die Unschuldigen!
+quest_description_1027|Escort prisoners to the Way Point around the Mos’Arathim Desert.|||||||
+quest_objective_1027_1|Prisoners saved|Vankia pelastettu|Prisioneiros salvos|Заключенные спасены|已拯救囚徒|囚人を救いました|구출한 죄수.|Gefangene gerettet
+||||||||
+quest_name_1028|Purify the sands of Mos’Arathim|||||||
+quest_description_1028|Slay monsters around the desert and meet me in the second floor of the Pyramid.|||||||
+quest_objective_1028_1|Skeletons slain|Luurankoa surmattu|Esqueletos mortos|Скелеты убиты|已杀死骷髅|スケルトンが殺されました|처치한 해골|Skelette getoetet
+quest_objective_1028_2|Orcs slain|Örkkiä surmattu|Orcs slain|Orcs slain|Orcs slain|Orcs slain|Orcs slain|Orcs slain
+quest_objective_1028_3|Desert Beasts slain|Hiekkapetoja surmattu|Bestas do deserto mortas|Пустынные звери убиты|已杀死沙漠野兽|砂漠の獣が殺されました|처치한 사막 야수|Wuestentiere getoetet
+quest_objective_1028_4|Sand Wasps slain|Hiekka-ampiaista surmattu|Vespas de areia mortas|Песчаные осы убиты|已杀死沙漠黄蜂|砂のスズメバチが殺されました|처치한 모래 말벌|Sandwespen getoetet
+quest_objective_1028_5|Mummies slain|Muumiota surmattu|Múmias mortas|Мумии убиты|已杀死木乃伊|ミイラが殺されました|처치한 미라|Mumien toeten
+quest_objective_1028_6|Shadow Anomalies slain|Varjo-olentoa surmattu|Anomalias das Sombras mortas|Аномалии Теней убиты|已杀死阴影恶魔|影の異常が殺されました|처치한 그림자 이상|Shadow Anomalies getoetet
+||||||||
+quest_name_1029|Protector of Graves|Hautojen suojelija|Protetor de Sepulturas|Защитник Могил|坟墓守护者|墓穴の守護者|무덤의 수호자|Beschuetzer des Pharaonengrabes
+quest_description_1029|Kill Anubis in the Tomb of the Fallen King!|Surmaa Anubis tasossa III.|Mate Anúbis no ATO III.|Убить Анубиса в третьем акте III.|杀死章节III的阿努比斯。|幕 III でアヌビスを殺してください。|액트 III의 아누비스를 처치하십시오.|Toetet Anubis in AKT III.
+quest_objective_1029_1|Anubis slain|Anubis surmattu|Anúbis morto|Анубис убит|已杀死阿努比斯|アヌビスが殺されました|아누비스 처치.|Anubis getoetet
+||||||||
+quest_name_1030|Dungeon Master|Luolamestari|Dungeon Master|Dungeon Master|Dungeon Master|Dungeon Master|Dungeon Master|Dungeon Master
+quest_description_1030|Clear the Old Copper Mine nearby the Old Mining Village!|||||||
+quest_objective_1030_1|Collector of Bones slain|||||||
+||||||||
+quest_name_1031|Prove Yourself|Näytä taitosi|Provar a si mesmo|Докажи себя|证明自己|自分を証明する|네 자신을 증명하라|Sich selbst beweisen
+quest_description_1031|Kill enemies with the Flail.|Surmaa vihollisia varstalla.|Mate os inimigos com o mangual.|Убей врагов с помощью Цепи.|用连枷杀死敌人。|からざおを使って敵を殺してください。|철퇴로 적들을 처치하십시오.|Toete Feinde mit dem Dreschflegel.
+quest_objective_1031_1|Enemies slain|Vihollista surmattu|Inimigos mortos|Враги убиты|已杀死敌人|敵が殺されました|처치한 적|Gegner getoetet
+||||||||
+quest_name_1032|Damien, Son of Satan|Damien, Saatanan poika|Damien, filho de Satanás|Дэмиен, сын сатаны|达米安，撒旦之子|ダミアン、サタンの子|사탄의 아들, 데미언|Damien, Sohn Satans
+quest_description_1032|Kill Damien in the Altar of Lost Souls!|||||||
+quest_objective_1032_1|Damien slain|Damien surmattu|Damien morto|Дэмиен убит|已杀死达米安|ダミアンが殺されました|데미언 처치.|Damien wurde getoetet
+[KARP OF DOOM]||||||||
+quest_name_1033|Corrupted Statues|Korruptoituneet patsaat|Estátuas corrompidas|Поврежденные статуи|腐败的雕像|壊れた彫像|부패한 조각상|Verderbte Statuen
+quest_description_1033|Destroy corrupted statues around Mt. Fuji and Misty Swamps.|||||||
+quest_objective_1033_1|Corrupted statues destroyed|Patsasta tuhottu|Estátuas corrompidas destruídas|Поврежденные статуи уничтожены|损坏的雕像被摧毁|壊れた彫像が破壊された|타락한 조각상 파괴|Verderbte Statuen zerstört
+||||||||
+quest_name_1034|Stop the Invasion|Pysäytä tunkeutujat|Pare a invasão|Остановить вторжение|阻止入侵|侵略を止める|침략을 중지|Stoppen Sie die Invasion
+quest_description_1034|Bomb the ships at the edge of Fuji Coast!|Pommita veneitä tason V alueen III laidalla.|Bombardeie os navios na borda da Act V Zone III.|Бомбить корабли на краю Акта V Зона III.|轰炸第五战 区边缘的船只。|幕 V ゾーン III の端に船を爆撃します。|액트 V 구역 III의 가장자리에서 배를 폭격.|Bombardieren Sie die Schiffe am Rande von Act V Zone III.
+quest_objective_1034_1|Ships sunk|Venettä upotettu|Navios afundados|Корабли потоплены|船舶沉没|沈没した船|선박 침몰|Schiffe versenkt
+||||||||
+quest_name_1035|We Feast on Fish|Kalasaalis|Nós nos banqueteamos com peixes|Мы наслаждаемся рыбой|我们吃鱼|魚を食べる|우리는 물고기를 잔치|Wir essen Fisch
+quest_description_1035|Capture fishes with fish trap in the Sea of Karponia and  Temple of Zamjo.|Saalista kalaa kala-ansalla tason V alueella IV tai V.|Capturar peixes com armadilha de peixes na Act V, Zona IV ou V.|Ловите рыбу с ловушкой в Акте V, Зоне IV или V.|在第 V 区 IV 或 V 区使用诱捕 器捕获鱼类。|幕 V ゾーン IV または V のフィッシュ トラップで魚 を捕まえます。|행위 V 영역 IV 또는 V에서 물고기 함정으로 물고기를 잡습니다.|Fangen Sie Fische mit Fischfalle in Akt V Zone IV oder V.
+quest_objective_1035_1|Fishes captured|Kalaa|Peixes capturados|Рыбы пойманы|捕获的鱼|捕獲した魚|잡은 물고기|Fische gefangen
+||||||||
+quest_name_1036|Sushi Time!|Sushi-aika!|Hora do sushi!|Время суши!|寿司时间！|寿司タイム！|스시 시간!|Sushi-Zeit!
+quest_description_1036|Kill Karp King in the Emperor’s Chamber!|||||||
+quest_objective_1036_1|Karp King killed|Karppikuningas surmattu|Karp King morto|Карп Кинг убит|卡普·金被杀|殺されたカープキング|잉어 왕 사망|Karp King getötet
+[DEPTHS OF HELL]||||||||
+quest_name_1037|Preparation|Valmistautuminen|Preparação|Подготовка|制备|準備|예비|Vorbereitung
+quest_description_1037|Collect essence and retrieve Book of Command from the Graveyard!|||||||
+quest_objective_1037_1|Book of Command|Komentokirja|Livro de Comando|Книга командования|命令书|支配の書|커맨드 북|Buch der Beherrschung
+quest_objective_1037_2|Essence|Esanssia|Essência|Сущность|本质|エッセンス|본질|Essenz
+||||||||
+quest_name_1038|Shut Down|Sammutus|Desligar|Неисправность|关掉|シャットダウン|셧다운|Herunterfahren
+quest_description_1038|Close demonic portals around the Cathedral and Prison|||||||
+quest_objective_1038_1|Portals closed|Portaalia suljettu|Portais fechados|Порталы закрыты|门户关闭|閉じたポータル|포털 폐쇄|Portale geschlossen
+||||||||
+quest_name_1039|Highway to Hell|Valtatie Helvettiin|Estrada para o inferno|Шоссе в ад|通向地狱的公路|地獄へのハイウエイ|지옥으로가는 고속도로|Autobahn zur Hölle
+quest_description_1039|Clear cogs out of mysterious vines in the Steam Train.|||||||
+quest_objective_1039_1|Cogs cleared|Rattaita puhdistettu|Rodas dentadas limpas|Винтики очищены|齿轮已清除|クリアされた歯車|톱니가 깨끗해짐|Zahnräder geräumt
+||||||||
+quest_name_1040|Summon Satan|Kutsu Saatana|Convocar Satanás|Призвать сатану|召唤撒旦|サタン召喚|사탄 소환|Beschwöre Satan
+quest_description_1040|Kill Satan in the Seventh Layer of Hell!|||||||
+quest_objective_1040_1|Satan killed|Saatana surmattu|Satanás matou|Сатана убит|撒旦被杀|サタンが殺された|사탄이 살해되다|Satan getötet
+[WRATH OF MEVIUS]||||||||
+quest_name_1041|Technology is Great|Teknologia on siistiä|A tecnologia é ótima|Технология отличная|技术很棒|テクノロジーは素晴らしい|기술은 대단하다|Technologie ist großartig
+quest_description_1041|Suck black holes with Sucker-5000 in Act VII Zone I.|Ime mustia-aukkoja Imuri-5000:lla tason VII alueella I.|Chupe buracos negros com Otário-5000 na Act VII Zona I.|Соси черные дыры с Присоска-5000 в акте VII зоны I.|在第七幕 I 区使用 吸力枪-5000 吸黑洞。|幕 VII ゾーン I の サッカー-5000 で ブラックホール を吸います。|행위 VII 영역 I에서 써커-5000으로 블랙홀을 빨아들입니다.|Saugen Sie schwarze Löcher mit Sauger-5000 in Akt VII Zone I.
+quest_objective_1041_1|Black holes captured|Mustaa-aukkoa kaapattu|Buracos negros capturados|Черные дыры захвачены|黑洞被捕获|捕獲されたブラックホール|블랙홀 캡처|Schwarze Löcher gefangen
+||||||||
+quest_name_1042|Lock & Load!|Lataa ja varmista!|Bloquear e carregar!|Блокировка и загрузка!|锁定并加载！|ロックしてロード！|잠금 및로드!|Sichern und Laden!
+quest_description_1042|Use Sucker-5000-B to capture enemies in Act VII Zone II or III.|Kaappaa vihollisia Imuri-5000-B:llä tason VII alueella II tai III.|Usar Otário-5000-B para capturar inimigos na Act VII Zona II ou III.|Используйте Присоска-5000-B, чтобы захватить врагов в акте VII зоны II или III.|使用 吸力枪-5000-B 捕获第七幕 II 区或 III 区的敌人。|サッカー-5000-B を使用して、 幕 VII ゾーン II または III の敵をキャプ チャします。|써커-5000-B를 사용하여 행동 VII 구역 II 또는 III에서 적을 사로 잡으십시오.|Verwenden Sie Sauger-5000-B, um Feinde in Akt VII Zone II oder III zu fangen.
+quest_objective_1042_1|Enemies captured|Vihollista kaapattu|Inimigos capturados|Враги захвачены|被捕获的敌人|捕獲された敵|적군|Feinde gefangen genommen
+||||||||
+quest_name_1043|Clear the Area!|Tyhjentäkää alue!|Limpe a área!|Очистить область!|清理区域！|エリアをクリアしてください！|지역을 비워 라!|Räumen Sie den Bereich!
+quest_description_1043|Kill enemies in Act VII Zone IV and V.|Surmaa vihollisia tason VII alueilla IV ja V.|Mate inimigos no ATO VII, Zona IV e V.|Убить врагов в акте VII зоны IV и V.|在第 VII 区 IV 和 V 区杀死敌人。|幕 VII ゾーン IV および V で敵を倒す。|행동 VII 존 IV와 V에서 적을 처치하십시오.|Töte Feinde in Akt VII Zone IV und V.
+quest_objective_1043_1|Ghost skeleton|Haamuluurankoa|Esqueleto fantasma|Призрачный скелет|鬼骨架|ゴーストスケルトン|유령 해골|Geisterskelett
+quest_objective_1043_2|Ghost archer|Haamujousiampujaa|Arqueiro fantasma|Призрачный лучник|幽灵弓箭手|ゴーストアーチャー|유령 아처|Geisterbogenschütze
+quest_objective_1043_3|Armored knight|Haarniskaritaria|Cavaleiro blindado|Бронированный рыцарь|装甲的骑士|装甲騎士|기갑 기사|Gepanzerter Ritter
+quest_objective_1043_4|Headless butler|Päätöntä hovimestaria|Mordomo sem cabeça|Безголовый дворецкий|无头管家|首なし執事|헤드리스 버틀러|Kopfloser Butler
+||||||||
+quest_name_1044|Master of Destruction|Tuhon mestari|Mestre da destruição|Мастер Разрушения|毁灭大师|破壊のマスター|파괴의 대가|Meister der Zerstörung
+quest_description_1044|Kill Mevius in Act VII.|Surmaa Mevius tasossa VII.|Mate Mevius no ATO VII.|Убей Мевия в акте VII.|在第七幕中杀死 梅维乌斯。|幕 VII でメビウスを倒す。|행위 VII에서 메비우스를 처치하십시오.|Töte Mevius in Akt VII.
+quest_objective_1044_1|Mevius killed|Mevius surmattu|Mevius morto|Мевий убит|梅维乌斯被杀|メビウスは殺された|메비우스 사망|Mevius getötet
+||||||||
+||||||||
+||||||||
+[quest casting]||||||||
+quest_cook_meat|Cook Meat|||||||
+quest_cook_meat_action|Cooking delicious hog meat|||||||
+quest_dirt_dig|Dig|||||||
+quest_dirt_dig_action|Digging up dirt|||||||
+quest_lift_water|Use Well|||||||
+quest_lift_water_action|Lifting water from river Gjöll|||||||
+quest_potion_cauldron|Conjure Potion|||||||
+quest_potion_cauldron_action|Boiling ingredients|||||||
+quest_attach_wheel|Attach Wheel|||||||
+quest_attach_wheel_action|Attaching wheel|||||||
+quest_harvest_pumpkin_action|Harvesting pumpkin|||||||
+quest_harvest_pumpkin|Pumpkin?|||||||
+quest_cook_maggot_stew|Boil the ingredients|||||||
+quest_cooking_maggot_stew|Making Maggot stew|||||||
+quest_gathering_herb|Gathering herbs...|||||||
+quest_gather_ginseng|Collect ginseng plant|||||||
+quest_gather_frost_dill|Collect Frost Dill|||||||
+quest_gather_loska|Collect Loska|||||||
+quest_gather_vermroot|Collect Vermroot|||||||
+quest_gather_fanglen|Collect Fanglen|||||||
+quest_inspect_track|Inspect track|||||||
+quest_inspecting|Inspecting...|||||||
+quest_skin_carnage|Skin Carnage's Hide|||||||
+quest_skinning|Skinning...|||||||
+quest_gather_devils_cabbage|Collect Devil's Cabbage|||||||
+quest_inspect_cart|Inspect Mining Cart|||||||
+quest_mend_hurrdurr|Attempt to heal Hurrdurr|||||||
+quest_mending_hurrdurr|Trying to save Hurrdurr|||||||
+quest_collect_bamboo|Rip Bamboo Sticks|||||||
+quest_collecting_bamboo|Taking sturdy bamboo|||||||
+quest_craft_rod|Craft Sturdy Fishing Rod|||||||
+quest_using_workbench|Crafting...|||||||
+quest_collect_spiderweb|Collect Spiderweb|||||||
+quest_collecting|Collecting...|||||||
+quest_inspect_metal_hook|Inspect Metal Hook|||||||
+quest_harvest_soul|Harvest Damned Soul|||||||
+quest_harvesting_soul|Harvesting soul...|||||||
+quest_seal_grave|Bless the Eternal Chalice|||||||
+quest_seal_grave_action|Purifying Damned Souls|||||||

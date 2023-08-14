@@ -1,0 +1,339 @@
+[zone]|en|fi|pt|ru|zh|ja|ko|de
+Act_01_Pregame|River of Inoya|Inoyan Joki|Rio de Inoya|Река Иноя|以诺亚之河|イノヤ川|이노야의 강|Fluss von Inoya
+Act_01_01|Outskirts of Inoya|Inoyan laidalla|Periferia de Inoya|Окраины Инои|伊诺亚郊区|イノヤの郊外|미노야 변두리|Außenbezirke von Inoya
+Act_01_02|Fields of Battle|Taistelutanner|Campos de batalha|Поле Битвы|战场之地|バトルのフィールド|전장|Schlachtfelder
+Act_01_03|The Pumpkin Patch|Kurpitsapelto|O remendo da abóbora|Тыквенное Поле|南瓜地|パンプキン・パッチ（かぼちゃ畑）|호박밭|Der Kürbis Aufnäher
+Act_01_04|Woodhill Plains|||||||
+Act_01_05|King's Garden|Kuninkaan puutarha|Jardim do rei|Королевский Сад|国王的花园|キングのガーデン|왕실 정원|Königsgarten
+||||||||
+Act_02_01|Crystal Village|Kristallikylä|Vila de Crystal|Кристальная Деревня|水晶村庄|クリスタル・ビレッジ|크리스탈 마을|Kristalldorf
+Act_02_02|Chilling Lake|Hyytävä järvi|Lago frio|Замерзшее Озеро|寒冷之湖|チリング・レーク（寒冷の湖）|얼어붙은 호수|Kühlender See
+Act_02_03|Arctic Tundra|Arktinen tundra|Tundra ártica|Арктическая Тундра|北极冻土圈|北極ツンドラ|북극 툰드라|Arktische Tundra
+Act_02_04|Snowy Mountains|Lumivuoret|Montanhas nevadas|Снежные Горы|雪山|雪山|설산|Verschneite Berge
+Act_02_05|The Glacial Trail|Jäätikön Polku|Trilha Glacial|Ледниковая тропа|冰川足迹|氷河トレイル|빙하 흔적|Gletscherweg
+||||||||
+Act_03_01|Mos'Arathim Village|Mos'Arathim kylä|Vila de Mos'Arathim|Деревня Мос'Арасим|莫斯阿斯玛村庄|モスアスマ村落|모스'아라팀 마을|Mos'Arathim Dorf
+Act_03_02|Dry Hills|Kuivat kukkulat|Colinas de Dry|Сухие Холмы|干燥丘陵|ドライ・ヒルズ|메마른 언덕|Trockene Hügel
+Act_03_03|Mos'Arathim Desert|Mos'Arathim aavikko|Deserto de Mos'Arathim|Пустыня Мос'Арасим|莫斯阿斯玛沙漠|モスアスマ砂漠|모스'아라팀 사막|Mos'Arathim-Wüste
+Act_03_04|Pyramid Level 1|Pyramidi taso 1|Pirâmide Nível 1|Пирамида, Уровень 1|金字塔1层|ピラミッドの1階|피라미드 1층|Pyramide Stufe 1
+Act_03_05|Pyramid Level 2|Pyramidi taso 2|Pirâmide Nível 2|Пирамида, Уровень 2|金字塔2层|ピラミッドの2階|피라미드 2층|Pyramide Stufe 2
+||||||||
+Act_04_01|Old Mining Village|Vanha kaivoskylä|Velha Aldeia de Mineração|Старая шахтерская деревня|旧矿村|旧い鉱業村|오래된 광산 마을|Altes Bergbau-Dorf
+Act_04_02|The Highland Mines|Ylängön kaivos|As minas de Highland|Горные Шахты|高地矿场|高原鉱区|고지 광산|Die Highland Minen
+Act_04_03|Corrupted Cave|Korruptoitunut luola|Caverna Corrompida|Оскверненная пещера|腐化洞穴|壊れた洞窟|타락한 동굴|Verderbte Höhle
+Act_04_04|The Nightmare|Painajainen|O pesadelo|Кошмар|梦魇|ナイトメア|나이트메어|Der Alptraum
+Act_04_05|The Devil's Breach|Paholaisen aukko|A Violação do Diabo|Дьявольский Разлом|恶魔突破口|悪魔の突破口|악마의 골짜기|Teufelsbruch
+||||||||
+Act_05_01|Mt. Fuji|Fuji vuori|Mt. Fuji|Гора Фудзи|富士山|富士山|후지산|Fuji Berg
+Act_05_02|Misty Swamp|Sumuinen suo|Pântano enevoado|Туманное Болото|迷雾沼泽|ミスティ・スワンプ|안개 낀 늪|Nebliger Sumpf
+Act_05_03|Fuji Coast|Fujin rannikko|Costa Fuji|Побережье реки Фудзи|富士海岸|富士海岸|후지 해변|Fuji-Küste
+Act_05_04|Sea of Karponia|Karponian meri|Mar de Karponia|Море Карпонии|卡普尼亚之海|カルポニアの海|잉오니아의 바다|Karponisches Meer
+Act_05_05|Temple of Zamjo|Zamjon temppeli|Templo de Zamjo|Храм Замьё|山庙|ザンジョーの神殿|잠조의 사원|Tempel von Zamjo
+||||||||
+Act_06_01|Highland Graveyard|Ylängön hautuumaa|Cemitério das montanhas|Горное Кладбище|墓园高地|高原墓地|고원 묘지|Highland-Friedhof
+Act_06_02|The Cathedral|Katedraali|A Catedral|Собор|大教堂|大聖堂|성당|Die Kathedrale
+Act_06_03|Prison Dungeon|Vankityrmä|Masmorra da prisão|Подземелья Тюрьмы|监狱地牢|プリズン・ダンジョン|지하 감옥|Gefängnis-Verlies
+Act_06_04|Steam Train|Höyryjuna|Comboio a vapor|Паровоз|蒸汽火车|蒸気機関車|증기 기관차|Dampfzug
+Act_06_05|The Depths of Hell|Helvetin syöverit|As profundezas do inferno|Глубины Ада|地狱深处|地獄の奥底|지옥의 끝|Die Tiefen der Hölle
+||||||||
+Act_07_01|Deep Space|Syvä Avaruus|Espaço Profundo|Глубокий Космос|深空|ディープスペース|깊은 공간|Tiefer Raum
+Act_07_02|Event Horizon|Tapahtumahorisontti|Horizonte de Eventos|Горизонт Событий|视界|イベントホライズン|사상의 지평선|Event-Horizont
+Act_07_03|The Black Hole|Musta Aukko|O Buraco Negro|Чёрная Дыра|黑洞|ブラックホール|블랙홀|Das schwarze Loch
+Act_07_04|Parallel Dimension|Vastakkainen Todellisuus|Dimensão Paralela|Параллельное Измерение|平行维度|パラレルディメンション|평행 차원|Paralleldimension
+Act_07_05|Subconscious Mind|Alitajunta|Subconsciente|Подсознание|潜意识思想|潜在意識|잠재 의식|Unterbewusstsein
+||||||||
+Act_08_01|Forest of the Slain|Surmattujen metsä|Floresta dos Mortos|Лес Павших|被杀死的森林|殺された森|학살의 숲|Wald der Erschlagenen
+Act_08_02|Flooded Plains|Tulinut tasanko|Planícies Inundadas|Затопленные Равнины|泛滥的平原|氾濫した平原|침수 평야|Überflutete Ebenen
+Act_08_03|Forgotten Caves|Unohdetut luolat|Cavernas Esquecidas|Забытые Пещеры|被遗忘的洞穴|忘れられた洞窟|잊혀진 동굴|Vergessene Höhlen
+Act_08_04|Camp of Souls|Sielujen leiri|Acampamento das almas|Лагерь Душ|灵魂营|魂のキャンプ|영혼의 캠프|Lager der Seelen
+Act_08_05|Helheim|Helheim|Helheim|Хельхейм|海尔海姆|ヘルヘイム|헬헤임|Helheim
+||||||||
+Act_08_Valkyrie|Plain of Ida|Idan tasanko|Plain of Ida|Plain of Ida|Plain of Ida|Plain of Ida|Plain of Ida|Plain of Ida
+Act_08_Valhalla|Gates of Valhalla|Valhallan portit|Portões de Valhalla|Врата Вальхаллы|瓦尔哈拉之门|ヴァルハラの門|발할라의 문|Tore von Walhalla
+Act_08_River|River Gjöll|Gjöll-joki|Rio Gjöll|Река Гьёлль|杰尔河|ギョッル川|Gjöll 강|Fluss Gjöll
+Act_08_Mevius_Intro|Memory of Mevius|Meviuksen muisto|Memória de Mevius|Память Мевиуса|记忆的Mevius|メビウスの記憶|뫼비우스의 기억|Erinnerung an Mevius
+Act_08_Helheim|Gates of Helheim|Helheimin portti|Gates of Helheim|Gates of Helheim|Gates of Helheim|Gates of Helheim|Gates of Helheim|Gates of Helheim
+Grindfest_Orres_Lair_rm|Örre's Lair|Örren pesä|Örre's Lair|Örre's Lair|Örre's Lair|Örre's Lair|Örre's Lair|Örre's Lair
+Act_08_03_TrollQuest_Room_rm|Refugee Camp|Pakolaisleiri|Refugee Camp|Refugee Camp|Refugee Camp|Refugee Camp|Refugee Camp|Refugee Camp
+||||||||
+Act_01_Boss|King's Throne|||||||
+Act_02_Boss|Death’s Breach|||||||
+Act_03_Boss|Tomb of the Fallen King|||||||
+Act_04_Boss|Altar of Lost Souls|||||||
+Act_05_Boss|Emperor’s Chamber|||||||
+Act_06_Boss|Seventh Layer of Hell|Helvetin seitsemäs taso|Sétima camada do inferno|Седьмой Круг Ада|地狱第七层|地獄の第七層|지옥의 7층|Siebte Schicht der Hölle
+Act_07_Boss|The Verge of Insanity|Hulluuden Raja|El borde de la Locura|Грань Безумия|疯狂的边缘|狂気の瀬戸際|광기의 직전|Der Rand des Wahnsinns
+Act_08_Boss|Throne of Helheim|||||||
+||||||||
+Act_01_Boss_Dungeon_01|Northern Post|||||||
+Act_01_Boss_Dungeon_02|Old Mausoleum|||||||
+Act_01_Boss_Dungeon_03|King’s Tomb|||||||
+||||||||
+Act_02_Boss_Dungeon_01|Glacial Trail|||||||
+Act_02_Boss_Dungeon_02|Freezing Steppes|||||||
+Act_02_Boss_Dungeon_03|Frozen Dungeon|||||||
+||||||||
+Act_03_Boss_Dungeon_01|Sewers of Mos’Arathim|||||||
+Act_03_Boss_Dungeon_02|Ra’s Labyrinth|||||||
+Act_03_Boss_Dungeon_03|Tomb of Ancients|||||||
+||||||||
+Act_04_Boss_Dungeon_01|Lair of Corruption|||||||
+Act_04_Boss_Dungeon_02|Maze of Shadows|||||||
+Act_04_Boss_Dungeon_03|Chamber of Burning Souls|||||||
+||||||||
+Act_05_Boss_Dungeon_01|Temple of Fishes|||||||
+Act_05_Boss_Dungeon_02|Underground Trench|||||||
+Act_05_Boss_Dungeon_03|The Sacred Temple|||||||
+||||||||
+Act_06_Boss_Dungeon_01|Hollowing Sanctuary|||||||
+Act_06_Boss_Dungeon_02|Sacrilegious Chappel|||||||
+Act_06_Boss_Dungeon_03|Pathway to Hell|||||||
+||||||||
+Act_07_Boss_Dungeon_01|The Void|||||||
+Act_07_Boss_Dungeon_02|Pathway of Souls|||||||
+Act_07_Boss_Dungeon_03|The Waiting Room|||||||
+||||||||
+Act_08_Boss_Dungeon_01|Ruins of Helheim|Helheimin Rauniot|Ruins of Helheim|Ruins of Helheim|Ruins of Helheim|Ruins of Helheim|Ruins of Helheim|Ruins of Helheim
+Act_08_Boss_Dungeon_02|Helheim Channel|||||||
+Act_08_Boss_Dungeon_03|Vault of Ancients|||||||
+||||||||
+Town_01_rm|Town of Inoya|Inoyan kylä|Cidade de Inoya|Город Иноя|伊诺亚小镇|イノヤ町|이노야 마을|Stadt Inoya
+Town_02_rm|Danethorpe|Danethorpe|Danethorpe|Данеторп|邓恩斯洛普|デーンソープ|데인소프|Danethorpe
+Town_03_rm|Village of Mos'Arathim|Mos'Arathimin Kylä|Vila de Mos'Arathim|Деревня Мос'Арасим|摩斯奥拉斯姆村|モス・アラティム村|Mos'Arathim의 마을|Dorf von Mos'Arathim
+Town_04_rm|Dhorn Farum|Dhorn Farum|Dhorn Farum|Дорн Фарум|迪霍法洛姆|ドーン・ファルム|돈 파룸|Dhorn Farum
+Town_05_rm|Shujo Retreat|Shujon piilo|Retiro de Shujo|Лагерь Щуджё|修礁度假村|シュジョー・リトリート|슈조 휴양소|Shujo-Zuflucht
+Town_06_rm|Dawn's Chapel|Aamun kappeli|Capela Dawn|Храм Рассвета|黎明的礼拜堂|夜明けのチャペル|새벽의 채플|Kapelle von Dawn
+Town_07_rm|Astral Encampment|Astraalileiri|Acampamento Astral|Астральный Лагерь|星际营地|星の野営|별의 야영지|Astrales Feldlager
+||||||||
+Uber_Inoya_rm|Fallen Inoya|Tuhottu Inoya|Queda de inoya|Руины Иноя|陷落的伊诺亚|陥落したイノヤ|파괴된 이노야|Gefallenes Inoya
+Sheep_rm|Sheeponia|Lampola|Sheeponia|Шипония|什普尼亚|シエポニア|양오니아|Sheeponia
+PVP_Arena_1_rm|Battlefield|Taistelutanner|Campo de batalha|Поле битвы|战场|戦場|교전지|Schlachtfeld
+Anniversary_rm|Old Tarethiel|Vanha Tarethiel|Velho Tarethiel|Старый Таретиэль|古老的塔雷蒂尔|老タレティエル|올드 타레티엘|Altes Tarethiel
+Player_Hideout_rm|Player Hideout|Pelaajan piilopaikka|Esconderijo do jogador|Убежище|玩家藏身处|プレイヤーハイドアウト|플레이어 은신처|Spielerversteck
+||||||||
+Black_Tower_01_rm|Black Tower Level 1|Pimeä Torni Taso 1|Torre Negra Nível 1|Черная Башня, Уровень 1|黑塔 1级|黒の塔レベル 1|검은 탑 레벨 1|Schwarzer Turm Level 1
+Black_Tower_02_rm|Black Tower Level 2|Pimeä Torni Taso 2|Torre Negra Nível 2|Черная Башня, Уровень 2|黑塔 2级|黒の塔レベル 2|검은 탑 레벨 2|Schwarzer Turm Level 2
+Black_Tower_03_rm|Black Tower Level 3|Pimeä Torni Taso 3|Torre Negra Nível 3|Черная Башня, Уровень 3|黑塔 3级|黒の塔レベル 3|검은 탑 레벨 3|Schwarzer Turm Level 3
+Black_Tower_04_rm|Black Tower Level 4|Pimeä Torni Taso 4|Torre Negra Nível 4|Черная Башня, Уровень 4|黑塔 3级|黒の塔レベル 4|검은 탑 레벨 4|Schwarzer Turm Level 4
+Black_Tower_05_rm|Black Tower Level 5|Pimeä Torni Taso 5|Torre Negra Nível 5|Черная Башня, Уровень 5|黑塔 3级|黒の塔レベル 5|검은 탑 레벨 5|Schwarzer Turm Level 5
+||||||||
+Rat_Den_01_rm|Rat Den Level 1|Rottaluola Taso 1|Toca do Rato Nível 1|Крысиное Логово, Уровень 1|鼠洞 1级|ドブネズミの巣窟レベル 1|쥐 동굴 레벨 1|Rattenbau Level 1
+Rat_Den_02_rm|Rat Den Level 2|Rottaluola Taso 2|Toca do Rato Nível 2|Крысиное Логово, Уровень 2|鼠洞 2级|ドブネズミの巣窟レベル 2|쥐 동굴 레벨 2|Rattenbau Level 2
+||||||||
+Frozen_Cellar_01_rm|Frozen Cellar Level 1|Jäätynyt Kellari Taso 1|Porão Congelado Nível 1|Ледяной Подвал, Уровень 1|冻地窖1级|フローズンセラー レベル1|냉동 저장실 레벨 1|Gefrorener Keller Level 1
+Frozen_Cellar_02_rm|Frozen Cellar Level 2|Jäätynyt Kellari Taso 2|Porão Congelado Nível 2|Ледяной Подвал, Уровень 2|冻地窖2级|フローズンセラー レベル2|냉동 저장실 레벨 2|Gefrorener Keller Level 2
+||||||||
+Pumpkin_Cellar_01_rm|Pumpkin Cellar Level 1|Kurpitsakellari Taso 1|Porão de Abóbora Nível 1|Тыквенный Погреб, Уровень 2|南瓜地下室1级|パンプキンセラー レベル1|호박 저장실 레벨 1|Kürbiskeller Level 1
+Pumpkin_Cellar_02_rm|Pumpkin Cellar Level 2|Kurpitsakellari Taso 2|Porão de Abóbora Nível Level 2|Тыквенный Погреб, Уровень 2|南瓜地下室2级|パンプキンセラー レベル2|호박 저장실 레벨 2|Kürbiskeller Level 2
+||||||||
+Abandoned_Mine_01_rm|Abandoned Mine|Hylätty Kaivos|Mina Abandonada|Заброшенная Шахта|废弃矿井|廃坑|버려진 광산|Verlassene Mine
+||||||||
+Forgotten_City_01_rm|Forgotten City Level 1|Kadonnut Kaupunki Taso 1|Cidade Esquecida Nível 1|Затерянный Город, Уровень 1|被遗忘的城市1级|忘却都市 レベル1|잊혀진 도시 레벨 1|Vergessene Stadt Level 1
+Forgotten_City_02_rm|Forgotten City Level 2|Kadonnut Kaupunki Taso 2|Cidade Esquecida Nível 2|Затерянный Город, Уровень 2|被遗忘的城市2级|忘却都市 レベル2|잊혀진 도시 레벨 2|Vergessene Stadt Level 2
+||||||||
+Ancient_City_01_rm|Ancient City Level 1|Muinainen kaupunki, taso 1|Cidade Antiga Nível 1|Древний Город, Уровень 1|1级古城|古代都市レベル1|고대 도시 레벨 1|Antike Stadt Level 1
+Ancient_City_02_rm|Ancient City Level 2|Muinainen kaupunki, taso 2|Cidade Antiga Nível 2|Древний Город, Уровень 2|2级古城|古代都市レベル2|고대 도시 레벨 2|Antike Stadt Level 2
+Ancient_City_03_rm|Ancient City Level 3|Muinainen kaupunki, taso 3|Cidade Antiga Nível 3|Древний Город, Уровень 3|3级古城|古代都市レベル3|고대 도시 레벨 3|Antike Stadt Level 3
+||||||||
+Sand_Cave_01_rm|Sand Cave Level 1|Hiekkaluola, taso 1|Caverna de Areia Nível 1|Песчаная Пещера, Уровень 1|沙洞1级|砂の洞窟レベル1|모래 동굴 레벨 1|Sandhöhle Level 1
+Sand_Cave_02_rm|Sand Cave Level 2|Hiekkaluola, taso 2|Sand Cave Nível 2|Песчаная Пещера, Уровень 2|沙洞2级|砂の洞窟レベル2|모래 동굴 2 층|Sandhöhle Level 2
+||||||||
+Cauflax_Tomb_01_rm|Cauflax Tomb Level 1|Cauflax-hauta, taso 1|Tumba Cauflax Nível 1|Гробница Кауфлакс, Уровень 1|卡夫拉克斯墓1级|コーフラックスの墓レベル1|Cauflax 무덤 레벨 1|Cauflax Grab Level 1
+Cauflax_Tomb_02_rm|Cauflax Tomb Level 2|Cauflax-hauta, taso 2|Túmulo Cauflax Nível 2|Гробница Кауфлакс, Уровень 2|卡夫拉克斯墓2级|コーフラックスの墓レベル2|Cauflax 무덤 2 층|Cauflax Grab Level 2
+Cauflax_Tomb_03_rm|Cauflax Tomb Level 3|Cauflax-hauta, taso 3|Tumba Cauflax Nível 3|Гробница Кауфлакс, Уровень 3|卡夫拉克斯墓3级|コーフラックスの墓レベル3|Cauflax 무덤 레벨 3|Cauflax Grab Level 3
+||||||||
+Devils_Hole_01_rm|Devil's Hole Level 1|Paholaisen reikä, taso 1|Buraco do Diabo Nível 1|Дьявольская Дыра, Уровень 1|魔鬼之穴1级|悪魔の穴レベル1|악마의 구멍 레벨 1|Teufelsloch Stufe 1
+Devils_Hole_02_rm|Devil's Hole Level 2|Paholaisen reikä, taso 2|Buraco do Diabo Nível 2|Дьявольская Дыра, Уровень 2|魔鬼之穴2级|デビルズホールレベル2|악마의 구멍 레벨 2|Teufelsloch Stufe 2
+Devils_Hole_03_rm|Devil's Hole Level 3|Paholaisen reikä, taso 3|Devil's Hole Nível 3|Дьявольская Дыра, Уровень 3|魔鬼之洞3级|デビルズホールレベル3|악마의 구멍 레벨 3|Teufelsloch Stufe 3
+||||||||
+Fuji_Crater_01_rm|Fuji Crater Level 1|Fuji-kraatteri, taso 1|Nível 1 da cratera Fuji|Кратер горы Фудзи, Уровень 1|富士火山口1级|富士クレーターレベル1|후지 분화구 레벨 1|Fuji-Krater Stufe 1
+Fuji_Crater_02_rm|Fuji Crater Level 2|Fuji-kraatteri, taso 2|Nível 2 da cratera Fuji|Кратер горы Фудзи, Уровень 2|富士陨石坑2级|富士クレーターレベル2|후지 분화구 레벨 2|Fuji-Krater Stufe 2
+||||||||
+Kaojin_Temple_01_rm|Kaojin Temple 1|Kaojinin temppeli|Kaojin Temple|Храм Каоджин|Kaojin Temple|Kaojin Temple|Kaojin Temple|Kaojin Temple
+Kaojin_Temple_02_rm|Kaojin Temple 2|Kaojinin temppeli|Kaojin Temple|Храм Каоджин|Kaojin Temple|Kaojin Temple|Kaojin Temple|Kaojin Temple
+||||||||
+Underground_Garden_01_rm|Underground Garden 1|Maanalainen Puutarha 1|Underground Garden 1|Underground Garden 1|Underground Garden 1|Underground Garden 1|Underground Garden 1|Underground Garden 1
+Underground_Garden_02_rm|Underground Garden 2|Maanalainen Puutarha 2|Underground Garden 2|Underground Garden 2|Underground Garden 2|Underground Garden 2|Underground Garden 2|Underground Garden 2
+Underground_Garden_03_rm|Underground Garden 3|Maanalainen Puutarha 3|Underground Garden 3|Underground Garden 3|Underground Garden 3|Underground Garden 3|Underground Garden 3|Underground Garden 3
+Underground_Garden_04_rm|Underground Garden 4|Maanalainen Puutarha 4|Underground Garden 4|Underground Garden 4|Underground Garden 4|Underground Garden 4|Underground Garden 4|Underground Garden 4
+Underground_Garden_05_rm|Underground Garden 5|Maanalainen Puutarha 5|Underground Garden 5|Underground Garden 5|Underground Garden 5|Underground Garden 5|Underground Garden 5|Underground Garden 5
+||||||||
+Temple_Trapdoor_01_rm|Temple Trapdoor 1|Temppelin Luukku 1|Temple Trapdoor 1|Temple Trapdoor 1|Temple Trapdoor 1|Temple Trapdoor 1|Temple Trapdoor 1|Temple Trapdoor 1
+Temple_Trapdoor_02_rm|Temple Trapdoor 2|Temppelin Luukku 2|Temple Trapdoor 2|Temple Trapdoor 2|Temple Trapdoor 2|Temple Trapdoor 2|Temple Trapdoor 2|Temple Trapdoor 2
+||||||||
+Unmarked_Grave_1_rm|Unmarked Grave 1|Merkitsemätön Hauta 1|Unmarked Grave 1|Unmarked Grave 1|Unmarked Grave 1|Unmarked Grave 1|Unmarked Grave 1|Unmarked Grave 1
+Unmarked_Grave_2_rm|Unmarked Grave 2|Merkitsemätön Hauta 2|Unmarked Grave 2|Unmarked Grave 2|Unmarked Grave 2|Unmarked Grave 2|Unmarked Grave 2|Unmarked Grave 2
+||||||||
+Distorted_Horizons_01_rm|Distorted Horizon 1|Vääristynyt Horisontti 1|Distorted Horizon 1|Distorted Horizon 1|Distorted Horizon 1|Distorted Horizon 1|Distorted Horizon 1|Distorted Horizon 1
+Distorted_Horizons_02_rm|Distorted Horizon 2|Vääristynyt Horisontti 2|Distorted Horizon 2|Distorted Horizon 2|Distorted Horizon 2|Distorted Horizon 2|Distorted Horizon 2|Distorted Horizon 2
+||||||||
+Arm_Storage_01_rm|Arm Storage|Asevarasto|Arm Storage|Arm Storage|Arm Storage|Arm Storage|Arm Storage|Arm Storage
+Arm_Storage_Easter_egg_rm|Hidden Storage Cabinet|Piilotettu Varastokaappi|Hidden Storage Cabinet|Hidden Storage Cabinet|Hidden Storage Cabinet|Hidden Storage Cabinet|Hidden Storage Cabinet|Hidden Storage Cabinet
+||||||||
+Niflhel_01_rm|Niflhel|Niflhel|Niflhel|Niflhel|Niflhel|Niflhel|Niflhel|Niflhel
+||||||||
+Muspelheim_01_rm|Muspelheim|Muspelheim|Muspelheim|Muspelheim|Muspelheim|Muspelheim|Muspelheim|Muspelheim
+||||||||
+Naga_Temple_01_rm|Naga Temple 1|Naga Temple 1|Naga Temple 1|Naga Temple 1|Naga Temple 1|Naga Temple 1|Naga Temple 1|Naga Temple 1
+Naga_Temple_02_rm|Naga Temple 2|Naga Temple 2|Naga Temple 2|Naga Temple 2|Naga Temple 2|Naga Temple 2|Naga Temple 2|Naga Temple 2
+||||||||
+Gladsheim_Halls_01_rm|Gladsheim Halls 1|Gladsheim Halls 1|Gladsheim Halls 1|Gladsheim Halls 1|Gladsheim Halls 1|Gladsheim Halls 1|Gladsheim Halls 1|Gladsheim Halls 1
+Gladsheim_Halls_02_rm|Gladsheim Halls 2|Gladsheim Halls 2|Gladsheim Halls 2|Gladsheim Halls 2|Gladsheim Halls 2|Gladsheim Halls 2|Gladsheim Halls 2|Gladsheim Halls 2
+||||||||
+Bifrost_rm|Bifröst|Bifröst|Bifröst|Bifröst|Bifröst|Bifröst|Bifröst|Bifröst
+Vanaheim_rm|Vanaheim|Vanaheim|Vanaheim|Vanaheim|Vanaheim|Vanaheim|Vanaheim|Vanaheim
+Asgard_rm|Asgard|Asgard|Asgard|Asgard|Asgard|Asgard|Asgard|Asgard
+Niflheim_rm|Niflheim|Niflheim|Niflheim|Niflheim|Niflheim|Niflheim|Niflheim|Niflheim
+Mists_of_Chaos_rm|Mists of Chaos|Mists of Chaos|Mists of Chaos|Mists of Chaos|Mists of Chaos|Mists of Chaos|Mists of Chaos|Mists of Chaos
+||||||||
+xmas_dungeon_1_rm|North Pole|North Pole|North Pole|North Pole|North Pole|North Pole|North Pole|North Pole
+xmas_dungeon_2_rm|Santa's Hut|Santa's Hut|Santa's Hut|Santa's Hut|Santa's Hut|Santa's Hut|Santa's Hut|Santa's Hut
+||||||||
+Rift_Void_rm|[redacted]|[redaktoitu]|[redigido]|[отредактировано]|[已编辑]|[編集済み]|[수정]|[redigiert]
+Rift_Treasure_rm|Rift of Fortune|Rikkauksien Repeämä|Fenda da fortuna|Разлом Богатства|时运|運命の裂け目|행운의 균열|Glücksbruch
+||||||||
+Old_Copper_Mine_1_rm|Old Copper Mine|Vanha kuparikaivos|Old Copper Mine|Old Copper Mine|Old Copper Mine|Old Copper Mine|Old Copper Mine|Old Copper Mine
+Angelic_Realm_rm|Angelic Realm|Angelic Realm|Angelic Realm|Angelic Realm|Angelic Realm|Angelic Realm|Angelic Realm|Angelic Realm
+Ruby_Gardens_rm|Ruby Gardens|Rubiinipuutarha|Jardins de Rubi|Рубиновые Сады|红宝石花园|ルビーガーデンズ|루비 정원|Rubinengärten
+Shadow_Realm_rm|Shadow Realm|Pimeyden valtakunta|Reino das Sombras|Царство Теней|影子王国|シャドーレルム|그림자 왕국|Schattenreich
+Shadow_Boss_rm|Reaper's Breach|Kuoleman tyyssija|Fenda do Ceifador|Разлом Смерти|死神的违反|リーパーズ･ブリーチ|사신의 위반|Übertritt des Sensenmanns
+||||||||
+crypt|Ancient Crypt|Muinainen krypta|Cripta antiga|Древний Склеп|古老的地下墓室|古代の地下室|고대의 납골당|Alte Krypta
+wormhole|Wormhole|Madonreikä|Buraco de minhoca|Червоточина|虫洞|ワームホール|웜홀|Wurmloch
+dungeon|Dungeon|Tyrmä|Masmorra|Подземелье|地牢|ダンジョン|던전|Verlies
+unstable_rift|Unstable Rift|Epävakaa Repeämä|Falha Instável|Нестабильный Разлом|活跃裂缝|不安定な裂け目|불안정한 움직임|Instabiler Riss
+||||||||
+Chaos_Tower_01|Cathedral's library|Katedraalin kirjasto|Biblioteca da catedral|Библиотека собора|大教堂的图书馆|大聖堂の図書館|대성당의 도서관|Kathedralenbibliothek
+Chaos_Tower_02|Garden|Puutarha|Jardim|Сад|花园|庭園|정원|Garten
+Chaos_Tower_03|Pillars|Pylväät|Pilares|Колонны|支柱|柱|기둥|Säulen
+Chaos_Tower_04|Dark Pits|Synkät kuopat|Poços Negros|Бездонные Ямы|黑坑|ダークピット|어두운 구덩이|Dunkle Gruben
+Chaos_Tower_05|Submerged|Upoksissa|Submerso|Затопленный|湮|水没|잠수함|Untergetaucht
+Chaos_Tower_06|Jungle|Viidakko|Selva|Джунгли|丛林|密林|밀림|Dschungel
+Chaos_Tower_07|Cemetery|Hautausmaa|Cemitério|Кладбище|公墓|墓地|묘지|Friedhof
+Chaos_Tower_08|Bloodpool|Veriallas|Piscina de sangue|Море Крови|血泊|血のプール|피 웅덩이|Blutpfütze
+Chaos_Tower_09|Floating ice|Kelluvat jäät|Gelo flutuante|Ледник|浮冰|浮氷|떠 다니는 얼음|Schwimmendes Eis
+Chaos_Tower_10|Dark forest|Synkkä metsä|Floresta Negra|Темный Лес|黑暗森林|暗い森|어두운 숲|Dunkler Wald
+Chaos_Tower_11|OMGEVERYTHINGISGREEN|VOIEIKAIKKIONVIHREÄÄ|TUDO É VERDE|ВСЕ ЗЕЛЕНОЕ|一切都是绿色的|すべてが緑です|모든 것이 녹색입니다|ALLES IST GRÜN
+Chaos_Tower_12|Traprealm|Ansamaailma|Reino da armadilha|Мир Ловушек|陷阱领域|トラップレルム|트랩 영역|Fallenreich
+Chaos_Tower_13|Ice spikes|Jääpiikit|Picos de gelo|Ледяные шипы|冰峰|氷のスパイク|얼음 스파이크|Eisspitzen
+Chaos_Tower_14|Steam Train? Again?|Höyryjuna? Taasko?|Comboio a vapor? Novamente?|Паровоз? Еще раз?|蒸汽火车？再次？|蒸気機関車？再び？|증기 기관차? 다시?|Dampflokomotive? Nochmal?
+Chaos_Tower_15|It's... Empty?|Se on... Tyhjä?|Está vazio?|Оно пустое?|它是空的？|空っぽです？|그건... 비어있어?|Es ist leer?
+Chaos_Tower_16|OMGEVERYTHINGISRED|VOIEIKAIKKIONPUNAISTA|TUDO É VERMELHO|ВСЕ КРАСНОЕ|一切都是红色的|すべてが赤です|모든 것이 빨간색입니다|ALLES IST ROT
+Chaos_Tower_17|Desert marketplace|Aavikon tori|Mercado do deserto|Рынок в пустыне|沙漠市场|デザートマーケットプレイス|사막 시장|Wüstenmarkt
+Chaos_Tower_18|Trippy Hippy Forest|Trippaava hippimetsä|Tropeçando na floresta hippie|Поляна Хиппи|跳嬉皮森林|ヒッピーの森をつまずく|히피 숲 배신|Hippie-Wald stolpern
+Chaos_Tower_19|Flower fields|Kukkapellot|Campos de flores|Цветочная Поляна|花田|花畑|꽃밭|Blumenfelder
+Chaos_Tower_20|Walls walls walls|Seiniä seiniä seiniä|Paredes paredes paredes|Стены Стены Стены|墙墙墙|壁壁壁|벽 벽 벽|Wände Wände Wände
+Chaos_Tower_21|Karp King's treasure room|Karppikuninkaan aarrehuone|Sala do tesouro de Karp King|Сокровищница Короля Карпов|卡普·金的宝藏室|カープキングの宝庫|Karp King의 보물 방|Karp Kings Schatzkammer
+Chaos_Tower_22|Half-Cut Forest|Hakkuualue|Floresta Meio Cortada|Полувырубленный лес|半切森林|ハーフカットフォレスト|하프 컷 포레스트|Halb geschnittener Wald
+Chaos_Tower_23|Volcanic Grounds|Tuliperäiset maastot|Terrenos Vulcânicos|Вулканические земли|火山地面|火山の敷地|화산 지대|Vulkangrund
+Chaos_Tower_24|It's just a regular village|Tämä on vain tavallinen kylä|É apenas uma vila normal|Просто обычная деревня|这只是一个普通的村庄|ただの普通の村です|그냥 평범한 마을|Es ist nur ein normales Dorf
+Chaos_Tower_25|It's just a snowy village|Tämä on vain luminen kylä|É apenas uma aldeia nevada|Просто заснеженная деревня|这只是一个白雪皑皑的村庄|ただの雪の村です|그냥 눈 덮인 마을|Es ist nur ein schneebedecktes Dorf
+Chaos_Tower_26|Pumpkin Fields|Kurpitsapellot|Campos de abóbora|Тыквенные поля|南瓜田|カボチャ畑|호박 밭|Kürbisfelder
+Chaos_Tower_27|Gurag's castle|Guragin linna|Castelo de Gurag|Замок Гурага|古拉格城堡|グラグの城|구라 그의 성|Gurags Schloss
+Chaos_Tower_28|Mine, it's all mine|Kaivos, kaikki on kaivosta|Mina é tudo mina|Добыча, моя добыча|矿业，都是矿业|鉱山、すべてが鉱山です。|탄광꺼, 다 탄광 꺼야|Bergwerk, es ist alles bergwerk
+Chaos_Tower_29|Fool's Inoya|Typeryksen Inoya|Inoya do tolo|Иная Иноя|愚人节|愚か者のいのや|바보의 이노 야|Narr Inoya
+Chaos_Tower_30|Death desert|Kuoleman aavikko|Deserto da morte|Пустыня Смерти|死亡沙漠|死の砂漠|죽음의 사막|Todeswüste
+Chaos_Tower_31|Blizzard On Mountain|Lumimyrsky vuoristossa|Nevasca na montanha|Метелица на Горе|暴风雪在山上|山の吹雪|산에 눈보라|Schneesturm am Berg
+Chaos_Tower_32|Dark Plain Field|Synkkä paljas pelto|Campo plano escuro|Поле Тьмы|黑暗平原|暗い平野|다크 플레인 필드|Dunkles einfaches Feld
+Chaos_Tower_33|Wailing woods|Itkumetsä|Bosque das Lamentações|Плачущий Лес|哭林|嘆きの森|울부 짖는 숲|Wehklagender Wald
+Chaos_Tower_34|Tomb of Anubis|Anubiksen hautakammio|Tumba de Anubis|Могила Анубиса|阿努比斯之墓|アヌビスの墓|아누비스의 무덤|Grab von Anubis
+Chaos_Tower_35|It's time to stop time|On aika pysäyttää aika|É hora de parar o tempo|Временная остановка времени|该停止时间了|時間を止める時が来た|시간을 멈출 시간이야|Es ist Zeit, die Zeit anzuhalten
+Chaos_Tower_36|Mariana Trench|Mariaanien hauta|Fossa das Marianas|Марианская Впадина|马里亚纳海沟|マリアナ海溝|마리아나 해구|Marianengraben
+Chaos_Tower_37|Eden|Eeden|Éden|Эдем|伊甸园|エデン|에덴 동산|Eden
+Chaos_Tower_38|Digging a hole|Kaivellen kuoppaa|Cavando um buraco|Яму копаем.|挖一个洞|穴を掘る|구멍 파기|Ein Loch graben
+Chaos_Tower_39|Submerged insanity|Upotettu hulluus|Insanidade submersa|Подводное безумие|淹没的精神错乱|水中の狂気|물에 잠긴 광기|Untergetauchter Wahnsinn
+Chaos_Tower_40|Hallucinations|Hallusinaatioita|Alucinações|Галлюцинации|幻觉|幻覚|환각|Halluzinationen
+Chaos_Tower_41|Jungle village|Viidakkokylä|Aldeia da selva|Деревня в джунглях|丛林村|ジャングルの村|정글 빌리지|Dschungeldorf
+Chaos_Tower_42|Candyland|Karkkila|Terra de doces|Конфетоляндия|糖果乐园|キャンディランド|사탕의 땅|Süßigkeitenland
+Chaos_Tower_43|The Pit|Monttu|O pit|Яма|坑|ピット|구덩이|Die Grube
+Chaos_Tower_44|1st floor of hell: Limbo|Helvetin 1. taso: Limbo|1º andar do inferno: Limbo|1-й этаж ада: Лимбо|地狱1楼：凌波|地獄の1階：リンボ|지옥 1 층 림보|1. Stock der Hölle: Schwebe
+Chaos_Tower_45|2nd floor of hell: Lust|Helvetin 2. taso: Himo|2º andar do inferno: luxúria|2-й этаж ада: Похоть|地狱二楼：欲望|地獄の2階：欲望|지옥 2 층 : 정욕|2. Stock der Hölle: Lust
+Chaos_Tower_46|3rd floor of hell: Gluttony|Helvetin 3. taso: Ylensyönti|3º andar do inferno: Gula|3-й этаж ада: Чревоугодие|地狱三楼：暴食|地獄の3階：大食い|지옥 3 층 : 열성|3. Stock der Hölle: Völlerei
+Chaos_Tower_47|4th floor of hell: Greed|Helvetin 4. taso: Ahneus|4º andar do inferno: ganância|4-й этаж ада: Жадность|地狱4楼：贪婪|地獄の4階：貪欲|지옥 4 층 : 탐욕|4. Stock der Hölle: Gier
+Chaos_Tower_48|5th floor of hell: Anger|Helvetin 5. taso: Viha|5º andar do inferno: raiva|5-й этаж ада: Гнев|地狱5楼：愤怒|地獄の5階：怒り|지옥 5 층 : 분노|5. Stock der Hölle: Wut
+Chaos_Tower_49|6th floor of hell: Heresy|Helvetin 6. taso: Harhaoppi|6º andar do inferno: heresia|6-й этаж ада: Ересь|地狱6楼：异端|地獄の6階：異端|지옥 6 층 : 이단|6. Stock der Hölle: Häresie
+Chaos_Tower_50|7th floor of hell: Violence|Helvetin 7. taso: Väkivalta|7º andar do inferno: violência|7-й этаж ада: Насилие|地狱7楼：暴力|地獄の7階：暴力|지옥 7 층 : 폭력|7. Stock der Hölle: Gewalt
+Chaos_Tower_51|8th floor of hell: Fraud|Helvetin 8. taso: Huijaus|8º andar do inferno: fraude|8-й этаж ада: Обман|地狱8楼：欺诈|地獄の8階：詐欺|지옥 8 층 : 사기|8. Stock der Hölle: Betrug
+Chaos_Tower_52|9th floor of hell: Treachery|Helvetin 9. taso: Petos|9º andar do inferno: Traição|9-й этаж ада: Предательство|地狱9楼：背叛|地獄の9階：裏切り|지옥 9 층 : 배신|9. Stock der Hölle: Verrat
+Chaos_Tower_53|Nice and calm lakeside|Mukava rauhallinen järvenranta|Agradável e calmo à beira do lago|Тихий берег озера|宁静的湖边|素敵で穏やかな湖畔|멋지고 고요한 호숫가|Schöner und ruhiger Seeufer
+Chaos_Tower_54|Energy of Valhalla|Energy of Valhalla|Energy of Valhalla|Energy of Valhalla|Energy of Valhalla|Energy of Valhalla|Energy of Valhalla|Energy of Valhalla
+Chaos_Tower_55|Vanaheim Ridge|Vanaheim Ridge|Vanaheim Ridge|Vanaheim Ridge|Vanaheim Ridge|Vanaheim Ridge|Vanaheim Ridge|Vanaheim Ridge
+Chaos_Tower_56|OMGEVERYTHINGISBLUE|VOIEIKAIKKIONSINISTÄ|TUDO É AZUL|ВСЕ СИНЕЕ|一切都是蓝色|すべてが青です|모든 것이 파란색입니다|ALLES IST BLAU
+Chaos_Tower_57|Ruby mine|Rubiinikaivos|Ruby meu|Рубиновая шахта|红宝石矿|Ruby鉱山|루비 광산|Ruby Mine
+Chaos_Tower_58|Floating Islands|Leijuvat saaret|Ilhas flutuantes|Плавучие острова|浮岛|浮島|떠 다니는 섬|Schwimmende Inseln
+Chaos_Tower_59|Snowy Forest|Luminen metsä|Floresta nevada|Снежный Лес|白雪皑皑的森林|雪に覆われた森|눈 덮인 숲|Schneewald
+Chaos_Tower_60|BARREL REALM|TYNNYRIULOTTUVUUS|REINO DE BARRIL|МИР БОЧЕК|酒桶领域|バレルリアルム|배럴 영역|FASSREICH
+Chaos_Tower_61|Construction site|Työmaa|Local de construção|Строительная площадка|工地|建設現場|건설 현장|Baustelle
+Chaos_Tower_62|Arcade|Pelihalli|Fliperama|Игровые Автоматы|拱廊|アーケード|아케이드|Arkade
+Chaos_Tower_63|South pole|Etelänapa|Pólo Sul|Южный полюс|南极|南極|남극|Südpol
+Chaos_Tower_64|Making of Chaos Tower|Kaaostornin tekeminen|Torre do caos|Строительство Башни Хаоса|混沌塔的制作|カオスタワー作り|카오스 타워 만들기|Herstellung von Chaosturm
+Chaos_Tower_65|Chocolate factory|Suklaatehdas|Fábrica de Chocolate|Шоколадная фабрика|巧克力工厂|チョコレート工場|초콜릿 공장|Schokoladenfabrik
+Chaos_Tower_66|Keygen.exe?|Keygen.exe?|Keygen.exe?|Keygen.exe?|Keygen.exe?|Keygen.exe?|Keygen.exe?|Keygen.exe?
+Chaos_Tower_67|Event horizon|Tapahtumahorisontti|Horizonte de eventos|Горизонт Событий|活动范围|事象の地平線|중대한 전환점|Ereignishorizont
+Chaos_Tower_68|Realm of Helheim|Realm of Helheim|Realm of Helheim|Realm of Helheim|Realm of Helheim|Realm of Helheim|Realm of Helheim|Realm of Helheim
+Chaos_Tower_69|Mevius' Manor|Meviuksen kartano|Solar de Mevius|Поместье Мевуса|梅维乌斯庄园|メビウスの邸宅|뫼비우스의 저택|Mevius 'Herrenhaus
+Chaos_Tower_70|Shadow Realm|Varjomaailma|Reino das sombras|Царство Теней|影子境界|シャドウレルム|그림자 영역|Schattenreich
+Chaos_Tower_71|FU who made this v2.0|FU who made this v2.0|FU who made this v2.0|FU who made this v2.0|FU who made this v2.0|FU who made this v2.0|FU who made this v2.0|FU who made this v2.0
+Chaos_Tower_72|Forest Spa|Metsäkylpylä|Spa florestal|Лесной курорт|森林温泉|フォレストスパ|포레스트 스파|Waldbad
+Chaos_Tower_73|Mining rails|Kaivosraiteet|Trilhos de mineração|Шахтёрские ж/д пути|采矿轨|マイニングレール|마이닝 레일|Schienen abbauen
+Chaos_Tower_74|Narrow paths|Kapeat polut|Caminhos estreitos|Узкая Тропинка|狭窄的道路|狭い道|좁은 경로|Schmale Wege
+Chaos_Tower_75|Ruby, oh ruby|Rubiini, oi rubiini|Rubi oh rubi|Рубин, о рубин|露比红宝石|ルビー、ああルビー|루비, 오 루비|Ruby, oh Ruby
+Chaos_Tower_76|The Factory|Tehdas|A fabrica|Фабрика|该工厂|工場|공장|Die Fabrik
+Chaos_Tower_77|Psychosis|Psykoosi|Psicose|Психоз|精神病|精神病|정신병|Psychose
+Chaos_Tower_78|Spooky Scary Skeletons|Karmeat pelottavat luurangot|Esqueletos assustadores assombrados|Жуткие Страшные Скелеты|怪异的恐怖骷髅|不気味な怖いスケルトン|으스스한 무서운 해골|Gruselige gruselige Skelette
+Chaos_Tower_79|Submerged psychosis|Upotettu psykoosi|Psicose submersa|Подводный психоз|淹没性精神病|水中精神病|잠긴 정신병|Untergetauchte Psychose
+Chaos_Tower_80|Timeless Temple Ruins|Ajattoman temppelin rauniot|Ruínas de templo atemporais|Руины Вечного Храма|永恒的圣殿遗址|時代を超越した寺院の遺跡|시대를 초월한 사원 유적|Zeitlose Tempelruinen
+Chaos_Tower_81|Haunted Cemetary|Riivattu hautausmaa|Cemitério Assombrado|Кладбище с привидениями|闹鬼的墓地|お化け墓地|유령 묘지|Spukfriedhof
+Chaos_Tower_82|Mr. Burns' Office|Herra Burnsin toimisto|Escritório do Sr. Burns|Кабинет мистера Бёрнса|伯恩斯先生的办公室|バーンズ氏のオフィス|번즈 씨 사무실|Mr. Burns 'Büro
+Chaos_Tower_83|The ridge|Harjanne|O cume|Расщелина|山脊|尾根|능선|Der Grat
+Chaos_Tower_84|No demons allowed|Pääsy demoneilta kielletty|Não são permitidos demônios|Демонам вход воспрещен|不允许恶魔|悪魔は許可されていません|악마는 허용되지 않습니다|Keine Dämonen erlaubt
+Chaos_Tower_85|Cat Realm|Kissaulottuvuus|Reino do gato|Мир Кошек|猫境|猫の領域|고양이 영역|Katzenreich
+Chaos_Tower_86|The F1 racetrack|F1 kilparata|A pista de F1|Гоночная трасса F1|F1赛车场|F1競馬場|F1 경마장|Die F1-Rennstrecke
+Chaos_Tower_87|Pyromaniac|Pyromaani|Piromaníaco|Пироманьяк|纵火狂|放火癖|파이로 매니아|Pyromane
+Chaos_Tower_88|Fabric of reality|Todellisuuden rakenteet|Tecido da realidade|Ткань реальности|现实的构造|現実の構造|현실의 구조|Stoff der Realität
+Chaos_Tower_89|Clouds|Pilvet|Nuvens|Облака|乌云|雲|구름|Wolken
+Chaos_Tower_90|Heaven|Taivas|Céu|Небеса|天堂|天国|천국|Himmel
+Chaos_Tower_91|Christmas Spa Lounge|Joulukylpylän aula|Salão spa de natal|Рождественский спа-салон|圣诞水疗休息室|クリスマススパラウンジ|크리스마스 스파 라운지|Weihnachts Spa Lounge
+Chaos_Tower_92|Damien's playground|Damienin leikkikenttä|Playground de Damien|Детская площадка Дэмиена|达米安的游乐场|ダミアンの遊び場|데미안의 놀이터|Damiens Spielplatz
+Chaos_Tower_93|Halloween|Halloween|dia das Bruxas|Хэллоуин|万圣节|ハロウィーン|할로윈|Halloween
+Chaos_Tower_94|Tentacle Realm|Lonkeroulottuvuus|Reino tentáculo|Мир Тентаклей|触手领域|触手領域|촉수 영역|Tentakelreich
+Chaos_Tower_95|PAS Office|PAS Toimisto|Escritório PAS|Офис PAS|PAS办公室|PASオフィス|PAS 사무실|PAS-Büro
+Chaos_Tower_96|LAN party|Lanit|Festa LAN|Компьютерный клуб|局域网派对|LANパーティー|LAN 파티|LAN-Party
+Chaos_Tower_97|Kindergarten|Lastentarha|Jardim de infância|Детский сад|幼稚园|幼稚園|유치원|Kindergarten
+Chaos_Tower_98|Trailer Park|Asuntovaunualue|Estacionamento de trailers|Трейлерный парк|拖车停车场|トレーラーパーク|트레일러 공원|Wohnwagensiedlung
+Chaos_Tower_99|Welcome to the rice Fields|Tervetuloa riisipelloille|Bem-vindo aos campos de arroz|Добро пожаловать на рисовые поля|欢迎来到稻田|田んぼへようこそ|논에 오신 것을 환영합니다|Willkommen in den Reisfeldern
+Chaos_Tower_100|Don’t be Toxic!|Don’t be Toxic!|Don’t be Toxic!|Don’t be Toxic!|Don’t be Toxic!|Don’t be Toxic!|Don’t be Toxic!|Don’t be Toxic!
+Chaos_Tower_101|Server Farm|Server Farm|Server Farm|Server Farm|Server Farm|Server Farm|Server Farm|Server Farm
+Chaos_Tower_102|St. Wooxys Worst Enemy|St. Wooxys Worst Enemy|St. Wooxys Worst Enemy|St. Wooxys Worst Enemy|St. Wooxys Worst Enemy|St. Wooxys Worst Enemy|St. Wooxys Worst Enemy|St. Wooxys Worst Enemy
+Chaos_Tower_xLobby|Tower Lobby|Tornin Aula|Saguão da torre|Вестибюль башни|塔楼大厅|タワーロビー|타워 로비|Turm Lobby
+Chaos_Tower_Boss_1|Ancient Colosseum|Muinainen Areena|Coliseu Antigo|Древний Колизей|古代罗马竞技场|古代コロッセオ|고대 콜로세움|Altes Kolosseum
+||||||||
+Fields_Boss_rm|Eternal Battlefield|Ikuinen sotatanner|Campo de batalha eterno|Вечная Битва|永恒战场|永遠の戦場|영원한 전장|Ewiges Schlachtfeld
+||||||||
+Wormhole_1_rm|Chaos Sanctuary|Chaos Sanctuary|Chaos Sanctuary|Святилище Хаоса|Chaos Sanctuary|Chaos Sanctuary|Chaos Sanctuary|Chaos Sanctuary
+Wormhole_2_rm|Shores of Mos'Arathim|Shores of Mos'Arathim|Shores of Mos'Arathim|Берега пустыни Мос'Арасим|Shores of Mos'Arathim|Shores of Mos'Arathim|Shores of Mos'Arathim|Shores of Mos'Arathim
+Wormhole_3_rm|Swamps of Inoya|Swamps of Inoya|Swamps of Inoya|Болота Иноя|Swamps of Inoya|Swamps of Inoya|Swamps of Inoya|Swamps of Inoya
+Wormhole_4_rm|Zumjo Forest|Zumjo Forest|Zumjo Forest|Лес Замьё|Zumjo Forest|Zumjo Forest|Zumjo Forest|Zumjo Forest
+Wormhole_5_rm|Far Oasis|Far Oasis|Far Oasis|Далекий Оазис|Far Oasis|Far Oasis|Far Oasis|Far Oasis
+Wormhole_6_rm|Glacial Coast|Glacial Coast|Glacial Coast|Ледник|Glacial Coast|Glacial Coast|Glacial Coast|Glacial Coast
+Wormhole_7_rm|Westfall Fields|Westfall Fields|Westfall Fields|Поля Вестфолл|Westfall Fields|Westfall Fields|Westfall Fields|Westfall Fields
+Wormhole_8_rm|The Deep Sea|The Deep Sea|The Deep Sea|Глубины Океана|The Deep Sea|The Deep Sea|The Deep Sea|The Deep Sea
+Wormhole_9_rm|Sacrilegious Tomb|Sacrilegious Tomb|Sacrilegious Tomb|Оскверненная Гробница|Sacrilegious Tomb|Sacrilegious Tomb|Sacrilegious Tomb|Sacrilegious Tomb
+Wormhole_10_rm|Highland Sewers|Highland Sewers|Highland Sewers|Канализации|Highland Sewers|Highland Sewers|Highland Sewers|Highland Sewers
+Wormhole_11_rm|Kedran Ruins|Kedran Ruins|Kedran Ruins|Kedran Ruins|Kedran Ruins|Kedran Ruins|Kedran Ruins|Kedran Ruins
+Wormhole_12_rm|Deep Space Walk|Deep Space Walk|Deep Space Walk|Deep Space Walk|Deep Space Walk|Deep Space Walk|Deep Space Walk|Deep Space Walk
+Wormhole_13_rm|Tormenting Flames|Tormenting Flames|Tormenting Flames|Tormenting Flames|Tormenting Flames|Tormenting Flames|Tormenting Flames|Tormenting Flames
+Wormhole_14_rm|Frozen Cave|Frozen Cave|Frozen Cave|Frozen Cave|Frozen Cave|Frozen Cave|Frozen Cave|Frozen Cave
+Wormhole_15_rm|Tropic River of Rahasa|Tropic River of Rahasa|Tropic River of Rahasa|Tropic River of Rahasa|Tropic River of Rahasa|Tropic River of Rahasa|Tropic River of Rahasa|Tropic River of Rahasa
+Wormhole_16_rm|Natural Satellite|Natural Satellite|Natural Satellite|Natural Satellite|Natural Satellite|Natural Satellite|Natural Satellite|Natural Satellite
+Wormhole_17_rm|Pathway of Trap Realm|Pathway of Trap Realm|Pathway of Trap Realm|Pathway of Trap Realm|Pathway of Trap Realm|Pathway of Trap Realm|Pathway of Trap Realm|Pathway of Trap Realm
+Wormhole_18_rm|Shadow Forest Gro'Rem|Shadow Forest Gro'Rem|Shadow Forest Gro'Rem|Shadow Forest Gro'Rem|Shadow Forest Gro'Rem|Shadow Forest Gro'Rem|Shadow Forest Gro'Rem|Shadow Forest Gro'Rem
+Wormhole_19_rm|C20H25N3O|C20H25N3O|C20H25N3O|C20H25N3O|C20H25N3O|C20H25N3O|C20H25N3O|C20H25N3O
+Wormhole_20_rm|Divine Pathway|Divine Pathway|Divine Pathway|Divine Pathway|Divine Pathway|Divine Pathway|Divine Pathway|Divine Pathway
+Wormhole_21_rm|Eternal Bloom|Eternal Bloom|Eternal Bloom|Eternal Bloom|Eternal Bloom|Eternal Bloom|Eternal Bloom|Eternal Bloom
+Wormhole_22_rm|Roots of Life|Roots of Life|Roots of Life|Roots of Life|Roots of Life|Roots of Life|Roots of Life|Roots of Life
+Wormhole_23_rm|Temple of Helheim|Temple of Helheim|Temple of Helheim|Temple of Helheim|Temple of Helheim|Temple of Helheim|Temple of Helheim|Temple of Helheim
+Wormhole_24_rm|Valhalla Falls|Valhalla Falls|Valhalla Falls|Valhalla Falls|Valhalla Falls|Valhalla Falls|Valhalla Falls|Valhalla Falls
+Wormhole_25_rm|Everlasting Chaos|Everlasting Chaos|Everlasting Chaos|Everlasting Chaos|Everlasting Chaos|Everlasting Chaos|Everlasting Chaos|Everlasting Chaos
+||||||||
+floor|Floor|Kerros|Chão|Этаж|地板|床|바닥|Fußboden

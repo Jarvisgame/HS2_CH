@@ -1,0 +1,115 @@
+[Video]|[en]
+options_desc_fullscreen|Switch to Fullscreen or Windowed.
+options_desc_window_size|Size of the game window on Windowed.
+options_desc_aspect_ratio|Aspect Ratio of the game.
+options_desc_vsync|Vertical sync synchronizes the refresh rate and frame rate of a monitor fixing screen tearing.
+options_desc_framerate|Framerate determines how many frames per second your monitor draws improving the smoothness of the game. Additionally also due to game engine limitations this also determines how many times code is ran in the games step loop, this might cause slowdowns on lower end devices/hardware.
+options_desc_field_of_view|Field of View ingame. This determines how close or far the camera is zoomed to your player.
+options_desc_outline|Enable/disable outline drawing.
+outlines|Outlines
+|
+[Audio]|
+options_desc_master_volume|The master volume of the game. All other volume sliders are relative to this one.
+options_desc_music_volume|The volume of music in the game.
+options_desc_ambient_volume|The volume of all ambient sounds of the game like wind and rain etc.
+options_desc_sound_volume|The volume of all sound effects.
+options_desc_loot_volume|The volume of all loot drops.
+options_desc_hero_voice_volume|The volume of hero voice lines.
+|
+[Gameplay]|
+Visual|
+options_desc_show_player_name|Enable/disable showing the name of all players.
+options_desc_show_player_health|Enable/disable showing the life and mana bars of all players.
+options_desc_show_loot_names|Enable/disable showing the names of all loot on the ground.
+options_desc_show_enemy_life|Enable/disable showing the life bar for enemies.
+options_desc_show_dps|Enable/disable the DPS counter tracking your damage dealt per second.
+options_desc_show_boss_skill_cooldowns|Enable/disable cooldown counters for boss skills.
+options_desc_show_combat_text|Enable/disable floating combat text when taking or dealing damage.
+options_desc_show_experience_gain|Enable/disable floating text for experience gain when killing enemies.
+|
+[Minimap]|
+options_desc_minimap_color|The color blend for the minimap.
+options_desc_minimap_scale|The scale of your minimap.
+options_desc_minimap_opacity|The opacity of your minimap.
+|
+[Online Chat]|
+options_desc_general_chat|Enable/disable the General chat in the chat lobby as well as ingame.
+options_desc_ingame_chat_notifications|Enable/disable notifications in the Ingame chat.
+options_desc_general_chat_notifications|Enable/disable notifications in the General chat.
+options_desc_trade_chat_notifications|Enable/disable notifications in the Trade chat.
+options_desc_guild_chat_notifications|Enable/disable notifications in the Guild chat.
+options_desc_ingame_chat_fading|Enable/disable Ingame chat fading. This causes the chat window to fade away after a period of time. if disabled the chat will always show.
+options_desc_ingame_chat_fading_speed|How many seconds it takes before the chat starts to fade.
+options_desc_ingame_chat_background_opacity|How visible the Ingame chats background box is.
+|
+[Misc]|
+options_desc_screen_shake|Enable/disable screen shaking from any source like abilities or cinematic events will be enabled/disabled.
+options_desc_vibration|Enable/disable Gamepad vibration when for example taking damage.
+options_desc_object_outline_color|The color of outline for enemies and other objects behind structures.
+|
+[Controls]|
+[Keyboard]|
+options_kb_use_potion_1|Key bind for using a potion in slot 1
+options_kb_use_potion_2|Key bind for using a potion in slot 2
+options_kb_use_potion_3|Key bind for using a potion in slot 3
+options_kb_use_potion_4|Key bind for using a potion in slot 4
+|
+options_kb_use_skill_1|Key bind for using skill 1 if assigned.
+options_kb_use_skill_2|Key bind for using skill 2 if assigned.
+options_kb_use_skill_3|Key bind for using skill 3 if assigned.
+options_kb_use_skill_4|Key bind for using skill 4 if assigned.
+options_kb_use_skill_5|Key bind for using skill 5 if assigned.
+options_kb_use_skill_6|Key bind for using skill 6 if assigned.
+|
+options_kb_move_up|Key bind for moving up.
+options_kb_move_left|Key bind for moving left.
+options_kb_move_right|Key bind for moving right.
+options_kb_move_down|Key bind for moving down.
+|
+options_kb_toggle_minimap|Key bind for toggling Minimap.
+options_kb_show_map|Key bind for showing the minimap in the middle of your screen.
+options_kb_playerlist|Key bind for opening the playerlist.
+options_kb_show_loot_names|Key bind for showing loot names on ground.
+|
+options_kb_emote_menu|Key bind for Emote menu.
+options_kb_cast_town_portal|Key bind for casting Town Portal.
+options_kb_force_stop|Key bind for force stop. You can force stop movement and your left ability attack/cast.
+options_kb_force_move|Key bind for force move. You can force movement ignoring your left ability from triggering.
+options_kb_pickup_use|Key bind for picking up loot and talking to NPC etc.
+options_kb_jump|Key bind for Jumping.
+|
+options_kb_guild_tab|Key bind for opening guild menu.
+options_kb_skill_menu|Key bind for opening skill menu.
+options_kb_inventory|Key bind for opening inventory.
+|
+[Gamepad]|
+options_gp_use_potion_1|Button for using a potion in slot 1
+options_gp_use_potion_2|Button for using a potion in slot 2
+options_gp_use_potion_3|Button for using a potion in slot 3
+options_gp_use_potion_4|Button for using a potion in slot 4
+|
+options_gp_use_skill_1|Button for using skill 1 if assigned.
+options_gp_use_skill_2|Button for using skill 2 if assigned.
+options_gp_use_skill_3|Button for using skill 3 if assigned.
+options_gp_use_skill_4|Button for using skill 4 if assigned.
+options_gp_use_skill_5|Button for using skill 5 if assigned.
+options_gp_use_skill_6|Button for using skill 6 if assigned.
+|
+options_gp_toggle_minimap|Button for toggling Minimap.
+options_gp_playerlist|Button for opening the playerlist.
+options_gp_show_loot_names|Button for showing loot names on ground.
+|
+options_gp_emote_menu|Button for Emote menu.
+options_gp_cast_town_portal|Button for casting Town Portal.
+options_gp_pickup_use|Button for picking up loot and talking to NPC etc.
+options_gp_jump|Button for Jumping.
+|
+options_gp_guild_tab|Button for opening guild menu.
+options_gp_skill_menu|Button for opening skill menu.
+options_gp_inventory|Button for opening inventory.
+|
+brightness|Brightness
+contrast|Contrast
+|
+options_desc_show_fps|Enable/disable Frames Per Second shown in main HUD.
+show_fps|Show FPS

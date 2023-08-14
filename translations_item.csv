@@ -1,0 +1,1707 @@
+ac|en|fi|pt|ru|zh|ja|ko|de
+[Normal Axes]||||||||
+normal_melee_hand_axe|Hand Axe|||||||
+normal_melee_hatchet|Hatchet|||||||
+normal_melee_naga|Naga|||||||
+normal_melee_broad_axe|Broad Axe|||||||
+normal_melee_war_axe|War Axe|||||||
+normal_melee_giant_axe|Giant Axe|||||||
+||||||||
+[Normal Maces]||||||||
+normal_mace_cudgel|Cudgel|||||||
+normal_mace_mace|Mace|||||||
+normal_mace_morning_star|Morning Star|||||||
+normal_mace_spiked_club|Spiked Club|||||||
+normal_mace_war_hammer|War Hammer|||||||
+normal_mace_maul|Maul|||||||
+normal_mace_ogre_maul|Ogre Maul|||||||
+normal_mace_martel_de_fer|Martel De Fer|||||||
+normal_mace_flail|Flail|||||||
+normal_mace_devil_star|Devil Star|||||||
+||||||||
+[Normal Daggers]||||||||
+normal_dagger_dagger|Dagger|||||||
+normal_dagger_dirge|Dirge|||||||
+normal_dagger_kris|Kris|||||||
+||||||||
+[Normal Swords]||||||||
+normal_sword_short_sword|Short Sword|||||||
+normal_sword_sabre|Sabre|||||||
+normal_sword_claymore|Claymore|||||||
+normal_sword_broad_sword|Broad Sword|||||||
+normal_sword_scimitar|Scimitar|||||||
+normal_sword_giant_sword|Giant Sword|||||||
+normal_sword_katana|Katana|||||||
+normal_sword_war_sword|War Sword|||||||
+normal_sword_falchion|Falchion|||||||
+normal_sword_flamberge|Flamberge|||||||
+normal_sword_zangetsu|Zangetsu|||||||
+||||||||
+[weapon_melee_unique]||||||||
+w_melee_godfather|Godfather|Kummisetä|Padrinho|Крестный отец|教父|ゴッドファーザー|대부|Gevatter
+w_melee_jade_warriors_gladius|Jade Warrior's Gladius|Jadesoturin miekka|Gládio do Guerreiro Jade|Меч Нефритового Воина|翡翠战士的短剑|翡翠戦士のグラディウス|전사 제이드의 글래디우스|Gladius des Jadekriegers
+w_melee_storm_katana|Storm Katana|Myrskykatana|Katana Tempestade|Катана Бури|风暴武士刀|嵐のカタナ|스톰 카타나|Sturmkatana
+w_melee_molten_sword|Molten Sword|Sula miekka|Espada Derretida|Расплавленный Меч|炽热剑|溶岩の剣|용해 된 검|Geschmolzenes Schwert
+w_melee_hellslayer|Inferno Slayer|||||||
+w_melee_dragon_knights_flail|Dragon Knight's Flail|Lohikäärmeritarin varsta|Mangual do Cavaleiro Dragão|Цеп Рыцаря-Дракона|龙骑士的连枷|ドラゴンナイトフレイル|드래곤 나이트의 도리깨|Drachenritterflegel
+w_melee_rift_commanders_axe|Rift Commander's Axe|Repemäkomentajan Kirves|Machado do Comandante da Fenda|Топор Командира Разлома|裂谷指挥官的斧头|裂け目の司令官の斧|리프트 사령관의 도끼|Axt des Risskommandanten
+w_melee_the_undying|The Undying|Kuolematon|O Imortal|Объятия Смерти|不死族|不死の者|죽지 않는 자|Das Unsterbliche
+w_melee_shattered_dimensions|Shattered Dimensions|Pirstoutunut Ulottuvuus|Dimensões Estilhaçadas|Расколотый Мир|破碎空间|崩壊した次元|부서진 차원|Zerbrochene Dimensionen
+w_melee_ashbringer|Ashbringer|Tuhkantuoja|Ashbringer|Вестник Пепла|灰烬使者|アッシュブリンガー|애쉬브링어|Aschebringer
+w_melee_deaths_mirror|Death's Mirror|Kuoleman peili|Espelho da Morte|Зеркало Смерти|死亡之镜|死の鏡|죽음의 거울|Todesspiegel
+w_melee_odins_battle_axe|Odin's Battle Axe|Odinin sotakirves|Machado de Batalha de Odin|Боевой топор Одина|奥丁的战斧|オーディンのバトル・アックス|오딘의 전투 도끼|Odins Streitaxt
+w_melee_gurags_stone_crusher|Gurag's Stone Crusher|Guragin kivimurskain|Esmagador de Pedras de Gurag|Палица Гурага|古拉格的碎石机|グーラグのストーン・クラッシャー|구라그의 스톤 크러셔|Gurags Steinzermalmer
+w_melee_deaths_scythe|Death's Scythe|Kuoleman viikate|Foice da Morte|Коса Смерти|死神的镰刀|死の大鎌|죽음의 낫|Todessense
+w_melee_hiyokis_vorpal_katana|Hiyoki's Vorpal Katana|Hiyokin sähkökatana|Katana Vorpal de Hiyoki|Вострая Катана Хиёки|希约基的刺穿武士刀|ヒヨキの首切りカタナ|히요키의 보팔 카타나|Hiyokis Tödliches Katana
+w_melee_hanzos_flaming_katana|Hanzo's Flaming Katana|Hanzon liekkikatana|Katana Flamejante de Hanzo|Пылающая Катана Хандзо|汉佐的火焰武士刀|ハンゾーの炎のカタナ|한조의 불타는 카타나|Hanzos Flammendes Katana
+w_melee_genjis_sword_of_fate|Genji's Sword of Fate|Genjin kohtalon miekka|Espada do Destino de Genji|Меч Судьбы Гэндзи|根吉的命运之剑|ゲンジの運命の剣|겐지의 운명의 검|Genjis Schicksalsschwert
+w_melee_wind_guardians_gladius|Wind Guardian's Gladius|Tuulenvartijan Gladius|Gládio do Guardião do Vento|Меч Стража Ветра|风守护者的短剑|風の番人のグラディウス|바람 수호자의 글라디우스|Gladius des Windwächters
+w_melee_sand_crusaders_scimitar|Sand Crusader's Scimitar|Hiekkaristiretkeilijän Sapeli|Cimitarra do Cruzador da Areia|Меч Воина Песков|沙漠十字军的弯刀|サンド・クルセーダーのシミター|모래 수호자의 글라디우스|Krummsäbel des Kreuzritters der Sande
+w_melee_azurewrath|Azure’s Wrath|||||||
+w_melee_holy_warriors_phase_blade|Holy Warrior's Phase Blade|Pyhän Soturin Valomiekka|Lâmina de Fase do Guerreiro Sagrado|Фазовый Клинок Воина Света|圣战士的幻化之刃|聖なる戦士の位相の刃|신성한 전사의 페이즈 블레이드|Phasenklinge des Heiligen Kriegers
+w_melee_steves_mighty_sword|Steve's Mighty Sword|Teemun mahtimiekka|Espada Poderosa de Steve|Огромный меч Стива|史蒂夫的威剑|スティーブの偉大な剣|스티브의 신성한 검|Steves Mächtiges Schwert
+w_melee_st_gabriels_retribution|St. Gabriel's Retribution|Pyhän Gabrielin rangaistus|Castigo de São Gabriel|Карающий меч Св. Габлиэля|圣加布里埃尔的报应|聖ガブリエルの報復|성 가브리엘의 보복|St. Gabriels Strafe
+w_melee_thors_battle_sword|Thor's Battle Sword|Odinin sotakirves|Espada de Batalha de Odin|Боевой меч Одина|奥丁的战斗剑|オーディンのバトル・ソード|오딘의 전투 검|Odins Kriegsschwert
+w_melee_vikings_sacred_axe|Viking's Sacred Axe|Viikingin pyhä kirves|Machado sagrado do Viking|Священный топор Викинга|维京人的圣斧|バイキングの神聖な斧|바이킹의 신성한 도끼|Heilige Wikingeraxt
+w_melee_nomads_sandslicer|Nomad's Sandslicer|Vaeltajan hiekkapeitsi|Fatiador de Areia do Nômade|Клинок Кочевника|流浪者的沙切割机|ノマドのサンドスライサー|노마드의 샌드슬라이서|Sandschneider des Nomaden
+w_melee_nobunagas_battle_slicer|Nobunaga's Battle Slicer|Nobunagan Taisteluleikkuri|Fatiador de Batalha de Nobunaga|Клинок Нобунага|织田信长的战斗切片机|信長のバトルスライサー|노부나가의 배틀 슬라이서|Kampfschneider des Nobunaga
+w_melee_molten_dagger|Molten Dagger|Sula Tikari|Adaga Fundida|Расплавленный Кинжал|熔化的匕首|モルテンダガー|녹은 단검|Geschmolzener Dolch
+w_melee_icy_shank|Icy Shank|Jäinen pistäjä|Haste Gelada|Ледяной Укус|冰冷的柄|アイシーシャンク|아이시 생크|Eisiges Bein
+w_melee_darkness|Darkness|Pimeys|Escuridão|Тьма|黑暗|ダークネス|어둠|Dunkelheit
+w_melee_gladiators_wrecking_ball|Gladiator's Wrecking Ball|Gladiaattorin Purkukuula|Bola de Demolição do Gladiador|Шаровой Таран Гладиатора|角斗士的破碎球|グラディエーターのレッキングボール|글라디에이터의 파괴용 공|Abrissbirne des Gladiators
+w_melee_dantes_demon_blade|Dante’s Demon Blade|||||||
+w_melee_shadow_carver|Shadow Carver|Varjoleikkaaja|Entalhador das Sombras|Жнец Теней|影子卡佛|シャドウカーバー|그림자 조각가|Schattenschneider
+w_melee_sacred_whip|Sacred Whip|Siunattu Ruoska|Chicote Sagrado|Священный хлыст|神圣的鞭子|聖なる鞭|신성한 채찍|Heilige Peitsche
+w_melee_nightmare_slasher|Nightmare Slasher|Painajaisviiltäjä|Fatiadora de Pesadelo|Цеп Ужаса|噩梦杀人狂|ナイトメアスラッシャー|악몽 슬래셔|Alptraummesserstecher
+w_melee_frozen_carver|Frozen Carver|Jäinenleikkaaja|Entalhador Congelado|Цеп Леденящего Ужаса|冻结卡佛|フローズンカーバー|냉동 조각가|Gefrorener Schlitzer
+w_melee_unholy_gods_flail|Unholy God's Flail|Epäpyhän Jumalan Varsta|Mangual do Deus Profano|Цеп Нечестивого Божества|邪恶的神的连枷|不浄な神のフレイル|부정한 신의 도리깨|Flegel des unheiligen Gottes
+w_melee_molten_hammer|Molten Hammer|Sula Vasara|Martelo Fundido|Расплавленный Молот|熔融锤|モルテンハンマー|녹은 망치|Geschmolzener Hammer
+w_melee_icy_crusher|Icy Crusher|Jäämurskain|Triturador Gelado|Ледокол|冰冷的破碎机|アイシークラッシャー|아이시 크러셔|Eisiger Zerstörer
+w_melee_light_of_dawn|The Light of Dawn|Aamunkajo|A Luz do Amanhecer|Заря|黎明的曙光|夜明けの光|새벽의 빛|Licht des Sonnenaufgangs
+w_melee_gladiators_skullcrusher|Gladiator's Skullcrusher|Gladiaattorin Kallonmurskain|Esmagador de Caveiras do Gladiador|Крушитель Черепов Гладиатора|角斗士的碎颅机|グラディエーターのスカルクラッシャー|글라디에이터의 스컬크러셔|Schädelzerstörer des Gladiators
+w_melee_masamune|Masamune|Masamune|Masamune|Масамунэ|正宗|政宗|마사무네|Masamune
+w_melee_muramasa|Muramasa|Muramasa|Muramasa|Мурамаса|村正|村正|무라마사|Muramasa
+w_melee_crystal_infused_axe|Crystal Infused Axe|Kristalliin upotettu kirves|Machado de Cristal|Кристаллический Топор|水晶斧|クリスタル注入斧|수정이 주입 된 도끼|Kristall-infundierte Axt
+w_melee_crystal_infused_sword|Crystal Infused Sword|Kristalliin upotettu miekka|Espada de Cristal Infundida|Кристаллический Меч|水晶剑|クリスタルインフューズドソード|수정이 주입 된 검|Kristallgetränktes Schwert
+w_melee_sung_lees_destroyer_flail|Sung Lee's Destroyer Flail|Sung Leen tuhoaja Flail|Mangual do Destroyer de Sung Lee|Цеп Разрушения Сон Ли|李成的毁灭者连il|ソンリーの駆逐艦フレイル|이성 파괴자 Flail|Sung Lees Zerstörer-Dreschflegel
+w_melee_revenants_lasher|Revenant's Lasher|Revenant's Lasher|Revenant's Lasher|Плеть Ревенанта|Revenant's Lasher|Revenant's Lasher|Revenant's Lasher|Revenant's Lasher
+w_melee_bonettis_rapier|Bonetti's Rapier|Bonetti's Rapier|O Rapier de Bonetti|Bonetti's Rapier|博内蒂的长剑|ボネッティのレイピア|Bonetti's Rapier|Bonettis Rapier
+w_melee_eternal_glaive|Eternal Glaive|Eternal Glaive|Eternal Glaive|Eternal Glaive|永恒之刃|エターナル・グレイブ|Eternal Glaive|Ewige Klinge
+w_melee_guts_bfs|Gut's BFS|Gut's BFS|BFS do intestino|Gut's BFS|古特的BFS|ガットのBFS|Gut's BFS|Gut's BFS
+w_melee_st_rexis_sundering_axe|St. Rexis Sundering Axe|St. Rexis Sundering Axe|St. Rexis Sundering Axe|St. Rexis Sundering Axe|St.Rexis Sundering Axe|St.レクシス・サンダリング・アックス|St. Rexis Sundering Axe|St. Rexis Brechbeil
+w_melee_sand_dagger|Sand Dagger|Hiekkatikari|Punhal de Areia|Sand Dagger|沙匕首|サンドダガー|Sand Dagger|Sanddolch
+w_melee_thunder_dagger|Thunder Dagger|Thunder Dagger|Punhal de trovão|Thunder Dagger|雷霆匕首|サンダーダガー|Thunder Dagger|Donnerdolch
+w_melee_riftmasters_dirge|Riftmaster's Dirge|Riftmaster's Dirge|Riftmaster's Dirge|Riftmaster's Dirge|裂缝大师的哀歌|Riftmaster's Dirge|Riftmaster's Dirge|Spaltmeisters Dirge
+w_melee_st_mikas_zweihander|St. Mika's Zweihänder|St. Mika's Zweihänder|St. Mika's Zweihänder|St. Mika's Zweihänder|St. Mika's Zweihänder|St. Mika's Zweihänder|St. Mika's Zweihänder|St. Mika's Zweihänder
+w_melee_sanguine_blade|Sanguine Blade|Sanguine Blade|Sanguine Blade|Sanguine Blade|Sanguine Blade|Sanguine Blade|Sanguine Blade|Sanguine Blade
+w_melee_pillar_of_niflheim|Pillar of Niflheim|Pillar of Niflheim|Pillar of Niflheim|Pillar of Niflheim|Pillar of Niflheim|Pillar of Niflheim|Pillar of Niflheim|Pillar of Niflheim
+w_melee_grimbones_scythe|Grimbone's Scythe|Grimbone's Scythe|Grimbone's Scythe|Grimbone's Scythe|Grimbone's Scythe|Grimbone's Scythe|Grimbone's Scythe|Grimbone's Scythe
+w_melee_ceremonial_dagger|Ceremonial Dagger|Seremoniallinen Tikari|Adaga Cerimonial|Ритуальный Кинжал|仪式剑|儀式のダガー|의식 단검|Zeremoniendolch
+||||||||
+[weapon_throwing]||||||||
+normal_throwing_throwing_axe|Throwing Axe|||||||
+normal_throwing_battle_darts|Battle Darts|||||||
+normal_throwing_throwing_disc|Throwing Disc|||||||
+normal_throwing_harpoon|Harpoon|Harppuuna|Arpão|Гарпун|鱼叉|ハープーン|작살|Harpune
+normal_throwing_javelin|Javelin|Keihäs|Dardo|Метательное копье|标枪|ジャベリン|투창|Speer
+normal_throwing_pilum|Pilum|||||||
+normal_throwing_simbilan|Simbilan|||||||
+normal_throwing_short_spear|Short Spear|||||||
+normal_throwing_throwing_spear|Throwing Spear|||||||
+||||||||
+[weapon_throwing_unique]||||||||
+w_throwing_mimirs_corrupted_axe|Mimir's Corrupted Axe|Mimir's Corrupted Axe|Mimir's Corrupted Axe|Mimir's Corrupted Axe|Mimir's Corrupted Axe|Mimir's Corrupted Axe|Mimir's Corrupted Axe|Mimir's Corrupted Axe
+w_throwing_scarred_battle_darts|Scarred Battle Darts|Arpiset Taistelutikat|Dardos de Batalha Marcados|Ржавые метательные ножи|伤痕累累战斗飞镖|傷のあるバトルダーツ|상처난 전투 다트|Vernarbte Kampfdarts
+w_throwing_wakaykas_tomahawk|Wakayka's Tomahawk|Wakaykan tomahawk|Tomahawk de Wakayka|Томагавк Вакайки|瓦卡卡的战斧|ワカイカのトマホーク|와카카의 토마호크|Wakaykas Tomahawk
+w_throwing_imperial_glaive|Imperial Glaive|Keisarillinen Pertuska|Glaive Imperial|Имперская Глефа|帝国宽刃剑|帝国のグレイブ|제국의 검|Kaiserliche Gleve
+w_throwing_ukkos_revenge|Ukko's Revenge|Ukko Ylijumalan Kosto||||||
+w_throwing_wargods_wrath|Wargod's Wrath|Sotajumalan Raivo|Fúria do Deus da Guerra|Гнев Бога Войны|战争之神之怒|戦神の天罰|전쟁의 신의 분노|Zorn des Kriegsgottes
+w_throwing_st_neris_rainbow_lance|St. Neri's Rainbow Lance|Pyhän Nerin Sateenkaaripeitsi|Lança Arco-Íris de São Neri|Радужное Копье св. Neri|圣奈瑞的彩虹长矛|聖ネリの虹の槍|성. 네리 레인보우 랜스|St. Neris Regenbogenlanze
+w_throwing_serpents_tooth|Serpent's Tooth|Käärmeenhammas|Dente da Serpente|Змеиный Зуб|蛇的牙齿|サーペントトゥース|뱀의 이빨|Schlangenzahn
+w_throwing_crystal_infused_javelin|Crystal Infused Javelin|Kristalliin infusoitu peitsi|Dardo com infusão de cristal|Кристаллический Джавелин|水晶标枪|クリスタル注入ジャベリン|수정이 주입 된 자벨린|Kristallgetränkter Speer
+w_throwing_valkyries_thunder_javelin|Valkyrie's Thunder Javelin|||||||
+w_throwing_deep_sea_glaive|Deep Sea Glaive|Deep Sea Glaive|Glaive Deep Sea|Deep Sea Glaive|深海飞刀|Deep Sea Glaive|Deep Sea Glaive|Tiefseeglaeser
+||||||||
+[weapon_spell]||||||||
+normal_spell_gnarled_staff|Gnarled Staff|Tyvitautinen henkilökunta|Pessoal da Gnarled|Gnarled Staff|虬枝杖|グナールスタッフ|Gnarled Staff|Knorriger Stab
+normal_spell_cane|Cane|||||||
+normal_spell_arcane_fork|Arcane Fork|||||||
+normal_spell_spellblade|Spellblade|Loitsumiekka|Lâmina de Feitiço|Магический клинок|咒语片|スペルブレード|스펠블레이드|Fluchklinge
+normal_spell_wand|Wand|||||||
+normal_spell_magic_tome|Magic Tome|||||||
+normal_spell_yew_wand|Yew Wand|||||||
+||||||||
+[weapon_spell_unique]||||||||
+w_spell_spellshard|Spellshard|Loitsusirpale|Fragmento de Feitiço|Зачарованный Осколок|符咒碎片|スペルシャード|마법서|Zauberscherbe
+w_spell_the_iris|The Iris|Iiris|A Íris|Ирис|彩虹女神|虹彩|아이리스|Die Iris
+w_spell_staff_of_nether_flame|Staff of Nether Flame|Manalanliekin Sauva|Bastão da Chama Inferior|Посох Адского Пламени|阴间火焰杖|ネザーフレームの杖|황천의 지팡이|Stab der Netherflamme
+w_spell_archangel_staff|Archangel Staff|Arkkienkelisauva|Bastão do Arcanjo|Посох Архангела|大天使杖|大天使の杖|아치 천사의 스태프|Stab des Erzengels
+w_spell_the_oculus|Oculus of Ages|||||||
+w_spell_gods_benevolence|God’s Benevolence|God’s Benevolence|God’s Benevolence|God’s Benevolence|God’s Benevolence|God’s Benevolence|God’s Benevolence|God’s Benevolence
+w_spell_satans_unholy_bible|Satan's Unholy Bible|Saatanan Epäpyhä Raamattu|Bíblia Profana de Satã|Чёрная Библия Сатаны|撒旦邪恶的圣经|サタンの悪書|사탄의 불신성한 성경|Satans unheilige Bibel
+w_spell_book_of_revelations|Book of Revelations|Ilmestyskirja|Livro das Revelações|Книга Откровения|启示录|黙示録|계시록|Buch der Enthüllungen
+w_spell_damiens_head|Damien's Head|Damienin pää|Cabeça de Damien|Голова Дэмиена|达米恩的头颅|デイミアンの頭|데미안의 머리|Damiens Kopf
+w_spell_clafaxier|Clafaxier|Clafaxier|Clafaxier|Клафаксир|克拉法西耶|クラファクシア|클라팩시어|Clafaxier
+w_spell_raise_of_dead|Raise of the Dead|Kuolleiden herättäjä|Levante dos Mortos|Восстание Мертвецов|死神复活|死者の復活|죽은자의 소생|Auferstehung der Toten
+w_spell_dragons_breath|Dragon's Breath|Lohikäärmeen henkäys|Bafo do Dragão|Дыхание Дракона|龙的呼吸|竜の吐息|용의 숨결|Drachenatem
+w_spell_apocalypto|Apocalypto|Maailmanlopettaja|Apocalypto|Апокалипсис|天启|アポカリプト|아포칼립토|Apocalypto
+w_spell_steves_wand_of_fortune|Steve's Wand of Fortune|Teemun onnen taikasauva|Varinha da Sorte de Steve|Жезл Удачи Стива|史蒂夫的财富魔杖|スティーブの運の杖|스티브의 행운의 완드|Steves Glücksstab
+w_spell_st_houdeaniis_tiny_fire_rod|St. HouDeanii's Tiny Fire Rod|Pyhän HouDeaniin pieni tulitikku|Varinha de Fogo de Santa HouDeanii|Маленький Огненный Жезл св. HouDeanii|圣窦迪恩利的小火棒|聖フーディーニの小さな火の杖|성 후디니의 작은 파이어 로드|St. HouDeaniis winziger Feuerstab
+w_spell_wormclaw|Wormclaw|Madonkynsi|Garra de Minhoca|Жало|蠕虫爪|ワームクロー|웜클로|Wurmklaue
+w_spell_beacon_of_shadows|Beacon of Shadows|Varjojen Johdatin|Faro de Sombras|Проводник в Мир Теней|阴影的灯塔|影のビーコン|그림자의 비컨|Leuchtfeuer Des Schattens
+w_spell_crystal_infused_wand|Crystal Infused Wand|Kristalliin infusoitu sauva|Varinha Infundida de Cristal|Кристаллический Жезл|水晶魔杖|クリスタル注入ワンド|수정이 주입 된 마법봉|Kristall infundierter Zauberstab
+w_spell_zealots_book_of_prophecy|Zealot's Book of Prophecy|Kiihkoilijan Ennustusten Kirja|Livro de Profecias de Zelote|Книга Пророчеств Фанатика|狂热者的预言书|ジーロットの予言の本|질롯의 프로 페시 책|Zealots Buch der Propechie
+w_spell_uabels_wand|Uabel's Wand|Uabelin sauva|Varinha de Condão Uabel|Uabel's Wand|乌伯尔的魔杖|ウアベルの杖|Uabel's Wand|Uabels Zauberstab
+w_spell_battle_mages_wand|Battle Mage's Wand|Taistelumaagin sauva|Varinha de condão de feiticeiro|Battle Mage's Wand|战斗法师的魔杖|バトルメイジのワンド|Battle Mage's Wand|Zauberstab des Kampfmagiers
+w_spell_spell_eater|Spell Eater|Loitsunsyöjä|Comedor de Feitiços|Spell Eater|噬魂者|スペルイーター|Spell Eater|Zauberfresser
+w_spell_blood_of_abaddon|Blood of Abaddon|Blood of Abaddon|Blood of Abaddon|Blood of Abaddon|Blood of Abaddon|Blood of Abaddon|Blood of Abaddon|Blood of Abaddon
+w_spell_ancient_sun_beacon|Ancient Sun Beacon|Ancient Sun Beacon|Ancient Sun Beacon|Ancient Sun Beacon|Ancient Sun Beacon|Ancient Sun Beacon|Ancient Sun Beacon|Ancient Sun Beacon
+w_spell_the_eye_of_tarethiel|The Eye of Tarethiel|The Eye of Tarethiel|The Eye of Tarethiel|The Eye of Tarethiel|The Eye of Tarethiel|The Eye of Tarethiel|The Eye of Tarethiel|The Eye of Tarethiel
+w_spell_sands_of_time|Sands of Time|Sands of Time|Sands of Time|Sands of Time|Sands of Time|Sands of Time|Sands of Time|Sands of Time
+w_spell_crystal_cane_of_ice|Crystal Cane of Ice|Crystal Cane of Ice|Crystal Cane of Ice|Crystal Cane of Ice|Crystal Cane of Ice|Crystal Cane of Ice|Crystal Cane of Ice|Crystal Cane of Ice
+w_spell_cane_of_tundra|Cane of the Tundra|Cane of the Tundra|Cane of the Tundra|Cane of the Tundra|Cane of the Tundra|Cane of the Tundra|Cane of the Tundra|Cane of the Tundra
+w_spell_book_of_cold_death|Book of Cold Death|Book of Cold Death|Book of Cold Death|Book of Cold Death|Book of Cold Death|Book of Cold Death|Book of Cold Death|Book of Cold Death
+w_spell_thorn_of_helheim|Thorn of Helheim|Thorn of Helheim|Thorn of Helheim|Thorn of Helheim|Thorn of Helheim|Thorn of Helheim|Thorn of Helheim|Thorn of Helheim
+w_spell_flame_of_phoenix|Flame of the Phoenix|||||||
+||||||||
+[weapon_bow]||||||||
+normal_bow_crossbow|Crossbow|Varsijousi|Besta|Арбалет|弩|クロスボウ|석궁|Armbrust
+normal_bow_short_war_bow|Short War Bow|Lyhyt Sotajousi|Arco de Guerra Curto|Короткий боевой лук|战争短弓|ショートウォーボウ|짧은 전쟁 활|Kurzer Kriegsbogen
+normal_bow_long_bow|Long Bow|Pitkäjousi|Arco Longo|Длинный лук|长弓|ロングボウ|긴 활|Langer Bogen
+normal_bow_gothic_bow|Gothic Bow|Goottilainen keula|Arco gótico|Gothic Bow|哥特式蝴蝶结|ゴシック・ボウ|Gothic Bow|Gotischer Bogen
+||||||||
+[weapon_bow_unique]||||||||
+w_bow_buriza|Buriza-ko-nu|||||||
+w_bow_windforce|Wind’s Force|||||||
+w_bow_poison_ivy|Poison Ivy|Myrkkymuratti|Hera Venenosa|Ядовитый Плющ|有毒常春藤|ポイズン・アイビー|독극물 아이비|Giftefeu
+w_bow_glimmerfury|Glimmerfury|Kiiltoraivo|Glimmerfury|Слепая Ярость|微光之怒|グリマーフューリー|희미한 분노|Glimmerwut
+w_bow_flamebringer|Flamebringer|Tulentuoja|Portador da Chama|Вестник Пламени|火焰使者|フレームブリンガー|화염을 가져오는 자|Flammenbringer
+w_bow_steves_punchbow|Steve's Punchbow|Teemun nyrkkijousi|Bacia de Ponche de Steve|Ударный Лук Стива|史蒂夫的冲锋弓|スティーブのパンチボウ|스티브의 펀치 보우|Steves Schlagbogen
+w_bow_st_soloyolos_holy_bow|St. Soloyolo's Holy Bow|Pyhän Soloyolon jousi|Arco Sagrado de São Soloyolo|Священный лук св. Soloyolo|圣索洛约洛的圣弓|聖ソロヨロの聖なる弓|성. 솔로요로 홀리 보우|St. Soloyolos heiliger Bogen
+w_bow_marksmans_hunting_bow|Marksman's Hunting Bow|Jousimiehen metsästysjousi|Arco de Caça do Atirador|Охотничий Лук Стрелка|射手的狩猎弓|マークスマンのハンティングボウ|명사수의 사냥용 활|Jagdbogen des Marksman
+w_bow_shadowfury|Shadowfury|Varjoraivo|Fúria das Sombras|Ярость Тьмы|暗影狂怒|シャドウフューリー|섀도우퓨리|Schattenwut
+w_bow_electro|Electro|Elektro|Electro|Электро|电的|エレクトロ|전기|Electro
+w_bow_hellspawn_eradicator|Hellspawn Eradicator|Hellspawn Eradicator|Erradicador do Inferno|Hellspawn Eradicator|地狱魔王歼灭者|Hellspawn Eradicator|Hellspawn Eradicator|Höllenbrut-Eradikator
+w_bow_deathquill|Deathquill|Deathquill|Deathquill|Deathquill|丧钟|デスキール|Deathquill|Deathquill
+||||||||
+[weapon_claw]||||||||
+normal_claw_wrist_blades|Wrist Blades|Ranteen terät|Lâminas de Pulso|Wrist Blades|腕部刀片|リストブレイド|Wrist Blades|Handgelenkklingen
+normal_claw_blade_talons|Blade Talons|Teräkynnet|Garras de Lâmina|Стальные когти|刀片爪|刃の鉤爪|블레이드 힐|Klingenkrallen
+normal_claw_feral_claws|Feral Claws|Luonnonvaraiset kynnet|Garras Fulgares|Feral Claws|野性的爪子|Feral Claws|Feral Claws|Wilde Krallen
+||||||||
+[weapon_claw_unique]||||||||
+w_claw_storm_fury|Storm Fury|Rajumyrsky|Fúria da Tempestade|Ярость Бури|风暴愤怒|嵐の憤激|스톰 퓨리|Sturmwut
+w_claw_molten_paw|Molten Paw|Sulatassu|Pata Derretida|Расплавленные Когти|炽热爪|溶岩の掌|녹은 발|Geschmolzene Pranke
+w_claw_hemorrhage|Hemorrhage|Verenvuoto|Hemorragia|Кровопускатель|出血爪|流血|출혈|Blutung
+w_claw_yoshis_throat_cutters|Yoshi's Thrroat-Cutters|||||||
+w_claw_elemental_claws|Elemental Claws|Elementaalikynnet|Garras Elementares|Элементальные Когти|元素的爪子|エレメンタルクロー|정령의 발톱|Elementäre Klauen
+w_claw_talons_of_wisdom|Talons of Wisdom|Viisauden Kynnet|Garras da Sabedoria|Когти Мудрости|智慧之爪|知恵のタロン|지혜의 발톱|Krallen der Weisheit
+w_claw_earth_shapers_talons|Earth Shaper's Talons|Maanmuokkaajan Kynnet|Garras do formador da terra|Когти Творца|造地者的利爪|アースシェイパーのタロン|지구 형성 자의 발톱|Krallen des Erdformers
+w_claw_spirit_walkers_guides|Spirit Walker's Guides|Spirit Walker's Guides|Spirit Walker's Guides|Spirit Walker's Guides|Spirit Walker's Guides|Spirit Walker's Guides|Spirit Walker's Guides|Spirit Walker's Guides
+||||||||
+[weapon_polearm]||||||||
+normal_polearm_spear|Spear|Keihäs|Lança|Копье|矛|スピア|창|Speer
+normal_polearm_tribal_spear|Tribal Spear|||||||
+normal_polearm_royal_lance|Royal Lance|Kuninkaallinen Peitsi|Lança Real|Царское копье|皇家长矛|王家のランス|로열 랜스|Königliche Lanze
+normal_polearm_war_trident|War Trident|||||||
+normal_polearm_battle_lance|Battle Lance|||||||
+normal_polearm_hyperion_spear|Hyperion Spear|||||||
+normal_polearm_yari|Yari|||||||
+normal_polearm_fuscina|Fuscina|||||||
+normal_polearm_war_spear|War Spear|||||||
+||||||||
+[weapon_spear_unique]||||||||
+w_polearm_crusader_halberd|Crusader Halberd|Ristiretkeilijän Pertuska|Alabarda Cruzada|Алебарда Крестоносца|十字军戟|クルセーダー・ハルバード|십자군 할버드|Hellebarde des Kreuzritters
+w_polearm_poseidons_might|Poseidon's Might|Poseidonin mahti|Poder de Poseidon|Мощь Посейдона|波塞冬的超能|ポセイドンの威厳|포세이돈의 힘|Poseidons Macht
+w_polearm_odins_battle_spear|Odin's Battle Spear|Odinin Taistelukeihäs|Lança de Batalha de Odin|Боевое копье Одина|奥丁的战矛|オーディンのバトルスピア|오딘의 전투용 창|Odins Kampfspeer
+w_polearm_vanguards_lance|Vanguard's Lance|Kuninkaan Peitsi|Lança do Rei|Королевское Копье|国王的长矛|王のランス|왕의 랜스|Königslanze
+w_polearm_war_gods_lance|War God's Lance|Sotajumalan Peitsi|Lança do Deus da Guerra|Копье Бога Войны|战争之王的长矛|戦神のランス|전쟁의 신의 랜스|Lanze des Kriegsgottes
+w_polearm_jousting_lance|Jousting Lance|Turnauspeitsi|Lança de Combate|Турнирное Копье|竞争长矛|馬上槍|마성의 랜스|Turnierlanze
+w_polearm_golden_gods_gladius|Golden God's Gladius|Kultajumalan Gladius|Gládio do Deus de Ouro|Гладиус Золотого Бога|金神的短剑|金の神のグラディウス|황금의 신의 글라디우스|Gladius des Goldenen Gottes
+w_polearm_st_draxis_pigstick|St. Draxis' Pigstick|Pyhän Draxisen Sikakeppi|Aguilhão de São Draxis|Св. Draxis Pigstick|圣德西斯杀猪棒|聖ドラクシスのピッグスティック|성 드랙시스 피그스틱|St. Draxis‘ Schweinespieß
+w_polearm_lancers_glory|Lancer's Glory|Kilpiseivästäjän Kunnia|Glória do Lanceiro|Боевая Слава Копейщика|枪骑兵的荣耀|ランサーズグローリー|창기병의 영광|Ehre des Lanzenreiters
+w_polearm_champions_flag_lance|Champion's Flag Lance|Sotamestarin Lippupeitsi|Lança da bandeira do campeão|Копье Чемпиона|冠军的旗帜长矛|チャンピオンの旗ランス|챔피언의 깃발 랜스|Flaggenlanze des Champions
+w_polearm_dark_knights_lance|Dark Knight's Lance|Pimeän ritarin keihäs|Lança do Cavaleiro das Trevas|Dark Knight's Lance|黑暗骑士的长枪|ダークナイト・ランス|Dark Knight's Lance|Die Lanze des dunklen Ritters
+||||||||
+[weapon_gun]||||||||
+normal_gun_hand_cannon|Hand Cannon|Käsikanuuna|Canhão de Mão|Пушка|手炮|ハンドキャノン|핸드 캐논|Handkanone
+normal_gun_hunting_rifle|Hunting Rifle|Metsästyskivääri|Espingarda de caça|Hunting Rifle|狩猎步枪|ハンティングライフル|Hunting Rifle|Jagdgewehr
+normal_gun_gatling_gun|Gatling Gun|Sarjatuliase|Metralhadora|Пулемёт Гатлинга|加特林机枪|ガトリングガン|개틀링 기관총|Gatling-Gewehr
+normal_gun_battle_blaster|Battle Blaster|Taistelu Blaster|Batalhador|Battle Blaster|战斗爆破器|バトルブラスター|Battle Blaster|Kampf Blaster
+||||||||
+[weapon_gun_unique]||||||||
+w_gun_rtx_xqc_4910|RT XQC-4910|RT XQC-4910|RT XQC-4910|RT XQC-4910|RT XQC-4910|RT XQC-4910|RT XQC-4910|RT XQC-4910
+w_gun_vampire_hunter|Vampire Hunter|Vampyyrin metsästäjä|Caçador de Vampiros|Охотник на Вампиров|吸血鬼猎人|ヴァンパイア・ハンター|뱀파이어 헌터|Vampirjäger
+w_gun_flamecannon|Flamecannon|Liekkikanuuna|Canhão de Chamas|Огнемет|火焰炮|フレームキャノン|불타는 대포|Flammenkanone
+w_gun_warbringer|Warbringer|Sodantuoja|Warbringer|Вестник Войны|战神|ウォーブリンガー|전쟁을 불러오는 자|Kriegsbringer
+w_gun_jack|Jack|||||||
+w_gun_fred|Fred|||||||
+w_gun_steves_bang|Steve's Bang|Teemun pyssy|Disparo de Steve|Большой Ба-бах Стива|史蒂夫的枪击|スティーブの爆発|스티브의 뱅|Steves Bang
+w_gun_chills_of_war|Chills of War|Sodan väreet|Frios da Guerra|Леденящий Ужас Войны|战争寒意|戦慄|전쟁의 오한|Schauer des Krieges
+w_gun_st_brooks_elementium_pistol|St. Brooks Elementium Pistol|Pyhän Brooksin sula pistooli|Pistola Derretida de Santa Brook|Расплавленный Пистолет св. Brook|圣布鲁克斯熔融手枪|聖ブルックスの溶けたピストル|성 브룩스 용암 권총|St. Brooks geschmolzene Pistole
+w_gun_marines_buddy|Marine's Buddy|Merimiehen kaveri|Camarada da Marinha|Лучший Друг Морпеха|海洋的朋友|マリーンズバディ|마린 버디|Marinekumpel
+w_gun_demon|Demon|||||||
+w_gun_angel|Angel|||||||
+w_gun_crystal_infused_pistol|Crystal Infused Pistol|Kristallipistooli|Pistola de Cristal|Кристаллический Пистолет|水晶手枪|クリスタル注入ピストル|수정이 주입 된 권총|Kristallgefüllte Pistole
+w_gun_f4_tactical_rifle|F4-Tactical Rifle|F4-taktinen kivääri|F4 - Espingarda Táctica|F4-Tactical Rifle|F4-战术步枪|F4-タクティカル・ライフル|F4-Tactical Rifle|F4-Taktisches Gewehr
+w_gun_dreadnought|Dreadnought|Dreadnought|Dreadnought|Dreadnought|Dreadnought|Dreadnought|Dreadnought|Dreadnought
+||||||||
+[weapon_chainsaw]||||||||
+normal_chainsaw_battle_slicer|Battle Slicer|||||||
+normal_chainsaw_war_saw|War Saw|||||||
+normal_chainsaw_trunk_cutter|Trunk Cutter|||||||
+normal_chainsaw_hand_saw|Hand Saw|||||||
+||||||||
+[weapon_chainsaw_unique]||||||||
+w_chainsaw_sawgun|Sawgun|Sahapyssy|Arma de Serra|Пистолет-Пила|锯枪|ソーガン|소우건|Sägegewehr
+w_chainsaw_doublesaw_4000|Doublesaw 4000|Tuplasaha 4000|Serra Dupla 4000|Двойная Пила 4000|双锯 4000|ダブルソー 4000|더블 소우 4000|Doppelsäge 4000
+w_chainsaw_doomsaw|Doomsaw|Tuhosaha|Serra Maldita|Пила Погибели|末日锯|ドゥームソー|둠소우|Verdammnissäge
+w_chainsaw_vorpal_sharktooth|Vorpal Sharktooth|Vorpaali Hainhammas|Dente de Tubarão Vorpal|Вострый Акулий Зуб|刺穿锯鲨鱼牙|首切りシャークトゥース|보팔 상어 이빨|Tödlicher Haifischzahn
+w_chainsaw_the_annihilator|The Annihilator|Tuhoaja|O Aniquilador|Аннигилятор|毁灭者|アナイアレイター|소멸자|Der Vernichter
+w_chainsaw_st_meeses_longsaw|St. Draxis Longsaw|||||||
+w_chainsaw_lumberjacks_chainsaw|Lumberjack's Chainsaw|Tukkimiehen Moottorisaha|Motosserra do lenhador|Бензопила лесоруба|伐木工人的电锯|木こりのチェーンソー|벌목꾼의 전기 톱|Holzfällers Kettensäge
+w_chainsaw_candy_shredder|Candy Shredder|Karkkia silppuri|Fragmentadora de doces|Candy Shredder|糖果切碎机|キャンディシュレッダー|Candy Shredder|Bonbon-Schredder
+w_chainsaw_royal_decapitator|Royal Decapitator|Royal Decapitator|Decapitador Real|Royal Decapitator|皇家斩首者|ロイヤルディカピター|Royal Decapitator|Königlicher Enthauptungsapparat
+||||||||
+[weapon_flask]||||||||
+normal_flask_poison_flask|Poison Flask|Myrkkyrohto|Ampola de Veneno|Склянка с ядом|毒药小瓶|毒のバイアル|독극물 약병|Giftphiole
+normal_flask_caustic_vial|Caustic Vial|Sotapullo|Balão de Guerra|War Flask|战神瓶|ウォーフラスク|War Flask|Kriegskolben
+normal_flask_acid_flask|Acid Flask|Happopullo|Frasco Ácido|Acid Flask|酸性烧瓶|酸性フラスコ|Acid Flask|Säurekolben
+normal_flask_achemists_flask|Alchemist's Flask|Sotamyrkky|Veneno de guerra|War Poison|战争毒药|ウォーポイズン|War Poison|Kriegsgift
+||||||||
+[weapon_flask_unique]||||||||
+w_flask_cobra_blood_vial|Cobra Blood Vial|Kobranveripullo|Ampola de Sangue de Cobra|Флакон с ядом кобры|眼镜蛇血瓶|コブラの血のバイアル|코브라의 피 약병|Phiole mit Kobrablut
+w_flask_ancient_mucus|Ancient Mucus|Muinainen Muta|Muco Antigo|Древняя Слизь|古代粘液瓶|古代の粘液|고대 점액|Uralter Schleim
+w_flask_demon_blood_flask|Demon Blood Flask|Pirunveripullo|Frasco de Sangue de Demônio|Флакон с кровью демона|恶魔血瓶|デーモンの血のフラスコ|악마 피의 플라스크|Fläschchen mit Dämonenblut
+w_flask_spirit_urn|Spirit Urn|Sielu-uurna|Urna de Espírito|Флакон Душ|精神乌恩瓶|精霊の骨壷|성령 항아리|Geisturne
+w_flask_doctors_potion|Doctor's Potion|Tohtorin Rohto|Poção do Médico|Зелье Доктора|医生的药水|ドクターズポーション|의사의 물약|Trank des Doktors
+w_flask_doomweed_vial|Doomweed Vial|Doomweed injektiopullo|Frasco de Doomweed|Doomweed Vial|斗篷草小瓶|ドゥームウィード・バイアル|Doomweed Vial|Doomweed-Fläschchen
+||||||||
+[weapon_universal]||||||||
+w_universal_lemon|Lemon|Lemon|Lemon|Lemon|Lemon|Lemon|Lemon|Lemon
+||||||||
+[armors]||||||||
+armors_normal_steel_armor|Steel Armor|Teräshaarniska|Armadura de Aço|Стальная Броня|钢铁甲|鋼の鎧|강철 갑옷|Stahlrüstung
+armors_normal_leather_coat|Leather Coat|Nahkatakki|Casaco de Couro|Кожаный Доспех|皮革大衣|革のコート|가죽 코트|Ledermantel
+armors_normal_studded_leather|Studded Leather|Nastoitettu Nahkahaarniska|Couro Cravejado|Клепаный кожаный доспех|镶嵌皮革|スタッド付きの鎧|고급 가죽|Verstärktes Leder
+armors_normal_trellised_armor|Trellised Armor|Trellisoitu Haarniska|Armadura Treliçada|Чешуйчатый доспех|攀绕护甲|格子の鎧|전신 갑옷|Vergitterte Rüstung
+armors_breast_plate|Breast Plate|||||||
+armors_normal_cuirass|Cuirass|Rintapanssari|Couraça|Кираса|胸甲|キュイラス|동체 갑옷|Kürass
+armors_templar_coat|Templar  Coat|||||||
+armors_wire_fleece|Wire Fleece|||||||
+armors_boneweave|Boneweave|||||||
+armors_chaos_armor|Chaos Armor|||||||
+armors_dusk_shroud|Dusk Shroud|||||||
+armors_great_hauberk|Great Hauberk|||||||
+||||||||
+[armors_unique]||||||||
+armors_heavens_might|Heaven's Might|Taivaan Mahti|Força do Paraíso|Мощь Небес|天堂的大能|天の威厳|하늘의 심판|Macht des Himmels
+armors_leviathan|Leviathan’s Carcass|||||||
+armors_tayrels_chestplate|Tayrel's Chestplate|Tayrelin Rintapelti|Peitoral de Tayrel|Нагрудник Тайрела|泰雷尔的护胸|タイレルのチェストプレート|타일러의 흉갑|Tayrels Brustplatte
+armors_uabels_chest|Uabel's Chest|Uabelin Rintapelti|Peito de Uabel|Нагрудник Уабеля|乌贝尔的胸甲|ユーベルのチェスト|와벨의 흉부|Uabels Brust
+armors_marsh_shroud|Marsh Shroud|Suoverho|Manto do Pântano|Болотная Накидка|沼泽寿衣|沼沢のシュラウド|마쉬 슈라우드|Marschschleier
+armors_gladiators_demise|Gladiator's Demise|Gladiaattorin Kuolema|Morte do Gladiador|Гибель Гладиатора|角斗士的馈赠|剣闘士の終焉|검투사의 죽음|Brustplatte des Gladiators
+armors_hellfire_cuirass|Hellfire Cuirass|Pätsin Rintapanssari|Couraça do Fogo do Inferno|Кираса Адского Пламени|地狱之火胸甲|地獄の炎のキュイラス|지옥 불 동체갑옷|Höllenfeuerkürass
+armors_devils_cocoon|Devil's Cocoon|Paholaisen Koppa|Casulo do Demônio|Покров Дьявола|魔鬼的茧|悪魔の繭|악마의 누에고치|Brustplatte des Teufels
+armors_mevius_mighty_plate|Mevius' Mighty Plate|Meviuksen Mahtava Pelti|Placa Poderosa de Mevius|Великолепные Латы Мевиуса|梅维乌斯强力护胸|メビウスの偉大なプレート|뫼비우스의 마이티 플레이트|Mevius' Mächtige Platte
+armors_anubis_torso|Anubis Torso|Anubis Vartalo|Tronco de Anúbis|Торс Анубиса|阿努比斯护甲|アヌビスの胴|아누비스의 몸통|Anubis' Torso
+armors_genjis_battle_armor|Genji's Battle Armor|Genjin Taistelupanssari|Armadura de Batalha de Genji|Боевой Доспех Гэндзи|根吉的战斗盔甲|ゲンジのバトル・アーマー|겐지의 전투용 갑옷|Genjis Brustplatte
+armors_satans_cuirass|Satan's Cuirass|Saatanan Rintapanssari|Couraça de Satã|Кираса Сатаны|撒旦的胸甲|サタンのキュイラス|사탄의 동체갑옷|Satans Brustplatte
+armors_sand_kings_scarab|Sand King's Scarab|Hiekkakuninkaan Skarabi|Escaravelho do Rei da Areia|Броня Короля Песков|沙王的圣甲虫|サンド・キングのスカラベ|모래 왕의 풍뎅이|Brustplatte des Königs der Sande
+armors_ice_howls_cuirass|Ice Howl's Cuirass|Jääulvojan Rintapanssari|Couraça do Uivo do Gelo|Кираса Рев Мороза|冰王的胸甲|アイスハウルのキュイラス|아이스 하울의 동체갑옷|Eisgeheuls Kürass
+armors_grandwizards_robe|Grandwizard's Robe|Suurvelhon Viitta|Manto do Grão-Mago|Мантия Верховного Мага|大巫师的长袍|グランドウィザードのローブ|위대한 위저드의 로브|Brustplatte des Großmagiers
+armors_zeus_body_armor|Zeus' Body Armor|Zeuksen Panssari|Armadura Corporal de Zeus|Броня Зевса|宙斯盔甲|ゼウスの胴甲|제우스의 몸통 갑옷|Zeus' Körperpanzerung
+armors_rednecks_shirt|Redneck's Shirt|Punaniskan Paita|Camisa do Camponês|Рубаха Деревенщины|红脖子的衬衫|レッドネックのシャツ|레드넥의 셔츠|Redneck-Hemd
+armors_pirate_captains_shirt|Pirate Captain's Shirt|Merirosvokapteenin Paita|Camisa do Capitão Pirata|Рубаха Капитана Пиратов|海盗船长衬衫|海賊船長のシャツ|해적 대위의 셔츠|Hemd des Piratenkapitäns
+armors_death_lords_bone_armor|Death Lord's Bone Armor|Kuolemanherran Luupanssari|Armadura de Ossos do Senhor da Morte|Костяная Броня Владыки Смерти|死神的骨甲|デス・ロードの骨の鎧|죽음의 신의 뼈갑옷|Knochenrüstung des Todeslords
+armors_thors_chest_armor|Thor's Chest Armor|Odinin Rintapanssari|Armadura Peitoral de Odin|Кираса Одина|奥丁的胸甲|オーディンのチェスト・アーマー|오딘의 흉부 갑옷|Odins Brustrüstung
+armors_cuirass_of_blood|Cuirass of Blood|Veren Rintapanssari|Couraça de Sangue|Кровавая Кираса|嗜血胸甲|血のキュイラス|피의 흉갑|Kürass des Blutes
+armors_magisters_robe|Magister's Robe|Velhon Viitta|Robe do Magister|Одеяние Мага|大法师的长袍|マギステル・ローブ|마법사의 로브|Gewand des Magisters
+armors_nomads_battlerobe|Nomad's Battlerobe|Vaeltajan Taisteluviitta|Veste de Batalha do Nômade|Боевое Одеяние Кочевника|流浪者的战袍|ノマドのバトルローブ|노마드의 배틀로브|Schlachtenrobe des Nomaden
+armors_marksmans_hunting_shroud|Marksman's Hunting Shroud|Jousimiehen Metsästysverho|Mortalha de Caça do Atirador|Охотничья Накидка Стрелка|射手的狩猎裹尸布|マークスマンのハンティングシュラウド|명사수의 사냥용 장막|Kampfschleier des Marksman
+armors_upis_sweetshirt|Upi's Sweetshirt|Upin Makea Paita|Suéter de Upi|Свитер Упи|Upi的运动衫|ユピのスウィートシャツ|우피의 스웨트셔츠|Sweetshirt des Upi
+armors_thunder_gladiators_armor|Thunder Gladiator's Armor|Ukkosgladiaattorin Panssari|Armadura do Gladiador de Trovão|Доспех Воина Грома|雷声角斗士的盔甲|サンダーグラディエーターのアーマー|썬더 글라디에이터의 갑옷|Rüstung des Donnergladiatoren
+armors_nobunagas_battle_cuirass|Nobunaga's Battle Cuirass|Nobunagan Taistelurintapanssari|Couraça de Batalha de Nobunaga|Кираса Нобунага|织田信长的战斗胸甲|信長のバトルクイラス|노부나가의 전투용 동체 갑옷|Schlachtkürass des Nobunaga
+armors_dantes_jacket|Dante's Jacket|||||||
+armors_lancers_chestplate|Lancer's Chestplate|Kilpiseivästäjän Rintapelti|Peitoral do Lanceiro|Кираса Копейщика|枪骑兵的胸甲|ランサーズチェストプレート|랜서즈 갑옷|Brustplatte des Lanzenreiters
+armors_demons_ribcage|Demon's Ribcage|Demonin Rintakehä|Caixa Torácica do Demônio|Ребра Демона|恶魔的胸腔|悪魔の胸郭|악마의 흉곽|Brustkorb des Dämons
+armors_sacred_robe|Sacred Robe|Pyhäviitta|Veste Sagrada|Священное Одеяние|神圣的长袍|聖なるローブ|신성한 가운|Heilige Robe
+armors_chestplate_of_fire|Chestplate of Fire|Liekkirintapelti|Peitoral de Fogo|Нагрудник Пламени|火胸甲|炎のチェストプレート|불의 갑옷|Brennende Brustplatte
+armors_lichbane|Lichbane|Kalmanriesa|Perdição de Lich|Вечные Муки|尸巫|リヒベネ|리치베인|Lichbane
+armors_st_judas_hauberk|St. Jupe’s Plate of Command|||||||
+armors_travelers_leather_jacket|Traveler's Leather Jacket|Matkustajan Nahkatakki|Jaqueta de couro do viajante|Кожаная Куртка Путешественника|旅行者的皮夹克|トラベラーズレザージャケット|여행자 용 가죽 자켓|Lederjacke für Reisende
+armors_gem_kings_garb|Gem King's Garb|Jalokivi Kuninkaan Panssari|Traje do Rei Gema|Одеяние Короля Самоцветов|宝石王的服装|ジェムキングの服|보석 왕의 의복|Gem King's Gewand
+armors_engineers_plated_vest|Engineer's Plated Vest|Insinöörin Panssaroitu Liivi|Colete Cromado do Engenheiro|Бронежилет Инженера|工程师的镀金背心|エンジニアのメッキベスト|엔지니어의 도금 조끼|Überzogene Weste des Ingenieurs
+armors_vagabonds_wraps|Vagabond's Wraps|Kiertolaisen Rievut|Wraps de vagabundo|Накидка Скитальца|流浪者的裹身|バガボンドのラップ|방랑자의 겉옷|Vagabonds Wraps
+armors_flame_diviners_sanctum|Flame Diviner's Sanctum|Liekinjakajan Suoja|Santuário do Adivinho Flamejante|Нагрудник Прорицателя|烈焰圣者的圣殿|炎占い師の聖域|화염 점쟁이의 성소|Flammenwahrsagers Heiligtum
+armors_bloodletters_plate_body|Blood-letter's Plate Body|Blood-letter's Plate Body|Blood-letter's Plate Body|Латный Нагрудник Кровопускателя|Blood-letter's Plate Body|Blood-letter's Plate Body|Blood-letter's Plate Body|Blood-letter's Plate Body
+armors_venoms_ribcage|Venom's Ribcage|Venomin Rintakehä|Caixa torácica de Venom|Костяная Броня Веномансера|毒液的肋骨|ヴェノムの胸郭|독의 갈비뼈|Venoms Brustkorb
+armors_shield_bearers_plated_armor|Shield Bearer's Plated Armor|Kilvenkäyttäjän Panssari|Armadura Cromada do Portador do Escudo|Латный Доспех Щитоносца|盾牌守卫者的板甲|シールドベアラーのプレートアーマー|방패 운반자의 도금 갑옷|Schildträger-Rüstung
+armors_juggernauts_glorious_plate|Juggernaut's Glorious Plate|Pysäyttämätön Voiman Mahtava Haarniska|Placa Gloriosa de Juggernaut|Великолепные Латы Джаггернаута|剑圣的光荣板甲|ジャガーノートの栄光のプレート|저거너트의 영광스러운 판|Juggernauts herrlicher Teller
+armors_justiciars_thunder_armor|Justiciar's Thunder Armor|Oikeuttajan Ukkospanssari|Armadura de Trovão do Justiciar|Латный Доспех Праведного|贾斯蒂西尔的雷霆护甲|司法長官のサンダーアーマー|Justiciar의 천둥 갑옷|Justiciars Donnerrüstung
+armors_lost_masters_platemail|Lost Master's Platemail|Kadonneen Mestarin Peltipanssari|Platemail do Mestre Perdido|Латный Доспех Мастера|失落大师的板甲|ロストマスターのプレートメール|로스트 마스터의 플레이트 메일|Platemail des verlorenen Meisters
+armors_earth_shapers_body|Earth Shaper's body|Maanmuokkaajan Keho|Corpo do formador da terra|Броня Творца|造地者的身体|アースシェイパーの体|지구 형성 자의 몸|Körper des Erdformers
+armors_plunderers_jacket|Plunderer's Jacket|Ryövärin Jakku|Jaqueta de saqueador|Жилет Расхитительницы|掠夺者外套|プランダラのジャケット|약탈자 재킷|Plündererjacke
+armors_valkyries_battle_rainment|Valkyrie's Battle Raiment|Valkyrie's Battle Raiment|Valkyrie's Battle Raiment|Боевое Одеяние Валькирии|Valkyrie's Battle Raiment|Valkyrie's Battle Raiment|Valkyrie's Battle Raiment|Valkyrie's Battle Raiment
+armors_hazmat_suit|Hazmat Suit|Hazmat puku|Fato para materiais perigosos|Hazmat Suit|危险品防护服|ハズマットスーツ|Hazmat Suit|Gefahrgutanzug
+armors_molten_steel_cataphract|Molten Steel Cataphract|Sulan teräksen katafrakti|Catafrato de aço derretido|Molten Steel Cataphract|熔化的钢铁大士|モルテン・スチール・カタフラクト|Molten Steel Cataphract|Geschmolzener Stahl Kataphrakt
+armors_tropical_storm|Tropical Storm|Trooppinen myrsky|Tempestade Tropical|Tropical Storm|热带风暴|熱帯雨林|Tropical Storm|Tropensturm
+armors_magic_imbued_frozen_plate|Magic-Imbued Frozen Plate|Taikuudella varustettu jäädytetty platemail|Magic-Imbued Frozen Frozen Platemail|Magic-Imbued Frozen Platemail|充满魔力的冰冻桔梗|魔法をかけられたフローズンプラテメール|Magic-Imbued Frozen Platemail|Gefrorene Platemail mit Magie-Imprägnierung
+armors_zephys_gown|Zephy's Gown|Zephyn puku|Bata Zephy's Gown|Zephy's Gown|Zephy's Gown|Zephyのガウン|Zephy's Gown|Zephys Kleid
+armors_mystique_allure|Mystique Allure |Mystiikka Allure|Mystique Allure|Mystique Allure |神秘主义的魅力|ミスティーク・アリュール|Mystique Allure |Mystik Allure
+armors_cocoon_of_berserker|Cocoon of the Berserker|Berserkerin kotelo|Casulo do Berserker|Cocoon of the Berserker|狂热者之茧|バーサーカーの繭|Cocoon of the Berserker|Kokon des Berserkers
+armors_giant_thorned_lizard_skin|Giant Thorned Lizard Skin|Giant Thorned Lizard Skin|Pele de lagarto espinhosa gigante|Giant Thorned Lizard Skin|巨型带刺蜥蜴皮|巨大なトゲトカゲの皮|Giant Thorned Lizard Skin|Haut der Rieseneidechse mit Dornen
+armors_noxious_hunters_reward|Noxious Hunter's Reward|Noxious Hunter's Reward|Noxious Hunter's Reward|Noxious Hunter's Reward|Noxious Hunter's Reward|Noxious Hunter's Reward|Noxious Hunter's Reward|Noxious Hunter's Reward
+armors_empires_military_plate|Empire's Military Plate|Imperiumin sotilaskilpi|Placa Militar do Império|Empire's Military Plate|帝国的军牌|帝国のミリタリープレート|Empire's Military Plate|Militärische Platte des Reiches
+armors_leather_muscle_breastplate|Leather Muscle Breastplate|Nahkainen lihasrintalautanen|Placa de Couro Músculo Mamário|Leather Muscle Breastplate|皮革肌肉胸甲|レザーマッスルブレストプレート|Leather Muscle Breastplate|Leder-Muskel-Brustplatte
+armors_tundra_hunters_long_coat|Tundra Hunter's Long Coat|Tundrametsästäjän pitkä takki|Tundra Hunter's Long Coat|Tundra Hunter's Long Coat|苔原猎人的长外套|ツンドラハンターのロングコート|Tundra Hunter's Long Coat|Langer Mantel des Tundra-Jägers
+armors_arcana_robes_of_authority|Arcane Robes of Authority|Arkaninen auktoriteetin kaapu|Túnicas de Autoridade Arcana|Arcane Robes of Authority|权力的奥秘之袍|権威あるアルカンのローブ|Arcane Robes of Authority|Arkane Gewänder der Autorität
+armors_thunder_guardians_plate|Thunder Guardian's Plate|Thunder Guardianin lautanen|Placa Thunder Guardian's|Thunder Guardian's Plate|雷霆守护者之盘|サンダーガーディアンのプレート|Thunder Guardian's Plate|Teller des Donnerwächters
+armors_tactical_flak_jacket|Tactical Flak Jacket|Taktinen Flak-takki|Jaqueta Flak Tática|Tactical Flak Jacket|战术高射炮夹克|タクティカルフラックジャケット|Tactical Flak Jacket|Taktische Flak-Jacke
+armors_unearthed_esoteric_panoply|Unearthed Esoteric Panoply|Unearthed Esoteric Panoply|Unearthed Esoteric Panoply|Unearthed Esoteric Panoply|Unearthed Esoteric Panoply|Unearthed Esoteric Panoply|Unearthed Esoteric Panoply|Unearthed Esoteric Panoply
+armors_sheep_kings_hide|Sheep King’s Hide|Sheep King’s Hide|Sheep King’s Hide|Sheep King’s Hide|Sheep King’s Hide|Sheep King’s Hide|Sheep King’s Hide|Sheep King’s Hide
+armors_clan_leaders_pride|Clan Leader's Pride|Clan Leader's Pride|Clan Leader's Pride|Clan Leader's Pride|Clan Leader's Pride|Clan Leader's Pride|Clan Leader's Pride|Clan Leader's Pride
+armors_elementalists_silk_shroud|Elementalist's Silk Shroud|Elementalist's Enchanted Shroud|Elementalist's Enchanted Shroud|Elementalist's Enchanted Shroud|Elementalist's Enchanted Shroud|Elementalist's Enchanted Shroud|Elementalist's Enchanted Shroud|Elementalist's Enchanted Shroud
+armors_bandit_lords_shroud|Bandit Lord's Shroud|Bandit Lord's Shroud|Bandit Lord's Shroud|Bandit Lord's Shroud|Bandit Lord's Shroud|Bandit Lord's Shroud|Bandit Lord's Shroud|Bandit Lord's Shroud
+armors_black_knights_carapace|Black Knight's Carapace|Black Knight's Carapace|Black Knight's Carapace|Black Knight's Carapace|Black Knight's Carapace|Black Knight's Carapace|Black Knight's Carapace|Black Knight's Carapace
+armors_behemoths_damascus_body|Behemoth’s Damascus Body|Behemoth’s Damascus Body|Behemoth’s Damascus Body|Behemoth’s Damascus Body|Behemoth’s Damascus Body|Behemoth’s Damascus Body|Behemoth’s Damascus Body|Behemoth’s Damascus Body
+armors_sand_manipulators_kalasiris|Sand Manipulator's Kalasiris|Sand Manipulator's Kalasiris|Sand Manipulator's Kalasiris|Sand Manipulator's Kalasiris|Sand Manipulator's Kalasiris|Sand Manipulator's Kalasiris|Sand Manipulator's Kalasiris|Sand Manipulator's Kalasiris
+armors_ymirs_frozen_vestment|Ymir's Frozen Vestment|Ymir's Frozen Vestment|Ymir's Frozen Vestment|Ymir's Frozen Vestment|Ymir's Frozen Vestment|Ymir's Frozen Vestment|Ymir's Frozen Vestment|Ymir's Frozen Vestment
+armors_einars_plated_armor|Einar's Plated Armor|Einar's Plated Armor|Einar's Plated Armor|Einar's Plated Armor|Einar's Plated Armor|Einar's Plated Armor|Einar's Plated Armor|Einar's Plated Armor
+armors_gabriels_leather_trench_coat|Gabriel's Leather Trench Coat|Gabriel's Leather Trench Coat|Gabriel's Leather Trench Coat|Gabriel's Leather Trench Coat|Gabriel's Leather Trench Coat|Gabriel's Leather Trench Coat|Gabriel's Leather Trench Coat|Gabriel's Leather Trench Coat
+armors_grimbones_ribcage|Grimbone's Ribcage|Grimbone's Ribcage|Grimbone's Ribcage|Grimbone's Ribcage|Grimbone's Ribcage|Grimbone's Ribcage|Grimbone's Ribcage|Grimbone's Ribcage
+armors_odins_battlearmor|Odin's Battlearmor|Odin's Battlearmor|Odin's Battlearmor|Odin's Battlearmor|Odin's Battlearmor|Odin's Battlearmor|Odin's Battlearmor|Odin's Battlearmor
+||||||||
+[helms]||||||||
+helmet_normal_cap|Cap|||||||
+helmet_normal_casque|Casque|||||||
+helmet_normal_basinet|Basinet|||||||
+helmet_normal_war_hat|War Hat|||||||
+helmet_normal_great_helm|Great Helm|||||||
+helmet_normal_war_visage|War Visage|||||||
+helmet_normal_shako|Shako|||||||
+helmet_normal_horned_helm|Horned Helm|||||||
+helmet_normal_basilisk_skull|Basilisk Skull|||||||
+||||||||
+[helms_unique]||||||||
+helmet_harlequin_crest|Harlequinn’s Crest|||||||
+helmet_colossal_avenger|The Colossal Avenger|Jättimäinenkostaja|O Vingador Colossal|Гигантский Мститель|巨人复仇者|復讐者軍団|거대한 복수자|Der Kolossale Rächer
+helmet_demon_warlords_helm|Demon Warlord's Helm|Demonisotaherran Kypärä|Elmo do Demônio Senhor da Guerra|Шлем Высшего Демона|恶魔军阀的头盔|デーモン武将の兜|악마 장군의 투구|Helm des Dämonischen Kriegsherrn
+helmet_the_bucket|The Bucket|Ämpäri|O Balde|Ведро|桶|バケツ|양동이|Der Eimer
+helmet_sky_crusader_helm|Sky Crusader Helm|Taivasristiretkeilykypärä|Elmo do Cruzador do Céu|Небесный Шлем Крестоносца|天空十字军头盔|空のクルセーダーの兜|하늘의 십자군 투구|Helm des Himmlischen Kreuzritters
+helmet_helm_of_dominator|Helm of Dominator|Dominoijan Kypärä|Elmo do Dominador|Доминатор|霸主的头盔|支配者の兜|정복자의 투구|Helm des Beherrschers
+helmet_faceless_priest|The Faceless Priest|Kasvoton Pappi|O Sacerdote sem Rosto|Безликий Священник|无脸祭司|顔の無い祭司|얼굴 없는 성직자|Der Gesichtslose Priester
+helmet_uabels_helmet|Uabel's Helmet|Uabelin Kypärä|Elmo de Uabel|Шлем Уабеля|乌贝尔头盔|ユーベルの兜|와벨의 투구|Uabels Helm
+helmet_reapers_hood|Reaper's Hood|Viikatemiehen Kaapu|Capuz do Ceifador|Капюшон Жнеца|死神的兜帽|死神のフード|사신의 두건|Schnitterkapuze
+helmet_genjis_battle_helmet|Genji's Battle Helmet|Genjin Taistelukypärä|Capacete de Batalha de Genji|Шлем Гэндзи|根吉的战斗头盔|ゲンジのバトル兜|겐지의 전투 투구|Genjis Kampfhelm
+helmet_mevius_mighty_helmet|Mevius' Mighty Helmet|Meviuksen Mahtava Kypärä|Capacete Poderoso de Mevius|Великолепный Шлем Мевиуса|梅维乌斯强大头盔|メビウスの偉大な兜|뫼비우스의 힘의 투구|Mevius' Mächtiger Helm
+helmet_flame_gods_helmet|Flame God's Helmet|Tulijumalan Kypärä|Capacete do Deus das Chamas|Шлем Бога Пламени|火王的头盔|炎神の兜|화염 신의 투구|Helm des Flammengottes
+helmet_ice_kings_crown|Ice King's Crown|Jääkuninkaan Kruunu|Coroa do Rei do Gelo|Корона Короля Льдов|冰王皇冠|氷の王の冠|얼음 왕의 왕관|Krone des Eiskönigs
+helmet_zeus_circlet|Zeus' Circlet|Zeuksen Otsaripa|Tiara de Zeus|Корона Зевса|宙斯的环形头饰|ゼウスのサークレット|제우스 서클릿|Zeus' Reif
+helmet_rednecks_cap|Redneck's Cap|Punaniskan Lippis|Boné do Camponês|Шапка Деревенщины|红脖子的帽子|レッドネックの帽子|레드넥의 모자|Redneck-Kappe
+helmet_pirate_captains_hat|Pirate Captain's Hat|Merirosvokapteenin Hattu|Chapéu do Capitão Pirata|Шляпа Капитана Пиратов|海盗船长的帽子|海賊船長の帽子|해적 대위의 모자|Hut des Piratenkapitäns
+helmet_death_lords_crown|Death Lord's Crown|Kuolemanherran Kruunu|Coroa do Senhor da Morte|Корона Владыки Смерти|死神的皇冠|デス・ロードの冠|죽음의 신의 왕관|Krone des Todeslords
+helmet_thors_battle_cap|Thor's Battle Cap|Odinin Taistelukypärä|Boné de Batalha de Odin|Шлем Одина|奥丁的战斗帽|オーディンのバトル・キャップ|오딘의 전투 모자|Odins Kampfhaube
+helmet_vikings_sacred_helmet|Viking's Sacred Helmet|Viikingin Pyhäkypärä|Capacete Sagrado Viking|Священный шлем викинга|维京人的圣头盔|バイキングの神聖な兜|바이킹의 신성한 투구|Heiliger Wikingerhelm
+helmet_nomads_sand_bandana|Nomad's Sand Bandana|Vaeltajan Hiekkahuivi|Bandana de Areia do Nômade|Бандана Кочевника|游牧者的沙子大手帕|ノマドのサンドバンダナ|노마드의 모래 두건|Sandbandana des Nomaden
+helmet_nobunagas_battle_helmet|Nobunaga's Battle Helmet|Nobunagan Taistelukypärä|Capacete de Batalha de Nobunaga|Шлем Нобунага|织田信长的战斗头盔|信長のバトルヘルメット|노부나가의 전투용 헬멧|Schlachthelm des Nobunaga
+helmet_gladiators_skullet|Gladiator's Skullet|Gladiaattorin Kallotti|Caveira do Gladiador|Шлем Гладиатора|角斗士的乌鱼发型|グラディエーターのスカルレット|글라디에이터의 스컬렛|Schädel des Gladiators
+helmet_doctors_visage|Doctor's Visage|Tophtorin Kasvot|Rosto do Médico|Маска Доктора|医生的面貌|ドクターズヴィサージュ|의사의 얼굴|Visage des Doktors
+helmet_aztec_crown|Aztec Crown|Atsteekkikruunu|Coroa Asteca|Корона Ацтеков|爱捷特皇冠|アズテッククラウン|아즈텍 크라운|Krone es Azteken
+helmet_wendigo_skull|Wendigo Skull|Wendigokallo|Caveira de Wendigo|Череп Вендиго|联合头骨|ヴェンディゴスカル|웬디고 해골|Schädel des Wendigo
+helmet_judge_jury_executioner|Judge, Jury & Executioner|Tuomari, Tuomaristo & Teloittaja|Juiz, Júri e Executor|Преступление и Наказание|法官、陪审团和刽子手|陪審と処刑人|심사 위원 및 집행관|Richter, Jury und Henker
+helmet_death_knights_visage|Death Knight's Visage|Kuolemaritarin Kasvot|Rosto do Cavaleiro da Morte|Маска Рыцаря Смерти|死亡骑士的面貌|デスナイツヴィザージュ|죽음의 기사의 얼굴|Visage des Todesritters
+helmet_ancient_avenger|Ancient Avenger|Muinaiskostaja|Vingador Ancião|Древний Мститель|古老的复仇者|アンシエントアベンジャー|고대 복수자|Alter Rächer
+helmet_burning_gaze|Burning Gaze|Polttava Tuijotus|Olhar Ardente|Огненный Взор|燃烧的目光|バーニングゲイズ|불타는 듯한 눈|Brennender Blick
+helmet_sight_of_gods|Sight Of The Gods|Jumalten Katse|Visão dos Deuses|Божественный Взор|众神之视|神々の光景|신들의 광경|Anblick der Götter
+helmet_zealots_guise_of_doom|Zealot's Guise of Doom|Kiihkoilijan Tuomion Huppu|o disfarce de fanático da desgraça|Покров Смерти Фанатика|狂热者的厄运掩饰|熱狂的な運命の装い|열렬한 운명의 모습|Eiferers Gestalt des Untergangs
+helmet_flame_diviners_refuge|Flame Diviner's Refuge|Tuliennustajan Turvapaikka|Refúgio do adivinho da chama|Шлем Прорицателя|烈焰圣地的避难所|炎占い師の避難所|화염 점쟁이의 피난처|Zuflucht der Flammenwahrsager
+helmet_lumberjacks_safety_helm|Lumberjack's Safety Helm|Tukkimiehen Suojakypärä|Capacete de Segurança do Lenhador|Защитный Шлем Лесоруба|伐木工人的安全帽|木こりの安全ヘルメット|Lumberjack의 안전 헬멧|Holzfäller-Schutzhelm
+helmet_bloodletters_crown|Blood-letter's Crown|Blood-letter's Crown|Blood-letter's Crown|Шлем Кровопускателя|Blood-letter's Crown|Blood-letter's Crown|Blood-letter's Crown|Blood-letter's Crown
+helmet_venoms_skull|Venom's Skull|Venomin Pääkallo|Caveira de Venom|Костяной Шлем Веномансера|毒液的头骨|ヴェノムの頭蓋骨|독의 해골|Giftschädel
+helmet_shield_bearers_crown|Shield Bearer's Crown|Kilvenkäyttäjän Kruunu|Coroa do Portador do Escudo|Корона Щитоносца|盾牌守卫者的王冠|シールドベアラーの王冠|방패 전달자의 왕관|Schildträgerkrone
+helmet_juggernauts_siege_helm|Juggernaut's Siege Helm|Pysäyttämätön Voiman Piirityskypärä|Capacete de cerco de Juggernaut|Осадный Шлем Джаггернаута|剑圣的攻城头盔|ジャガーノートの包囲ヘルメット|저거너트의 공성 헬멧|Belagerungshelm von Juggernaut
+helmet_lost_masters_vision|Lost Master's Vision|Kadonneen Mestarin Näkö|Visão do Mestre Perdida|Взор Мастера|失去大师的视野|失われたマスターのビジョン|잃어버린 스승의 비전|Die Vision des verlorenen Meisters
+helmet_valkyries_winged_helm|Valkyrie's Winged Helm|Valkyrie's Winged Helm|Valkyrie's Winged Helm|Крылатый Шлем Валькирии|Valkyrie's Winged Helm|Valkyrie's Winged Helm|Valkyrie's Winged Helm|Valkyrie's Winged Helm
+helmet_surgical_mask|Surgical Mask|Kirurginen naamio|Máscara cirúrgica|Surgical Mask|手术面罩|サージカルマスク|Surgical Mask|Chirurgische Maske
+helmet_battle_worn_visor|Battle Worn Visor|Taistelussa kulunut visiiri|Viseira de batalha desgastada|Battle Worn Visor|战斗磨损的面罩|戦場で着用したバイザー|Battle Worn Visor|Schlacht Worn Visor
+helmet_underworlds_skullbreaker|Underworld's Skullbreaker|Underworldin Skullbreaker|O quebrador de crânios do submundo|Underworld's Skullbreaker|冥界的破壳者|アンダーワールドのスカルブレーカー|Underworld's Skullbreaker|Schädelbrecher der Unterwelt
+helmet_sand_travelers_guise|Sand Traveler's Guise|Hiekkamatkustajan asu|Guia do Viajante na Areia|Sand Traveler's Guise|沙地旅行者的幌子|サンドトラベラーズギース|Sand Traveler's Guise|Sand Traveler's Guise
+helmet_crown_of_holy_one|Crown of the Holy One|Arcaniumin kruunu|Coroa de Arcanium|Crown of Arcanium|阿卡尼姆之冠|クラウン オブ アルカニウム|Crown of Arcanium|Krone von Arkanium
+helmet_guise_of_dead|Guise of the Dead|Guise of the Dead|A capa dos mortos|Guise of the Dead|亡灵的幌子|ギゼ・オブ・ザ・デッド|Guise of the Dead|Das Gewand der Toten
+helmet_veil_of_mystery|Veil of Mystery|Mysteerin verho|Véu de Mistério|Veil of Mystery|神秘的面纱|ベール・オブ・ミステリー|Veil of Mystery|Schleier des Geheimnisses
+helmet_crown_of_north|Crown of the North|Crown of the North|Crown of the North|Crown of the North|Crown of the North|Crown of the North|Crown of the North|Crown of the North
+helmet_tenebris_grievance|Tenebris' Grievance|Tenebris' Grievance|Tenebris' Grievance|Tenebris' Grievance|Tenebris' Grievance|Tenebris' Grievance|Tenebris' Grievance|Tenebris' Grievance
+helmet_mask_of_beyond|Mask of the Beyond|Beyondin naamio|Máscara do Além|Mask of the Beyond|超越者的面具|マスク・オブ・ザ・ビヨンド|Mask of the Beyond|Maske des Jenseits
+helmet_pit_lords_vanquisher|Pit Lord's Vanquisher|Pit Lord's Vanquisher|Pit Lord's Vanquisher|Pit Lord's Vanquisher|Pit Lord's Vanquisher|Pit Lord's Vanquisher|Pit Lord's Vanquisher|Pit Lord's Vanquisher
+helmet_lava_kings_lost_mask|Lava King's Lost Mask|Laavakuninkaan kadonnut naamio|A Máscara Perdida do Lava King|Lava King's Lost Mask|熔岩王的失落面具|Lava King's Lost Mask|Lava King's Lost Mask|Die verlorene Maske des Lavakönigs
+helmet_grand_champion|The Grand Champion|Suuri mestari|O Grande Campeão|The Grand Champion|大冠军|グランドチャンピオン|The Grand Champion|Der Großmeister
+helmet_crown_of_midnight|Crown of Midnight|Keskiyön kruunu|Coroa da Meia-Noite|Crown of Midnight|午夜之冠|真夜中の王冠|Crown of Midnight|Krone der Mitternacht
+helmet_nikitas_kj33_helmet|Nikita's KJ-33 Helmet|Nikita's KJ-33 Helmet|Nikita's KJ-33 Helmet|Nikita's KJ-33 Helmet|Nikita's KJ-33 Helmet|Nikita's KJ-33 Helmet|Nikita's KJ-33 Helmet|Nikita's KJ-33 Helmet
+helmet_curator_of_secrets|The Curator of Secrets|The Curator of Secrets|The Curator of Secrets|The Curator of Secrets|The Curator of Secrets|The Curator of Secrets|The Curator of Secrets|The Curator of Secrets
+helmet_sheep_kings_crown|Sheep King’s Crown|Sheep King’s Crown|Sheep King’s Crown|Sheep King’s Crown|Sheep King’s Crown|Sheep King’s Crown|Sheep King’s Crown|Sheep King’s Crown
+helmet_warlords_fury|Warlord’s Fury|Warlord’s Fury|Warlord’s Fury|Warlord’s Fury|Warlord’s Fury|Warlord’s Fury|Warlord’s Fury|Warlord’s Fury
+helmet_witches_brimmed_hat|Witches Brimmed Hat|Witches Brimmed Hat|Witches Brimmed Hat|Witches Brimmed Hat|Witches Brimmed Hat|Witches Brimmed Hat|Witches Brimmed Hat|Witches Brimmed Hat
+helmet_assassins_hood|Assassin’s Hood|Assassin’s Hood|Assassin’s Hood|Assassin’s Hood|Assassin’s Hood|Assassin’s Hood|Assassin’s Hood|Assassin’s Hood
+helmet_knight_captains_helmet|Knight Captain’s Helmet|Knight Captain’s Helmet|Knight Captain’s Helmet|Knight Captain’s Helmet|Knight Captain’s Helmet|Knight Captain’s Helmet|Knight Captain’s Helmet|Knight Captain’s Helmet
+helmet_chronomancers_observance|Chronomancer's Observance|Chronomancer's Observance|Chronomancer's Observance|Chronomancer's Observance|Chronomancer's Observance|Chronomancer's Observance|Chronomancer's Observance|Chronomancer's Observance
+helmet_sand_manipulators_mask|Sand Manipulator's Mask|Sand Manipulator's Mask|Sand Manipulator's Mask|Sand Manipulator's Mask|Sand Manipulator's Mask|Sand Manipulator's Mask|Sand Manipulator's Mask|Sand Manipulator's Mask
+helmet_ymirs_frozen_shroud|Ymir's Frozen Shroud|Ymir's Frozen Shroud|Ymir's Frozen Shroud|Ymir's Frozen Shroud|Ymir's Frozen Shroud|Ymir's Frozen Shroud|Ymir's Frozen Shroud|Ymir's Frozen Shroud
+helmet_einars_horned_helmet|Einar's Horned Helmet|Einar's Horned Helmet|Einar's Horned Helmet|Einar's Horned Helmet|Einar's Horned Helmet|Einar's Horned Helmet|Einar's Horned Helmet|Einar's Horned Helmet
+helmet_gabriels_brimmed_fedora|Gabriel's Brimmed Fedora|Gabriel's Brimmed Fedora|Gabriel's Brimmed Fedora|Gabriel's Brimmed Fedora|Gabriel's Brimmed Fedora|Gabriel's Brimmed Fedora|Gabriel's Brimmed Fedora|Gabriel's Brimmed Fedora
+helmet_grimbones_visage|Grimbone's Visage|Grimbone's Visage|Grimbone's Visage|Grimbone's Visage|Grimbone's Visage|Grimbone's Visage|Grimbone's Visage|Grimbone's Visage
+helmet_odins_eternal_visage|Odin's Eternal Visage|Odin's Eternal Visage|Odin's Eternal Visage|Odin's Eternal Visage|Odin's Eternal Visage|Odin's Eternal Visage|Odin's Eternal Visage|Odin's Eternal Visage
+||||||||
+lore_helmet_crown_of_north|Forged from tarethium deep in the glacial caves of Danethorpe. The ancient Jötunn tribe used to make these…|||||||
+lore_helmet_tenebris_grievance|Tenebris was a legendary battlefield medic specialized in amputations. He used this weird kind of substance to relieve pain…|||||||
+lore_helmet_pit_lords_vanquisher|From the dark pits of tarethiel a legendary gladiators visage…|||||||
+||||||||
+[gloves]||||||||
+gloves_normal_heavy_gloves|Heavy Gloves|||||||
+gloves_normal_chain_gloves|Chain Gloves|||||||
+gloves_normal_gauntlets|Gauntlets|||||||
+gloves_normal_leather_gloves|Leather Gloves|||||||
+gloves_normal_snakeskin_gloves|Snakeskin Gloves|||||||
+gloves_normal_heavy_bracers|Heavy Bracers|||||||
+gloves_normal_war_gauntlets|War Gauntlets|||||||
+gloves_normal_devilhide_gloves|Devilhide Gloves|||||||
+gloves_normal_vampirebone_gloves|Vampirebone Gloves|||||||
+gloves_normal_demonbraces|Demonbraces|||||||
+gloves_normal_ogre_gauntlets|Ogre Gauntlets|||||||
+gloves_normal_archmage_wraps|Archmage Wraps|||||||
+||||||||
+[gloves_unique]||||||||
+gloves_shadows_grasp|Shadow's Grasp|Varjon Ote|Domínio das Sombras|Хватка Тени|阴影之握|影の握り拳|그림자의 손아귀|Schattengriff
+gloves_midas_hands|Midas' Hands|Midaksen Kädet|Mãos de Midas|Касание Мидаса|米塔斯之手|ミダースの手|마이다스의 손|Midashände
+gloves_scuttle_crab_gauntlets|Scuttle Crab Gauntlets|Kipittäjäraputaisteluhanskat|Luvas de Caranguejo|Рукавицы Краба|碎蟹爪|慌てる蟹の籠手|가다랑어 게 건틀릿|Schiffskrabbenhandschuhe
+gloves_warmasters_tribal_paws|Warmaster's Tribal Paws|Sotamestarin Heimotassut|Garras Tribais do Mestre da Guerra|Племенные Меховые Перчатки|战师的部落爪|ウォーマスターの部族の掌|웜마스터의 부족 발|Stammespranken des Kriegsmeisters
+gloves_deaths_grasp|Death's Grasp|Kuoleman Ote|Domínio da Morte|Хватка Смерти|死亡之握|死の握り拳|죽음의 손아귀|Todesgriff
+gloves_anubis_mighty_hands|Anubis' Mighty Hands|Anubiksen Mahtavat Kädet|Mãos Poderosas de Anúbis|Великолепные Рукавицы Анубиса|阿努比斯的强手|アヌビスの偉大な手|아누비스의 힘의 손|Mächtige Hände von Anubis
+gloves_mevius_mighty_gauntlets|Mevius' Mighty Gauntlets|Meviuksen Mahtavat Taisteluhanskat|Luvas Poderosas de Mevius|Великолепные Рукавицы Мевиуса|梅维乌斯强大的铁手套|メビウスの偉大な籠手|뫼비우스의 힘의 건틀릿|Mevius' Mächtige Handschuhe
+gloves_throat_cutters|Throat Cutters|Kurkunleikkajat|Corta-Garganta|Беспощадный Убийца|喉咙切割机|スロートカッター|목 절단기|Kehlentrenner
+gloves_thors_battle_gloves|Thor's Battle Gloves|Odinin Taisteluhanskat|Luvas de Batalha de Odin|Рукавицы Одина|奥丁的战斗手套|オーディンのバトルグローブ|오딘의 전투 장갑|Odins Schlacht-Handschuhe
+gloves_nomads_sand_mitts|Nomad's Sand Mitts|Vaeltajan Hiekkakintaat|Luvas de Areia do Nômade|Перчатки Кочевника|游牧的砂手套|ノマドのサンドミッツ|노마드의 모래 장갑|Sandhandschuhe des Nomaden
+gloves_marksmans_hunting_gloves|Marksman's Hunting Gloves|Jousiampujan Metsästyshanskat|Luvas de Caça do Atirador|Охотничьи Перчатки Стрелка|射手的狩猎手套|マークスマンのハンティンググローブ|명사수의 사냥용 장갑|Jagdhandschuhe des Marksman
+gloves_doctors_grasp|Doctor's Grasp|Tohtorin Ote|Aperto do Médico|Перчатки Доктора|医生的能力|ドクターズグラスプ|의사의 통제|Griff des Doktors
+gloves_dantes_mitts|Dante's Mitts|||||||
+gloves_lancers_gauntlets|Lancers Gauntlets|Kilpiseivästäjän Taisteluhanskat|Manoplas do Lanceiro|Рукавицы Копейщика|枪骑兵长手套|ランサーズガントレット|랜서즈 건틀렛|Handschuhe des Lanzenreiters
+gloves_devils_grasp|Devil's Grasp|Paholaisen Ote|Aperto do Diabo|Хватка Дьявола|魔鬼的能力|デビルズグラスプ|악마의 통제|Griff des Teufels
+gloves_gloves_of_wilderness|Gloves of Wilderness|Erämaan Käsi|Mãos do Selvagem|Рука Природы|荒野之手|荒野の手|야생의 손|Hände der Wildnis
+gloves_hands_of_flame|Hands of Flame|Liekin Kädet|Mãos da Chama|Перчатки Пламени|火焰之手|炎の手|화염의 손|Hände der Flammen
+gloves_conjurer_mitts|Conjurer Mitts|Velhokintaat|Luvas do Conjurador|Перчатки Колдуна|魔术师手套|コンジュラーミッツ|마법사 장갑|Handschuhe des Beschwörers
+gloves_zealots_deathbringers|Zealot's Deathbringers|Kiihkoilijan Kuolemantuojat|Os portadores da morte do fanático|Предвестники Смерти Фанатика|狂热者的死亡使者|熱狂者の死をもたらす者|질롯의 죽음의 인도자|Eiferers Todesbringer
+gloves_bone_conjurers_grips|Bone Conjurer's Grips|Luidentekijän Hanskat|Punhos do Conjurador de Osso|Наручи Заклинателя Костей|骨魔术师的握柄|ボーンコンジュラーのグリップ|뼈 창조자의 손 장갑|Knochenbeschwörergriffe
+gloves_lumberjacks_safety_gloves|Lumberjack's Safety Gloves|||||||
+gloves_bloodletters_plated_gauntlet|Blood-letter's Plated Gauntlet|Blood-letter's Plated Gauntlet|Blood-letter's Plated Gauntlet|Blood-letter's Plated Gauntlet|Blood-letter's Plated Gauntlet|Blood-letter's Plated Gauntlet|Blood-letter's Plated Gauntlet|Blood-letter's Plated Gauntlet
+gloves_venoms_talons|Venom's Talons|Venom's Talons|Venom's Talons|Venom's Talons|Venom's Talons|Venom's Talons|Venom's Talons|Venom's Talons
+gloves_champions_fighting_gloves|Champion's Fighting Gloves|Champion's Fighting Gloves|Champion's Fighting Gloves|Champion's Fighting Gloves|Champion's Fighting Gloves|Champion's Fighting Gloves|Champion's Fighting Gloves|Champion's Fighting Gloves
+gloves_lost_masters_gauntlets|Lost Master's Gauntlets|Lost Master's Gauntlets|Lost Master's Gauntlets|Lost Master's Gauntlets|Lost Master's Gauntlets|Lost Master's Gauntlets|Lost Master's Gauntlets|Lost Master's Gauntlets
+gloves_brawlers_fighting_mitts|Brawler's Fighting Mitts|Taistelijan Taistelukintaat|Luvas de combate do Brawler|Наручи Бойца|格斗家的搏击手套|喧嘩屋の格闘ミット|싸움꾼의 전투 용 장갑|Brawler's Fighting Mitts
+gloves_shadow_occultists_wraps|Shadow Occultist's Wraps|Shadow Occultist's Wraps|Shadow Occultist's Wraps|Теневые Наручи Оккультиста|Shadow Occultist's Wraps|Shadow Occultist's Wraps|Shadow Occultist's Wraps|Shadow Occultist's Wraps
+gloves_razor_knuckles|Razor Knuckles|Razor Knuckles|Navalhas de barbear|Razor Knuckles|剃刀指关节|レイザー・ナックルズ|Razor Knuckles|Rasierklinge
+gloves_siege_breakers|Siege Breakers|Piirityksen rikkojat|Disjuntores de cerco|Siege Breakers|围攻者|Siege Breakers|Siege Breakers|Belagerungsbrecher
+gloves_spellweavers|Spellweavers|Loitsunkirjoittajat|Feiticeiros|Spellweavers|咒语编织者|スペルウィーバー|Spellweavers|Spellweavers
+gloves_ahtos_diamond_hands|St. Ahto's Diamond Hands|Pyhän Ahto timanttiset kädet|Mãos de diamante de St. Ahtos|St. Ahto's Diamond Hands|圣卡利亚兰斯的钻石之手|St.Ahtosのダイヤモンドハンド|St. Ahto’s Diamond Hands|St. Ahto’s Diamantenhände
+gloves_uabels_gloves|Uabel's Gloves|Uabelin käsineet|Luvas de Uabel|Uabel's Gloves|乌伯尔的手套|ウアベルの手袋|Uabel's Gloves|Uabels Handschuhe
+gloves_battle_worn_gauntlets|Battle Worn Gauntlets|Taistelun kuluneet hansikkaat|Luva de batalha desgastada|Battle Worn Gauntlets|战斗磨损的护手|バトルウェアン・ガントレット|Battle Worn Gauntlets|Kampf getragene Stulpen
+gloves_wisdoms_hold|Wisdom's Hold|Wisdom's Hold|Wisdom's Hold|Wisdom's Hold|Wisdom's Hold|Wisdom's Hold|Wisdom's Hold|Wisdom's Hold
+gloves_imbued_mage_gloves|Imbued Mage Gloves|Imbued Mage Gloves|Imbued Mage Gloves|Imbued Mage Gloves|Imbued Mage Gloves|Imbued Mage Gloves|Imbued Mage Gloves|Imbued Mage Gloves
+gloves_battle_casters_gauntlets|Battle Caster’s Gauntlets|Battle Caster’s Gauntlets|Battle Caster’s Gauntlets|Battle Caster’s Gauntlets|Battle Caster’s Gauntlets|Battle Caster’s Gauntlets|Battle Caster’s Gauntlets|Battle Caster’s Gauntlets
+gloves_plated_crimson_defenders|Plated Crimson Defenders|Plated Crimson Defenders|Plated Crimson Defenders|Plated Crimson Defenders|Plated Crimson Defenders|Plated Crimson Defenders|Plated Crimson Defenders|Plated Crimson Defenders
+gloves_sand_manipulators_authority|Sand Manipulator's Authority|Sand Manipulator's Authority|Sand Manipulator's Authority|Sand Manipulator's Authority|Sand Manipulator's Authority|Sand Manipulator's Authority|Sand Manipulator's Authority|Sand Manipulator's Authority
+gloves_einars_padded_gauntlets|Einar's Padded Gauntlets|Einar's Padded Gauntlets|Einar's Padded Gauntlets|Einar's Padded Gauntlets|Einar's Padded Gauntlets|Einar's Padded Gauntlets|Einar's Padded Gauntlets|Einar's Padded Gauntlets
+||||||||
+[boots]||||||||
+boots_normal_boots|Boots|Saappaat|Botas|Ботинки|靴子|ブーツ|부츠|Stiefel
+boots_normal_heavy_boots|Heavy Boots|Raskaat Saappaat|Botas Pesadas|Тяжелые ботинки|重型靴|重いブーツ|무거운 부츠|Schwere Stiefel
+boots_normal_light_plated_boots|Light Plated Boots|Kevyet Päälystetyt Saappaat|Botas Banhadas Leves|Легкие стальные ботинки|轻镀靴|プレートされた軽いブーツ|가벼운 도금 부츠|Leichte Plattenstiefel
+boots_normal_chain_boots|Chain Boots|||||||
+boots_normal_greaves|Greaves|||||||
+boots_normal_battle_boots|Battle Boots|||||||
+boots_normal_devilhide_boots|Devilhide Boots|||||||
+boots_normal_mesh_boots|Mesh Boots|||||||
+boots_normal_viperskin_boots|Viperskin Boots|||||||
+boots_normal_war_boots|War Boots|||||||
+boots_normal_boneweave_boots|Boneweave Boots|||||||
+boots_normal_crusader_marchers|Crusader Marchers|||||||
+boots_normal_demonplate_boots|Demonplate Boots|||||||
+boots_normal_scarabshell_boots|Scarabshell Boots|||||||
+boots_normal_wyrmhide_boots|Wyrmhide Boots|||||||
+||||||||
+[boots_unique]||||||||
+boots_darkhide_boots|Darkhide Boots|Pimeänahkasaappaat|Botas de Pele Escura|Теневые Ботинки|暗黑靴|暗黒革のブーツ|검은 가죽 부츠|Dunkelhautstiefel
+boots_tundra_marchers|Tundra Marchers|Tundra Marssijat|Marchadores da Tundra|Ботинки Тундры|苔原游行者|ツンドラのマーチャーズ|툰드라 행진부츠|Tundrastiefel
+boots_tribal_boots|Tribal Boots|Heimosappaat|Botas Tribais|Племенные Меховые Ботинки|部落靴|部族のブーツ|부족 부츠|Stammesstiefel
+boots_wizards_boots|Wizard Boots|Velhosaappaat|Botas de Feiticeiro|Ботинки Волшебника|巫师靴|ウィザードのブーツ|위자드 부츠|Zaubererstiefel
+boots_mevius_mighty_marchers|Mevius' Mighty Marchers|Meviuksen Mahtavat Marssijat|Marchadores Poderosos de Mevius|Великолепные Ботинки Мевиуса|梅维乌斯强大的游行者|メビウスの偉大なマーチャーズ|뫼비우스의 힘의 행진부츠|Mevius' Mächtige Stiefel
+boots_molten_boots|Molten Boots|Sulasaappaat|Marchadores Derretidos|Расплавленные Ботинки|炽热靴|溶岩のブーツ|녹은 부츠|Geschmolzene Stiefel
+boots_frozen_marchers|Frozen Marchers|Jäiset Marssijat|Marchadores Congelados|Морозные Ботинки|冰霜游行者|凍結のブーツ|얼어붙은 행진부츠|Gefrorene Stiefel
+boots_zeus_battle_boots|Zeus' Battle Boots|Zeuksen Taistelusaappaat|Botas de Batalha de Zeus|Ботинки Зевса|宙斯战斗靴|ゼウスのバトル・ブーツ|제우스 전쟁 부츠|Zeus' Kampfstiefel
+boots_rednecks_working_boots|Redneck's Working Boots|Punaniskan Työkengät|Botas de Trabalho dos Camponeses|Ботинки Деревенщины|红脖子的工作靴|レッドネックの作業ブーツ|레드넥의 작업용 부츠|Redneck-Arbeitsstiefel
+boots_pirate_captains_boots|Pirate Captain's Boots|Merirosvokapteenin Kengät|Botas do Capitão Pirata|Ботинки Капитана Пиратов|海盗船长的靴子|海賊船長のブーツ|해적 대위의 부츠|Stiefel des Piratenkapitäns
+boots_death_lords_marchers|Death Lord's Marchers|Kuolemanherran Kengät|Marchadores do Senhor da Guerra|Ботинки Владыки Смерти|死神的游行者|デス・ロードのマーチャーズ|죽음의 신의 행진부츠|Stiefel des Todeslords
+boots_vikings_sacred_boots|Viking's Sacred Boots|Viikingin Pyhäsaappaat|Botas Sagradas do Viking|Священные Ботинки  Викинга|维京人的圣靴|バイキングの神聖なブーツ|바이킹의 신성한 부츠|Heilige Wikingerstiefel
+boots_boots_of_blood|Boots of Blood|Veren Saappaat|Botas de Sangue|Кровавые Сапоги|血之靴|血のブーツ|피의 장화|Stiefel des Blutes
+boots_hermes_boots|Hermes Boots|Hermessaappaat|Botas Hermes|Сапоги Гермеса|爱马仕的靴子|エルメスブーツ|헤르메스 부츠|Hermesstiefel
+boots_treasure_hunters_boots|Treasure Hunter's Boots|Aarteenetsijän Saappaat|Botas do Caçador de Tesouros|Сапоги Охотника за Сокровищами|宝藏猎人的靴子|トレジャーハンターのブーツ|보물 사냥꾼의 부츠|Stiefel des Schatzjägers
+boots_gladiators_battle_sandals|Gladiator's Battle Sandals|Gladiaattorin Marssijat|Sandálias de Batalha do Gladiador|Сандали Гладиатора|角斗士的战斗凉鞋|グラディエーターのバトルサンダル|글라디에이터의 전투용 샌들|Kampfsandalen des Gladiators
+boots_dantes_boots|Dante's Boots|||||||
+boots_sacred_marchers|Sacred Marchers|Pyhämarssijat|Marcha Sagrada|Священные Сапоги|神圣的游行者|聖なる行進者|신성한 시위자|Heilige Marschierer
+boots_boots_of_wild|Boots of Wild|Villin Saappaat|Botas do Selvagem|Сапоги Природы|荒野靴子|ブーツ・オブ・ワイルド|야생의 부츠|Stiefel der Wildnis
+boots_flaming_marchers|Flaming Marchers|Liekehtivät Marssijat|Marchas Flamejantes|Ботинки Пламени|燃烧的游行者|炎の行進者|불타는 시위자|Flammende Marschierer
+boots_mosarathim_marchers|Mos'Arathim Marchers|Mos'Arathim Marssijat|Marchas de Mos'Arathim|Ботинки Мос'Арасим|Mos'Arathim 游行者|モスアラティムの行進者|모스라팀 시위자|Mos'Arathim Marschierer
+boots_vagabonds_marchers|Vagabond's Marchers|Kiertolaisen Marssijat|Marchadores Vagabundos|Сапоги Скитальца|流浪者的行军者|バガボンドの行進者|방랑자의 행진|Vagabunds Marschierer
+boots_bone_conjurers_marchers|Bone Conjurer's Marchers|Luidentekijän Marssijat|Marchadores do Conjurador de Ossos|Ботинки Заклинателя Костей|骨术师的行军者|ボーンコンジュラーの行進者|뼈 마법사의 행군 자|Marschierer des Knochenbeschwörers
+boots_lumberjacks_forestry_boots|Lumberjack's Forestry Boots|Tukkimiehen Turvakengät|Botas florestais de lenhador|Сапоги Лесоруба|伐木工人的林业长靴|木こりの林業用ブーツ|벌목꾼의 임업 장화|Holzfäller-Forststiefel
+boots_bloodletters_plated_boots|Blood-letter's Plated Boots|Blood-letter's Plated Boots|Blood-letter's Plated Boots|Сапоги Кровопускателя|Blood-letter's Plated Boots|Blood-letter's Plated Boots|Blood-letter's Plated Boots|Blood-letter's Plated Boots
+boots_shield_bearers_greaves|Shield Bearer's Greaves|Kilvenkäyttäjän Peltikengät|Grevas do Escudo|Ботинки Щитоносца|盾牌守卫者的胫甲|シールドベアラーのグリーブ|방패 운반자의 경갑|Beinschienen des Schildträgers
+boots_juggernauts_victory_marchers|Juggernaut's Victory Marchers|Pysäyttämätön Voiman Voitonmarssijat|Marchadores da vitória de Juggernaut|Победные Ботинки Джаггернаута|剑圣的胜利游行者|ジャガーノートの勝利の行進者|저거너트의 승리 시위자|Juggernauts Siegesmarschierer
+boots_justiciars_thunder_boots|Justiciar's Thunder Boots|Oikeuttajan Ukkoskengät|Botas Thunder do Juiz|Латные Сапоги Праведного|Justiciar的雷霆之靴|司法長官のサンダーブーツ|Justiciar의 천둥 장화|Justiciars Donnerstiefel
+boots_lost_masters_marchers|Lost Master's Marchers|Kadonneen Mestarin Marssijat|Marchadores do Mestre Perdido|Ботинки Мастера|失落的大师行军|ロストマスターの行進者|잃어버린 주인의 행진|Die Marschierer des verlorenen Meisters
+boots_earth_shapers_boots|Earth Shaper's Boots|Maanmuokkaajan Kengät|Botas modeladoras de terra|Сапоги Творца|造地者之靴|アースシェイパーのブーツ|지구 형성 자의 장화|Stiefel des Erdformers
+boots_plunderers_deck_marchers|Plunderer's Deck Marchers|Laivojenupottajan Kansikengät|Marchadores do convés do saqueador|Сапоги Расхитительницы|掠夺者的甲板行军|プランダラのデッキマーチャー|약탈자의 갑판 행진|Plünderer Deckmarschierer
+boots_battle_worn_boots|Battle Worn Boots|Taistelun kuluneet saappaat|Botas Usadas na Batalha|Battle Worn Boots|战场磨损的靴子|戦いで磨かれたブーツ|Battle Worn Boots|Schlacht getragene Stiefel
+boots_steadfast_marchers|Steadfast Marchers|Lujaa marssijaa|Marchas rápidas|Steadfast Marchers|坚定的游行者|Steadfast Marchers|Steadfast Marchers|Unerschütterliche Marschierer
+boots_spiked_greaves|Spiked Greaves|Piikkihartiat|Greaves pontiagudas|Spiked Greaves|带刺的长袍|スパイクグリーブス|Spiked Greaves|Stachelgamaschen
+boots_arena_masters_marchers|Arena Master's Marchers|Arena Master's Marchers|Arena Master's Marchers|Arena Master's Marchers|Arena Master's Marchers|Arena Master's Marchers|Arena Master's Marchers|Arena Master's Marchers
+boots_satans_molten_steps|Satan's Molten Steps|Saatanan sulatetut askeleet|Os Passos Fundidos de Satanás|Satan's Molten Steps|撒旦的熔岩台阶|サタンのモルテン・ステップ|Satan's Molten Steps|Geschmolzene Schritte des Satans
+boots_pearlescent_dream|Pearlescent Dream|Sateenkaaren saappaat|Botas do Arco-Íris|Boots of the Rainbow|彩虹之靴|虹のブーツ|Boots of the Rainbow|Stiefel des Regenbogens
+boots_manawoven_walkers|Mana-Woven Walkers|Mana Stompers|Mana Stompers|Mana Stompers|踩踏者（Mana Stompers|マナ・ストンプス|Mana Stompers|Mana-Stampfer
+boots_whisper_walkers_feiyue|Whisper Walker's Feiyue|Whisper Walkerin Feiyue|Feiyue do Whisper Walker|Whisper Walker's Feiyue|语行者的飞跃|ウィスパーウォーカーの飛燕|Whisper Walker's Feiyue|Flüsterwanderer's Feiyue
+boots_voodoo_stompers|Voodoo Stompers|Voodoo Stompers|Stompers de Vodu|Voodoo Stompers|巫毒踩踏者|Voodoo Stompers|Voodoo Stompers|Voodoo-Stampfer
+boots_grand_wizards_silk_shoes|Grand Wizard's Silk Shoes|Suuren velhon silkkikengät|Sapatos de Seda do Grande Feiticeiro|Grand Wizard's Silk Shoes|大巫师的丝绸鞋|グランドウィザードのシルクシューズ|Grand Wizard's Silk Shoes|Seidenschuhe des großen Zauberers
+boots_lava_treaders|Lava Treaders|Lava Treaders|Esteiras de Lava|Lava Treaders|熔岩踏浪者|Lava Treaders|Lava Treaders|Lava-Treter
+boots_deep_chilled_marchers|Deep Chilled Marchers|Syvästi jäähdytetyt marssijat|Marchadores de Resfriamento Profundo|Deep Chilled Marchers|深冷的游行者|深冷地のマーチ|Deep Chilled Marchers|Tiefgekühlte Marschierer
+boots_wind_walkers_step|Wind Walker’s Step|Tuulen kulkijat|Andadores de Vento|Wind Walkers|风行者|風の散歩者|Wind Walkers|Wind Walker
+boots_arch_wizards_silk_boots|Arch Wizard’s Silk Boots|Arch Wizard’s Silk Boots|Arch Wizard’s Silk Boots|Arch Wizard’s Silk Boots|Arch Wizard’s Silk Boots|Arch Wizard’s Silk Boots|Arch Wizard’s Silk Boots|Arch Wizard’s Silk Boots
+boots_chronomancers_omnipotence|Chronomancer's Omnipotence|Chronomancer's Omnipotence|Chronomancer's Omnipotence|Chronomancer's Omnipotence|Chronomancer's Omnipotence|Chronomancer's Omnipotence|Chronomancer's Omnipotence|Chronomancer's Omnipotence
+boots_ymirs_freezing_boots|Ymir's Freezing Boots|Ymir's Freezing Boots|Ymir's Freezing Boots|Ymir's Freezing Boots|Ymir's Freezing Boots|Ymir's Freezing Boots|Ymir's Freezing Boots|Ymir's Freezing Boots
+boots_einars_icy_stride|Einar's Icy Stride|Einar's Icy Stride|Einar's Icy Stride|Einar's Icy Stride|Einar's Icy Stride|Einar's Icy Stride|Einar's Icy Stride|Einar's Icy Stride
+boots_grimbones_marchers|Grimbone's Marchers|Grimbone's Marchers|Grimbone's Marchers|Grimbone's Marchers|Grimbone's Marchers|Grimbone's Marchers|Grimbone's Marchers|Grimbone's Marchers
+||||||||
+[amulets]||||||||
+amulets_normal_golden_amulet|Golden Amulet|Kulta-amuletti|Amuleto de Ouro|Золотой амулет|金色护身符|金のアミュレット|황금 부적|Goldamulett
+amulets_normal_silver_necklace|Silver Necklace|Hopeakoru|Colar de Prata|Серебряное ожерелье|银项链|銀のネックレス|은 목걸이|Silberhalskette
+amulets_normal_jade_stone|Jade Stone|||||||
+amulets_normal_skull_trophy|Skull Trophy|||||||
+amulets_normal_hawks_claw_amulet|Hawk's Claw Amulet|||||||
+amulets_normal_elven_necklace|Elven Necklace|Haltijakoru|Colar de Elfo|Эльфийское ожерелье|精灵项链|エルフのネックレス|엘프 목걸이|Elfenhalskette
+||||||||
+[amulets_unique]||||||||
+amulets_all_seeing_eye|All Seeing Eye|Kaikennäkevä Silmä|Olho que Tudo Vê|Всевидящее око|全能之眼|全能の目|모든 것을 보는 눈|Allsehendes Auge
+amulets_high_demons_necklace|High Demon's Necklace|Suurdemonin Kaulakoru|Colar do Alto Demônio|Ожерелье Высшего Демона|大恶魔的项链|大デーモンのネックレス|상급 악마의 목걸이|Erzdämonenhalskette
+amulets_satans_precious|Satan's Precious|Saatanan Silmäterä|Precioso de Satã|Око Сатаны|撒旦的珍宝|サタンの愛おしい物|사탄의 보물|Satans Schatz
+amulets_shining_pearl|Shining Pearl|||||||
+amulets_gurags_soul|Gurag's Soul|Guragin Sielu|Alma de Gurag|Душа Гурага|古拉格的灵魂|グーラグの魂|구라그의 영혼|Gurags Seele
+amulets_anubis_oculus|Anubis Oculus|Anubis Oculus|Óculos de Anúbis|Око Анубиса|阿努比斯·奥库鲁斯|アヌビスの眼球|아누비스의 오큘러스|Anubis Okulus
+amulets_tals_pendant|Tal's Pendant|Talin Riipus|Pingente de Tal|Подвеска Тала|塔尔吊坠|タルのペンダント|탈의 펜던트|Tals Anhänger
+amulets_damiens_soulstone|Damien's Soulstone|Damienin Sielukivi|Pedra da Alma de Damien|Камень Душ Дэмиена|达米恩的灵魂石|デイミアンのソウルストーン|데미안의 소울스톤|Damiens Seelenstein
+amulets_steves_necklace|Steve's Necklace|Teemun Kaulakoru|Colar de Steve|Ожерелье Стива|史蒂夫的项链|スティーブのネックレス|스티브의 목설이|Steves Halskette
+amulets_baby_log_necklace|Baby Log Necklace|Pikkutukkikoru|Colar de Tora Bebê|Бревнышко|婴儿日志项链|ベビーログネックレス|아기 통나무 목걸이|Kette des Baby Log
+amulets_treasure_pendant|Treasure Pendant|Aarreriipus|Pingente de Tesouro|Сокровище|宝藏吊坠|トレジャーペンダント|보물 펜던트|Schatzanhänger
+amulets_ritual_pendant|Ritual Pendant|Rituaaliriipus|Pingente de Ritual|Ритуальный кулон|仪式吊坠|儀式のペンダント|의식 펜던트|Ritualanhänger
+amulets_nobunagas_warrior_spirit|Nobunaga's Warrior Spirit|Nobunagan Soturihenki|Espírito Guerreiro de Nobunaga|Боевой Дух Нобунага|织田信长的武士精神|信長のウォリアースピリット|노부나가의 전사 정신|Nobunagas Kriegergeist
+amulets_visages_eye|Visage's Eye|Kasvojen Silmä|Olho do Rostro|Амулет Безликого Бога Каонащи|容貌的眼睛|ヴィサージュアイ|얼굴의 눈|Auge der Visage
+amulets_elders_heart|Elder's Heart|Vanhimman Sydän|Coração do Ancião|Сердце Древнего|老人的心|エルダーズハート|원로의 마음|Herz des Elders
+amulets_devils_gem|Devil's Gem|Paholaisen Jalokivi|Gema do Diabo|Дьявольский Камень|魔鬼的宝石|デビルズジェム|악마의 보석|Edelstein des Teufels
+amulets_aztec_necklace|Aztec Necklace|Atsteekkikoru|Colar Asteca|Ожерелье Ацтеков|爱捷特项链|アズテックネックレス|아즈텍 목걸이|Kette des Azteken
+amulets_sacred_pendant|Sacred Pendant|Pyhäriipus|Pingente Sagrado|Священный Кулон|神圣的吊坠|聖なるペンダント|신성한 펜던트|Heiliger Anhänger
+amulets_spirit_pendant|Spirit Pendant|Henkiriipus|Pingente de Espírito|Кулон Духов|精神吊坠|スピリットペンダント|영혼 펜던트|Geisteranhänger
+amulets_rift_warriors_skull|Rift Warrior's Skull|Repeämäsoturin Kallo|Caveira do Guerreiro da Fenda|Амулет Воина Разлома|裂谷战士的头骨|リフトウォリアーズスカル|리프트 전사의 해골|Schädel des Riftkriegers
+amulets_ravens_claw|Raven's Claw|Korpin Kynsi|Garra do Corvo|Коготь Ворона|乌鸦的爪子|レイブンズクロー|까마귀의 발톱|Klaue des Rabens
+amulets_eye_of_horus|Earth Goliath's Protection|Horuksen Silmä|Olho de Horus|Глаз Хоруса|荷鲁斯之眼|ホルスの目|호루스의 눈|Auge des Horus
+amulets_pyramid_pendant|Pyramid Pendant|Pyramidiriipus|Pingente de Pirâmide|Пирамида|金字塔吊坠|ピラミッドペンダント|피라미드 펜던트|Pyramidenanhänger
+amulets_storm_pendant|Storm Pendant|Myrskyriipus|Pingente de Tempestade|Кулон Бури|风暴吊坠|ストームペンダント|스톰 펜던트|Sturmanhänger
+amulets_travelers_compass|Traveler's Compass|Matkustajan Kompassi|Bússola do viajante|Компас Путешественника|旅行者指南针|旅行者のコンパス|여행자의 나침반|Reisekompass
+amulets_pendant_of_eternity|Pendant of Eternity|Ikuisuuden riipus|Pingente da eternidade|Кулон Вечности|永恒吊坠|永遠のペンダント|영원의 펜던트|Anhänger der Ewigkeit
+amulets_juggernauts_emblem|Juggernaut's Emblem|Pysäyttämätön Voiman Tunnus|Emblema do Juggernaut|Эмблема Джаггернаута|剑圣的徽记|ジャガーノートのエンブレム|저거너트의 상징|Juggernauts Emblem
+amulets_engineers_master_pendant|Engineer's Master Pendant|Insinöörin Mestaririipus|Pingente Mestre do Engenheiro|Кулон Наставника Инженера|工程师的大师吊坠|エンジニアのマスターペンダント|엔지니어의 마스터 펜던트|Master-Anhänger des Ingenieurs
+amulets_bone_conjurers_mask|Bone Conjurer's Mask|Luidentekijän Naamari|Máscara de Conjurador de Osso|Маска Заклинателя Костей|骨魔术师的面具|ボーンコンジュラーマスク|뼈 창조자의 가면|Knochenbeschwörermaske
+amulets_venoms_necklace|Venom's Necklace|Myrkyn Kaulakoru|Colar de veneno|Ожерелье Веномансера|毒液的项链|ヴェノムのネックレス|독의 목걸이|Gift Halskette
+amulets_champions_medal_of_valor|Champion's Medal of Valor|Sotamestarin Urheuden Mitalli|Medalha de Valor do Campeão|Медаль за Доблесть Чемпиона|冠军英勇勋章|チャンピオンの勇気のメダル|용맹의 챔피언 메달|Tapferkeitsmedaille des Champions
+amulets_plunderers_spy_glass|Plunderer's Spy Glass|Laivojenupottajan Kaukoputki|O vidro do espião do saqueador|Подзорная Труба Расхитительницы|掠夺者的间谍玻璃|プランダラのスパイグラス|약탈자의 스파이 유리|das Spionageglas des Plünderers
+amulets_kalliks_fury|Kallik's Fury|Kallik's Fury|Kallik's Fury|Kallik's Fury|Kallik's Fury|Kallik's Fury|Kallik's Fury|Kallik's Fury
+amulets_unfathomable_puzzle|Unfathomable Puzzle|Käsittämätön palapeli|Quebra-cabeça insondável|Unfathomable Puzzle|深不可测的谜题|不思議なパズル|Unfathomable Puzzle|Unergründliches Puzzle
+amulets_philosophers_stone|Philosopher's Stone|Viisasten kivi|Pedra Filosofal|Philosopher's Stone|哲学家之石|賢者の石（Philosopher's Stone|Philosopher's Stone|Stein der Weisen
+amulets_charcoal_momento|Charcoal Momento|Hiili Momento|Momento do Carvão Vegetal|Charcoal Momento|炭色的Momento|チャコール・モメント|Charcoal Momento|Holzkohle Momento
+amulets_coldfire_amulet|Coldfire Amulet|Kylmäntulen amuletti|Amuleto Coldfire|Coldfire Amulet|冷火护身符|コールドファイア・アミュレット|Coldfire Amulet|Kältefeuer-Amulett
+amulets_serpentine_necklace|Serpentine Necklace|Serpentiini kaulakoru|Colar de serpentinas|Serpentine Necklace|蛇纹石项链|サーペンタイン・ネックレス|Serpentine Necklace|Serpentine Halskette
+amulets_compass_of_wealth|Compass of Wealth|Rikkauden kompassi|Bússola da Riqueza|Compass of Wealth|财富的指南针|豊かさの羅針盤|Compass of Wealth|Kompass des Reichtums
+amulets_dark_lords_sigil|Dark Lord's Sigil|Paholaisen sisäinen raivo|A Fúria Interior do Diabo|Devil's Inner Rage|恶魔的内心狂怒|悪魔の内なる怒り|Devil's Inner Rage|Innere Wut des Teufels
+amulets_lost_dieties_authority|Lost Dieties Authority|Pharaoh' kaulakoru|Colar do faraó|Pharaoh' Necklace|"法老 ""项链"|ファラオ」ネックレス|Pharaoh' Necklace|Pharao' Halskette
+amulets_thunderstone_amulet|Thunderstone Amulet|Ukkoskiven amuletti|Amuleto Thunderstone|Thunderstone Amulet|雷石护身符|サンダーストーン アミュレット|Thunderstone Amulet|Donnerstein Amulett
+amulets_earth_goliaths_protection|Earth Goliath's Protection|Earth Goliath's Protection|Earth Goliath's Protection|Earth Goliath's Protection|Earth Goliath's Protection|Earth Goliath's Protection|Earth Goliath's Protection|Earth Goliath's Protection
+amulets_claw_of_bloodthirsty|Claw of the Bloodthirsty|Claw of the Bloodthirsty|Claw of the Bloodthirsty|Claw of the Bloodthirsty|Claw of the Bloodthirsty|Claw of the Bloodthirsty|Claw of the Bloodthirsty|Claw of the Bloodthirsty
+amulets_arcana_eye|Arcana Eye|Arcana Eye|Arcana Eye|Arcana Eye|Arcana Eye|Arcana Eye|Arcana Eye|Arcana Eye
+amulets_scouts_medal_of_honor|Scout’s Medal of Honor|Scout’s Medal of Honor|Scout’s Medal of Honor|Scout’s Medal of Honor|Scout’s Medal of Honor|Scout’s Medal of Honor|Scout’s Medal of Honor|Scout’s Medal of Honor
+amulets_claw_of_hunter|Claw of the Hunter|Claw of the Hunter|Claw of the Hunter|Claw of the Hunter|Claw of the Hunter|Claw of the Hunter|Claw of the Hunter|Claw of the Hunter
+amulets_amethyst_knights_amulet|Amethyst Knight’s Amulet|Amethyst Knight’s Amulet|Amethyst Knight’s Amulet|Amethyst Knight’s Amulet|Amethyst Knight’s Amulet|Amethyst Knight’s Amulet|Amethyst Knight’s Amulet|Amethyst Knight’s Amulet
+amulets_chronomancers_curio_of_time|Chronomancer's Curio of Time|Chronomancer's Curio of Time|Chronomancer's Curio of Time|Chronomancer's Curio of Time|Chronomancer's Curio of Time|Chronomancer's Curio of Time|Chronomancer's Curio of Time|Chronomancer's Curio of Time
+amulets_ymirs_frozen_tear|Ymir's Frozen Tear|||||||
+amulets_insignia_of_hunter|Insignia of the Hunter|Insignia of the Hunter|Insignia of the Hunter|Insignia of the Hunter|Insignia of the Hunter|Insignia of the Hunter|Insignia of the Hunter|Insignia of the Hunter
+||||||||
+[charms]||||||||
+charms_normal_small_charm|Small Charm|||||||
+charms_normal_large_charm|Large Charm|||||||
+charms_normal_grand_charm|Grand Charm|||||||
+||||||||
+||||||||
+[charms_unique]||||||||
+charms_raiders_torch|Raider's Torch|Raiderin soihtu|Tocha de Raider|Факел рейдера|突袭者的火炬|レイダーのトーチ|침입자의 횃불|Raider's Torch
+charms_eye_of_skadi|Eye of Skadi|Skadin silmä|Olho de Skadi|Глаз Скади|斯卡迪之眼|スカジの目|스카디의 눈|Auge von Skadi
+charms_apple_of_evolution|Apple of Evolution|Evoluutio-Omena|Maçã da Evolução|Яблоко Эволюции|进化的苹果|進化のリンゴ|진화의 사과|Apfel der Evolution
+charms_moonshard|Moonshard|Kuunsirpale|Fragmento da Lua|Осколок Луны|银月之晶|ムーンシャード|문샤드|Mondsplitter
+charms_solar_charm|Solar Charm|Auringon taikakalu|Talismã Solar|Солнечный Оберег|太阳之符|太陽のお守り|해의 부적|Sonnenamulett
+charms_aztec_coin|Aztec Coin|Azteekkikolikko|Moeda Asteca|Ацтекская Монета|阿兹特克硬币|アステカのコイン|아즈테크 동전|Aztekische Münze
+charms_beetle_of_life|Beetle of Life|Elämän torakka|Besouro da Vida|Жук Жизни|生命甲壳虫|生命の甲虫|삶의 딱정벌레|Käfer des Lichts
+charms_tals_deathskull|Tal's Deathskull|Talin kuolonkallo|Caveira da Morte de Tal|Череп Тала|塔尔的死亡骷髅|タルのデススカル|탈의 죽음의 해골|Tals Todesschädel
+charms_gurags_heart_charm|Gurag's Heart Charm|Guragin sydän taikakalu|Amuleto do Coração de Gurag|Амулет сердца Гурага|古拉格的心咒|グラグのハートチャーム|구라 그의 심장 부적|Gurags Herzzauber
+charms_anubis_ankh_charm|Anubis' Ankh Charm|Anubisin ankhi taikakalu|Encanto ankh de Anúbis|Анкх амулет анубиса|阿努比斯的安赫魅力|アヌビスのアンクチャーム|아누비스의 앙크 매력|Anubis 'Ankh-Charme
+charms_damiens_cage|Damien's Cage|Damienin häkki|Jaula de Damien|Клетка Дэмиена|达米恩的笼子|デイミアンの檻|데미안의 철장|Damiens Käfig
+charms_satans_chalice|Satan's Chalice|Saatanan pikari|Cálice de Satã|Чаша Сатаны|撒旦的酒杯|サタンの杯|사탄의 성배|Satans Kelch
+charms_steve|Hello its me, Steve!|Hei se ois Teemu!|Olá, sou eu, Steve!|Привет, это я, Стив!|你好，史蒂夫，是我!|こんにちは。僕だよ、スティーブ！|저예요, 스티브!|Hallo ich bin's, Steve!
+charms_rednecks_keychain|Redneck's Keychain|Punaniskan avainnippu|Chaveiro do Camponês|Брелок Деревенщины|红脖子的钥匙链|レッドネックのキーチェーン|레드넥의 키체인|Redneck-Schlüsselanhänger
+charms_pirate_captains_flag|Pirate Captain's Flag|Merirosvokapteenin lippu|Bandeira do Capitão Pirata|Пиратский Флаг|海盗船长的旗帜|海賊船長の旗|해적 대위의 깃발|Flagge des Piratenkapitäns
+charms_death_lords_zombie_head|Death Lord's Zombie Head|Kuolemanherran Zombipää|Cabeça Zumbi do Senhor da Guerra|Голова Зомби Владыки Смерти|死神的僵尸头颅|デス・ロードのゾンビ頭|죽음의 신의 좀비 머리|Zombiekopf des Todeslords
+charms_marksmans_quiver|Marksman's Quiver|Jousimiehen viini|Aljava do Atirador|Колчан Стрелка|射手的箭袋|マークスマンのクワイバー|명사수의 전율|Köcher des Marksman
+charms_wind_token|Wind Token|Tuulirahake|Token de Vento|Сигил Ветра|风令牌|風のトークン|바람 토큰|Wind-Token
+charms_doctors_mask_in_jar|Doctor's Mask in a Jar|Tohtorin Naamio Purkissa|Máscara do Médico em um Frasco|Маска Доктора в банке|医生的面具在罐子里|壺の中のドクターズマスク|항아리에 든 의사의 가면|Doktormaske im Glas
+charms_heart_of_agony|Heart of Agony|Tuskan Sydän|Coração de Agonia|Сердце Агонии|心的痛苦|苦悩の心臓|고뇌의 심장|Herz des Schmerzes
+charms_aztec_devil|Aztec Devil|Atsteekkipiru|Diabo Asteca|Ацтекский Дьявол|爱捷特魔鬼|アズテックデビル|아즈텍 악마|Aztekenteufel
+charms_sacred_owl|Sacred Owl|Pyhä Pöllö|Coruja Sagrada|Священная Сова|神圣的猫头鹰|聖なるフクロウ|신성한 올빼미|Heilige Eule
+charms_flaming_coin|Flaming Coin|Liekehtivä Kolikko|Moeda Flamejante|Пылающая Монета|燃烧的硬币|炎のコイン|불타는 동전|Brennende Münze
+charms_torch_of_shadows|Torch of Shadows|Varjosoihtu|Tocha das Sombras|Факел Теней|火炬的阴影|影のトーチ|그림자의 횃불|Fackel der Schatten
+charms_travelers_map_journal|Traveler's Map Journal|Matkustajan Karttakirja|Diário do mapa do viajante|Журнал Путешественника|旅行者地图杂志|トラベラーズマップジャーナル|여행자지도 일지|Reisejournal
+charms_engineers_mini_drone|Engineer's Mini Drone|Insinöörin Minilennokki|mini drone do engenheiro|Мини-дрон инженера|引擎的迷你无人机|エンジンのミニドローン|enginee의 미니 드론|Enginees Mini-Drohne
+charms_zealots_beads_of_destruction|Zealot's Beads of Destruction|Kiihkoilijan Tuhon Rukousnauha|Contas de Destruição do Fanático|Чётки Разрушения Фанатика|狂热者的毁灭珠|ジーロットの破壊のビーズ|질럿의 파괴의 구슬|Zelotenperlen der Zerstörung
+charms_bone_conjurers_trophy|Bone Conjurer's Trophy|Luuvelhon Voitonmerkki|Troféu de mágico de ossos|Трофей Заклинателя Костей|骨魔术师的奖杯|ボーンコンジュラーのトロフィー|뼈 마법사의 트로피|Knochenbeschwörer-Trophäe
+charms_champions_signet|Champion's Signet|Sotamestarin Sinetti|Signet do Campeão|Печатка Чемпиона|冠军的徽记|チャンピオンのシグネット|챔피언의 인장|Siegel des Champions
+charms_plunderers_gunpowder_bag|Plunderer's Gunpowder Bag|Laivojenupottajan Ruutipussi|Saco de pólvora de saqueador|Мешочек Пороха Расхитительницы|掠夺者的火药袋|プランダラの火薬バッグ|약탈자의 화약 가방|Schießpulverbeutel des Plünderers
+charms_fulgurite|Fulgurite|Fulgurite|Fulgurite|Fulgurite|Fulgurite|Fulgurite|Fulgurite|Fulgurite
+charms_loaded_dice|Loaded Dice|Loaded Dice|Loaded Dice|Loaded Dice|Loaded Dice|Loaded Dice|Loaded Dice|Loaded Dice
+charms_annihilus|Annihilator|||||||
+charms_bag_of_unknown_riches|Bag of Unknown Riches |Bag of Unknown Riches |Bag of Unknown Riches |Bag of Unknown Riches |Bag of Unknown Riches |Bag of Unknown Riches |Bag of Unknown Riches |Bag of Unknown Riches 
+charms_spine_trophy|Spine Trophy|Spine Trophy|Spine Trophy|Spine Trophy|Spine Trophy|Spine Trophy|Spine Trophy|Spine Trophy
+charms_angelic_key|Angelic Key|Angelic Key|Angelic Key|Angelic Key|Angelic Key|Angelic Key|Angelic Key|Angelic Key
+charms_cold_giants_charm|Cold Giant's Charm|Kylmän jättiläisen viehätysvoima|O Encanto do Gigante Frio|Cold Giant's Charm|寒冷巨人的魅力|冷たい巨人の魅力|Cold Giant's Charm|Der Charme des kalten Riesen
+charms_jacks_pumpkin_spice|Jack's Pumpkin Spice|Jackin kurpitsamauste|Tempero de Abóbora de Jack|Jack's Pumpkin Spice|杰克的南瓜香精|ジャックのパンプキンスパイス|Jack's Pumpkin Spice|Jacks Kürbisgewürz
+charms_shrunken_head|Shrunken Head|Kutistunut pää|Cabeça encolhida|Shrunken Head|缩头乌龟|シュランケンヘッド|Shrunken Head|Schrumpfkopf
+charms_tarethiels_ancient_wisdom|Tarethiel's Ancient Wisdom|Tarethiel's Ancient Wisdom|Tarethiel's Ancient Wisdom|Tarethiel's Ancient Wisdom|Tarethiel's Ancient Wisdom|Tarethiel's Ancient Wisdom|Tarethiel's Ancient Wisdom|Tarethiel's Ancient Wisdom
+charms_sheep_kings_wool|Sheep King’s Wool|Sheep King’s Wool|Sheep King’s Wool|Sheep King’s Wool|Sheep King’s Wool|Sheep King’s Wool|Sheep King’s Wool|Sheep King’s Wool
+charms_vikings_glyphed_rune|Viking’s Glyphed Rune|Viking’s Glyphed Rune|Viking’s Glyphed Rune|Viking’s Glyphed Rune|Viking’s Glyphed Rune|Viking’s Glyphed Rune|Viking’s Glyphed Rune|Viking’s Glyphed Rune
+charms_witches_claw|Witches Claw|Witches Claw|Witches Claw|Witches Claw|Witches Claw|Witches Claw|Witches Claw|Witches Claw
+charms_adventurers_quiver|Adventurer’s Quiver|Adventurer’s Quiver|Adventurer’s Quiver|Adventurer’s Quiver|Adventurer’s Quiver|Adventurer’s Quiver|Adventurer’s Quiver|Adventurer’s Quiver
+charms_mark_of_black_knight|Mark of the Black Knight|Mark of the Black Knight|Mark of the Black Knight|Mark of the Black Knight|Mark of the Black Knight|Mark of the Black Knight|Mark of the Black Knight|Mark of the Black Knight
+charms_hardened_steel_defender|Hardened Steel Defender|Hardened Steel Defender|Hardened Steel Defender|Hardened Steel Defender|Hardened Steel Defender|Hardened Steel Defender|Hardened Steel Defender|Hardened Steel Defender
+charms_canopic_jar_of_blood|Canopic Jar of Blood|Canopic Jar of Blood|Canopic Jar of Blood|Canopic Jar of Blood|Canopic Jar of Blood|Canopic Jar of Blood|Canopic Jar of Blood|Canopic Jar of Blood
+charms_sundial_of_ancient_worlds|Sundial of Ancient Worlds|Sundial of Ancient Worlds|Sundial of Ancient Worlds|Sundial of Ancient Worlds|Sundial of Ancient Worlds|Sundial of Ancient Worlds|Sundial of Ancient Worlds|Sundial of Ancient Worlds
+||||||||
+||||||||
+[shields]||||||||
+shields_normal_wooden_shield|Wooden Shield|||||||
+shields_normal_buckler|Buckler|Buckler|Buckler|Buckler|龅牙虫|バックラー|Buckler|Buckler
+shields_normal_steel_ward|Steel Ward|Teräsosasto|Ala de Aço|Steel Ward|钢结构病房|スティールワード|Steel Ward|Stahlstation
+shields_normal_small_crescent|Small Crescent|||||||
+shields_normal_aegis|Aegis|||||||
+shields_normal_kite_shield|Kite Shield|||||||
+shields_normal_bone_shield|Bone Shield|Luukilpi|Escudo ósseo|Bone Shield|骨骼盾牌|ボーンシールド|Bone Shield|Knochenschild
+shields_normal_luna|Luna|||||||
+shields_normal_royal_shield|Royal Shield|||||||
+shields_normal_monarch|Monarch|Monarch|Monarca|Monarch|君主|モナーク|Monarch|Monarch
+shields_normal_tribal_ward|Tribal Ward|||||||
+||||||||
+[shields_unique]||||||||
+shields_ancient_aegis|Ancient Aegis|Muinainen Suoja|Égide Antiga|Эгида Древних|古代羊皮盾|古代のアイギス|고대 이지스 방패|Uralte Ägis
+shields_tombstone|Tombstone|Hautakivi|Lápide|Надгробие|墓碑|墓石|묘비|Grabstein
+shields_rift_eye|Rift Eye|Repeämäsilmä|Olho de Fenda|Око Разлома|裂眼|裂けた目|부서진 눈|Rissauge
+shields_demons_mirror|Demon's Mirror|Demonin Peili|Espelho do Demônio|Зеркало Демона|恶魔之镜|デーモンの鑑|악마의 거울|Dämonenspiegel
+shields_the_templar|The Templar|Temppeliherra|O Templário|Тамплиер|圣殿骑士|テンプル騎士団|템플러|Der Templer
+shields_lancers_wall|Lancer's Wall|Kilpiseivästäjän Seinä|Parede do Lanceiro|Стена Копейщика|骑士之盾|ランサーの壁|렌서의 벽|Lanzenträgerwall
+shields_shadow_buckler|Shadow Buckler|Varjokilpi|Broquel das Sombras|Щит Теней|阴影圆盾|影の円盾|그림자 방패|Schattenfaustschild
+shields_wall_of_legion|Wall of the Legion|Odinin Taistelukilpi|Escudo de Batalha de Odin|Щит Одина|奥丁的战斗盾牌|オーディンのバトル・シールド|오딘의 전투 방패|Odins Kampfschild
+shields_suomi_finland_perkele|SUOMI FINLAND PERKELE|SUOMI FINLAND PERKELE|SUOMI FINLAND PERKELE|ФИНСКИЙ ПЕРКЕЛЕ|苏米·芬尼·佩尔凯莱|スオミ・フィンランド・ペルケレ|핀란드 악마 수오미|SUOMI FINNLAND PERKELE
+shields_den_glider_in|Den Glider In|Den Glider In|Den Glider In|Den Glider In|登·格莱德·音|デン・グリデル・イン|던전 입장|Den Glider In
+shields_gladiators_wall|Gladiator's Wall|Gladiaattorin Seinä|Muralha do Gladiador|Щит Гладиатора|角斗士的墙|グラディエーターの壁|글라디에이터의 벽|Gladiatorenwand
+shields_sacred_aegis|Sacred Aegis|Pyhäsuoja|Égide Sagrada|Священная Эгида|神圣的庇护|聖なるイージス|신성한 방패|Heiliger Aegis
+shields_aztec_ward|Aztec Ward|Atsteekkisuoja|Proteção Asteca|Ацтекский щит|爱捷特病房|アズテックウォード|아즈텍 병실|Station des Azteken
+shields_ward_of_toxicity|Ward of Toxicity|Myrkyllisyyden Suoja|Proteção de Toxicidade|Щит Яда|毒性病房|毒性のウォード|독성의 병실|Station der Toxizität
+shields_storm_gladiators_wall|Storm Gladiator's Wall|Myrskygladiaattorin Seinä|Muralha do Gladiador Tempestuoso|Щит Бури Гладиатора|风暴角斗士的墙|ストームグラディエーターの壁|스톰 글라디에이터의 벽|Wand des Sturmgladiators
+shields_thunder_lords_aegis|Thunder Lord's Aegis|Ukkosenherran Turva|Égide do Senhor do Trovão|Эгида Повелителя Грома|雷神的庇护|サンダーロードのイージス|천둥 군주의 방패|Aegis des Donnerlords
+shields_crystal_infused_shield|Crystal Infused Shield|Kristallivalettu kilpi|Escudo Infundido de Cristal|Кристаллический Щит|水晶灌注盾|クリスタル注入シールド|수정이 주입 된 방패|Kristallinfundierter Schild
+shields_vagabonds_ward|Vagabond's Ward|Kiertolaisen Suoja|Enfermaria de Vagabundo|Щит Скитальца|流浪者的守卫|バガボンドの病棟|방랑자의 와드|Vagabonds Gemeinde
+shields_flame_diviners_ward|Flame Diviner's Ward|Tuliennustajan Suoja|Enfermaria do Divinador da Chama|Щит Прорицателя|烈焰神谕者的守卫|炎占い師の病棟|화염 점쟁이의 와드|Flammenwahrnehmerstation
+shields_justiciars_thunder_wall|Justiciar's Thunder Wall|Oikeuttajan Ukkosseinä|Parede de trovão do juiz de justiça|Барьер Молний Праведного|正义的雷霆墙|司法長官の雷壁|justiciar의 천둥 벽|Die Donnerwand des Justiziar
+shields_shield_bearers_wall|Shield Bearer's Wall|Kilvenkäyttäjän Seinä|Parede do Portador do Escudo|Ростовой Щит Щитоносца|盾牌承载者之墙|シールドベアラーの壁|방패 무기명의 벽|Schildträgerwand
+shields_valkyries_battle_shield|Valkyrie's Battle Shield|Valkyrie's Battle Shield|Valkyrie's Battle Shield|Боевой Щит Валькирии|Valkyrie's Battle Shield|Valkyrie's Battle Shield|Valkyrie's Battle Shield|Valkyrie's Battle Shield
+shields_leprechauns_greed|Leprechauns Greed|||||||
+shields_gem_encrusted_tower|Gem Encrusted Tower|Gem Encrusted Tower|Gem Encrusted Tower|Gem Encrusted Tower|Gem Encrusted Tower|Gem Encrusted Tower|Gem Encrusted Tower|Gem Encrusted Tower
+shields_pandemic_shield|Pandemic Shield|||||||
+shields_iron_giants_shield|Iron Giants Shield|Rautajättiläisten kilpi|Escudo de ferro Giants Shield|Iron Giants Shield|铁巨人盾牌|鉄の巨人の盾|Iron Giants Shield|Eisen-Riesen-Schild
+shields_tomis_vibrant_aura|St. Tomi's Vibrant Aura|Pyhän Tomin elinvoimainen aura|Aura Vibrante de São Tomé e Príncipe|St. Tomi's Vibrant Aura|圣托米的充满活力的光环|セント・トーマスの元気なオーラ|St. Tomi's Vibrant Aura|Die vibrierende Aura von St. Tomi
+shields_defenders_justice|Defender's Justice|Puolustajan oikeus|A Justiça do Defensor|Defender's Justice|捍卫者的正义|ディフェンダーズ・ジャスティス|Defender's Justice|Gerechtigkeit des Verteidigers
+shields_shield_of_abyss|Shield of the Abyss|Abyssin kilpi|Escudo do Abismo|Shield of the Abyss|深渊之盾|シールド・オブ・ジ・アビス|Shield of the Abyss|Schild des Abgrunds
+shields_mirror_of_flesh|Mirror of Flesh|Lihan peili|Espelho de Carne|Mirror of Flesh|肉体之镜|肉体の鏡|Mirror of Flesh|Spiegel des Fleisches
+shields_hallgars_dreadful_wall|Dreadful Wall|||||||
+shields_ward_of_blood|Ward of Blood|Veren osasto|Ala de Sangue|Ward of Blood|血的病房|ウォード オブ ブラッド|Ward of Blood|Station des Blutes
+shields_novice_tower|Novice's Tower|Noviisin torni|Torre do noviço|Novice's Tower|新手之塔|ノービス・タワー|Novice's Tower|Novizen-Turm
+shields_kings_tower_shield|King's Tower Shield|Kuninkaan tornin kilpi|Escudo da Torre do Rei|King's Tower Shield|国王之塔盾牌|キングス・タワー・シールド|King's Tower Shield|Königsturm-Schild
+shields_heavens_champion|Heaven's Champion|Taivaan mestari|O campeão do céu|Heaven's Champion|天堂的冠军|ヘブンズ・チャンピオン|Heaven's Champion|Meister des Himmels
+shields_pitfiends_thorn|Pitfiend's Thorn|Pitfiend's Thorn|Pitfiend's Thorn|Pitfiend's Thorn|蝮蛇之刺|ピットフィーンドのソーン|Pitfiend's Thorn|Pitfiends Dorn
+shields_celestials_authority|Celestial’s Authority|Celestial’s Authority|Celestial’s Authority|Celestial’s Authority|Celestial’s Authority|Celestial’s Authority|Celestial’s Authority|Celestial’s Authority
+shields_visage_of_relentless_rage|Visage of Relentless Rage|Visage of Relentless Rage|Visage of Relentless Rage|Visage of Relentless Rage|Visage of Relentless Rage|Visage of Relentless Rage|Visage of Relentless Rage|Visage of Relentless Rage
+shields_battle_mages_shield|Battle Mage’s Shield|Battle Mage’s Shield|Battle Mage’s Shield|Battle Mage’s Shield|Battle Mage’s Shield|Battle Mage’s Shield|Battle Mage’s Shield|Battle Mage’s Shield
+shields_darkwood_defender|Darkwood Defender|Darkwood Defender|Darkwood Defender|Darkwood Defender|Darkwood Defender|Darkwood Defender|Darkwood Defender|Darkwood Defender
+shields_rusted_spike_shield|Rusted Spiked Shield|Rusted Spiked Shield|Rusted Spiked Shield|Rusted Spiked Shield|Rusted Spiked Shield|Rusted Spiked Shield|Rusted Spiked Shield|Rusted Spiked Shield
+shields_blessed_defender|Blessed Defender|Blessed Defender|Blessed Defender|Blessed Defender|Blessed Defender|Blessed Defender|Blessed Defender|Blessed Defender
+||||||||
+[rings]||||||||
+rings_normal_bronze_ring|Bronze Ring|||||||
+rings_normal_iron_ring|Iron Ring|||||||
+rings_normal_ring|Ring|||||||
+||||||||
+[rings_unique]||||||||
+rings_ras_band|Ra's Band|Ran Nauha|Faixa de Ra|Кольцо Ра|Ra的乐队|ラーのバンド|라의 밴드|Ras Band
+rings_molten_ring|Molten Ring|Sulanut sormus|Anel Fundido|Расплавленное Кольцо|熔化的环|モルテンリング|녹은 반지|Geschmolzener Ring
+rings_dragonsteel_ring|Dragonsteel Ring|Lohikäärmeterässormus|Anel de Aço de Dragão|Кольцо из драконьей стали|龙钢环|ドラゴンスチールリング|드래곤스틸 반지|Drachenstahlring
+rings_stone_of_jordan|Stone of Premonition|||||||
+rings_khodos_wedding_band|Khodo's Wedding Band|Khodon Vihkisormus|Aliança de Khodo|Обручальное кольцо Ходо|Khodo的婚礼乐队|コドのウェディングバンド|코도의 결혼 반지|Ehering des Khodo
+rings_demon_eye_ring|Demon Eye Ring|Pirunsilmäsormus|Anel de Olho de Demônio|Око Демона|恶魔的眼环|悪魔の目のリング|스켈레톤 반지|Dämonenaugering
+rings_satanic_eye|Satanic Eye|Saatanallinen Silmä|Olho Satânico|Сатанический Глаз|邪恶的眼睛|魔王の目|스켈레톤 반지|Satanisches Auge
+rings_giants_band_of_strength|Giant's Band of Strength|Jättiläisen Voimasormus|Banda de Força do Gigante|Кольцо Cилы Титана|巨人的力量带|ジャイアントの強さのバンド|거인의 힘의 고리|Riesenband der Stärke
+rings_iron_ring_of_prometeus|Iron Ring of Prometheus|Prometheuksen rautarengas|Anel de Ferro da Prometheus|Iron Ring of Prometheus|普罗米修斯的铁环|プロメテウスの鉄輪|Iron Ring of Prometheus|Eiserner Ring des Prometheus
+rings_devlins_eternal_grace|St. Aaron’s Eternal Rage|||||||
+rings_elven_grace|Elven Grace|||||||
+rings_quickening_zephyr|Quickening Zephyr|Pikavauhtia Zephyr|Zephyr de aceleração|Quickening Zephyr|快捷的紫云英|クイックニングゼファー|Quickening Zephyr|Zephir beschleunigen
+rings_mana_benders_will|Mana Bender's Will|Mana Benderin tahto|A vontade de Mana Bender|Mana Bender's Will|玛娜班德的意志|マナベンダーの意志|Mana Bender's Will|Der Wille des Mana-Benders
+rings_tectonic_frequency|Tectonic Frequency|Techtonic Frequency|Techtonic Frequency|Techtonic Frequency|科技频率|テクトニック周波数|Techtonic Frequency|Techtonische Frequenz
+rings_fury_of_tarethiel|Fury of Tarethiel|Tarethielin raivo|Fúria de Tarethiel|Fury of Tarethiel|塔雷西尔之怒|フューリーオブタレシエル|Fury of Tarethiel|Wut von Tarethiel
+rings_absence_of_constraint|The Absence of Constraint|The Absence of Constraint|The Absence of Constraint|The Absence of Constraint|The Absence of Constraint|The Absence of Constraint|The Absence of Constraint|The Absence of Constraint
+rings_mark_of_ferocity|Mark of Ferocity|Mark of Ferocity|Mark of Ferocity|Mark of Ferocity|Mark of Ferocity|Mark of Ferocity|Mark of Ferocity|Mark of Ferocity
+rings_sanguine_bloodstone|Sanguine Bloodstone|Sanguine Bloodstone|Sanguine Bloodstone|Sanguine Bloodstone|Sanguine Bloodstone|Sanguine Bloodstone|Sanguine Bloodstone|Sanguine Bloodstone
+rings_archers_story|Archer's Story|||||||
+rings_onyx_slayers_band|Onyx Slayer’s Band|Onyx Slayer’s Band|Onyx Slayer’s Band|Onyx Slayer’s Band|Onyx Slayer’s Band|Onyx Slayer’s Band|Onyx Slayer’s Band|Onyx Slayer’s Band
+rings_templars_faith|Templar’s Faith|Templar’s Faith|Templar’s Faith|Templar’s Faith|Templar’s Faith|Templar’s Faith|Templar’s Faith|Templar’s Faith
+rings_soulforged_ring|Soulforged Ring|Soulforged Ring|Soulforged Ring|Soulforged Ring|Soulforged Ring|Soulforged Ring|Soulforged Ring|Soulforged Ring
+rings_signet_of_bifrost|Signet of Bifröst|||||||
+rings_sung_lees_unleashed_rage|Sung Lee's Unleashed Rage|||||||
+||||||||
+[belts]||||||||
+belts_normal_sash|Sash|||||||
+belts_normal_leather_belt|Leather Belt|||||||
+belts_normal_heavy_belt|Heavy Belt|||||||
+belts_normal_devilhide_sash|Devilhide Sash|||||||
+belts_normal_viperskin_belt|Viperskin Belt|||||||
+belts_normal_battle_belt|Battle Belt|||||||
+belts_normal_wyrmhide_sash|Wyrmhide Sash|||||||
+belts_normal_mithril_coil|Mithril Coil|||||||
+belts_normal_vampirefang_girdle|Vampirefang Girdle|||||||
+||||||||
+[belts_unique]||||||||
+belts_warrior_belt|Tundra Warrior's Girdle|||||||
+belts_viperskin_belt|Vipermagi's Belt|||||||
+belts_lich_sash|Lich Sash|Lich-nauha|Faixa de Lich|Пояс Лича|巫妖腰带|リッチサッシュ|시체 띠|Leichengürtel
+belts_tribal_belt|Tribal Belt|Heimovyö|Cinto Tribal|Племенной Ремень|部落地带|トライバルベルト|부족 벨트|Stammesgürtel
+belts_foxweave_belt|Foxweave Belt|Ketunkutoma Vyö|Cinto de Raposa|Хитрый Лис|狐狸波腰带|フォックスウィーブベルト|폭스위브 벨트|Fuchsgürtel
+belts_assassins_belt|Assassin's Belt|Salamurhaajan Vyö|Cinto do Assassino|Пояс Убийцы|刺客的腰带|アサシンズベルト|암살자의 벨트|Mördergürtel
+belts_crystal_belt|Crystal Belt|Kristallivyö|Cinto de Cristal|Кристальный Пояс|水晶带|クリスタルベルト|크리스탈 벨트|Kristallgürtel
+belts_heavy_duty|Heavy Duty|Raskas Työvyö|Trabalho Pesado|Массивный Ремень|重型|ヘビーデューティ|대형|Harte Beanspruchung
+belts_commanders_sash|Commander's Sash|Komentajan Nauha|Faixa do Comandante|Командирский ремень|指挥官的腰带|司令官のサッシュ|사령관의 띠|Schärpe des Kommandanten
+belts_monkeyskin_belt|Monkeyskin Belt|Apinannahkavyö|Cinto de Pele de Macaco|Ремень из обезьяньей кожи|猴子皮腰带|モンキースキンベルト|몽키스킨 벨트|Affenhautgürtel
+belts_belt_of_war|Belt of War|Sotavyö|Cinto da Guerra|Ремень Войны|战争腰带|ベルト･オブ･ウォー|전쟁의 벨트|Gürtel des Krieges
+belts_travelers_double_belt|Traveler's Double Belt|Matkustajan Kaksinkertainen Vyö|Cinto duplo do viajante|Двойной Пояс Путешественника|旅行者双腰带|トラベラーズダブルベルト|여행자 용 더블 벨트|Doppelgürtel des Reisenden
+belts_belt_of_skulls|Belt of Skulls|Pääkallovyö|Cinto de crânios|Пояс черепов|骷髅腰带|頭蓋骨のベルト|해골 허리띠|Gürtel der Schädel
+belts_engineers_toolbelt|Engineer's Toolbelt|Insinöörin Työkaluvyö|Cinto de ferramentas do engenheiro|Пояс инженера|工程师工具带|エンジニアのツールベルト|엔지니어의 도구 벨트|Werkzeuggürtel des Ingenieurs
+belts_vagabonds_strap|Vagabond's Strap|Kiertolaisen Remmi|Correia de vagabundo|Ремень Скитальца|流浪者的表带|バガボンドのストラップ|방랑자의 결박|Vagabonds Riemen
+belts_flame_diviners_cord|Flame Diviner's Cord|Tuliennustajan Köysi|Cordão do Divinador da Chama|Пояс Прорицателя|烈焰神谕者的绳|炎占い師のコード|화염 점쟁이의 장식 끈|Flammenwahrsagers Kabel
+belts_justiciars_thunder_sash|Justiciar's Thunder Sash|Oikeuttajan Ukkosvyö|Faixa do Trovão do Justiciar|Пояс Праведного|正义法官的雷霆腰带|司法長官のサンダーサッシュ|Justiciar의 천둥 장식 띠|Justiciars Donnerschärpe
+belts_earth_shapers_belt|Earth Shaper's Belt|Maanmuokkaajan Vyö|Cinto do Formador da Terra|Пояс Творца|造地者腰带|アースシェイパーのベルト|지구 형성 자의 허리띠|Gürtel des Erdformers
+belts_knights_girdle|Knight's Girdle|Knight's Girdle|Knight's Girdle|Пояс Рыцаря|Knight's Girdle|Knight's Girdle|Knight's Girdle|Knight's Girdle
+belts_belt_of_infinite_wealth|Belt of Infinite Wealth|Äärettömän rikkauden vyö|Cinturão de Riqueza Infinita|Belt of Infinite Wealth|无限财富的腰带|無限の富をもたらすベルト|Belt of Infinite Wealth|Gürtel des unendlichen Reichtums
+belts_rugals_sash_of_undertaking|Rugal's Sash of Undertaking|Rugalin sitoutumislippu|Rugal's Sash of Undertaking|Rugal's Sash of Undertaking|Rugal的承诺书|ルガルの襷（たすき）をかけて|Rugal's Sash of Undertaking|Rugal's Schärpe der Unternehmung
+belts_sash_of_magi|Sash of the Magi|Taikurien liivi|A faixa dos Reis Magos|Sash of the Magi|麦琪的腰带|マギのサッシュ|Sash of the Magi|Schärpe der Heiligen Drei Könige
+belts_ice_queens_cestus|Ice Queen's Cestus|Jääkuningattaren Cestus|Cestus da Rainha do Gelo|Ice Queen's Cestus|冰雪女王的塞斯图斯|Ice Queen's Cestus|Ice Queen's Cestus|Eisköniginnenzistrosen
+belts_sets_lightning_sash|Set's Lightning Sash|Setin salamanauha|Conjunto de faixa de relâmpagos|Set's Lightning Sash|集的闪电腰带|セトのライトニングサッシュ|Set's Lightning Sash|Blitzschärpe des Sets
+belts_tether_of_anguish|Tether of Anguish|Tuskan köysi|Corda de angústia|Tether of Anguish|痛苦的纽带|Tether of Anguish（苦悩の綱|Tether of Anguish|Fessel der Angst
+belts_hatsepsuts_girdle|Hatshepsut's Girdle|Hatsepsutin vyötärö|Cinturão Hatshepsut|Hatshepsut's Girdle|哈特谢普苏特的腰带|ハトシェプストのガードル|Hatshepsut's Girdle|Hatschepsuts Hüftgürtel
+belts_ashen_belt|Ashen Belt|Tuhkainen vyö|Cinto Ashen|Ashen Belt|灰烬带|アッシェンベルト|Ashen Belt|Aschegürtel
+belts_combat_duty_belt|Combat Duty Belt|Combat Duty Belt|Combat Duty Belt|Combat Duty Belt|Combat Duty Belt|Combat Duty Belt|Combat Duty Belt|Combat Duty Belt
+belts_cingulum_of_shifting_destiny|Cingulum of Shifting Destiny|Cingulum of Shifting Destiny|Cingulum of Shifting Destiny|Cingulum of Shifting Destiny|Cingulum of Shifting Destiny|Cingulum of Shifting Destiny|Cingulum of Shifting Destiny|Cingulum of Shifting Destiny
+belts_brute_cord|Brute’s Cord |Brute’s Cord |Brute’s Cord |Brute’s Cord |Brute’s Cord |Brute’s Cord |Brute’s Cord |Brute’s Cord 
+belts_sun_wukongs_belt|Sun Wukong’s Belt|Sun Wukong’s Belt|Sun Wukong’s Belt|Sun Wukong’s Belt|Sun Wukong’s Belt|Sun Wukong’s Belt|Sun Wukong’s Belt|Sun Wukong’s Belt
+belts_warbosses_trophy_belt|Warbosses’ Trophy Belt|Warbosses Trophy Belt|Warbosses Trophy Belt|Warbosses Trophy Belt|Warbosses Trophy Belt|Warbosses Trophy Belt|Warbosses Trophy Belt|Warbosses Trophy Belt
+belts_gaze_of_void|Gaze of the Void|Gaze of the Void|Gaze of the Void|Gaze of the Void|Gaze of the Void|Gaze of the Void|Gaze of the Void|Gaze of the Void
+belts_pitfighters_razor_belt|Pitfighter’s Razor Belt|Pitfighter’s Razor Belt|Pitfighter’s Razor Belt|Pitfighter’s Razor Belt|Pitfighter’s Razor Belt|Pitfighter’s Razor Belt|Pitfighter’s Razor Belt|Pitfighter’s Razor Belt
+belts_bronze_legion_girdle|Bronze Legion Girdle|Bronze Legion Girdle|Bronze Legion Girdle|Bronze Legion Girdle|Bronze Legion Girdle|Bronze Legion Girdle|Bronze Legion Girdle|Bronze Legion Girdle
+||||||||
+[runeword]||||||||
+runeword_breath_of_dying|Breath of the Damned|||||||
+runeword_windstride|Windstride|Tuulentuoma|Passo do Vento|Воздушная Поступь|疾风|ウィンドストライド|윈드스트라이드|Windschritt
+runeword_potency|Potency|Teho|Potência|Могущество|效力|潜在力|힘|Potenz
+runeword_sleight|Sleight|Silmänkääntäjä|Destreza|Ловкость|手法|巧妙|술책|Geschicklichkeit
+runeword_shelter|Shelter|Suoja|Abrigo|Убежище|避难所|シェルター|대피처|Unterkunft
+runeword_mirage|Mirage|Kangastus|Miragem|Мираж|海市蜃楼|ミラージュ|신기루|Illusion
+runeword_thinking_cap|Thinking Cap|Mietintämyssy|Boné de Pensamento|Размышляпка|思考|シンキングキャップ|심사숙고|Denkmütze
+runeword_lightforge|Lightforge|Valontakoja|Forja de Luz|Кузница Света|光铸|ライトフォージ|라이트포지|Lichtschmiede
+runeword_scholar|Scholar|Oppinut|Estudioso|Ученик|学者|学者|학자|Gelehrter
+runeword_fortress|Fortress|Linnoitus|Fortaleza|Крепость|堡垒|要塞|요새|Festung
+runeword_bristle|Bristle|Harjas|Cerda|Щетина|猪鬃|針毛|털|Borste
+runeword_force|Force|Voima|Força|Сила|力|力|힘|Kraft
+runeword_mystify|Mystify|Mystifioi|Mistificar|Мистифицировать|故弄玄虚|神秘化|신비화|Verwirren
+runeword_shroud_of_elements|Shroud of Elements|Elementtiliina|Mortalha de Elementos|Покров Стихий|裹尸布的元素|エレメントのシュラウド|요소의 장막|Schleier der Elemente
+runeword_mayhem|Mayhem|Sekasorto|Caos|Беспредел|混乱|騒乱|아수라장|Chaos
+runeword_quickstep|Quickstep|Nopsajalka|Passo Rápido|Легкая Поступь|跳快步舞|クイックステップ|빠른 스텝|Schnellmarsch
+runeword_rainbow|Rainbow|Sateenkaari|Arco-íris|Радуга|彩虹|虹|무지개|Regenbogen
+runeword_havoc|Havoc|Hävitys|Destruição|Опустошение|造成严重破坏|大混乱|혼란|Durcheinander
+runeword_soulbraces|Soulbraces|Sielupari|Par de Almas|Духовные Скрепы|灵魂枷锁|ソウルブレイス|소울브레이스|Seelenschutz
+runeword_breach_gauntlets|Breach Gauntlets|Murtotaisteluhaskat|Manoplas de Violação|Наручи Разлома|窟窿长手套|ブリーチガントレット|위반 건틀릿|Handschuhe des Breach
+runeword_gladstone_gooses_jacket|Gladstone Goose's Jacket|Hannu Hanhen Takki|Jaqueta de Ganso de Gladstone|Жакет Гуся Гладстона|格拉德斯通鹅的夹克|グラッドストーン･グース･ジャケット|글래드스톤 거위 재킷|Jacke des Gladstone Goose
+runeword_preacher|Preacher|Saarnaaja|Pregador|Проповедник|牧师|牧師|목사|Priester
+runeword_perdition|Perdition|Perikato|Perdição|Погибель|毁灭之路|破滅|지옥행|Verderben
+runeword_ravager|Ravager|Hävittäjä|Devastador|Разрушитель|劫掠者|ラベジャー|파괴자|Verwüster
+runeword_catastrophe|Catastrophe|Katastrofi|Catástrofe|Катастрофа|灾难|カタストロフ|참사|Katastrophe
+runeword_judge|Judge|Tuomari|Juiz|Судья|法官|ジャッジ|판사|Richter
+runeword_will_of_thanos|Will of Thanos|Thanoksen Tahto|Vontade de Thanos|Воля Таноса|灭霸的意志|サノスの意志|타노스의 의지|Wille des Thanos
+runeword_revelation|Revelation|Paljastus|Revelação|Откровение|启示|啓示|시현|Offenbarung
+runeword_kogarasumaru|Kogarasumaru|Kogarasumaru|Kogarasumaru|Когарасумару|嘎嘎罗苏玛鲁|小烏丸|코가 라스 마루|Kogarasumaru
+runeword_big_joe|Big Joe|Iso Joe|Grande Joe|Большой Джо|大乔|ビッグジョー|빅 조|Großer Joe
+runeword_valkyrie|Valkyrie|Valkyrie|Valquíria|Валькирия|女武神|ヴァルキリー|발키리|Walküre
+runeword_enigma|Enigma|Arvoitus|Enigma|Энигма|谜|エニグマ|수수께끼|Rätsel
+runeword_mjolner|Mjolner|Mjølner|Mjolner|Мьёльнир|莫尔纳|ミョルナー|음 졸너|Mjolner
+runeword_arcane_bastion|Arcane Bastion|Arkaaninen linnake|Bastião Arcano|Таинственный Бастион|奥术堡垒|秘儀の砦|비전 요새|Arkane Bastion
+runeword_ascendancy|Ascendancy|Ylemmyys|Ascendência|Господство|优势|優勢|승천|Aufstieg
+runeword_sovereignty|Sovereignty|Suvereniteetti|Soberania|Независимость|主权|主権|주권|Souveränität
+runeword_virulence|Virulence|Virulence|Virulence|Эссенция Страдания|Virulence|Virulence|Virulence|Virulence
+runeword_carnage|Carnage|Carnage|Carnage|Бойня|Carnage|Carnage|Carnage|Carnage
+runeword_arcanum|Arcanum|Arcanum|Arcanum|Арканум|Arcanum|Arcanum|Arcanum|Arcanum
+runeword_true_aim|True Aim|True Aim|True Aim|True Aim|True Aim|True Aim|True Aim|True Aim
+runeword_harvester|Harvester|Harvester|Harvester|Harvester|Harvester|Harvester|Harvester|Harvester
+runeword_epilogue|Epilogue|Epilogue|Epilogue|Epilogue|Epilogue|Epilogue|Epilogue|Epilogue
+runeword_trapped_vessel|Trapped Vessel|Trapped Vessel|Trapped Vessel|Trapped Vessel|Trapped Vessel|Trapped Vessel|Trapped Vessel|Trapped Vessel
+runeword_conquest|Conquest|Conquest|Conquest|Conquest|Conquest|Conquest|Conquest|Conquest
+runeword_divine_contemplation|Divine Contemplation|Divine Contemplation|Divine Contemplation|Divine Contemplation|Divine Contemplation|Divine Contemplation|Divine Contemplation|Divine Contemplation
+runeword_atonement|Atonement|Atonement|Atonement|Atonement|Atonement|Atonement|Atonement|Atonement
+runeword_ghost|Ghost|Ghost|Ghost|Ghost|Ghost|Ghost|Ghost|Ghost
+runeword_divinity|Divinity|Divinity|Divinity|Divinity|Divinity|Divinity|Divinity|Divinity
+runeword_flowing_sands|Flowing Sands|Flowing Sands|Flowing Sands|Flowing Sands|Flowing Sands|Flowing Sands|Flowing Sands|Flowing Sands
+runeword_deus_ex_machina|Deus Ex Machina|Deus Ex Machina|Deus Ex Machina|Deus Ex Machina|Deus Ex Machina|Deus Ex Machina|Deus Ex Machina|Deus Ex Machina
+runeword_malice|Malice|Malice|Malice|Malice|Malice|Malice|Malice|Malice
+runeword_skysong|Skysong|Skysong|Skysong|Skysong|Skysong|Skysong|Skysong|Skysong
+runeword_torment|Torment|Torment|Torment|Torment|Torment|Torment|Torment|Torment
+runeword_martyr|Martyr|||||||
+runeword_paradox|Paradox|||||||
+||||||||
+[Prefixes]||||||||
+prefix_peasant|Peasant|||||||
+prefix_grunt|Grunt|||||||
+prefix_soldier|Soldier|||||||
+prefix_knight|Knight|||||||
+prefix_commander|Commander|||||||
+prefix_rugged|Rugged|||||||
+prefix_specific|Specific|||||||
+prefix_accurate|Accurate|||||||
+prefix_precise|Precise|||||||
+prefix_faultless|Faultless|||||||
+prefix_lizard|Lizard|||||||
+prefix_snake|Snake|||||||
+prefix_serpent|Serpent|||||||
+prefix_dragon|Dragon|||||||
+prefix_wyrm|Wyrm|||||||
+prefix_sturdy|Sturdy|||||||
+prefix_strong|Strong|||||||
+prefix_glorious|Glorious|||||||
+prefix_holy|Holy|||||||
+prefix_godly|Godly|||||||
+prefix_fox|Fox|||||||
+prefix_tiger|Tiger|||||||
+prefix_wolf|Wolf|||||||
+prefix_mammoth|Mammoth|||||||
+prefix_colossus|Colossus|||||||
+prefix_fiery|Fiery|||||||
+prefix_flaming|Flaming|||||||
+prefix_molten|Molten|||||||
+prefix_blistering|Blistering|||||||
+prefix_scorching|Scorching|||||||
+prefix_frigid|Frigid|||||||
+prefix_cold|Cold|||||||
+prefix_icy|Icy|||||||
+prefix_chilling|Chilling|||||||
+prefix_glacial|Glacial|||||||
+prefix_poisonous|Poisonous|||||||
+prefix_toxic|Toxic|||||||
+prefix_virulent|Virulent|||||||
+prefix_pernicious|Pernicious|||||||
+prefix_venomous|Venomous|||||||
+prefix_electric|Electric|||||||
+prefix_static|Static|||||||
+prefix_voltaic|Voltaic|||||||
+prefix_electro_charged|Electro-Charged|||||||
+prefix_galvanizing|Galvanizing|||||||
+prefix_magical|Magical|||||||
+prefix_enchanted|Enchanted|||||||
+prefix_incant|Incant|||||||
+prefix_charming|Charming|||||||
+prefix_occult|Occult|||||||
+prefix_apprentice|Apprentice|||||||
+prefix_journeyman|Journeyman|||||||
+prefix_master|Master|||||||
+prefix_monk|Monk|||||||
+prefix_arch_angel|Arch Angel|||||||
+prefix_traveler|Traveler|||||||
+prefix_fortune_teller|Fortune Teller|||||||
+prefix_gypsy|Gypsy|||||||
+prefix_mystic|Mystic|||||||
+prefix_arch_demon|Arch Demon|||||||
+prefix_exact|Exact|||||||
+prefix_spotted|Spotted|||||||
+prefix_sharp|Sharp|||||||
+prefix_cleancut|Cleancut|||||||
+prefix_gravedigger|Gravedigger|||||||
+prefix_soul_harvest|Soul Harvest|||||||
+prefix_phasing|Phasing|||||||
+prefix_deadeye|Deadeye|||||||
+prefix_stalker|Stalker|||||||
+prefix_hulking|Hulking|||||||
+prefix_lurking|Lurking|||||||
+prefix_whale|Whale|||||||
+prefix_mimic|Mimic|||||||
+prefix_warlord|Warlord|||||||
+prefix_scarab|Scarab|||||||
+prefix_natures|Natures|||||||
+prefix_shivering|Shivering|||||||
+prefix_molten_flame|Molten Flame|||||||
+prefix_hazardous|Hazardous|||||||
+prefix_sparkling|Sparkling|||||||
+prefix_manaburning|Manaburning|||||||
+prefix_crafters|Crafter's|||||||
+prefix_blacksmiths|Blacksmith's|||||||
+prefix_runesmiths|Runesmith's|||||||
+prefix_fierce|Fierce|||||||
+prefix_dreary|Dreary|||||||
+prefix_stern|Stern|||||||
+prefix_bleak|Bleak|||||||
+prefix_grim|Grim|||||||
+prefix_bright|Bring|||||||
+prefix_shining|Shining|||||||
+prefix_dazzling|Dazzling|||||||
+prefix_radiant|Radiant|||||||
+prefix_lucid|Lucid|||||||
+prefix_icy_flame|Icy Flame|||||||
+prefix_frost_scorching|Frost Scorching|||||||
+prefix_chilling_fiery|Chilling Fiery|||||||
+prefix_cold_heated|Cold Heated|||||||
+prefix_frost_fire|Frost Fire|||||||
+prefix_defenders|Defender's|||||||
+prefix_armadillos|Armadillo's|||||||
+prefix_scarabs|Scarab's|||||||
+prefix_juggernauts|Juggernaut's|||||||
+prefix_pantheons|Pantheon's|||||||
+prefix_lions|Lion's|||||||
+prefix_tigers|Tiger's|||||||
+prefix_crusaders|Crusader's|||||||
+prefix_legionnaires|Legionnaire's|||||||
+prefix_warlords|Warlord's|||||||
+prefix_wasps |Wasp's|||||||
+prefix_tricksters|Trickster’s|||||||
+||||||||
+[Suffixes]||||||||
+suffix_strength|of Strength|||||||
+suffix_toughness|of Toughness|||||||
+suffix_might|of Might|||||||
+suffix_power|of Power|||||||
+suffix_force|of Force|||||||
+suffix_fidelity|of Fidelity|||||||
+suffix_authority|of Authority|||||||
+suffix_reliability|of Reliability|||||||
+suffix_precision|of Precision|||||||
+suffix_perfection|of Perfection|||||||
+suffix_energy|of Energy|||||||
+suffix_brilliance|of Brilliance|||||||
+suffix_sorcery|of Sorcery|||||||
+suffix_wizardry|of Wizardry|||||||
+suffix_enlightment|of Enlightment|||||||
+suffix_armor|of Armor|||||||
+suffix_rigidity|of Rigidity|||||||
+suffix_firmness|of Firmness|||||||
+suffix_hardness|of Hardness|||||||
+suffix_solidity|of Solidity|||||||
+suffix_vitality|of Vitality|||||||
+suffix_vibrancy|of Vibrancy|||||||
+suffix_spirit|of Spirit|||||||
+suffix_vigor|of Vigor|||||||
+suffix_divine_soul|of Divine Soul|||||||
+suffix_mitigation|of Mitigation|||||||
+suffix_absorption|of Absorption|||||||
+suffix_depletion|of Depletion|||||||
+suffix_weakening|of Weakening|||||||
+suffix_divine_being|of Divine Being|||||||
+suffix_balance|of Balance|||||||
+suffix_stability|of Stability|||||||
+suffix_steadiness|of Steadiness|||||||
+suffix_libra|of Libra|||||||
+suffix_equilibrium|of Equilibrium|||||||
+suffix_swiftness|of Swiftness|||||||
+suffix_agility|of Agility|||||||
+suffix_lethal_tempo|of Lethal Tempo|||||||
+suffix_samurai|of Samurai|||||||
+suffix_vorpal_dimension|of Vorpal Dimenson|||||||
+suffix_magician|of Magician|||||||
+suffix_conjurer|of Conjurer|||||||
+suffix_sorcerer|of Sorcerer|||||||
+suffix_grand_warlock|of Grand Warlock|||||||
+suffix_ancient_lich|of Ancient Lich|||||||
+suffix_luck|of Luck|||||||
+suffix_fortune|of Fortune|||||||
+suffix_scavenger|of Scavenger|||||||
+suffix_tomb_raider|of Tomb Raider|||||||
+suffix_rngesus|of RNGesus|||||||
+suffix_leech|of Leech|||||||
+suffix_locust|of Locust|||||||
+suffix_demon|of Demon|||||||
+suffix_pagan_god|of Pagan God|||||||
+suffix_dracul|of Dracul|||||||
+suffix_cave_bat|of Cave Bat|||||||
+suffix_possessed_soul|of Possessed Soul|||||||
+suffix_wraith|of Wraith|||||||
+suffix_anomaly|of Anomaly|||||||
+suffix_vampire|of Vampire|||||||
+suffix_evading|of Evading|||||||
+suffix_dodging|of Dodging|||||||
+suffix_tenacity|of Tenacity|||||||
+suffix_shade|of Shade|||||||
+suffix_regeneration|of Regeneration|||||||
+suffix_insight|of Insight|||||||
+suffix_blacksmith|of Blacksmith|||||||
+suffix_tundra|of Tundra|||||||
+suffix_ice_god|of Ice God|||||||
+suffix_thorns|of Thorns|||||||
+suffix_war_mage|of War Mage|||||||
+suffix_king|of King|||||||
+suffix_archery|of Archery|||||||
+suffix_intellect|of Intellect|||||||
+suffix_crusader|of Crusader|||||||
+suffix_arch_warlock|of Arch Warlock|||||||
+suffix_clairvoyance|of Clairvoyance|||||||
+suffix_goblin|of Goblin|||||||
+suffix_memory|of Memory|||||||
+suffix_ice|of Ice|||||||
+suffix_frost|of Frost|||||||
+suffix_chill|of Chill|||||||
+suffix_rime|of Rime|||||||
+suffix_glacier|of Glacier|||||||
+suffix_fire|of Fire|||||||
+suffix_flames|of Flames|||||||
+suffix_lava|of Lava|||||||
+suffix_volcano|of Volcano|||||||
+suffix_inferno|of Inferno|||||||
+suffix_shock|of Shock|||||||
+suffix_stasis|of Stasis|||||||
+suffix_voltage|of Voltage|||||||
+suffix_lightning|of Lightning|||||||
+suffix_thunder|of Thunder|||||||
+suffix_poison|of Poison|||||||
+suffix_toxicity|of Toxicity|||||||
+suffix_vile|of Vile|||||||
+suffix_plague|of Plague|||||||
+suffix_pandemic|of Pandemic|||||||
+||||||||
+[set_names]||||||||
+gurag_setname|Gurag's Fury|Guragin raivo|Fúria de Gurag|Гнев Гурага|古拉格的愤怒|グーラグの憤激|구라그의 분노|Gurag Wut
+reaper_setname|Death's Toll|Kuoleman Tulli|Pena de Morte|Подношение Смерти|死亡人数|死の鐘|죽음의 울림|Der Tod der Maut
+anubis_setname|Anubi's Eternal Life|Anubiksen Ikuinen Elämä|Vida Eterna de Anúbis|Вечная Жизнь Анубиса|阿努比斯永生|アヌビスの永遠の命|아누비스의 영생|Anubi des ewigen Lebens
+damien_setname|Damien's Legacy|Damienin Perintö|Legado de Damien|Наследие Дэмиена|达米恩的遗产|デイミアンの遺産|데미안의 유산|Damien Vermächtnis
+karp_setname|Genji's Battle Gear|Genjin Taisteluvarusteet|Equipamento de Batalha de Genji|Боевая Экипировка Гэндзи|根吉的战斗装备|ゲンジのバトル・ギア|겐지의 전투 장비|Genjis Kampfausrüstung
+satan_setname|Satan's Curse|Saatanan Kirous|Maldição de Satã|Проклятье Сатаны|撒旦的诅咒|サタンの呪い|사탄의 저주|Satans Fluch
+mevius_setname|Mevius' Eye of Chaos|Meviuksen Kaaossilmä|Olho do Caos de Mevius|Око Хаоса Мевиуса|混沌之眼|メビウスの混沌の目|뫼비우스의 혼돈의 눈|Mevius' Auge des Chaos
+tals_setname|Tal's Reaping|Talin Niitto|Colheita de Tal|Жатва Тала|塔尔的收割|タルの収穫|탈의 베기|Tal der Ernte
+zeus_setname|Thunder God's Wrath|Ukkosjumalan Raivo|Fúria do Deus do Trovão|Ярость Бога Грома|雷神之怒|雷神の天罰|천둥신의 분도|Donnergott Zorn
+steve_setname|Stickman Steve's Destruction|Teemu Tikku-Ukon Tuho|Destruição de Stickman Steve|Шалость Человечка Стива|火柴人史蒂夫的毁灭|棒人間スティーブの破壊|졸라맨 스티브의 파괴|Strichmännchen Steve Zerstörung
+redneck_setname|Redneck's Work Gear|Punaniskan Työvarusteet|Equipamento de Trabalho do Camponês|Рабочие Инструменты Деревенщины|红脖子的工作装备|レッドネックの作業道具|레드넥의 작업 장비|Redneck Arbeit Gang
+redneck2_setname|Lumberjack's Forestry Gear|Tukkimiehen Metsävarusteet|Equipamento florestal de lenhador|Экипировка Лесоруба|伐木工人的林业装备|木こりの林業用品|벌목꾼의 임업 장비|Holzfäller-Forstausrüstung
+pirate_setname|Black Beard's Remains|Mustaparran Jäänteet|Restos do Barba Negra|Останки Черной бороды|黑胡子的遗骸|黒髭の亡骸|검은 수염의 유품|Black Beard Überreste
+pirate2_setname|Plunderer's Ensemble|Ryöstelijän Asukokonaisuus|Conjunto de saqueador|Наряд Расхитительницы|掠夺者乐团|プランダラのアンサンブル|약탈자의 앙상블|Plündererensemble
+necromancer_setname|Death Lord's Legacy|Kuolemanherran Perintö|Legado do Senhor da Morte|Наследие Владыки Смерти|死神的遗产|デス・ロードの遺産|죽음의 신의 유산|Der Tod des Herrn Vermächtnis
+necromancer2_setname|Venom's Frame|Venomin Runko|Quadro de Venom|Экзоскелет Веномансера|毒液的框架|ヴェノムのフレーム|독의 틀|Giftrahmen
+paladin_setname|Thor's Thunder Hammer|Odinin Pyhä Vasara|Martelo Sagrado de Odin|Святой Молот Одина|奥丁的圣锤|オーディンの聖なるハンマー|오딘의 신성한 망치|Odins heiliger Hammer
+paladin2_setname|Justiciar's Thunder Raiment|Justikaarin Ukkos Asuste|Traje de trovão do Justiciar|Облачение Праведного|司法人员的雷霆服装|司法長官の雷鳴|정당한 천둥 의복|Donnergewand des Justiziar
+viking_setname|Viking's Demise|Viikingin Kuolema|Queda dos Vikings|Погибель Викинга|维京人的毁灭|バイキングの死|바이킹의 죽음|Untergang des Wikingers
+viking2_setname|Shield Bearer's Sanctuary|Kilvenkäyttäjän Turvapaikka|Santuário do Escudo|Хранитель Щита|盾牌持有人的庇护所|シールドベアラーの聖域|방패 전달자의 성역|Schutzgebiet des Schildträgers
+nomad_setname|Elder of Mos'Arathim|Mos'Arathimin Vanhin|Ancião de Mos'Arathim|Старейшина Мос'Арасим|Mos 'Arathim的老者|モスアラティムの長老|모스라팀의 장로|Ältester von Mos'Arathim
+nomad2_setname|Vagabond's Rags|Kiertolaisen Rievut|Trapos de Vagabundo|Лохмотья Скитальца|流浪者的破布|バガボンドのぼろきれ|방랑자의 누더기|Vagabundenlumpen
+marksman_setname|Marksman's Hunting Gear|Jousiampujan Metsästysvarusteet|Equipamento de Caça do Atirador|Охотничье Снаряжение Стрелка|神射手的猎杀装置|マークスマンのハンティングギア|명사수의 사냥용품|Jagdausrüstung des Marksman
+marksman2_setname|Engineer's Combat Gear|Insinöörin Taisteluvarustus|Equipamento de combate do engenheiro|Боевая экипировка инженера|工程师的战斗装备|エンジニアの戦闘装備|엔지니어의 전투 장비|Kampfausrüstung des Ingenieurs
+samurai_setname|Nobunaga's Empire|Nobunagan Valtakunta|Império de Nobunaga|Империя Нобунага|织田信长的帝国|信長の帝国|노부나가의 제국|Nobunagas Reich
+samurai2_setname|Master's Legacy|Mestarin Perintö|Legado de Mestre|Наследие Мастера|师父的传承|マスターのレガシー|마스터의 유산|Das Vermächtnis des Meisters
+marauder_setname|Gladiator's Glory|Gladiattorin Kunnia|Glória do Gladiador|Честь Гладиатора|角斗士的荣耀|グラディエーターグローリー|글라디에이터의 영광|Ehre des Gladiators
+marauder2_setname|Juggernaut's Rampart|Juggernautin Muuri|Muralha do Juggernaut|Оплот Джаггернаута|剑圣的城墙|ジャガーノートの城壁|저거너트의 성벽|Juggernauts Wall
+plaguedoctor_setname|Doctor's Medkit|Tohtorin Lääkepakkaus|Kit do Médico|Инструменты Доктора|医生的医疗包|ドクターズメドキット|의사의 메드키트|Medizinkoffer des Arztes
+plaguedoctor2_setname|Blood-letter's Armament|Suoneniskijän aseistus|Armamento de sangue|Экипировка Кровопускателя|Blood-letter's Armament|血の手紙の兵器|피 편지의 무장|Bewaffnung des Blutbuchstabens
+demonslayer_setname|Dante's Nightmare|Danten Painajainen|Pesadelo de Dante|Кошмар Данте|但丁的噩梦|ダンテの悪夢|단테의 악몽|Dantes Alptraum
+demonslayer2_setname|Gabriel's Devotion|||||||
+whitemage_setname|The Holy One|Pyhimys|O Santo|Святой|圣者|ザ･ホーリーワン|거룩한 자|Der Heilige
+whitemage2_setname|Zealot's prophecy|Kiihkoilijan Ennustus|A profecia de Fanático|Пророчество Фанатика|狂热者的话语|ジーロットの予言|질롯의 특성|Eiferers Propechie
+pyromancer_setname|Flames of the Apocalypse|Maailmanlopun Liekit|Chamas do Apocalipse|Пламя Апокалипсиса|世界末日之火|黙示録の炎|종말의 불꽃|Flammen der Apokalypse
+pyromancer2_setname|Flames of Divinity|Jumalalliset Liekit|Chamas da Divindade|Божественное Пламя|神圣之火|神性の炎|신성의 불꽃|Flammen der Göttlichkeit
+amazon_setname|Aztec's Mystery|Atsteekkien Mysteeri|Mistério Asteca|Тайна Ацтеков|爱捷特的奥秘|アズテックミステリー|아즈텍의 미스터리|Mysterium des Azteken
+amazon2_setname|Valkyrie's Battle Gear|Valkyrie's Battle Gear|Valkyrie's Battle Gear|Боевое Снаряжение Валькирии|Valkyrie's Battle Gear|Valkyrie's Battle Gear|Valkyrie's Battle Gear|Valkyrie's Battle Gear
+shaman_setname|God of the Elements|Elementtijumala|Deus dos Elementos|Повелитель Стихий|万有之神|エレメントの神|원소의 신|Gott der Elemente
+shaman2_setname|Earth Shaper's Pride|Maanmuokkaajan Ylpeys|Orgulho do Formador da Terra|Гордость Творца|造地者的骄傲|アースシェイパーのプライド|지구 형성 자의 자존심|Der Stolz des Erdformers
+lancer_setname|Wall of God|Jumalan Seinä|Muralha de Deus|Божественная Стена|神的墙|神の壁|신의 벽|Mauer Gottes
+lancer2_setname|Champion's Valor|Sotamestarin Urheus|Valor do campeão|Доблесть чемпиона|冠军的勇气|チャンピオンの勇気|챔피언의 용맹|Tapferkeit des Champions
+demonspawn_setname|Satan's Redemption|Saatanan Lunastus|Redenção de Satanás|Искупление Сатаны|撒旦的救赎|魔王のあがない|사탄의 구원|Satans Rache
+demonspawn2_setname|Bone Conjurer's Regalia|Luidentekijän Loisto|Regalia do Conjurador de Osso|Одеяние Заклинателя Костей|骨术师的法衣|ボーンコンジュラーのレガリア|뼈 마법사의 의복|Insignien des Knochenbeschwörers
+swordmaster_setname|Masamura|Masamura|Masamura|Масамура|正村|正村|마사 무라|Masamura
+travelers_setname|Traveler|Matkustaja|Viajante|Путешественник|游客|旅行者|여행자|Reisender
+uabel_setname|Uabel's Majesty|Uabelin majesteetti|Majestade de Uabel|Uabel's Majesty|乌伯尔的陛下|Uabel's Majesty|Uabel's Majesty|Uabels Majestät
+battleWorn_setname|Battle Worn|Taistelu kulunut|Desgastado na batalha|Battle Worn|战斗的磨损|バトルウォーン|Battle Worn|Schlacht getragen
+sheepKings_setname|Sheep King’s Kingdom|Sheep King’s Kingdom|Sheep King’s Kingdom|Sheep King’s Kingdom|Sheep King’s Kingdom|Sheep King’s Kingdom|Sheep King’s Kingdom|Sheep King’s Kingdom
+illusionist_setname|Guardian’s of the Sands|Guardian’s of the Sands|Guardian’s of the Sands|Guardian’s of the Sands|Guardian’s of the Sands|Guardian’s of the Sands|Guardian’s of the Sands|Guardian’s of the Sands
+illusionist2_setname|Temporal Mastery|Temporal Mastery|Temporal Mastery|Temporal Mastery|Temporal Mastery|Temporal Mastery|Temporal Mastery|Temporal Mastery
+jotunn_setname|Ymir's Wisdom|Ymir's Wisdom|Ymir's Wisdom|Ymir's Wisdom|Ymir's Wisdom|Ymir's Wisdom|Ymir's Wisdom|Ymir's Wisdom
+jotunn2_setname|Einar's Rage|Einar's Rage|Einar's Rage|Einar's Rage|Einar's Rage|Einar's Rage|Einar's Rage|Einar's Rage
+odin_setname|Odin's Demise|Odin's Demise|Odin's Demise|Odin's Demise|Odin's Demise|Odin's Demise|Odin's Demise|Odin's Demise
+||||||||
+[Misc]||||||||
+limited_socket|Unique|||||||
+prospect_copper|Prospect Copper Ore|||||||
+prospect_iron|Prospect Iron Ore|||||||
+prospect_gold|Prospect Gold Ore|||||||
+prospect_ruby|Prospect Ruby Ore|||||||
+prospect_jade|Prospect Jade Ore|||||||
+prospect_tarethium|Prospect Tarethium Ore|||||||
+potions_witches_potion|Witches Potion|||||||
+potions_elixir_of_death|Elixir of Death|||||||
+potions_maggot_eye_elixir|Maggot Eye Elixir|||||||
+potions_empty_bottle_of_vodka|Empty Bottle of Vodka|||||||
+potions_bottle_of_radogate|Bottle of Radogate|||||||
+potions_wizard_potion|Wizard Potion|||||||
+potions_radbull|Radbull|||||||
+potions_surstromming|Surströmming|||||||
+potions_protein_shake|Protein Shake|||||||
+potions_blood_of_spartan|Blood of Spartan|||||||
+potions_bottle_of_sake|Bottle of Sake|||||||
+potions_praetorian_blood|Praetorian Blood|||||||
+potions_ghostly_potion|Ghostly Potion|||||||
+potions_prismatic_potion|Prismatic Potion|||||||
+potions_sung_lees_unleashed_rage|Sung Lee's Unleashed Rage|||||||
+potions_power_of_void|Power of the Void|||||||
+potions_caffeinated_coffee_container|Caffeinated Coffee Container|||||||
+potions_gold_inlaid_mysterious_potion|Gold Inlaid Mysterious Potion|||||||
+potions_elixir_of_unwordly_cognition|Elixir of Unworldly Cognition|||||||
+||||||||
+[Keys]||||||||
+keys_key|Key|||||||
+keys_crystal_key|Crystal Key|||||||
+keys_cloud_key|Cloud Key|Pilviavain|Chave Nuvem|Облачный ключ|云密钥|クラウドキー|클라우드 키|Wolkenschlüssel
+keys_ruby_key|Ruby Key|Rubiiniavain|Chave de Rubi|Рубиновый ключ|红宝石钥匙|ルビーキー|루비 열쇠|Rubinschlüssel
+keys_angelic_key|Angelic Key|Enkeliavain|Angelic Key|Angelic Key|Angelic Key|Angelic Key|Angelic Key|Engelhafter Schlüssel
+keys_valhalla_key|Key to Valhalla|||||||
+keys_smelly_cheese|Smelly Cheese|Haiseva juusto|Queijo Fedorento|Вонючий Сыр|臭奶酪|臭いチーズ|냄새 나는 치즈|Stinkender Käse
+keys_cellar_key|Cellar Key|Kellariavain|Chave da Adega|Ключ от подвала|地窖钥匙|セラーキー|지하실 키|Kellerschlüssel
+keys_tower_key|Tower Key|Torniavain|Chave da torre|Ключ от башни|塔钥匙|タワーキー|타워 키|Turmschlüssel
+keys_frosted_key|Frosted Key|Huurteinen avain|Chave fosca|Ледяной ключ|磨砂钥匙|フロストキー|프로스트 키|Gefrorener Schlüssel
+keys_copper_key|Copper Key|Hyinen avain|Chave refrigerada|Морозный ключ|冰冷的钥匙|チルドキー|냉장 키|Kupferschlüssel
+keys_mystic_key|Mystic Key|Mystinen avain|Chave Mística|Мистический ключ|神秘钥匙|ミスティックキー|신비의 열쇠|Mystischer Schlüssel
+keys_rusted_key|Rusted Key|Ruostunut avain|Chave enferrujada|Ржавый ключ|生锈的钥匙|錆びた鍵|녹슨 열쇠|Verrosteter Schlüssel
+keys_shovel|Shovel Key|Lapio-avain|Pá|Лопата|铲|シャベル|삽|Schaufel
+keys_ancient_key|Ancient Key|Muinainen avain|Chave Antiga|Древний ключ|古代钥匙|古代の鍵|고대 열쇠|Uralter Schlüssel
+keys_tomb_key|Tomb Key|Hauta-avain|Chave da tumba|Ключ от Гробницы|墓钥匙|墓の鍵|무덤 열쇠|Grabschlüssel
+keys_devils_key|Devil's Key|Paholaisen avain|Chave do Diabo|Ключ Дьявола|恶魔的钥匙|悪魔の鍵|악마의 열쇠|Teufelsschlüssel
+keys_pickaxe|Pickaxe|Hakku|Picareta|Кирка|鹤嘴e|つるはし|곡괭이|Spitzhacke
+keys_battle_key|Battle Key|Taisteluavain|Chave de batalha|Ключ Битвы|战斗钥匙|バトルキー|배틀 키|Kampfschlüssel
+keys_garden_key|Garden Key|Puutarhan avain|Garden Key|Garden Key|Garden Key|Garden Key|Garden Key|Gartenschlüssel
+keys_golden_key|Golden Key|Kultainen avain|Golden Key|Golden Key|Golden Key|Golden Key|Golden Key|Goldener Schlüssel
+keys_axe|Axe Key|Kirves-avain|Axe|Axe|Axe|Axe|Axe|Axt
+keys_valor_key|Valor Key|Urhon avain||||||
+keys_naga_scale_key|Naga Scale Key|Nagasuomuavain||||||
+keys_magma_key|Magma Key|Magma-avain||||||
+keys_hellflame_torch|Helflame Torch|Kiirastulisoihtu||||||
+keys_warp_key|Warp Key|Warppi avain||||||
+keys_storage_key|Storage Key|Varaston avain||||||
+keys_bifrost_key|Bifröst Key|Bifröstin avain|Bifröst Key|Bifröst Key|Bifröst Key|Bifröst Key|Bifröst Key|Bifröst Key
+||||||||
+[Collectibles]||||||||
+collectible_battle_fragment|Battle Fragment|Taistelusirpale|Fragmento de Batalha|Фрагмент битвы|战斗碎片|バトルフラグメント|전투 파편|Schlachtfragment
+collectible_dimensional_shard|Dimensional Shard|Ulottuvuussirpale|Fragmento Dimensional|Осколок Измерений|空间碎片|次元の破片|차원의 파편|Dimensionaler Scherbe
+collectible_gurags_soul|Gurag's Soul|Guragin sielu||||||
+collectible_deaths_sigil|Death's Sigil|Kuoleman merkki|Sigilo da Morte|Символ Смерти|死亡印章|死の言葉|사신의 인장|Todessiegel
+collectible_damiens_eye|Damien's Eye|Damienin silmä|Olho de Damien|Глаз Дэмиена|达米安之眼|ダミアンの目|데미언의 눈|Damiens Auge
+collectible_anubis_ankh|Anubis' Ankh|Anubiksen ankhi|Ankh de Anubis|Анх Анубиса|阿努比斯的生命之符|アヌビスのアンク|아누비스의 앵크|Anubis' Kreuz
+collectible_karp_kings_bellybutton|Karp King's Bellybutton|Karppikuninkaan napa|Botão da barriga do Rei de Karp|Пупок Короля Карпов|卡普王的肚脐|カープキングのおへそ|잉어 왕의 배꼽|Karpfenkönigbauchnabel
+collectible_satans_horn|Satan's Horn|Saatanan sarvi|Chifre de Satanás|Рог Сатаны|撒旦之角|サタンの角|사탄의 뿔|Teufelshorn
+collectible_old_coin|Ancient Coin|Muinainen kolikko|Moeda Anciã|Древняя монета|古老的硬币|古代のコイン|고대 동전|Uralte Münze
+collectible_bifrost_fragment|Bifröst Fragment|Bifröstin sirpale||||||
+collectible_braggite_shard|Braggite Shard|Braggite sirpale||||||
+collectible_essence_of_gods|Essence of Gods|Jumaluute||||||
+collectible_gold_token|Gold Token|Kultapoletti||||||
+collectible_naga_scale|Naga Scale|Nagan suomu||||||
+||||||||
+[Consumables]||||||||
+consumable_minor_healing_potion|Minor Healing Potion|||||||
+consumable_light_healing_potion|Light Healing Potion|||||||
+consumable_healing_potion|Healing Potion|||||||
+consumable_greater_healing_potion|Greater Healing Potion|||||||
+consumable_minor_mana_potion|Minor Mana Potion|||||||
+consumable_light_mana_potion|Light Mana Potion|||||||
+consumable_mana_potion|Mana Potion|||||||
+consumable_greater_mana_potion|Greater Mana Potion|||||||
+consumable_rejuvenation_potion|Rejuvenation Potion|||||||
+consumable_full_rejuvenation_potion|Full Rejuvenation Potion|||||||
+consumable_reroll_token|Gambler's Token|||||||
+consumable_satanic_dice|Satanic Dice|||||||
+consumable_socket_token|Socketing Token|||||||
+||||||||
+[Socketables]||||||||
+socketable_rune|Rune|||||||
+socketable_el_rune|Ol|||||||
+socketable_eld_rune|Old|||||||
+socketable_tir_rune|Tor|||||||
+socketable_nef_rune|Naf|||||||
+socketable_eth_rune|Eth|||||||
+socketable_ith_rune|Uth|||||||
+socketable_tal_rune|Tul|||||||
+socketable_ral_rune|Rex|||||||
+socketable_ort_rune|Ert|||||||
+socketable_thul_rune|Thal|||||||
+socketable_amn_rune|Ymn|||||||
+socketable_sol_rune|Sal|||||||
+socketable_shael_rune|Nut|||||||
+socketable_dol_rune|Del|||||||
+socketable_hel_rune|Hel|||||||
+socketable_io_rune|Io|||||||
+socketable_lum_rune|Lum|||||||
+socketable_ko_rune|Co|||||||
+socketable_fal_rune|Fel|||||||
+socketable_lem_rune|Lem|||||||
+socketable_pul_rune|Pul|||||||
+socketable_um_rune|Um|||||||
+socketable_mal_rune|Mal|||||||
+socketable_ist_rune|Ist|||||||
+socketable_gul_rune|Gul|||||||
+socketable_vex_rune|Vex|||||||
+socketable_ohm_rune|Qi|||||||
+socketable_lo_rune|Xo|||||||
+socketable_sur_rune|Sur|||||||
+socketable_ber_rune|Ber|||||||
+socketable_jah_rune|Jah|||||||
+socketable_cham_rune|Drax|||||||
+socketable_zod_rune|Zed|||||||
+socketable_chipped_amethyst|Chipped Amethyst|||||||
+socketable_flawed_amethyst|Flawed Amethyst|||||||
+socketable_amethyst|Amethyst|||||||
+socketable_flawless_amethyst|Flawless Amethyst|||||||
+socketable_perfect_amethyst|Perfect Amethyst|||||||
+socketable_pristine_amethyst|Pristine Amethyst|||||||
+socketable_chipped_emerald|Chipped Emerald|||||||
+socketable_flawed_emerald|Flawed Emerald|||||||
+socketable_emerald|Emerald|||||||
+socketable_flawless_emerald|Flawless Emerald|||||||
+socketable_perfect_emerald|Perfect Emerald|||||||
+socketable_pristine_emerald|Pristine Emerald|||||||
+socketable_chipped_ruby|Chipped Ruby|||||||
+socketable_flawed_ruby|Flawed Ruby|||||||
+socketable_ruby|Ruby|||||||
+socketable_flawless_ruby|Flawless Ruby|||||||
+socketable_perfect_ruby|Perfect Ruby|||||||
+socketable_pristine_ruby|Pristine Ruby|||||||
+socketable_chipped_sapphire|Chipped Sapphire|||||||
+socketable_flawed_sapphire|Flawed Sapphire|||||||
+socketable_sapphire|Sapphire|||||||
+socketable_flawless_sapphire|Flawless Sapphire|||||||
+socketable_perfect_sapphire|Perfect Sapphire|||||||
+socketable_pristine_sapphire|Pristine Sapphire|||||||
+socketable_chipped_skull|Chipped Skull|||||||
+socketable_flawed_skull|Flawed Skull|||||||
+socketable_skull|Skull|||||||
+socketable_flawless_skull|Flawless Skull|||||||
+socketable_perfect_skull|Perfect Skull|||||||
+socketable_pristine_skull|Pristine Skull|||||||
+socketable_chipped_topaz|Chipped Topaz|||||||
+socketable_flawed_topaz|Flawed Topaz|||||||
+socketable_topaz|Topaz|||||||
+socketable_flawless_topaz|Flawless Topaz|||||||
+socketable_perfect_topaz|Perfect Topaz|||||||
+socketable_pristine_topaz|Pristine Topaz|||||||
+socketable_gem_gurag|Gurag's Soulgem|Gurag's Soulgem|Gurag's Soulgem|Gurag's Soulgem|Gurag's Soulgem|Gurag's Soulgem|Gurag's Soulgem|Gurag's Soulgem
+socketable_gem_reaper|Death’s Soulgem|Death’s Soulgem|Death’s Soulgem|Death’s Soulgem|Death’s Soulgem|Death’s Soulgem|Death’s Soulgem|Death’s Soulgem
+socketable_gem_anubis|Anubis’ Soulgem|Anubis’ Soulgem|Anubis’ Soulgem|Anubis’ Soulgem|Anubis’ Soulgem|Anubis’ Soulgem|Anubis’ Soulgem|Anubis’ Soulgem
+socketable_gem_damien|Damien’s Soulgem|Damien’s Soulgem|Damien’s Soulgem|Damien’s Soulgem|Damien’s Soulgem|Damien’s Soulgem|Damien’s Soulgem|Damien’s Soulgem
+socketable_gem_karp|Karp King’s Soulgem|Karp King’s Soulgem|Karp King’s Soulgem|Karp King’s Soulgem|Karp King’s Soulgem|Karp King’s Soulgem|Karp King’s Soulgem|Karp King’s Soulgem
+socketable_gem_satan|Satan’s Soulgem|Satan’s Soulgem|Satan’s Soulgem|Satan’s Soulgem|Satan’s Soulgem|Satan’s Soulgem|Satan’s Soulgem|Satan’s Soulgem
+socketable_gem_mevius|Mevius’ Soulgem|Mevius’ Soulgem|Mevius’ Soulgem|Mevius’ Soulgem|Mevius’ Soulgem|Mevius’ Soulgem|Mevius’ Soulgem|Mevius’ Soulgem
+socketable_gem_odin|Odin’s Soulgem|Odin’s Soulgem|Odin’s Soulgem|Odin’s Soulgem|Odin’s Soulgem|Odin’s Soulgem|Odin’s Soulgem|Odin’s Soulgem
+socketable_gem_angelic|Angelic Gem|||||||
+socketable_gem_chaos|Chaos Gem|||||||
+socketable_gem_elemental|Elemental Gem|||||||
+socketable_gem_moonstone|Moonstone Gem|||||||
+socketable_jewel_exan|Exan Jewel|||||||
+socketable_jewel_wilrden|Wilrden Jewel|||||||
+socketable_jewel_volcon|Volcon Jewel|||||||
+socketable_jewel_aether|Aether Jewel|||||||
+socketable_jewel_helmon|Helmon Jewel|||||||
+socketable_jewel_mariane|Mariane Jewel|||||||
+socketable_jewel_lyrcon|Lyrcon Jewel|||||||
+socketable_jewel_fieryzen|Fieryzen Jewel|||||||
+socketable_jewel_lapislazuli|Lapis-Lazuli Jewel|||||||
+socketable_jewel_omnipearl|Omnipearl Jewel|||||||
+socketable_jewel_agathetheum|Agathetheum Jewel|||||||
+socketable_jewel_tramal|Tramal Jewel|||||||
+socketable_jewel_pearlescento|Pearlescento Jewel|||||||
+socketable_jewel_mythgonlion|Mythgonlion Jewel|||||||
+||||||||
+[Materials]||||||||
+material_jewel_bloodstone|Bloodstone|||||||
+material_jewel_snake_tooth|Snake Tooth|||||||
+material_jewel_copperstone|Copperstone|||||||
+material_jewel_liquate|Liquate|||||||
+material_jewel_darkstone|Darkstone|||||||
+material_jewel_lesser_impstone|Lesser Impstone|||||||
+material_jewel_iron_opal|Iron Opal|||||||
+material_jewel_shadow_stone|Shadow Stone|||||||
+material_jewel_twilight_citrine|Twilight Citrine|||||||
+material_jewel_ocean_agate|Ocean Agate|||||||
+material_jewel_greater_impstone|Greater Impstone|||||||
+material_jewel_huge_spessarite|Huge Spessarite|||||||
+material_jewel_cardinal_ruby|Cardinal Ruby|||||||
+material_jewel_flaming_core|Flaming Core|||||||
+material_jewel_demon_tooth|Demon Tooth|||||||
+material_jewel_ketamineral|Ketamineral|||||||
+material_jewel_jadenium_powder|Jadenium Powder|||||||
+material_jewel_satans_nail|Satans Nail|||||||
+material_jewel_inferno_stone|Inferno Stone|||||||
+material_jewel_hellstar|Hellstar|||||||
+material_jewel_tarethium_core|Tarethium Core|||||||
+material_jewel_dark_matter|Dark Matter|||||||
+material_jewel_demon_soulstone|Demon Soulstone|||||||
+material_jewel_storm_opal|Storm Opal|||||||
+material_jewel_frame_low|Bronze Framing|||||||
+material_jewel_frame_mid|Silver Framing|||||||
+material_jewel_frame_high|Golden Framing|||||||
+material_mining_copper_ore|Copper Ore|||||||
+material_mining_iron_ore|Iron Ore|||||||
+material_mining_gold_ore|Gold Ore|||||||
+material_mining_ruby_ore|Ruby Ore|||||||
+material_mining_jade_ore|Jade Ore|||||||
+material_mining_tarethium_ore|Tarethium Ore|||||||
+||||||||
+[Relic Names]||||||||
+relic_devilHorn|Devil Horn|Pirunsarvi|Buzina do Mal|Дьявольский рог|恶魔之角|デビル・ホーン|악마의 뿔|Teufelshorn
+relic_demonSheep|Demon Sheep|Paholaislammas|Ovelha do Demônio|Демоническая овца|恶魔羊|デーモン・シープ|악마의 양|Dämonenschaf
+relic_doomFlute|Doom Flute|Tuhon huilu|Flauta da desgraça|Роковая флейта|末日之笛|ドゥーム・フルート|파멸의 피리|Verderbensflöte
+relic_frozenOrb|Frozen Orb|Jääkristalli|Orbe congelado|Ледяная сфера|霜冻之球|フローズン・オーブ|얼어붙은 구슬|Gefrorene Kugel
+relic_nunchucks|Nunchucks|Nunchakut|Nunchucks|Нунчаки|双截棍|ヌンチャク|쌍절곤|Nunchakus
+relic_rubberDuck|Rubber Duck|Kumiankka|Pato de borracha|Резиновая утка|橡胶鸭|ゴム製のアヒル|욕조용 오리|Badeente
+relic_skullAxe|Skull Axe|Pääkallokirves|Machado de crânio|Крушитель черепов|骷髅斧|スカル・アックス|해골 도끼|Totenkopf-Axt
+relic_theSpoon|The Spoon|Lusikka|A colher|Ложка|勺子|スプーン|구부러진 숟가락|Der Löffel
+relic_stormDagger|Storm Dagger|Myrskytikari|Adaga da tempestade|Штормовой кинжал|风暴匕首|ストーム・ダガー|폭풍 단검|Sturmdolch
+relic_odinsSword|Odin's Sword|Odinin miekka|Espada de Odin|Меч Одина|奥丁之剑|オーディンのソード|오딘의 검|Odins Schwert
+relic_theAmputationKit|The Amputation Kit|Amputointivälineet|O Kit de Amputação|Набор для ампутации|截肢工具包|切断キット|절단 수술 키트|Das Amputationskit
+relic_skullBat|Skullbat|Kallolepakko|Bastão de crânio|Летучий череп|骷髅蝙蝠|スカル・バット|해골 박쥐|Totenkopf-Fledermaus
+relic_shredder|Shredder|Silppuri|Triturador|Измельчитель|粉碎器|シュレッダー|분쇄날|Schredder
+relic_stigmata|Stigmata|Stigmata|Estigmas|Стигматы|圣痕|スティグマタ|성흔|Stigmata
+relic_magicMushroom|Magic Mushroom|Taikasieni|Cogumelo Mágico|Волшебный гриб|魔法菇|マジック ・ マッシュルーム|마법 버섯|Magischer Pilz
+relic_jefresSubscription|Jefre's Subscription|Jefren tilaus|Assinatura da Jefre|Подписка Джефре|杰尔弗的手稿|ジェフルの定期購読|제프리의 구독서|Jefre's Abo
+relic_rockBelt|Rock Belt|Rock-vyö|Cinto de rocha|Рокерский пояс|火箭腰带|ロックベルト|록 벨트|Felsengürtel
+relic_sausage|Sausage|Makkara|Linguiça|Сосиска|香肠|ソーセージ|소시지|Wurst
+relic_spiritSkull|Spirit Skull|Sielupääkallo|Espírito Crânio|Череп духа|灵魂头骨|スピリット・スカル|영혼의 해골|Geisterschädel
+relic_apple|Apple|Omena|Maçã|Яблоко|苹果|リンゴ|사과|Apfel
+relic_fetus|F.E.T.U.S.|S.I.K.I.Ö.|F.E.T.U.S.|Плод|胎儿|胎児|ㅌ.ㅐ.ㅇ.ㅏ.|F.E.T.U.S.
+relic_theEye|The Eye|Silmä|O olho|Глаз|眼|目|눈알|Das Auge
+relic_devilSkull|Devil Skull|Pirukallo|Crânio do diabo|Череп дьявола|恶魔头骨|デビル・スカル|악마의 해골|Teufelsschädel
+relic_whip|Whip|Ruoska|Chicote|Плеть|鞭子|ホイップ|채찍|Peitsche
+relic_cake|Cake|Kakku|Bolo|Тортик|蛋糕|ケーキ|케이크|Kuchen
+relic_cookiesMilk|Cookies & Milk|Keksejä & Maitoa|Biscoitos & Leite|Печеньки с молоком|饼干&牛奶|クッキー＆ミルク|쿠키와 우유|Kekse & Milch
+relic_blazingBoots|Blazing Boots|Liekkisaappaat|Botas da ardência|Пылающие сапоги|闪耀之靴|ブレイジングブーツ|불타는 부츠|Flammende Stiefel
+relic_charmedBlood|Charmed Blood|Lumottu veri|Sangue Encantado|Зачарованная кровь|魅力之血|魅惑な血|매혹의 피|Verzaubertes Blut
+relic_shrunkenHead|Shrunken Head|Kutistunut pää|Cabeça encolhida|Высушенная голова|干缩头颅|シュルンケンヘッド|일그러진 얼굴|Schrumpfkopf
+relic_oddBookOfSpells|Odd Book of Spells|Outo taikakirja|Livro ímpar de magias|Странная книга заклинаний|奇怪的咒语书|奇妙な呪文書|이상한 주문서|Seltsames Zauberbuch
+relic_ancientRock|Ancient Rock|Muinainen kivi|Pedra antiga|Древний камень|远古之石|古の岩|고대의 바위|Uraltes Gestein
+relic_theHolyBible|The Holy Bible|Raamattu|A Bíblia Sagrada|Библия|圣经|ホーリー・バイブル|성경|Die Heilige Bibel
+relic_aaronsStaff|Aaron's Staff|Aaronin sauva|Cajado de Aaron's|Посох Аарона|亚伦之杖|アーロンの杖|아론의 지팡이|Aarons Stab
+relic_ogreClub|Ogre Club|Jättiläisnuija|Clube do ogro|Дубина огра|食人鬼俱乐部|オーガクラブ|오우거의 곤봉|Oger-Knüppel
+relic_basilisksTooth|Basilisk's Tooth|Basiliskinhammas|Dente de Basilisk|Зуб Василиска|蛇怪之牙|バジリスクツース|바실리스크의 송곳니|Basiliskenzahn
+relic_twinBlade|Twin Blade|Kaksoisterä|Lâmina dupla|Двойной клинок|双刃剑|ツインブレード|쌍둥이 칼날|Doppelklinge
+relic_handScythe|Hand Scythe|Käsiviikate|Foice de mão|Серп|手镰|ハンドサイケ|한손 낫|Handsense
+relic_templarShield|Templar Shield|Ritarikilpi|Escudo Templario|Щит тамплиера|圣堂之盾|テンプラー・シールド|템플 기사단의 방패|Templer-Schild
+relic_kingsCrown|King's Crown|Kuninkaan kruunu|Coroa do Rei|Королевская корона|皇冠|キングスクラウン|왕관|Königskrone
+relic_damnedBuckler|Damned Buckler|Kirottu kilpi|Condenado Buckler|Проклятый баклер|诅咒圆盾|ダムド・バークラー|저주받은 둥근 방패|Verfluchter Buckler
+relic_dragonShield|Dragon Shield|Lohikäärmekilpi|Escudo Dragão|Драконий щит|龙之盾|ドラゴン・シールド|용의 방패|Drachenschild
+relic_barbedShield|Barbed Shield|Piikkikilpi|Escudo Farpado|Шипастый щит|带刺之盾|バーブド・シールド|미늘 방패|Stachelschild
+relic_helmOfChaos|Helm of Chaos|Kaaoskypärä|Elmo do Caos|Шлем хаоса|混沌头盔|カオスヘルム|혼돈의 투구|Helm des Chaos
+relic_bracerOfLife|Bracer of Life|Elämän rannekoru|Bracelete da Vida|Браслет жизни|生命护腕|ライフ・ブレーサー|생명의 팔찌|Armschiene des Lebens
+relic_tokenOfLuck|Token of Luck|Onnen symboli|Token da Sorte|Символ удачи|幸运令牌|幸運のトークン|행운의 징표|Glücksbringer
+relic_theAllmightyFedora|The Allmighty Fedora|Kaikkivoipa fedora|O Poderoso Fedora|Потрясающая федора|全能软帽|オールマイティ・フェドラ|굉장한 페도라|Der Allmächtige Fedora
+relic_guardianAngel|Guardian Angel|Suojelusenkeli|Anjo Guardião|Ангел-хранитель|守护天使|守護天使|수호천사|Schutzengel
+relic_bookOfBelial|Book of Belial|Belialin kirja|Livro de Belial|Книга Белиала|贝利尔之书|ベリアルの本|벨리알의 서|Buch des Belial
+relic_doubleScythe|Double Scythe|Tuplaviikate|Duas Foices|Двойная коса|双镰|ダブルサイケ|쌍낫|Doppel-Sense
+relic_fireIce|Fire & Ice|Tuli & Jää|Fogo e gelo|Огонь и лед|火&冰|ファイアー＆アイス|불과 얼음|Feuer & Eis
+relic_LightKatana|Light Katana|Valokatana|Katana Leve|Световая катана|轻武士刀|ライトカターナ|광선도|Licht-Katana
+relic_dirge|Dirge|Dirge|Dirge|Ритуальный кинжал|安灵曲|葬送歌|장송곡|Grabgesang
+relic_razorWire|Razorwire|Piikkilanka|Arame farpado|Колючая проволока|铁丝网|レザーワイヤー|가시 철사|Stacheldraht
+relic_rainbowGate|Rainbow Gate|Sateenkaari|Porta do arco-íris|Радуга|彩虹之门|レインボーゲート|무지개 관문|Regenbogen-Tor
+relic_theGlove|The Glove|Hanska|A luva|Перчатка|手套|手袋|장갑|Der Handschuh
+relic_flySwatter|Fly Swatter|Kärpäslätkä|Mata-moscas|Мухобойка|苍蝇拍|ハエたたき|파리채|Fliegenklatsche
+relic_hellscreamAxe|Hellscream Axe|Hellscream kirves|Machado do Grito do Inferno|Топор Адского Крика|地狱尖啸之斧|ヘルスクリーム・アックス|헬스크림의 도끼|Höllenschrei-Axt
+relic_frostMourne|Hungering Blade of Frost|||||||
+relic_commandersSword|Commander's Sword|Komentajan miekka|Espada do comandante|Меч командира|指挥官之剑|コマンダーのソード|사령관의 검|Schwert des Kommandanten
+relic_butchersKnife|Butcher's Knife|Teurastajan veitsi|Faca de açougueiro|Нож мясника|屠夫之刀|ブッチャーのナイフ|도살자의 칼|Metzgermesser
+relic_warZeppelin|War Zeppelin|Sotazeppeliini|Zeppelin da Guerra|Боевой дирижабль|齐柏林飞艇|ツェッペリン飛行船|전투 비행선|Kriegszeppelin
+relic_deathsScythe|Death's Scythe|Kuoleman viikate|Foice da Morte|Коса Смерти|死亡之镰|デスサイケ|사신의 낫|Die Sense des Todes
+relic_angelStaffOfApocalypse|Angel Staff of Apocalypse|Tuhon enkelisauva|Cajado de Anjo do Apocalipse|Посох Ангела Смерти|天使的启示之杖|アポカリプス・天使の杖|파멸을 부르는 천사의 지팡이|Engelstab der Apokalypse
+relic_rocketBarrage|Rocket Barrage|Ohjustulitus|Barragem Foguete|Ракетный залп|火箭弹幕|ロケットバラージー|로켓 탄막|Raketen-Trommelfeuer
+relic_shiv|Shiv|Puukko|Estoque|Саи|剃刀|カミソリ|삼지창|Klinge
+relic_stickmanSteve|Stickman Steve|Teemu Tikku-Ukko|Stickman Steve|Стикмен Стив|曲棍球手史蒂夫|スティックマンスティーブ|막대인간 스티브|Strichmännchen Steve
+relic_bomb|Bomb|Pommi|Bomba|Бомба|炸弹|爆弾|폭탄|Bombe
+relic_meatHook|Meat Hook|Lihakoukku|Gancho de açougue|Крюк для мяса|肉钩|ミートフック|고기 갈고리|Fleischerhaken
+relic_candyCrusher|Candy Crusher|Karkin murskaaja|Triturador de doces|Конфетодробилка|糖果粉碎者|キャンディークラッシャー|사탕 박살 망치|Bonbonbrecher
+relic_cheeseBurger|Cheese Burger|Juustopurilainen|X-Burger|Чизбургер|奶酪汉堡|チーズバーガー|치즈버거|Cheese-Burger
+relic_triForce|Triforce|Kolmivoima|Triforce|Трифорс|三角力量|トリフォース|트라이포스|Triforce
+relic_cactus|Cactus|Kaktus|Cacto|Кактус|仙人掌|カクタス|선인장|Kaktus
+relic_razerBlade|Razer Blade|Razer miekka|Lâmina Razer|Клинок Razer|剃须刀片|レザー・ブレード|광선검|Rasierklinge
+relic_assassinsShuriken|Assassin's Shuriken|Salamurhaajan heittotähti|Shuriken do assassino|Сюрикен|刺客的手里剑|アサシンの手裏剣|자객의 수리검|Assasinen-Shuriken
+relic_theSun|The Sun|Aurinko|O sol|Символ Солнца|太阳|太陽|태양|Die Sonne
+relic_razerHeadset|Razer Headset|Razer kuulokkeet|Fone de Ouvido Razer|Наушники Razer|剃刀耳机|レザー・ヘッドセット|레이저 헤드셋|Razer Headset
+relic_mayosOldSock|Mayo's Old Sock|Mayon vanha sukka|Peúga velha de Mayo|Старый носок Мазика|梅奥的旧袜子|メイヨーのオールドソックス|마요의 오래된 양말|Mayo's alte Socke
+relic_tequila|Tequila!!!|Tequila!!!|Tequila!!!|Текила!!!|龙舌兰！！！|テキーラ！！！|데킬라!!!|Tequila!!!
+relic_theMightySushi|The Mighty Sushi|Mahtava sushi|O Poderoso Sushi|Потрясающие суши|力量寿司|マイティーすし|힘센 초밥|Das mächtige Sushi
+relic_karpHead|Karp Head|Karpin pää|Cabeça de Karp|Голова карпа|卡普头|カープヘッド|잉어 대가리|Karpfenkopf
+relic_lantern|Lantern|Lyhty|Lanterna|Фонарь|灯笼|ランタン|초롱|Laterne
+relic_razorLeaf|Razor Leaf|Terälehti|Folha Navalha|Режущий лист|飞叶快刀|レザー・リーフ|잎날 가르기|Rasierblatt
+relic_ninjaHook|Ninja Hook|Ninjakoukku|Gancho de ninja|Кусаригама|忍者抓钩|忍者フック|닌자 갈고리|Ninja-Haken
+relic_riceChopsticks|Rice & Chopsticks|Syömäpuikot ja riisi|Arroz, pauzinhos|Рис и палочки|米饭&筷子|米＆箸|밥과 젓가락|Reis & Essstäbchen
+relic_minisect|Minisect|Minisect|Minisect|Минисект|小赛克特|ミニセクト|미니섹트|Minisekt
+relic_shadeOfDeath|Shade of Death|Kuoleman viuhka|Sombra da morte|Веер Смерти|死亡阴影|デスシェード|죽음의 장막|Fächer des Todes
+relic_dislocatedEye|Dislocated Eye|Irronnut silmä|Olho deslocado|Вырванный глаз|脱位之眼|脱臼させる目|빠져버린 눈|Zerquetschtes Auge
+relic_halfEatenMochi|Half Eaten Mochi|Puoliksi syöty Mochi|Meio comido Mochi|Недоеденный рис|吃了一半的糯米团|食べかけたお餅|반쯤 먹은 찹쌀떡|Halb gegessener Mochi
+relic_bonsaiTree|Bonsai Tree|Bonsai puu|Árvore bonsai|Бонсай|盆栽|盆栽の木|분재|Bonsaibaum
+relic_daPlayersDislocatedHead|DaPlayer's Dislocated Head|DaPlayerin irronnut pää|Cabeça dislocada de DaPlayer|Аторванная башка игрока|达普雷尔的脱位头颅|ダプレイヤーの脱臼させる頭|플레이어의 머리|DaPlayer's verrenkter Kopf
+relic_witchClaw|Witch Claw|Noidan kynsi|Garra da bruxa|Коготь ведьмы|女巫之爪|魔女のクロー|마녀의 손|Hexenkralle
+relic_shatteredKatana|Shattered Katana|Hajonnut katana|Katana quebrada|Сломанная катана|破碎的武士刀|砕けたカタナ|부서진 카타나|Zertrümmertes Katana
+relic_orbOfFire|Orb of Fire|Tulipallo|Orbe de Fogo|Сфера огня|火之法球|オーブ・オブ・ファイア|화염의 구슬|Feuerkugel
+relic_orbOfIce|Orb of Ice|Jääpallo|Orbe de Gelo|Сфера льда|冰之法球|オーブ・オブ・アイス|얼음의 구슬|Eiskugel
+relic_orbOfPoison|Orb of Poison|Myrkkypallo|Orbe de Veneno|Сфера яда|毒之法球|オーブ・オブ・ポイズン|맹독의 구슬|Giftkugel
+relic_orbOfChaos|Orb of Chaos|Kaaospallo|Orbe do Caos|Сфера хаоса|混沌法球|オーブ・オブ・カオス|혼돈의 구슬|Kugel des Chaos
+relic_largeBeer|Large Beer|Iso olut|Cerveja Grande|Большая кружка пива|巨鹿|大型のビヤ|큼지막한 맥주|Großes Bier
+relic_bouncy|Bouncy|Pomppija|Saltitante|Попрыгунчик|弹性|よく弾む|바운시|Flummi
+relic_magnet|Magnet|Magneetti|Magnético|Магнит|磁铁|磁石|자석|Magnet
+relic_balalayka|Balalayka|Balalaika|Balalayka|Балалайка|三弦琴|バラライカ|발랄라이카|Balalayka
+relic_darts|Darts|Tikat|Dardos|Метательный дротик|飞镖|ダーツ|다트|Dartpfeile
+relic_smallSpikey|Small Spikey|Pikkupiikki|Pequeno Spikey|Маленькая Колючка|小钉子|小さなスパイキー|작은 가시공|Kleiner Stachel
+relic_satansHorn|Satan's Horn|Saatanan sarvi|Chifre de Satanás|Рог Сатаны|撒旦之角|サタンの角|사탄의 뿔|Teufelshorn
+relic_necromancersFinger|Necromancer's Finger|Manaajan sormi|Dedo do Necromante|Палец некроманта|亡灵巫师的手指|ネクロマンサーの指|강령술사의 손가락|Finger des Nekromanten
+relic_jarOfFlies|Jar of Flies|Kärpäspurkki|Frasco de moscas|Мухи в банке|一罐苍蝇|一缶分のハエ|파리가 든 병|Glas voller Fliegen
+relic_satansTooth|Satan's Tooth|Saatanan hammas|Dente de Satanás|Зуб Сатаны|撒旦之牙|サタンのツース|사탄의 이빨|Satans Zahn
+relic_butterflyKnife|Butterfly Knife|Perhosveitsi|Canivete borboleta|Нож-бабочка|蝴蝶刀|バタフライナイフ|발리송|Klappmesser
+relic_lightningBall|Lightning Ball|Sähköpallo|Bola de relâmpago|Шаровая молния|闪电球|ライトニングボール|번개 공|Blitz-Kugel
+relic_steamSale|Steam Sale|Steam alennus|Venda na Steam|Распродажа в Steam|Steam促销|Steamセール|스팀 세일|Steam-Sale
+relic_esEnergy|ES Energy|ES Energia|ES Energia|Энергетик|ES能量|ESエネルギー|ES 에너지|ES Energie
+relic_boomerang|Boomerang|Bumerangi|Bumerangue|Бумеранг|回旋镖|ブーメラン|부메랑|Bumerang
+relic_squishyTheSuicidalPig|Squishy the Suicidal Pig|Itsetuhoinen possu Squishy|Squishy o porco suicida|Свинка-самоубийца Сквиши|自杀小猪史乖宝|自殺子豚スクイジー|자살 돼지 스퀴시|Squishy, das Suizidgefährdete Schwein
+relic_satansEye|Satan's Eye|Saatanan silmä|Olho de satanás|Глаз Сатаны|撒旦之眼|サタンの目|사탄의 눈|Satans Auge
+relic_mindBender|Homing Shots|Hakeutuvat ohjukset|Tiros de identificação|Система самонаведения|追踪子弹|ホーミングショット|유도탄|Zielsuchende Schüsse
+relic_lightCola|Light Cola|Kevytkola|Cola Leve|Coca-Cola Light|淡可乐|ライトコーラ|라이트 콜라|Cola Light
+relic_theHolyGrail|The Holy Grail|Graalin malja|O Santo Graal|Святой Грааль|圣杯|ホーリー・グレイル|성배|Der Heilige Gral
+relic_monkeyKingBar|Monkey King Bar|Apinakuninkaan sauva|Bar do Rei Macaco|Посох Короля обезьян|猴王酒吧|モンキーキングバー|여의봉|Stab des Affenkönigs
+relic_hornedMask|Horned Mask|Sarvinaamio|Máscara de chifre|Рогатый шлем|带角面具|角のあるマスク|뿔 가면|Gehörnte Maske
+relic_honeyBee|Honey Bee|Mehiläinen|Abelha de Mel|Пчела|蜜蜂|ミツバチ|꿀벌|Honigbiene
+relic_1000kg|1000 KG|1000 KG|1000 KG|1000 КГ|1000 KG|1000 KG|1000 KG|1000 KG
+relic_pickledBrain|Pickled Brain|Säilötyt aivot|Cérebro em Conserva|Маринованные мозги|腌脑子|塩つけの脳みそ|뇌 절임|Eingelegtes Gehirn
+relic_keyGen|Keygen.exe|Keygen.exe|Keygen.exe|Keygen.exe|Keygen.exe|Keygen.exe|Keygen.exe|Keygen.exe
+relic_dragonsHead|Dragon's Head|Lohikäärmeen pää|Cabeça de Dragão|Голова дракона|龙首|ドラゴンの頭|용의 머리|Drachenkopf
+relic_winnersDrug|Winner's Drug|Voittajan huume|Drogas do vencedor|Победный допинг|胜者药剂|勝者の薬剤|승자의 약물|Siegerdroge
+relic_casinoDice|Casino Die|Kasinonopat|Dados do Casino|Игральная кость|赌场骰子|カジノダイス|카지노용 주사위|Casino Würfel
+relic_lotteryTicket|Lottery Ticket|Lottokuponki|Bilhete de loteria|Лотерейный билет|彩票|宝くじのチケット|복권|Lotterieschein
+relic_vadjra|Vadjra|Vadjra|Vadjra|Ваджра|金刚|ヴァジュラ|바디라|Vadjra
+relic_maryosPipe|Maryo's Pipe|Maryon putki|Cano de Maryo's|Труба Марио|马瑞奥的管子|マリオのパイプ|마리요의 배관|Maryo's Rohr
+relic_rottenApple|Rotten Apple|Mätä omena|Maçã podre|Гнилое яблоко|腐烂苹果|腐ったリンゴ|썩은 사과|Fauler Apfel
+relic_handOfMidas|Hand of Midas|Midaan käsi|Mão de Midas|Рука Мидаса|美狄亚之手|ハンド・オブ・ミダス|미다스의 손|Hand des Midas
+relic_oversized|Oversized|Ylisuurennus|Muito Grande|Огромный размер|超大|オーバーサイズ|거대화|Überdimensioniert
+relic_fortuneCard|Fortune Card|Onnen kortti|Cartão da fortuna|Карта удачи|幸运卡|フォーチュンカード|행운의 카드|Schicksalskarte
+relic_deliciousPie|Delicious Pie|Herkkupiiras|Torta Deliciosa|Вкусный пирог|美味的派|美味しいパイ|맛있는 파이|Köstliche Torte
+relic_amazonsSpears|Amazon's Spears|Amatsonin keihäät|Lanças da Amazon|Копья амазонки|亚马逊矛|アマゾンのスピア|아마존의 창|Amazonenspeer
+relic_jungleVial|Jungle Vial|Viidakkopullo|Frasco da selva|Джунгли в пробирке|丛林药水|ジャングルバイアル|정글 시약|Dschungel-Fläschchen
+relic_manaDice|Mana Dice|Taikanopat|Dados de Mana|Кубики маны|能量骰子|マナ・ダイス|마나 주사위|Mana Würfel
+relic_wizardsHat|A Wizard's Hat|Velhon hattu|O Chapéu de um Feiticeiro|Шляпа волшебника|巫师帽|ウィザードの帽子|마법사의 모자|Ein Zaubererhut
+relic_zombiesFace|Zombie's Face|Zombien naama|Cara de Zumbi|Лицо зомби|僵尸脸|ゾンビの顔|좀비 얼굴|Zombiegesicht
+relic_metalDetector|Metal Detector|Metallinpaljastin|Detector de Metal|Металлоискатель|金属探测器|金属探知機|금속 탐지기|Metalldetektor
+relic_lootARang|Loot-A-Rang|Loot-A-Rang|Loot-A-Rang|Шмотаранг|Loot-A-Rang|Loot-A-Rang|Loot-A-Rang|Loot-A-Rang
+relic_propHuntKit|Prop Hunt Kit|Prop Hunt Kit|Prop Hunt Kit|Набор для игры в прятки|Prop Hunt Kit|Prop Hunt Kit|Prop Hunt Kit|Prop Hunt Kit
+relic_doggo|Doggo|Doggo|Doggo|Doggo|Doggo|Doggo|Doggo|Doggo
+relic_stevesDirtyHead|Steve's Dirty Head|Steve's Dirty Head|Steve's Dirty Head|Steve's Dirty Head|Steve's Dirty Head|Steve's Dirty Head|Steve's Dirty Head|Steve's Dreckiger Kopf
+relic_lostWand|Lost Wand|Lost Wand|Lost Wand|Lost Wand|Lost Wand|Lost Wand|Lost Wand|Verlorener Zauberstab
+relic_wizardsMindBomb|Wizard's Mind Bomb|Wizard's Mind Bomb|Wizard's Mind Bomb|Wizard's Mind Bomb|Wizard's Mind Bomb|Wizard's Mind Bomb|Wizard's Mind Bomb|Zauberers Gedächtnisbombe
+relic_newtTail|Newt Tail|Newt Tail|Newt Tail|Newt Tail|Newt Tail|Newt Tail|Newt Tail|Molchschwanz
+relic_candyBasket|Candy Basket|Karkkikori|Cesta de doces|Корзина конфет|糖果篮|キャンディバスケット|사탕 바구니|Süßigkeitenkorb
+relic_snowball|Snowball|Lumipallo|Bola de neve|Снежок|雪球|スノーボール|눈덩이|Schneeball
+relic_thiefsGlove|Thief's Glove|Varkaan käsine|Luva de ladrão|Перчатка вора|神偷手套|泥棒の手袋|도둑의 장갑|Diebeshandschuh
+relic_shocker3000|Shocker-3000|Sähkötin-3000|Shocker-3000|Шокер-3000|冲击枪-3000|ショッカー-3000|쇼커 -3000|Schocker-3000
+relic_flail|Flail|Varsta|Mangual|Цеп|连枷|フレイル|플레일|Morgenstern
+relic_soulBox|Soul Box|Sielulaatikko|Caixa de Almas|Коробка душ|灵魂箱|ソウルボックス|소울 박스|Seelenbox
+relic_chickenMask|Chicken Mask|Kananaamari|Máscara de Galinha|Маска курицы|小鸡面具|チキンマスク|치킨 마스크|Hühnchen-Maske
+relic_cursedBook|Cursed Book|Kirottu kirja|Livro Amaldiçoado|Проклятая книга|受诅咒的书|呪われた本|저주받은 책|Verfluchtes Buch
+relic_headExtractor|Head Extractor|Päänkeräin|Arranca Cabeças|Главный экстрактор|斩首器|ヘッドエクストラクター|헤드 추출기|Kopf-Auszieher
+relic_bombBoat|Bomb|Pommi|Bomba|Взрывчатка|炸弹|ボム|폭탄|Bombe
+relic_fishNet|Fish Net|Kalaverkko|Rede de Pesca|Рыбная сеть|鱼网|フィッシュネット|피시 넷|Fischnetz
+relic_bookOfCommand|Book of Command|Komennusten kirja|Livro do Comando|Книга командования|指挥书|支配の書|커맨드 북|Buch der Beherrschung
+relic_sucker5000|Sucker-5000|Imuri-5000|Otário-5000|Присоска-5000|吸力枪-5000|サッカー-5000|써커 5000|Sauger-5000
+relic_sucker5000b|Sucker-5000-B|Imuri-5000-B|Otário-5000-B|Присоска-5000-B|吸力枪-5000-B|サッカー-5000-B|써커 5000-B|Sauger-5000-B
+||||||||
+desc_relic_devilHorn||||||||
+desc_relic_demonSheep||||||||
+desc_relic_doomFlute||||||||
+desc_relic_frozenOrb||||||||
+desc_relic_nunchucks||||||||
+desc_relic_rubberDuck||||||||
+desc_relic_skullAxe||||||||
+desc_relic_theSpoon||||||||
+desc_relic_stormDagger||||||||
+desc_relic_odinsSword||||||||
+desc_relic_theAmputationKit||||||||
+desc_relic_skullBat||||||||
+desc_relic_shredder||||||||
+desc_relic_stigmata||||||||
+desc_relic_magicMushroom||||||||
+desc_relic_jefresSubscription||||||||
+desc_relic_rockBelt||||||||
+desc_relic_sausage||||||||
+desc_relic_spiritSkull||||||||
+desc_relic_apple||||||||
+desc_relic_fetus||||||||
+desc_relic_theEye||||||||
+desc_relic_devilSkull||||||||
+desc_relic_whip||||||||
+desc_relic_cake||||||||
+desc_relic_cookiesMilk||||||||
+desc_relic_blazingBoots||||||||
+desc_relic_charmedBlood||||||||
+desc_relic_shrunkenHead||||||||
+desc_relic_oddBookOfSpells||||||||
+desc_relic_ancientRock||||||||
+desc_relic_theHolyBible||||||||
+desc_relic_aaronsStaff||||||||
+desc_relic_ogreClub||||||||
+desc_relic_basilisksTooth||||||||
+desc_relic_twinBlade||||||||
+desc_relic_handScythe||||||||
+desc_relic_templarShield||||||||
+desc_relic_kingsCrown||||||||
+desc_relic_damnedBuckler||||||||
+desc_relic_dragonShield||||||||
+desc_relic_barbedShield||||||||
+desc_relic_helmOfChaos||||||||
+desc_relic_bracerOfLife||||||||
+desc_relic_tokenOfLuck||||||||
+desc_relic_theAllmightyFedora||||||||
+desc_relic_guardianAngel||||||||
+desc_relic_bookOfBelial||||||||
+desc_relic_doubleScythe||||||||
+desc_relic_fireIce||||||||
+desc_relic_LightKatana||||||||
+desc_relic_dirge||||||||
+desc_relic_razorWire||||||||
+desc_relic_rainbowGate||||||||
+desc_relic_theGlove||||||||
+desc_relic_flySwatter||||||||
+desc_relic_hellscreamAxe||||||||
+desc_relic_frostMourne||||||||
+desc_relic_commandersSword||||||||
+desc_relic_butchersKnife||||||||
+desc_relic_warZeppelin||||||||
+desc_relic_deathsScythe||||||||
+desc_relic_angelStaffOfApocalypse||||||||
+desc_relic_rocketBarrage||||||||
+desc_relic_shiv||||||||
+desc_relic_stickmanSteve||||||||
+desc_relic_bomb||||||||
+desc_relic_meatHook||||||||
+desc_relic_candyCrusher||||||||
+desc_relic_cheeseBurger||||||||
+desc_relic_triForce||||||||
+desc_relic_cactus||||||||
+desc_relic_razerBlade||||||||
+desc_relic_assassinsShuriken||||||||
+desc_relic_theSun||||||||
+desc_relic_razerHeadset||||||||
+desc_relic_mayosOldSock||||||||
+desc_relic_tequila||||||||
+desc_relic_theMightySushi||||||||
+desc_relic_karpHead||||||||
+desc_relic_lantern||||||||
+desc_relic_razorLeaf||||||||
+desc_relic_ninjaHook||||||||
+desc_relic_riceChopsticks||||||||
+desc_relic_minisect||||||||
+desc_relic_shadeOfDeath||||||||
+desc_relic_dislocatedEye||||||||
+desc_relic_halfEatenMochi||||||||
+desc_relic_bonsaiTree||||||||
+desc_relic_daPlayersDislocatedHead||||||||
+desc_relic_witchClaw||||||||
+desc_relic_shatteredKatana||||||||
+desc_relic_orbOfFire||||||||
+desc_relic_orbOfIce||||||||
+desc_relic_orbOfPoison||||||||
+desc_relic_orbOfChaos||||||||
+desc_relic_largeBeer||||||||
+desc_relic_bouncy||||||||
+desc_relic_magnet||||||||
+desc_relic_balalayka||||||||
+desc_relic_darts||||||||
+desc_relic_smallSpikey||||||||
+desc_relic_satansHorn||||||||
+desc_relic_necromancersFinger||||||||
+desc_relic_jarOfFlies||||||||
+desc_relic_satansTooth||||||||
+desc_relic_butterflyKnife||||||||
+desc_relic_lightningBall||||||||
+desc_relic_steamSale||||||||
+desc_relic_esEnergy||||||||
+desc_relic_boomerang||||||||
+desc_relic_squishyTheSuicidalPig||||||||
+desc_relic_satansEye||||||||
+desc_relic_mindBender||||||||
+desc_relic_lightCola||||||||
+desc_relic_theHolyGrail||||||||
+desc_relic_monkeyKingBar||||||||
+desc_relic_hornedMask||||||||
+desc_relic_honeyBee||||||||
+desc_relic_1000kg||||||||
+desc_relic_pickledBrain||||||||
+desc_relic_keyGen||||||||
+desc_relic_dragonsHead||||||||
+desc_relic_winnersDrug||||||||
+desc_relic_casinoDice||||||||
+desc_relic_lotteryTicket||||||||
+desc_relic_vadjra||||||||
+desc_relic_maryosPipe||||||||
+desc_relic_rottenApple||||||||
+desc_relic_handOfMidas||||||||
+desc_relic_oversized||||||||
+desc_relic_fortuneCard||||||||
+desc_relic_deliciousPie||||||||
+desc_relic_amazonsSpears||||||||
+desc_relic_jungleVial||||||||
+desc_relic_manaDice||||||||
+desc_relic_wizardsHat||||||||
+desc_relic_zombiesFace||||||||
+desc_relic_metalDetector||||||||
+desc_relic_lootARang||||||||
+desc_relic_propHuntKit||||||||
+desc_relic_doggo||||||||
+desc_relic_stevesDirtyHead||||||||
+desc_relic_lostWand||||||||
+desc_relic_wizardsMindBomb||||||||
+desc_relic_newtTail||||||||
+desc_relic_candyBasket||||||||
+desc_relic_snowball||||||||
+desc_relic_thiefsGlove||||||||
+desc_relic_shocker3000||||||||
+desc_relic_flail||||||||
+desc_relic_soulBox||||||||
+desc_relic_chickenMask||||||||
+desc_relic_cursedBook||||||||
+desc_relic_headExtractor||||||||
+desc_relic_bombBoat||||||||
+desc_relic_fishNet||||||||
+desc_relic_bookOfCommand||||||||
+desc_relic_sucker5000||||||||
+desc_relic_sucker5000b||||||||

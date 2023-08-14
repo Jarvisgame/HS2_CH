@@ -1,0 +1,1152 @@
+[main_menu]|en|fi|pt|ru|zh|ja|ko|de
+local_play|Play local|Paikallinen peli|Jogo Local|Локальная игра|本地游玩|ローカルプレイ|로컬 플레이|Lokal spielen
+multiplayer|Play online|Online moninpeli|Jogue online|Сетевая игра|多人在线游戏|オンラインマルチプレイヤー|온라인 멀티플레이어|Online spielen
+options|Options|Asetukset|Opções|Настройки|选项|オプション|설정|Optionen
+version|version|Versio|Versão|Версия|版本|バージョン|버전|Version
+ns_controller_continue|Connect a controller to continue.|Yhdistä ohjain jatkaaksesi.|Conecte um controle para continuar.|Подключите контроллер, чтобы продолжить.|连接控制器以继续。|続けるには コントローラー を接 続してください。|컨트롤러를 연결하여 계속하세요.|Schließe einen Controller an, um weiterzumachen.
+ns_controller_one_dc|Controller 1 disconnected.|Yhteys ohjaimeen 1 katkesi.|Controle 1 desconectado.|Контроллер 1 отключен.|控制器 1 断开连接。|コントローラ 1 が切断されました。|컨트롤러 1의 연결이 끊겼습니다.|Controller 1 wurde getrennt.
+ns_controller_two_dc|Controller 2 disconnected.|Yhteys ohjaimeen 2 katkesi.|Controle 2 desconectado.|Контроллер 2 отключен.|控制器 2 断开连接。|コントローラ 2 が切断されました。|컨트롤러 2의 연결이 끊겼습니다.|Controller 2 wurde getrennt.
+ns_controller_both_dc|Controller 1 and 2 disconnected.|Ohjainten 1 ja 2 yhteys katkesi.|Controle 1 e 2 desconectados.|Контроллеры 1 и 2 отключены.|控制器 1 和 2 断开。|コントローラ 1 と 2 が切断されました。|컨트롤러 1과 2의 연결이 끊겼습니다.|Controller 1 und 2 wurden getrennt.
+ns_controller_connect|Connect a controller and press Confirm|Yhdistä ohjain ja paina Hyväksy.|Conecte um controle e pressione Confirmar|Подключите контроллер и нажмите Подтвердить|连接控制器并按确认|コントローラを押して 「確認」 を接続します|컨트롤러를 연결하고 확인을 누르세요|Schließe einen Controller an und drücke Bestätigen.
+ns_controller_sp_mode|or continue in singleplayer mode.|tai jatka yksinpelitilassa.|ou continue no modo de um jogador|или продолжайте игру в одиночном режиме.|或继续在单机模式。|または シングルプレイヤーモード で続けます。|또는 싱글플레이어 모드로 계속하세요.|oder mach im Einzelspieler-Modus weiter.
+ns_controller_confirm|Press Confirm to continue.|Paina Hyväksy jatkaaksesi.|Pressione Confirmar para continuar.|Нажмите кнопку Подтвердить, чтобы продолжить.|按确认键继续。|続行するには押して 「確認」。|계속하려면 확인을 누르세요.|Drücke Bestätigen um weiterzumachen.
+ns_controller_singleplayer|Singleplayer|Yksinpeli|Um jogador|Одиночная Игра|单个玩家|シングルプレイヤー|싱글플레이어|Einzelspieler
+ns_controller_multi|Multiple controllers detected.|Useita ohjaimia havaittu.|Vários controladores detectados.|Обнаружено несколько контроллеров.|检测到多个控制器。|複数のコントローラーが検出されました。|여러 컨트롤러가 감지되었습니다.|Mehrere Controller erkannt.
+ns_controller_config1|You can configure controllers|Voit konfiguroida ohjaimet|Você pode configurar controladores|Вы можете настроить контроллеры|您可以配置控制器|コントローラを設定できます|컨트롤러를 구성 할 수 있습니다|Sie können die Controller konfigurieren
+ns_controller_config2|or continue with current setup.|tai jatkaa nykyisellä asettelulla.|ou continue com a configuração atual.|или продолжить текущими настройками.|或继续进行当前设置。|または現在のセットアップを続行します。|또는 현재 설정을 계속하십시오.|oder fahren Sie mit der aktuellen Einrichtung fort.
+configure|Configure|Konfiguroi|Configurar|Настроить|配置|構成、設定|구성|Konfigurieren
+ns_store_connecting|Connecting to the Nintendo eShop.|Yhdistetään Nintendo eShop:iin.|Conectando-se à Nintendo eShop.|Подключение к Nintendo eShop.|连接到 Nintendo eShop。|ニンテンドーeショップ に接続しています。|Nintendo eShop 에 연결|Verbindung zum Nintendo eShop wird hergestellt.
+ns_store_unavailable|The item you tried to access is not available.|Valitsemasi tuote ei ole saatavilla.|O item que você tentou acessar não está disponível.|Товар, который вы пытались найти, недоступен.|你要访问的物品已不存在。|アクセス しよう と した アイテム は 利用 できません。|이 아이템은 이용할 수 없습니다.|Der Gegenstand, auf den du zugreifen wolltest, ist nicht verfügbar.
+ns_store_error|Error loading Nintendo eShop.|Virhe ladattaessa Nintendo eShop:iin.|Erro ao carregar o Nintendo eShop.|Ошибка загрузки Nintendo eShop.|加载 Nintendo eShop 时出错。|ニンテンドーeショップ の読み込み中にエラーが発生しました。|Nintendo eShop 불러 오기 오류.|Fehler beim Laden vom Nintendo eShop.
+ns_store_account_error|The current user account cannot access this feature.|Nykyinen käyttäjä ei voi käyttää tätä ominaisuutta.|A atual conta de usuário não pode acessar esse recurso.|У этого аккаунта пользователя нет доступа к этой функции.|当前用户账号无法访问此功能。|現在 の ユーザーアカウントで は この 機能 にアクセスできません。|현재 사용자 계정은 이 기능을 이용할 수 없습니다.|Das aktuelle Benutzerkonto kann auf diese Funktion nicht zugreifen.
+ns_store_timeout|Connecting to the Nintendo eShop took too long.|Nintendo eShop:iin yhdistäminen kesti liian kauan.|A conexão com o Nintendo eShop demorou muito.|Подключение к Nintendo eShop заняло слишком много времени.|连接到 Nintendo eShop 花费的时间太长。|ニンテンドーeショップ への接続に時間がかかりすぎました。|Nintendo eShop 에 연결하는 데 시간이 오래 걸렸습니다.|Die Verbindung zum Nintendo eShop hat zu lange gedauert.
+ns_store_warning|Connecting to the Nintendo eShop will disconnect you from the current game.|Yhdistäminen Nintendo eShop:iin katkaisee yhteytesi nykyisestä pelistä.|Conectar-se ao Nintendo eShop o desconectará do jogo atual.|Подключение к Nintendo eShop отключит вас от текущей игры.|连接到Nintendo eShop会使您与当前游戏断开连接。|Nintendo eShop に接続すると、現在のゲームから切断されます。|Nintendo eShop에 연결하면 현재 게임에서 연결이 끊어집니다.|Wenn Sie eine Verbindung zum Nintendo eShop herstellen, werden Sie vom aktuellen Spiel getrennt.
+ns_eshop|Nintendo eShop|Nintendo eShop|Nintendo eShop|Nintendo eShop|Nintendo eShop|Nintendo eShop|Nintendo eShop|Nintendo eShop
+try_again_later|Try again later.|Yritä myöhemmin uudelleen.|Tente novamente mais tarde.|Повторите попытку позже.|稍后再试。|後で もう一度 試して みて ください。|나중에 다시 시도하세요.|Versuche es später erneut.
+try_again_account|Try again with another account.|Yritä uudelleen toisella käyttäjällä.|Tente novamente com outra conta.|Попробуйте ещё раз, но с другого аккаунта|请使用其他账号再试一次。|別 の アカウント で もう一度 試して みて ください。|다른 계정으로 다시 시도하세요.|Versuche es mit einem anderen Konto erneut.
+connection_lost|Connection to the network was lost.|Verkkoyhteys katkesi.|A conexão com a rede foi perdida.|Подключение к сети потеряно.|网络连接已中断。|ネットワーク 接続 が 遮断 さ れました。|네트워크 연결이 끊어졌습니다.|Die Verbindung zum Netzwerk wurde unterbrochen.
+controller|Controller|Ohjain|Controlador|Контроллер|游戏控制器|コントローラー|컨트롤러|Controller
+connected|connected|yhdistetty|conectado|подключен|已连接|接続済み|연결됨|verbunden
+prompt_exit|Are you sure you want to exit?|Oletko varma, että haluat poistua?|Tem certeza de que deseja sair?|Вы уверены, что хотите выйти?|你确定要退出吗？|本当に終了してもいいですか？|정말로 나가시겠습니까?|Bist du sicher, dass du gehen möchtest?
+controller_connected|Connected|Yhdistetty|Conectado|Подключен|已连接|接続済み|연결됨|Verbunden
+controller_disconnected|Disconnected|Irroitettu|Desconectada|Отключен|断开|切断|분리|Getrennt
+controller_press|Press|Paina|Pressione|Нажмите|按|押し|프레스|Drücke
+controller_quit|to quit.|lopettaaksesi.|para sair.|чтобы выйти|退出。|終了します。|종료합니다.|zu beenden.
+controllers|Controllers|Ohjaimet|Controladores|Контроллеры|控制器|コントローラ|컨트롤러|Controller
+steam_cloud|STEAM Cloud|STEAM Cloud|STEAM Cloud|STEAM Cloud|STEAM Cloud|STEAM Cloud|STEAM Cloud|STEAM Cloud
+steam_cloud_data|Current Cloud data|Nykyiset pilvitiedot|Dados atuais da nuvem|Текущие данные Облака|当前云数据|現在のクラウドデータ|현재 클라우드 데이터|Aktuelle Cloud-Daten
+save|Save|Tallenna|Salve|Сохранить|保存|保存する|저장|Speichern
+load|Load|Lataa|Carga|Загрузить|加载|負荷|하중|Laden
+account_id|Account ID|Tilin Tunnus|ID da conta|ID Аккаунта|帐户ID|アカウントID|계정 ID|Konto ID
+unranked|Unranked|Sijoittamaton|Não classificado|Без Ранга|未排名|ランクなし|랭킹|Ranglos
+caps_lock_enabled|Caps Lock Enabled|Caps Lock käytössä|Caps Lock ativado|Caps Lock включен|大写锁定已启用|CapsLockが有効|Caps Lock 사용|Feststelltaste aktiviert
+profile_private|This profile is hidden|Tämä profiili on piilotettu|Este perfil está escondido|Этот профиль скрыт|此个人资料已隐藏|このプロファイルは非表示です|이 프로필은 숨겨져 있습니다.|Dieses Profil ist ausgeblendet
+email_not_verified|Email is not verified!|Sähköposti ei ole vahvistettu!|Email não está verificado!|Электронная почта не подтверждена!|邮件未验证！|メールは検証されていない！|이메일이 확인되지 않았습니다!|E-Mail ist nicht verifiziert!
+sign_in_failed|Sign in failed. Try again.|Kirjautuminen epäonnistui. Yritä uudelleen.|Sign in failed. Try again.|Sign in failed. Try again.|Sign in failed. Try again.|Sign in failed. Try again.|Sign in failed. Try again.|Anmeldung fehlgeschlagen. Versuche es erneut.
+invalid_name|That name is unavailable. Please try again.|That name is unavailable. Please try again.|That name is unavailable. Please try again.|That name is unavailable. Please try again.|That name is unavailable. Please try again.|That name is unavailable. Please try again.|That name is unavailable. Please try again.|That name is unavailable. Please try again.
+show_exp_gain|Show Experience Gain|Näytä kokemuspistesaannit|Show Experience Gain|Show Experience Gain|Show Experience Gain|Show Experience Gain|Show Experience Gain|Erfahrungszuwachs Anzeigen
+loading_critical_error|Character slot loading failed.|Hahmon lataaminen epäonnistui.|Character slot loading failed.|Character slot loading failed.|Character slot loading failed.|Character slot loading failed.|Character slot loading failed.|Character slot loading failed.
+retired|Retired|Eläkkeellä|Retired|Retired|Retired|Retired|Retired|Retired
+character_skins|Character Skins|Hahmon Ulkoasut|Aparência do Personagem|Внешний вид персонажа|人物外观|キャラクターの外観|캐릭터 외모|Aussehen des Charakters
+login_remember_info|Remember login info (username and temporary password) on this device for 30 days|Muista kirjautumistiedot (käyttäjänimi ja väliaikainen salasana) tällä laitteella 30 päivää|Remember login info (username and temporary password) on this device for 30 days|Remember login info (username and temporary password) on this device for 30 days|Remember login info (username and temporary password) on this device for 30 days|Remember login info (username and temporary password) on this device for 30 days|Remember login info (username and temporary password) on this device for 30 days|Remember login info (username and temporary password) on this device for 30 days
+link_main_account|Link Main Account|Yhdistä päätili||||||
+account_settings|Account Settings|Tiliasetukset||||||
+initial_migration_prompt|We have scaled up the [c_yellow]Panicnet network[c_reset] to bring you a smoother and more stable online experience.[nl]Your data is currently stored in [c_aqua]Europe[c_reset].[nl]We are offering you one [c_yellow]free migration[c_reset] in case you want to change server to a closer location.[nl][c_lime]Leaderboards, Marketplace and Multiplayer are shared across all regions.[c_reset][nl][nl]Choose a region closest to you:|||||||
+beta_migration_prompt|We have scaled up the [c_yellow]Panicnet network[c_reset] to bring you a smoother and more stable online experience.[nl][nl]Your data is currently stored in [c_aqua][var,regionName][c_reset].[nl][nl][c_pink]During Closed Beta we encourage you to try migrating your account and data to another region.[c_reset][nl][nl][c_lime]Leaderboards, Marketplace and Multiplayer are shared across all regions.[c_reset][nl][nl]Choose a region to migrate to:|||||||
+login_region|Login Region|Kirjautumisalue||||||
+||||||||
+[options]||||||||
+video|Video|Kuva|Vídeo|Видео|视频|ビデオ|비디오|Video
+audio|Audio|Ääni|Áudio|Аудио|音频|オーディオ|오디오|Audio
+controls|Controls|Näppäimet|Controles|Управление|控制|コントロール|조작|Steuerungen
+redeem_code|Redeem code|Lunasta koodi|Gerar Codigo|Активировать код|兑换激活码|コードを引き換える|리딤코드|Code einlösen
+back|Back|Palaa|Voltar|Назад|返回|戻る|뒤로|Zurück
+display_mode|Display Mode|Kuvatila||||||
+fullscreen|Fullscreen|Kokoruutu|Tela cheia|Полноэкранный режим|全屏模式|全画面表示|전체 화면|Vollbild
+windowed|Windowed|Ikkuna||||||
+windowed_fullscreen|Windowed fullscreen|Kokoruudun ikkuna||||||
+window_size|Window Size|Ikkunan Koko||||||
+aspect_ratio|Aspect Ratio|Kuvasuhde||||||
+size|Size|Koko|Tamanho|Размер|分辨率|サイズ|크기|Größe
+graphics|Graphics|Grafiikat|Graficos|Настройки графики|图像质量|グラフィックス|그래픽|Grafikstufe
+high|High|Korkea|Alto|Высокие|高|高い|최상|Hoch
+medium|Medium|Keskitaso|Medio|Средние|中|中|보통|Mittel
+low|Low|Matala|Baixo|Низкие|低|低い|최하|Niedrig
+on|On|Kyllä|Em|Вкл.|开|オン|켜기|An
+off|Off|Ei|Fora|Выкл.|关|オフ|끄기|Aus
+shaking|Screen Shake|Ruuduntärinä|Tremor|Дрожание экрана|震动|振動|화면 흔들림|Bildwackeleffekte
+show_damage|Show Damage|Näytä vahinko|Mostrar dano|Показывать урон|显示伤害|ダメージを表示する|피해량 표시|Schaden anzeigen
+music|Music|Musiikki|Musica|Музыка|音乐|音楽|음악|Musik
+master_volume|Master volume|Äänenvoimakkuus|Volume Maximo|Общая громкость|主音量|マスターボリューム|마스터 볼륨|Master-Lautstärke
+music_volume|Music volume|Musiikin voimakkuus|Volume da música|Громкость музыки|音乐音量|音楽ボリューム|음악 볼륨|Musiklautstärke
+ambient_volume|Ambient volume|Ympäristöäänien voimakkuus|Volume do ambiente|Громкость звуков окружения|环境容量|アンビエントボリューム|배경 볼륨|Umgebungslautstärke
+sound_volume|Sound volume|Ääniefektien voimakkuus|Volume do som|Громкость звука|音量|サウンドボリューム|사운드 볼륨|Sound-Lautstärke
+loot_volume|Loot volume|Esineiden voimakkuus||||||
+voice_acting_volume|Voice acting volume|Ääninäyttelyn voimakkuus||Громкость голосов персонажей||||Sprechlautstärke
+vibration|Vibration|Tärinä|Vibração|Вибрация|音频振动|バイブレーション|진동|Vibration
+voice_acting|Voice acting|Ääninäyttely|Ação de voz|Голоса персонажей (Вкл./Выкл.)|配音|ボイスアクチング|더빙|Sprachsteuerung
+defaults|Defaults|Oletukset|Padrão|По умолчанию|默认|デフォルト|기본값|Standardeinstellungen
+default|Default|Oletus|Padrão|По умолчанию|默认|デフォルト|기본|Standard
+show_player_name|Show Player Name|Näytä pelaajan nimi|Mostrar nome|Показывать ники игроков|显示名字|名前を表示する|이름 표시|Spielernamen anzeigen
+show_player_health|Show Player Health|Näytä pelaajan elämä|Mostrar Vida|Полоски Здоровья над союзниками|显示血量|ヘルスを表示する|체력 표시|Lebenspunkte anzeigen
+show_enemy_health|Always Show Enemy Health|Näytä vihollisten elämä aina|Mostrar barras de saúde|Полоски Здоровья над врагами|显示血量条|ヘルスバーを表示する|적 체력 막대 표시|Feindliche Lebenspunkte anzeigen
+show_player_projectiles|Show Teammate Projectiles|Näytä tiimiläisten hyökkäykset|Mostrar Tiros da Mesma Equipe|Отображать снаряды союзников|显示队友炮弹|チームメイトの弾を表示|팀원 발사체 표시|Freundliche Projektile
+show_loot_names|Show Loot Names|Näytä esineiden nimet|Mostrar Nome de Itens|Показывать названия предметов|显示战利品的名字|戦利品名の表示|전리품 이름 표시|Beutenamen anzeigen
+show_gamepad_crosshair|Show Gamepad Crosshair|Näytä peliohjaimen tähtäin|Mostrar Mira do Controle|Показывать перекрестие геймпада|显示手柄十字|ゲームパッド用の照準を表示|게임패드 십자키 표시|Controller-Fadenkreuz anzeigen
+show_crosshair|Show Crosshair|Näytä tähtäin|Mostrar mira|Показывать перекрестие|显示十字准线|十字線を表示|십자선 표시|Fadenkreuz anzeigen
+color_ability_damage|Ability Damage Color|Taitovahingon väri|Cor de Dano de Habilidade|Цвет урона Способностей|能力损害颜色|アビリティダメージの色|능력 손상 색상|Fähigkeits-Trefferfarbe
+color_basic_damage|Basic Damage Color|Perusvahingon väri|Cor de Dano Básico|Цвет Базового урона|基本损害颜色|基本ダメージの色|기본 손상 색상|Grund-Trefferfarbe
+color_crit_damage|Critical Damage Color|Kriittisen vahingon väri|Cor de Dano Crítico|Цвет Критического урона|临界破损的颜色|クリティカルダメージの色|치명적 손상 색상|Kritische-Trefferfarbe
+color_heal|Heal Color|Parannuksen väri|Cor de Cura|Цвет Лечения|治愈的颜色|回復の色|치유 색상|Farbe Heilung
+color_outline|Outline Color|Ääriviivojen väri|Cor do Contorno|Цвет Контура|轮廓的颜色|アウトラインの色|윤곽선 색상|Umrissfarbe
+color_minimap|Minimap Color|Kartan väri|Cor do Minimapa|Цвет Миникарты|小地图的颜色|ミニマップの色|미니맵 색상|Minikarten-Farbe
+size_ability_damage|Ability Damage Size|Taitovahingon koko|Tamanho de dano da habilidade|Размер текста урона Способностей|能力伤害大小|能力ダメージサイズ|능력 피해 크기|Größe Fähigkeitensschaden
+size_basic_damage|Basic Damage Size|Perusvahingon koko|Tamanho básico de dano|Размер текста урона Базовой Атаки|基本伤害大小|基本ダメージサイズ|기본 피해 크기|Größe Grundschaden
+size_crit_damage|Critical Damage Size|Kriittisen vahingon koko|Tamanho de Dano Crítico|Размер текста Критического Урона|暴击伤害|クリティカルダメージサイズ|치명타 피해 크기|Größe Kritischer Schaden
+size_heal|Heal Size|Parannuksen koko|Tamanho da Cura|Размер текста Исцеления|愈合大小|ヒールサイズ|치유 크기|Größe Heilung
+shaders_enabled|Shaders Enabled|Käytä varjostimia|Shaders Ativado|Шейдеры включены|着色器启用|シェーダー有効|셰이더 활성화|Schattierer
+gameplay|Gameplay|Peliasetukset||||||
+auto_pickup|Auto Pickup|Nosta automaattisesti|Pegar Automaticamente|Автоматический подбор|汽车传感器|自動で拾う|자동 픽업|Auto-Pickup
+auto_attack|Auto Attack|Hyökkää automaattisesti|Atacar Automaticamente|Автоатака|自动攻击|自動攻撃|자동 공격|Auto-Angriff
+hold_to_cast|Hold to cast|Taio painamalla pohjassa|Segurar para atirar|Автоприменение Способности при удержании|坚持投|つかんで投げる|오래 눌러 캐스트|Gedrückt halten zum Zaubern
+file|file|tiedosto|arquivo|файл|文件|ファイル|파일|datei
+save_recovered|Save successfully recovered!|Tallennus palautettu onnistuneesti!|Salvamento recuperado com sucesso!|Сохранение успешно восстановлено!|成功恢复保存！|セーブ の 復元 に 成功！|저장한 내용이 성공적으로 복구되었습니다!|Spielstand erfolgreich wiederhergestellt!
+crystals_added|crystals added!|kristallia lisätty!|cristais adicionados!|кристаллы добавлены!|加入水晶！|クリスタル が 追加 さ れました！|크리스탈 추가!|Kristalle hinzugefügt!
+delete_highscore|This will also delete wormhole highscores associated with this character!|Tämä poistaa myös hahmoon liittyvät madonreikä-sijoitukset!|Isso também apagará recordes de wormholes associados a esse personagem!|Это также удалит рекорды червоточины, связанные с данным персонажем!|这将删除此角色 关联的副本高分！|この 動作 を 行う と、 この キャラクター の ワームホール の ハイスコア も 消去 さ れます！|이 캐릭터로 달성한 웜홀 최고 기록도 지워지게됩니다!|Dadurch werden auch die Wurmloch-Highscores die mit diesem Charakter verbunden sind gelöscht!
+choose|Choose|Valitse|Escolher|Выбрать|选择|選択|선택하기|Wähle
+move_up|Move up|Liiku ylös|Mover para cima|Движение вверх|向上移动|上に移動|위로 이동|Nach oben bewegen
+move_down|Move down|Liiku alas|Mover para baixo|Движение вниз|向下移动|下に移動|아래로 이동|Nach unten bewegen
+move_left|Move left|Liiku vasen|Mover para esquerda|Движение влево|向左移动|左に移動|왼쪽으로 이동|Nach links bewegen
+move_right|Move right|Liiku oikea|Mover para direita|Движение вправо|向右移动|右に移動|오른쪽으로 이동|Nach rechts bewegen
+attack_up|Attack up|Hyökkää ylös|Atacar para cima|Атаковать вверх|向上攻击|上に攻撃|위쪽 공격|Angriff nach oben
+attack_down|Attack down|Hyökkää alas|Atacar para baixo|Атаковать вниз|向下攻击|下に攻撃|아래쪽 공격|Angriff nach unten
+attack_left|Attack left|Hyökkää vasen|Atacar para esquerda|Атаковать влево|向左攻击|左に攻撃|왼쪽 공격|Angriff links
+attack_right|Attack right|Hyökkää oikea|Atacar para direita|Атаковать вправо|向右攻击|右に攻撃|오른쪽 공격|Angriff rechts
+; Town Portal ; in ingame||||||||
+use_potion|Use potion|Käytä rohto|Usar poção|Использовать зелье|使用药品|薬を使用する|포션 사용|Trank verwenden
+use_item|Use item|Käytä esine|Usar item|Использовать предмет|使用物品|アイテムを使用する|아이템 사용|Relikt verwenden
+talents|Skill Menu|Taitovalikko|Talentos|Таланты|天赋|タレント|재능|Talente
+skill|Skill|Taito|Habilidades|Навык|技能|スキル|스킬|Fertigkeit
+pickup_use|Pickup / Use|Nosta / Käytä|Pegar / Usar|Поднять или использовать|拾取/使用|拾う/使用|줍기 / 사용|Aufheben / Verwenden
+minimap|Minimap|Minikartta|Minimapa|Миникарта|小地图|ミニマップ|미니맵|Minikarte
+show_map|Show Map|Näytä kartta|Mostrar mapa|Показать карту|显示地图|地図を表示|지도보기|Karte anzeigen
+playerlist|Playerlist|Pelaajalista|Lista de Jogadores|Список игроков|玩家名单|プレイヤーリスト|플레이어 명단|Spielerliste
+ingame_chat|Ingame chat|Pelinsisäinen chat|Chat no jogo|Игровой чат|游戏中聊天|インゲームチャット|게임 내 채팅|Spielchat
+inventory_controls|Inventory controls|Reppunäppäimet||||||
+reset_controls|Reset controls to default values?|Palauta näppäimet oletusarvoihin?|Resetar controles para os valores padrão?|Сбросить настройки управления?|是否将控制重 置为默认值?|コントロール を 初期設定値 に リセットしますか？|컨트롤을 기본값으로 리셋하시겠습니까?|Steuerung auf Standardwerte zurücksetzen?
+mouse_move|Mouse Move|Liiku Hiirellä|Movimento do Mouse|Перемещение мышью|鼠标移动|マウスの移動|마우스 이동|Maus Bewegung
+mouse_attack|Mouse Attack|Hyökkää Hiirellä|Ataque do Mouse|Базовая атака мышью|鼠标攻击|マウスの攻撃|마우스 공격|Maus Angriff
+mouse_stand_still|Stand Still|||||||
+waiting_for_input|Waiting for input...|Odotetaan syötettä...|Esperando entrada...|Ожидание ввода...|正在等待输入...|入力待ち...|인풋 기다리는중...|Warte auf Eingabe...
+right_mouse|Right mouse|Oikea hiirenpainike|Botão direito do mouse|Правая кнопка мыши|右鼠标|右のマウス|오른쪽 마우스|Rechte Maus
+right_analog|Right analog|Oikea tatti|Analógico direito|Правый аналоговый стик|右侧模拟|右のアナログ|오른쪽 아날로그|Rechter Analog
+left_analog|Left analog|Vasen tatti|Analógico esquerdo|Левый аналоговый стик|左侧模拟|左のアナログ|왼쪽 아날로그|Linker Analog
+jump|Jump|Hyppy|Pular|Прыжок|跳跃|ジャンプ|점프|Springen
+open_waypoint|Open Waypoint|Avaa kartta|Abrir Ponto de Passagem|Открыть Врата|打开路标|ウェイ ポイント を 開く|웨이포인트 열기|Wegpunkt Öffnen
+activate_waypoint|Activate Waypoint|Aktivoi reittipiste|Ativar Waypoint|Активировать Врата|激活路径|ウェイ ポイント を 有効化|웨이포인트 활성화|Wegpunkt Aktivieren
+refresh_rate|Framerate|Ruudunpäivitys|Framerate|Framerate|Framerate|Framerate|Framerate|Bildrate
+vote_reset|Vote Reset|Äänestä uudelleenaloitusta|Redefinição de Voto|Обновить Локации|投票重置|投票リセット|투표 재설정|Resetabstimmung
+drowning|Drowning|Hukkuminen|Afogando|Погружение|溺水|溺死|익사|Ertrinken
+falling|Falling|Tippuminen|Caindo|Падение|下降|落下|추락|Fallen
+minimap_scale|Minimap Scale|Kartan koko|Escala do Minimapa|Масштаб миникарты|小地图规模|ミニマップの縮尺|미니맵 축척|Minikarte skalieren
+minimap_alpha|Minimap Opacity|Kartan läpinäkyvyys|Alfa do Minimapa|Прозрачность Миникарты|小地图阿尔法|ミニマップの透過度|미니맵 알파|Minikarte alpha
+talent_scale|Talent Scale|Taitojen koko|Escala de Talentos|Панель Талантов|人才规模|才能スケール|재능 규모|Talentskala
+weather_intensity|Weather Intensity|Sääefektien voimakkuus|Intensidade do Clima|Интенсивность погоды|天气强度|気象の強度|날씨 강도|Wetterintensität
+darkness_intensity|Darkness Intensity|Pimeyden voimakkuus|Intensidade da Escuridão|Интенсивность затемнения|黑暗强度|ダークネスの強度|어둠 강도|Dunkelheitsintensität
+combat_text|Combat Text|Taistelutekstit|Texto de Combate|Текст боя|战斗文字|戦闘テキスト|전투 텍스트|Kampftext
+combat_text_frequency|Combat Text Frequency|Taistelutekstien tiheys|Taxa de texto de combate|Частота сообщений журнала боя|战斗文字频率|戦闘テキストの頻度|전투 문자 빈도|Kampftexthäufigkeit
+crosshair_distance|Crosshair Distance|Kursorin etäisyys|Distância da Mira|Размер перекрестия|十字丝的距离|照準の距離|십자키 거리|Fadenkreuzentfernung
+color_blind_mode|Color Blind Mode|Värisokeustila|Modo Daltônico|Режим Цветовой слепоты|色盲模式|カラーブラインドモード|색맹 모드|Farbenblind Modus
+enable|Enable|Aktivoi|Ativar|Включить|启用|有効|활성화|Anpassung
+skillbar_position|Skillbar position|Taitopalkin sijainti|Posição da barra de habilidade|Позиция панели навыков|技能栏位置|スキルバーの位置|스킬바 위치|Position der Fertigkeitenleiste
+button_plus|+ Button|+ Näppäin|Botão +|Кнопка +|+键|+ボタン|+ 버튼|Plus-Knopf
+button_minus|- Button|- Näppäin|Botão -|Кнопка -|-键|-ボタン|- 버튼|Minus-Knopf
+button_up|Up Button|Ylös näppäin|Seta para cima|Кнопка «Вверх»|向上按钮|上ボタン|위 버튼|Nach-oben-Taste
+button_down|Down Button|Alas näppäin|Seta para baixo|Кнопка «Вниз»|向下按钮|下ダウン|아래 버튼|Nach-unten-Taste
+button_left|Left Button|Vasen näppäin|Seta para a esquerda|Кнопка «Влево»|向左按钮|左ボタン|왼쪽 버튼|Nach-links-Taste
+button_right|Right Button|Oikea näppäin|Seta para a direita|Кнопка «Вправо»|向右按钮|右ボタン|오른쪽 버튼|Nach-rechts-Taste
+button_left_stick_press|Press the L Stick|Paina vasenta tattia|Aperte o botão L|Нажмите на левый стик|按下左摇杆|左スティックを押す|L 스틱을 누르십시오|Drücke den L-Stick
+button_right_stick_press|Press the R Stick|Paina oikeaa tattia|Aperte o botão R|Нажмите на правый стик|按下右摇杆|右スティックを押す|R 스틱을 누르십시오|Drücke den R-Stick
+button_stick|Stick|Tatti|Botão|Стик|摇杆|スティック|스틱|Stick
+undefined|Undefined|Määrittämätön|Indefinido|Не определено|未定义|未定義|미정|Undefiniert
+steam_inventory|Steam Inventory|Steam Tavaraluettelo|Steam Inventário|Steam Инвентарь|Steam 库存|Steam 在庫|Steam 목록|Steam Inventar
+chat_settings|Chat Settings|Chat asetukset|Configurações de bate-papo|Настройки чата|聊天设置|チャット設定|채팅 설정|Chat Einstellungen
+chat_background_alpha|Background alpha|Taustan läpinäkyvyys|Alfa de fundo|Прозрачность фона чата|背景Alpha|背景アルファ|배경 알파|Hintergrund Alpha
+chat_fade_seconds|Seconds to fade|Sekuntia häivytykseen|Segundos para desaparecer|Длительность отображ. сообщений|秒消失|フェードする秒数|퇴색하는 시간|Sekunden zum Verblassen
+chat_notifications|Chat notifications|Chat-ilmoitukset|Notificações do chat|Уведомления чата|聊天通知|チャット通知|채팅 알림|Chat-Benachrichtigungen
+chat_enable|Enable General Chat|Ota käyttöön Yleinen chat|Habilitar chat geral|Включить общий чат|启用一般聊天|一般チャットを有効にする|일반 채팅 활성화|Aktivieren Sie den allgemeinen Chat
+chat_disabled|General chat has been disabled in options|Yleinen chat on poistettu käytöstä asetuksissa|O chat geral foi desativado nas opções|Общий чат отключен в настройках|选项中的常规聊天功能已被禁用|オプションで一般チャットが無効になっています|옵션에서 일반 채팅이 비활성화되었습니다.|Der allgemeine Chat wurde in den Optionen deaktiviert
+mute|Mute|Hiljennä|Mutar|Заглушить|静音|ミュート|음소거|Stummschalten
+relic_confirmation|Relic Confirmation|Aarteiden vahvistus|Confirmação de Relíquia|Подтверждение при подборе Реликвии|遗物确认|遺物の確認|유물 확인|Reliktbestätigung
+monster_level_prompt|High monster level prompt|Vahvista korkean hirviötason alueet||||||
+show_dps_meter|Show DPS counter|Näytä DPS-mittari|Mostrar medidor DPS|Показывать измеритель урона|显示DPS表|DPSメーターを表示|DPS 미터 표시|DPS-Meter anzeigen
+dps_meter_compress|Compress values|Pakkaa arvot|Comprimir valores|Значения в сокращенном виде|压缩值|値を圧縮する|값 압축|Werte komprimieren
+dps_meter_reset_combat|Reset outside combat|Nollaa taistelun ulkopuolella|Reiniciar fora de combate|Сбрасывать измеритель урона вне боя|重设外部战斗|戦闘外でリセット|전투 밖에서 초기화|Außerhalb des Kampfes zurücksetzen
+show_boss_cooldowns|Show Boss Cooldowns|Näytä pomojen palautumsaika|Mostrar resfriamentos de chefes|Показывать перезарядку способностей Боссов|显示老板的冷却时间|ボスのクールダウンを表示|보스 쿨 다운 표시|Boss-Abklingzeiten anzeigen
+universal|Universal|Yleinen|Universal|Универсальный|普遍的|ユニバーサル|만능인|Universell
+enable_gamepad|Enable Gamepad|Käytä peliohjainta|Enable Gamepad|Enable Gamepad|Enable Gamepad|Enable Gamepad|Enable Gamepad|Controller Aktivieren
+chat_fade_enable|Enable Chat Fade|Käytä chatin häivytystä|Enable Chat Fade|Enable Chat Fade|Enable Chat Fade|Enable Chat Fade|Enable Chat Fade|Chat-Verblassung Aktivieren
+chat|Chat|Chat|Chat|Chat|Chat|Chat|Chat|Chat
+fancy_lighting|Fancy Lighting|Hieno valaistus|Fancy Lighting|Fancy Lighting|Fancy Lighting|Fancy Lighting|Fancy Lighting|Ausgefallene Beleuchtung
+separator_thousand|Thousands Separator|Tuhansien erotin|Thousands Separator|Thousands Separator|Thousands Separator|Thousands Separator|Thousands Separator|Thousands Separator
+separator_decimal|Decimal Separator|Desimaalien erotin|Decimal Separator|Decimal Separator|Decimal Separator|Decimal Separator|Decimal Separator|Decimal Separator
+emote_menu|Emote Menu|Hymiövalikko|Emotes|Emotes|Emotes|Emotes|Emotes|Emotes
+cutscene_skip|Skip Cutscene|Ohita kohtaus|Skip Cutscene|Skip Cutscene|Skip Cutscene|Skip Cutscene|Skip Cutscene|Skip Cutscene
+options_reset_all|Are you sure you want to reset all options?|Oletko varma että haluat palauttaa kaikki oletusasetukset?|Are you sure you want to reset all options?|Are you sure you want to reset all options?|Are you sure you want to reset all options?|Are you sure you want to reset all options?|Are you sure you want to reset all options?|Are you sure you want to reset all options?
+mana_cost|Mana Cost|||||||
+guild_tab_open|Guild Menu|Kiltavalikko||||||
+merchant|Merchant|||||||
+[relics]||||||||
+relics|Relics|Aarteet|Reliquias|Реликвии|遗物|遺物|유물|Relikte
+||||||||
+[class]||||||||
+viking|Viking|Viikinki|Viking|Викинг|维京人|バイキング|바이킹|Wikinger
+pyromancer|Pyromancer|Pyromaani|Pyromaníaco|Пиромант|火占师|火の占い師|화염술사|Pyromane
+marksman|Marksman|Jousiampuja|Atirador|Стрелок|神射手|マークスマン|사수|Scharfschütze
+pirate|Pirate|Merirosvo|Pirata|Пират|海盗|パイレート（海賊）|해적|Piratin
+nomad|Nomad|Vaeltaja|Nomade|Кочевник|游牧民|ノーマッド|유목민|Nomade
+redneck|Redneck|Punaniska|Lenhador|Деревенщина|乡下人|レッドネック|레드넥|Bauer
+necromancer|Necromancer|Manaaja|Necromante|Некромант|死灵法师|ネクロマンサー|강령술사|Nekromant
+samurai|Samurai|Samurai|Samurai|Самурай|武士|サムライ|사무라이|Samurai
+paladin|Paladin|Temppeliritari|Paladino|Паладин|圣骑士|パラディン|타락한 성기사|Paladin
+amazon|Amazon|Amatsoni|Amazonas|Амазонка|亚马逊|アマゾン|아마조네스|Amazone
+demon_slayer|Demon Slayer|Pirunmetsästäjä|Matador de demônios|Убийца демонов|恶魔杀手|デーモン・スレイヤー|악마 사냥꾼|Dämonentöter
+demonspawn|Demonspawn|Pirulainen|Demonspawn|Демоническое Отродье|恶魔之子|悪魔の子|데몬스폰|Dämonenbrut
+stickman_steve|Stickman Steve|Teemu Tikku-Ukko|Stickman Steve|Стикмен Стив|曲棍球手史蒂夫|スティックマンスティーブ|막대인간 스티브|Strichmännchen Steve
+shaman|Shaman|Shamaani|Chamán|Шаман|萨满|シャーマン|주술사|Schamane
+white_mage|White Mage|Valkoinen velho|Mago Branco|Белый маг|白巫师|ホワイトメイジ|백마도사|Weißer Magier
+marauder|Marauder|Ryöväri|Saqueador|Мародер|掠夺者|マローダー|약탈자|Marodeur
+plague_doctor|Plague Doctor|Ruttolääkäri|Médico da Peste|Чумной доктор|瘟疫医生|ペスト医師|전염병 의사|Pestdoktor
+lancer|Shield Lancer|Kilpiseivästäjä|Lanceiro de Escudo|Копейщик|持盾骑兵|シールド・ランサー|랜서|Schild-Lanzenträger
+jotunn|Jötunn|Jötunn|Jötunn|Йотун|约通|ヨトゥン|요툰|Jötunn
+illusionist|Illusionist|Taikuri|Ilusionista|Иллюзионист|幻术师|イリュージョニスト|일루셔니스트|Illusionistin
+viking_passive|Viking's auto attack boosts ability damage. Five stacks maximum.|Viikingin hyökkäykset nostavat taitojen vahinkoa. Kasautuu maksimissaan 5 kertaa.|As habilidades do Viking aumentam a destruição das Ondas de Choque. Cinco pilhas no máximo.|Атаки Викинга увеличивают урон от Активных Талантов. Максимум пять зарядов.|维京人的能力会加剧冲击波的伤害。 最多五叠。|バイキング の スキルで は ショックウェーブ の ダメージ が ブースト さ れます。 5 スタック が 最大です。|바이킹의 능력은 충격파 피해를 증폭시킵니다. 최대 5 스택.|Die Wikingerfähigkeit verstärkt den Druckwellenschaden. Maximal fünf Aufladungen.
+pyromancer_passive|Pyromancer's inner fire melts ice around him, staying frozen shorter than others.|Pyromaanin sisäinen tuli sulattaa jään hänen ympäriltään, vähentäen jäädytyksen kestoa.|O fogo interior do Piromante derrete o gelo ao seu redor, permanecendo congelado por menos tempo que os outros.|Внутренний огонь Пироманта растапливает лед вокруг него, и заморозка действует на него меньше, чем на других.|火占师内部的火焰融化了周围的冰， 因此他比其他人保持冷冻的时间短。|パイロマンサー の 内なる 炎 は 周り の 氷 を 溶かす ため、 他 の キャラクター と 比べて 凍ら せ られる 時間 が 短く なります。|파이로맨서는 내면의 불꽃이 주변의 얼음을 녹여 다른 클래스보다 얼어 있는 시간이 짧습니다.|Das innere Feuer des Pyromanen schmilzt Eis um ihn herum, wodurch er kürzer als andere gefroren bleibt.
+marksman_passive|Surprise is the key element for Marksman. Marksman can throw a decoy to distract enemies for a short time.|Jousiampujan valtti on yllätyselementti. Hän voi heittää houkuttimen harhauttamaan vihollisia hetkellisesti.|A surpresa é o elemento chave para o Atirador. O Atirador pode lançar um chamariz para distrair os inimigos por um curto período de tempo.|Главный козырь Стрелка - элемент неожиданности. Стрелок может бросить приманку, чтоб отвлечь врагов.|出人意料是神射手的关键元素。 神射手可以投掷一个诱饵以短时间分散敌人的注意力。|マークスマン の 主要 要素 は サプライズです。 マークスマン は、 デコイ を 放出 して 短時間 敵 を 惑わす こと が できます。|기습은 마크스맨의 핵심 요소입니다. 마크스맨은 미끼를 던져 짧은 시간 동안 적의 주의를 분산시킬 수 있습니다.|Überraschung ist das Kernelement vom Scharfschützen. Er kann einen Köder werfen, um Feinde für kurze Zeit abzulenken.
+pirate_passive|With skill and luck, Pirate has 5% increased chance to find better loot.|Vuosien kokemuksella ja ripauksella onnea, merirosvolla on 5% parempi mahdollisuus löytää parempia esineitä.|Com habilidade e sorte, o Pirata tem 5% a mais de chance de encontrar um saque melhor.|Благодаря профессиональному чутью и фантастическому везению,  на 5% выше шанс найти предмет получше.|凭借技巧和运气，海盗获得更好的战利品的机会增加 5％。|スキルと 強運 を 併せ持つ パイレーツ は 戦利品 を 見つける 確率 が 5% 上昇 します。|기술과 운을 갖춘 해적은 더 좋은 아이템을 얻을 확률이 5% 높습니다.|Mit Geschick und Glück hat die Piratin eine um 5% erhöhte Chance, bessere Beute zu finden.
+nomad_passive|Nomad is able to run faster than others.|Vaeltaja liikkuu muita nopeammin.|O Nômade é capaz de correr mais rápido que os outros.|Кочевник передвигается быстрее, чем другие.|游牧民能比其他人跑得更快。|ノマド は 他 の キャラクター より も 速く 走る こと が できます。|노마드는 다른 클래스보다 더 빨리 달릴 수 있습니다.|Der Nomade ist in der Lage, schneller zu laufen als andere.
+redneck_passive|Every drink is a good drink. Redneck gets better effects from potions.|Juoma kuin juoma, punaniska saa parempia vaikutuksia rohdoista.|Toda bebida é uma boa bebida. O efeito das poções é mais forte no Caipira.|Пьёт всё, что горит. Деревенщина получает больший эффект от зелий.|每种饮料都很好。 乡巴佬能从魔药中获得更好的效果。|すべて の ドリンク は よい ドリンクです。 レッド ネック は、 ポーション の 効果 を より よく 受けます。|마실 수 있는 것이라면 뭐든 좋습니다. 레드넥은 포션으로부터 얻는 효과가 더 큽니다.|Jedes Getränk ist ein gutes Getränk. Der Bauer erhält bessere Effekte durch Tränke.
+necromancer_passive|Necromancer is able to resurrect fallen comrades 20% faster, also giving them a small HP shield.|Manaaja osaa herättää kuolleet toverit 20% nopeammin, samalla antaen heille pienen elämäkilven.|O Necromante é capaz de ressuscitar companheiros abatidos 20% mais rápido, também dá a eles um pequeno escudo HP.|Некромант поднимает павших товарищей на 20% быстрее, и при этом дарует малый щит Здоровья.|亡灵巫师能使已倒下战友的复活速度加快 20％，同时给他们一个小的生命值盾牌。|ネクロマンサーは、倒れた戦友を20%早く復活させ、少量のHPシールドを与えることができます。|네크로맨서는 쓰러진 동료를 20% 더 빠르게 부활시킬 수 있고, 부활한 동료에게 약간의 HP 방어를 줍니다.|Der Nekromant ist in der Lage, gefallene Kameraden 20% schneller wieder auferstehen zu lassen und ihnen einen kleinen HP-Schild zu geben.
+samurai_passive|Samurai doesn't have global cooldown in his abilities.|Samurain taidoilla ei ole yleistä palautumisaikaa.|O Samurai não tem resfriamento global em suas habilidades.|Самурай не имеет Общей Перезарядки Активных Талантов.|武士没有公共冷却时间的能力。|サムライ は グローバルクールダウン の スキル を 持って いません。|사무라이는 능력에 글로벌 쿨타임이 없습니다.|Der Samurai hat keine globale Abklingzeit in seinen Fähigkeiten.
+paladin_passive|Paladin has a chance to create a healing light after killing an enemy.|Temppeliritarilla on mahdollisuus luoda parantava valo vihollisen surmaamisen jälkeen.|O Paladino tem uma chance de criar uma luz curativa depois de matar um inimigo.|Шанс при убийстве врага сотворить луч исцеления.|圣骑士有机会在杀死敌人后创造一道治疗之光。|パラディンは、 敵を倒した後、 回復の光を作成できるチャンスがあります。|팔라딘은 적을 죽인 후 일정 확률로 치유의 빛을 생성합니다.|Der Paladin hat die Chance, ein heilendes Licht zu erschaffen, nachdem er einen Feind getötet hat.
+amazon_passive|Aware of her surroundings, Amazon takes less damage from traps.|Amatsoni on tietoinen ympäristöstään ja ottaa vähemmän vahinkoa ansoista.|Atenta à sua volta, a Amazona sofre menos danos das armadilhas.|Амазонка всегда начеку, поэтому она получает меньший урон от ловушек.|古希腊女战士很能觉察周围的环境， 因此从陷阱中受到的伤害更小。|周囲の状況に気を配るアマゾンは、 罠から受けるダメージが少なくなります。|아마존은 주변을 기민하게 살피므로 함정으로부터 받는 피해가 적습니다.|Die Amazone ist sich ihrer Umgebung bewusst und nimmt weniger Schaden durch Fallen.
+demon_slayer_passive|Demon Slayers weapon mastery enables him to use different skill sets depending if he wields a ranged or a melee weapon.|Pirunmetsästäjän taidokas aseidenkäyttö antaa hänelle eri taidot lähi- ja kaukotaisteluaseilla.|O domínio de armas dos Matadores de Demônios permite usar diferentes conjuntos de habilidades, dependendo se sua arma é de longo alcance ou de combate corpo a corpo.|Мастерство владения оружием позволяет ему использовать различные Способности в зависимости от того, какого типа оружием он пользуется: дальнего или ближнего боя.|屠魔者对武器的掌握使他能够使用不同的技能， 这取决于他是使用远程武器还是近战武器。|デーモンスレイヤー の 武器 に 習熟 する と、 接近戦用 の 武器 を 使用 する か 遠方 の 敵 を 攻撃 できる 武器 を 使用 する か に 応じて、 異なる スキル セット が 利用 可能 に なります。|데몬 슬레이어의 무기 숙련도는 원거리 무기와 근접 무기 중 무엇을 사용하는지에 따라 다른 기술들을 사용할 수 있게 합니다.|Die Waffenbeherrschung des Dämonentöters ermöglicht es ihm, verschiedene Fertigkeiten zu verwenden, je nachdem, ob er eine Fern- oder Nahkampfwaffe führt.
+demonspawn_passive|Demonspawn has the ability to fly, making dodging much easier.|Pirulainen osaa lentää, tehden väistelystä paljon helpompaa.|A Criatura Demoníaca tem a habilidade de voar, tornando a esquiva muito mais fácil.|Демоническое Отродье - летающее существо. Он легко преодолевает лавовые реки, озёра. Ему не страшны наземные ловушки.|恶魔之子有飞行能力，因此更善于躲避。|デーモンスポーンは、空を飛ぶスキルがあるため、 危険を簡単に避けることができます。|데몬스폰은 공중을 날 수 있어 회피가 더욱 쉽습니다.|Die Fähigkeit der Dämonenbrut zu fliegen macht das Ausweichen viel einfacher.
+shaman_passive|Shaman has a chance to strike enemies with a lightning strike when attacking.|Shamaanin hyökkäyksillä on mahdollisuus kutsua salamanisku vihollisiin.|O Xamã tem uma chance de atacar inimigos com um golpe de luz, quando atacado.|Шаман имеет шанс при атаке ударить врага молнией|萨满有机会在攻击时用雷击打击敌人。|シャーマンは、 攻撃時に敵に雷を落とすチャンスがあります。|주술사는 공격 시 일정 확률로 적에게 번개를 칩니다.|Der Schamane hat die Chance, Feinde mit einem Blitzschlag zu treffen, wenn er angreift.
+white_mage_passive|White Mage has a chance to remove a negative effect when healing and granting immunity against that effect for a short time.|Valkoisella velholla on mahdollisuus poistaa negatiiviset efektit parantaessaan ja antaa immuniteetti tälle efektille lyhyeksi ajaksi.|O Mago Branco tem uma chance de remover um efeito negativo quando cura e tem imunidade contra este efeito por um curto período.|Белый Маг имеет шанс при исцелении снять негативный эффект и даровать временный иммунитет к этом эффекту|白法师有机会在治疗时消除一种负面影响， 并在短时间内对此效果产生免疫。|ホワイトメイジ は、 ネガティブな 効果 から の 回復時 と その 効果 に 対して 短時間 免疫 を 与える 時に、 その 効果 を 取り除く チャンス が あります。|백마법사는 치유를 하거나 네거티브 효과에 대한 면역력을 부여할 때 일정 확률로 짧은 시간 동안 네거티브 효과를 제거합니다.|Der Weiße Magier hat die Chance, einen negativen Effekt zu beseitigen, wenn er heilt und gewährt kurzzeitig Immunität gegen diesen Effekt.
+marauder_passive|Marauder's finely crafted spikeballs are unaffected by ranged resistant and reflecting enemies.|Kaukokestävät ja heijastavat viholliset eivät vaikuta ryövärin piikkipalloihin.|As bolas de espinhos muito bem feitas do Saqueador não são afetadas por inimigos refletivos e resistentes à distância.|Атаки Мародера игнорируют сопротивление дальним атакам и отражение урона.|掠夺 者 精湛 的 使用 强大 的 流星 锤 能够 免疫 远程 伤害 并 反 伤 敌人|マローダー の 細かく 作った スパイクボール が 敵の 長距離 免疫 と 跳ね返す 能力 を 突破 する。|Marauder's 정교하게 제작 된 스파이크 볼은 원거리 저항과 반사효과의적에게 영향을받지 않습니다.|Die fein gearbeiteten Stachelbälle des Marodeurs sind unbeeinflusst von fernkampfresistenten und reflektierenden Gegnern.
+plague_doctor_passive|Plague Doctor has a 5% chance to inflict plague on enemies.|Ruttolääkärillä on 5% mahdollisuus levittää ruttoa vihollisiin.|O Médico da Peste tem 5% de chance de causar a peste nos inimigos.|Чумной доктор имеет 5% шанс заразить врага Чумой при попадании базовой атакой|瘟疫医生有5%的几率对敌人施加瘟疫效果。|ペスト医師は5％の確立で敵にペストをうつす|전염병 의사는 5% 확률로 적들에게 전염병을 일으킵니다.|Der Pestdoktor hat eine Chance von 5%, die Feinde mit einer Seuche zu infizieren.
+lancer_passive|Lancer gains an extra 5% of base damage reduction.|Kilpiseivästäjä saa 5% muita enemmän pohjavahingonvähennystä.|O Lanceiro ganha 5% de redução de dano básico extra.|Копейщик получает дополнительные 5% к базовому Снижению урона|骑兵获得额外5%的基本伤害减少|ランサーの基本ダメージ減少値が 5% 上昇します|렌서가 기본 데미지 5% 감소를 얻었습니다.|Lanzenträger erhalten zusätzlich 5% Basis-Schadenreduzierung.
+jotunn_passive|Little is known about the Jotunn…|||||||
+illusionist_passive|The Illusionist bends time and space gaining 5% extra Energy.|The Illusionist bends time and space gaining 5% extra Energy.|The Illusionist bends time and space gaining 5% extra Energy.|The Illusionist bends time and space gaining 5% extra Energy.|The Illusionist bends time and space gaining 5% extra Energy.|The Illusionist bends time and space gaining 5% extra Energy.|The Illusionist bends time and space gaining 5% extra Energy.|The Illusionist bends time and space gaining 5% extra Energy.
+season|Season|Kausi|Temporada|Сезон|赛季|シーズン|시즌|Saison
+solo_self_found|Solo Self Found|Itselöydetty||||||
+hardcore_desc|- Hardcore heroes will stay dead when they die and can only play with other hardcore heroes.|- Kuolevaiset sankarit pysyvät kuolleina ja voivat pelata vain muiden kuolevaisten kanssa.|- Heróis do hardcore permanecerão mortos quando morrem e só podem jogar com outros heróis hardcore.|При смерти персонажа в Режиме Хардкор ты безвозвратно теряешь персонажа и всю его экипировку. Не может взаимодействовать с персонажами Софткор режима.|——主要英雄死亡后将保持死亡状态，只能和其它主要英雄角色一起游戏。|- ハードコアヒーローは、死後に死んだままになり、他のハードコアヒーローと一緒の場合にのみプレイできます。|- 하드코어 영웅은 죽으면 사망한 채로 남게 되며, 오직 다른 하드코어 영웅과만 플레이할 수 있습니다.|- Hardcore-Helden bleiben tot wenn sie sterben und können nur mit anderen Hardcore-Helden spielen.
+season_desc|- Seasonal heroes start fresh and can only play with other seasonal heroes.|- Kausisankarit aloittavat alusta ja voivat pelata vain muiden kausisankareiden kanssa.|- Os heróis sazonais começam frescos e só podem brincar com outros heróis sazonais.|Сезон - временный режим игры. Игроки начинают каждый новый Сезон с нуля. Не может взаимодействовать с несезонными персонажами.|——阶段性英雄可以重新开始，只能与其他阶段性英雄一起游戏。|- シーズンヒーローはフレッシュな状態で開始し、他のシーズンヒーローと一緒の場合にのみプレイできます。|- 시즌 영웅은 새롭게 시작하며, 다른 시즌 영웅과만 플레이할 수 있습니다.|- Saisonhelden beginnen neu und können nur mit anderen Saisonhelden spielen.
+solo_self_found_desc|- Solo Self Found (SSF) heroes can only play solo. Market, trading and mailbox are disabled.|- Itselöydetty (SSF) sankarit voivat pelata vain yksin. Marketti, vaihtaminen ja postilaatikko on estetty.||||||
+wrathofmevius|Wrath of Mevius|Meviuksen Viha|Ira de Mevius|Гнев Мевиуса|梅威斯之怒|メビウスの怒り|메비우스의 분노|Zorn von Mevius
+slot|Slot|Paikka|Ranhura|Слот|空位|スロット|슬롯|Platz
+shop|Shop|Kauppa|Loja|Магазин|商店|ショップ|상점|Laden
+adventure_journal|Journal|Päiväkirja|Journal|Journal|Journal|Journal|Journal|Handbuch
+level|Level|Taso|Nivel|Уровень|关卡|レベル|레벨|Level
+empty|Empty|Tyhjä|Vazio|Пусто|空闲|空き|비어 있음|Leer
+requires_karp|REQUIRES KARP OF DOOM TO PLAY|VAATII KARP OF DOOM LISÄOSAN|EXIGE KARP OF DOOM PARA JOGAR|ТРЕБУЕТСЯ ДОПОЛНЕНИЕ KARP OF DOOM|需要购买末日 卡普才能玩|カープ・オブ・ドゥーム を購入する 必要があります|플레이하려면 파멸의 잉어 DLC 필요|ERFORDERT KARP OF DOOM
+requires_hell|REQUIRES DEPTHS OF HELL TO PLAY|VAATII DEPTHS OF HELL LISÄOSAN|EXIGE DEPTHS OF HELL PARA JOGAR|ТРЕБУЕТСЯ ДОПОЛНЕНИЕ DEPTHS OF HELL|需要购买地狱 深度才能玩|デプス・オブ・ヘル を購入する 必要があります|플레이하려면 지옥의 끝 DLC 필요|ERFORDERT DEPTHS OF HELL
+requires_mevius|REQUIRES WRATH OF MEVIUS TO PLAY|VAATII WRATH OF MEVIUS LISÄOSAN|EXIGE WRATH OF MEVIUS PARA JOGAR|ТРЕБУЕТСЯ ДОПОЛНЕНИЕ WRATH OF MEVIUS|需要购买梅维乌 斯之怒才能玩|メビウスの怒り を購入する 必要があります|플레이하려면 메비우스의 분노 DLC 필요|ERFORDERT WRATH OF MEVIUS
+requires_amazon|REQUIRES AMAZON PACK TO PLAY|VAATII AMAZON LISÄOSAN|EXIGE AMAZON PACK PARA JOGAR|ТРЕБУЕТСЯ ДОПОЛНЕНИЕ Class - Amazon|需要购买亚马逊包才能玩|アマゾンパック を購入する 必要があります|플레이하려면 아마존 팩 DLC 필요|ERFORDERT DAS AMAZON-PACK
+requires_shaman|REQUIRES SHAMAN PACK TO PLAY|VAATII SHAMAN LISÄOSAN|EXIGE SHAMAN PACK PARA JOGAR|ТРЕБУЕТСЯ ДОПОЛНЕНИЕ Class - Shaman|需要萨满游戏包才能玩|プレイするにはシャ ーマンパックが必要です|플레이하려면 주술사 팩이 필요합니다|ERFORDERT DAS SHAMAN-PACK
+requires_marauder|REQUIRES MARAUDER PACK TO PLAY|VAATII MARAUDER LISÄOSAN|EXIGE MARAUDER PACK PARA JOGAR|ТРЕБУЕТСЯ ДОПОЛНЕНИЕ Class - Marauder|需要掠夺者游 戏包才能玩|プレイするにはマロ ーダーパックが必要です|플레이하려면 약탈자 팩이 필요합니다|ERFORDERT DAS MARAUDER-PACK
+requires_plague_doctor|REQUIRES PLAGUE DOCTOR DLC TO PLAY|VAATII PLAGUE DOCTOR LISÄOSAN|EXIGE A DLC DO MÉDICO DA PRAGA PARA JOGAR|ТРЕБУЕТСЯ ДОПОЛНЕНИЕ Class - Plague Doctor|需要瘟疫医生 DLC 才能进行游戏|プレイするにはペスト医師 DLC が必要です|플레이하려면 전염병 의사 DLC 필요|ERFORDERT DAS PLAGUE DOCTOR DLC
+requires_lancer|REQUIRES LANCER DLC TO PLAY|VAATII LANCER LISÄOSAN|REQUER DLC DO LANCEIRO PARA JOGAR|ТРЕБУЕТСЯ ДОПОЛНЕНИЕ Class - Shield Lancer|需要装备长矛才能游戏|ランサー DLC の購入が必要です|플레이하기 위해서 렌서 콘텐츠 다운로드가 필요합니다|ERFORDERT DAS SHIELD LANCER DLC
+requires_jotunn|REQUIRES GATES OF VALHALLA DLC TO PLAY|REQUIRES GATES OF VALHALLA DLC TO PLAY|REQUIRES GATES OF VALHALLA DLC TO PLAY|REQUIRES GATES OF VALHALLA DLC TO PLAY|REQUIRES GATES OF VALHALLA DLC TO PLAY|REQUIRES GATES OF VALHALLA DLC TO PLAY|REQUIRES GATES OF VALHALLA DLC TO PLAY|ERFORDERT GATES OF VALHALLA DLC
+play|Play|Pelaa|Jogar|Играть|玩|プレイ|플레이|Spielen
+continue|Continue|Jatka|Continuar|Продолжить|继续|継続|이어하기|Fortfahren
+rename|Rename|Nimeä uudelleen|Renomear|Переименовать|重命名|名前を変更する|이름 변경|Umbenennen
+reset_talents|Reset Skills|Palauta taidot||||||
+reset_attributes|Reset Attribute Points|||||||
+reset|Reset|Palauta|Reiniciar|Сброс|重启|リセット|초기화|Zurücksetzen
+delete|Delete|Poista|Deletar|Удалить|删除|削除|삭제|Löschen
+whats_your_name|What's your name?|Mikä sinun nimesi on?|Qual seu nome?|Имя персонажа?|你的名字是？|あなたの名前は何ですか？|당신의 이름은?|Wie lautet dein Name?
+hardcore|Hardcore|Kuolevainen|Hardcore|Режим Хардкор|硬核模式|ハードコア|하드코어|Hardcore
+softcore|Softcore|Normaali|Softcore|Режим Софткор|普通模式|ソフトコア|소프트코어|Softcore
+exclusive|exclusive|lisäosa vaadittu|exclusivo|Эксклюзивный|专属|専属|전용|Exklusiv
+coming_soon|Coming Soon|Tulossa Pian|Em Breve|Скоро|即将到来|近日公開|근일 발매|Demnächst verfügbar
+username_validation|Illegal characters have been removed from your input resulting in the following text:|Laittomat merkit on poistettu syötteestäsi, minkä tuloksena on seuraava teksti:|Caracteres ilegais foram removidos de sua entrada resultando no seguinte texto:|Недопустимые символы были удалены, получен следующий текст:|非法字符已从您的输入中删除，导致出现以下文本：|不正な文字が入力から削除され、次のテキストが表示されます。|입력에서 잘못된 문자가 제거되어 다음 텍스트가 표시됩니다.|Unzulässige Zeichen wurden aus Ihrer Eingabe entfernt, was zu folgendem Text führte:
+delete_prompt|Are you sure you want to delete this character? Your character will be deleted permanently!|Oletko varma että haluat poistaa tämän hahmon? Hahmosi poistetaan pysyvästi!|Tem certeza de que pretende eliminar este personagem? Seu personagem será excluído permanentemente!|Удалить этого персонажа? Персонаж будет удален безвозвратно!|你确定要删除这个角色？ 你的角色将会永久消失！|このキャラクターを削除してもよろしいですか？ あなたのキャラクターが永久に消えますぞ！|이 캐릭터를 삭제하시겠습니까? 한 번 삭제하면 되돌릴 수 없습니다!|Bist du sicher, dass du dieses Charakter löschen willst? Dein Charakter wird unwiderruflich gelöscht!
+delete_failed|Could not delete character. Try again later.|Hahmoa ei voitu poistaa. Yritä myöhemmin uudelleen.|Não foi possível excluir o personagem. Tente mais tarde.|Не удалось удалить персонажа. Попробуйте позже.|无法删除字符。稍后再试。|文字を削除できませんでした。あとでもう一度試してみてください。|캐릭터를 삭제할 수 없습니다. 나중에 다시 시도하십시오.|Charakter konnte nicht gelöscht werden. Versuchen Sie es später erneut.
+talents_prompt|Are you sure you want to reset your Skill Points?|Oletko varma että haluat palauttaa taitosi?|Tem certeza de que deseja redefinir seus pontos de talento?|Сбросить очки талантов?|你确定要重置你的角色的技能点吗？|タレントポイントをリセットしてもよろしいですか？|재능 포인트를 초기화하시겠습니까?|Bist du sicher, dass du deine Talentpunkte zurücksetzen willst?
+attributes_prompt|Are you sure you want to reset your Attribute Points?|||||||
+||||||||
+[online]||||||||
+ingame_tab|Ingame|Pelinsisäinen|In-game|Локальный|游戏中|インゲーム|인게임|Im Spiel
+general_tab|General|Yleinen|Geral|Общий|通用|一般|일반|Allgemein
+trade_tab|Trade|Vaihto|Trocas|Торговля|交易|交換|무역|Handel
+guild_tab|Guild|Kilta|Guilda|Гильдия|公会|ギルド|길드|Gilde
+login|Login|Kirjaudu sisään|Entrar|Войти|登录|ログイン|로그인|Anmeldung
+register|Register|Rekisteröidy|Registro|Зарегистрироваться|注册|登録|회원가입|Registrieren
+logout|Logout|Kirjaudu ulos|Sair|Выйти|登出|ログアウト|로그아웃|Abmelden
+username|Username|Käyttäjänimi|Nome de usuário|Имя пользователя|用户名|ユーザー名|사용자 명|Benutzername
+password|Password|Salasana|Senha|Пароль|密码|パスワード|비밀번호|Passwort
+remember_username|Remember login|Muista kirjautuminen|Lembrar nome de usuário|Запомнить имя пользователя|记住用户名|ユーザー名を記憶する|사용자 명을 기억하십시오|Benutzername merken
+retype_password|Re-type password|Salasana uudelleen|Redigite a senha|Повторите пароль|重新输入密码|パスワードを再入力する|비밀번호 재입력|Passwort wiederholen
+email|E-mail|Sähköposti|E-mail|Эл. адрес|邮箱|Eメール|이메일|E-Mail
+forgot_password|Forgot password?|Unohditko salasanasi?|Esqueceu a senha?|Забыли пароль?|忘记密码？|パスワードを忘れましたか？|비밀번호를 분실하셨습니까?|Passwort vergessen?
+password_too_short|Passwords too short.|Salasana liian lyhyt.|Senha muito curta.|Слишком короткий пароль.|密码过短。|パスワードが短すぎます。|비밀번호가 너무 짧습니다.|Passwört zu kurz.
+password_no_match|Passwords do not match.|Salasanat eivät täsmää.|A senha não combina.|Пароли не совпадают.|密码不匹配。|パスワードが一致しません。|비밀번호가 일치하지 않습니다.|Passwörter stimmen nicht überein.
+information_missing|Insufficient information.|Tietoja puuttuu.|Informações insuficientes.|Недостаточно информации.|信息不足。|情報が不十分です。|정보가 불충분합니다.|Unzureichende Informationen.
+logging_in|Logging in...|Kirjaudutaan sisään...|Entrando...|Вход в систему...|正在登陆。。。。。。|ログインしています...|로그인 중...|Einloggen...
+wrong_password|Wrong password|Väärä salasana|Senha incorreta|Неверный пароль|错误密码|パスワードが間違っています|잘못된 비밀번호|Falsches Passwort
+cannot_login|Cannot login to online services.|Kirjautuminen verkkopalveluihin epäonnistui.|Não foi possível se conectar aos serviços on-line.|Не удается зайти в онлайн-сервисы.|无法登录在线服务。|オンラインサービスにログインできません。|온라인 서비스에 로그인할 수 없습니다.|Anmeldung bei Online-Diensten nicht möglich.
+description|Description|Selite|Descrição|Описание|描述|説明|소개문|Beschreibung
+player_list_guild|Guild Members|Killan jäsenet|Membros da Guilda|Члены гильдии|公会成员|ギルドメンバー|길드원|Gildenmitglieder
+join_discord|Join Hero Siege Discord server!|Liity Hero Siege Discord keskusteluun!|Junte-se ao servidor do Hero Siege no Discord!|Присоединяйся к Discord-серверу Hero Siege!|加入英雄围攻Discord服务器！|Hero Siege Discordサーバーに参加しましょう！|히어로 시즈의 Discord 서버에 참여하십시오!|Treten Sie dem Hero Siege Discord Server bei!
+report_bugs|Report bugs|Raportoi bugeja|Reportar erros|Сообщить о баге|报告错误|レポートのバグ|보고서 버그|Fehler melden
+players_online|Players Online|Pelaajia online|Jogadores Online|Игроков в сети|在线玩家|オンラインプレイヤー|온라인 플레이어|Spieler online
+players|Players|Pelaajaa|Jogadores|Игроки|玩家|プレイヤー|플레이어|Spieler
+create_private_game|Create Game|Luo Peli|Crie um Jogo|Создать игру|创建私人游戏|プライベートゲームを作成する|비공개 게임 생성|Erstelle ein Spiel
+join_public_game|Find Public Game|Etsi julkinen peli|Participar de um Jogo Público|Присоединиться к публичной игре|加入公共游戏|パブリックゲームに参加する|공개 게임 참가|Öffentliches Spiel
+join_private_game|Join Game|Liity peliin|Entrar no Jogo|Присоединиться|加入游戏|ゲームに参加する|게임 참가|Spiel beitreten
+show_private_games|Show private games|Näytä yksityiset pelit|Mostrar jogos privados|Показать приватные игры|显示私人游戏|プライベートゲームを表示する|비공개 게임 보기|Private Spiele anzeigen
+public_game_not_found|No public game was found with the current search criteria. Starting a new public game.|Nykyisillä hakuehdoilla ei löytynyt julkista peliä. Aloitetaan uusi julkinen peli.|Nenhum jogo público foi encontrado com os critérios de pesquisa atuais. Iniciando um novo jogo público.|Общедоступной комнаты с текущими критериями поиска не найдено. Создание новой комнаты.|当前的搜索条件未找到公开游戏。开始一个新的公共游戏。|現在の検索条件で公開ゲームは見つかりませんでした。新しい公開ゲームを開始します。|현재 검색 기준에 맞는 공개 게임이 없습니다. 새로운 공개 게임을 시작합니다.|Mit den aktuellen Suchkriterien wurde kein öffentliches Spiel gefunden. Starte ein neues öffentliches Spiel.
+leaderboards|Leaderboards|Pistetaulukko|Placar de líder|Таблицы лидеров|排行榜|リーダーボード|리더보드|Bestenliste
+hero_selection|Hero Selection|Hahmovalikko|Seleção do herói|К выбору героя|英雄选择|ヒーローセレクション|영웅 선택|Heldenauswahl
+developer|Developer|Kehittäjä|Desenvolvedor|Разработчик|开发者|開発者|개발자|Entwickler
+moderator|Moderator|Moderaattori|Moderador|Модератор|mod制作者|mod製作者|모더레이터|Moderator
+admin|Admin|Ylläpitäjä|Admin|Администратор|管理员|管理者|관리자|Administrator
+player|Player|Pelaaja|Jogador|Игрок|玩家|プレーヤー|플레이어|Spieler
+hero_level|Hero level|Sankaritaso|Nível do herói|Уровень Героев|英雄等级|ヒーローレベル|영웅 레벨|Helden-Level
+; wormhole|Wormhole ; in zones|Madonreikä ; in zones|Madonreikä ; in zones|Madonreikä ; in zones|Madonreikä ; in zones|Madonreikä ; in zones|Madonreikä ; in zones|Madonreikä ; in zones
+expansion|Expansion|Lisäosa|Expansão|Дополнение|扩展|拡張|확장팩|Erweiterung
+ready|Ready|Valmis|Pronto|Готово|准备|準備完了|준비|Bereit
+refresh|Refresh|Päivitä|Atualizar|Обновить|刷新|リフレッシュ|새로 고침|Aktualisieren
+enter|Enter|Mene|Entrar|Войти|进入|入力|입장|Betreten
+wep_very_fast|Very Fast|Hyvin nopea|Muito Rápido|Очень быстро|极快|とても早い|매우 빠르게|Sehr Schnell
+wep_fast|Fast|Nopea|Rápido|Быстро|快速|早い|빠르게|Schnell
+wep_moderate|Moderate|Kohtalainen|Moderado|Умеренно|中速|普通|적당히|Moderat
+wep_slow|Slow|Hidas|Devagar|Медленно|缓慢|遅い|천천히|Langsam
+wep_very_slow|Very Slow|Hyvin hidas|Muito Devagar|Очень медленно|极慢|とても遅い|매우 천천히|Sehr Langsam
+write_message|Write|Kirjoita|Escrever|Написать|写|記入|쓰기|Schreiben
+invalid_code|No internet connection or invalid code.|Ei internet yhteyttä tai virheellinen koodi.|Sem ligação à Internet ou código inválido.|Нет подключения к сети или неверный код.|无网络连接或代码不可用|インターネットの無効接続もしくはコード不可用です。|인터넷에 연결되어 있지 않거나 유효하지 않은 코드입니다.|Keine Internetverbindung oder ungültiger Code.
+server_down|No internet connection or server down.|Ei internet yhteyttä tai palvelin ei vastaa.|Sem ligação à Internet ou servidor desligado .|Нет подключения к сети или сервер недоступен.|无网络连接或服务器不可用|インターネットの無効接続もしくはサーバーダウンです。|인터넷에 연결되어 있지 않거나 서버가 다운되었습니다.|Keine Internetverbindung oder Serverausfall.
+||||||||
+[GUILDS]||||||||
+guilds|Guilds|Killat|Guildas|Гильдии|公会|ギルド|길드|Gilden
+guild_name|Guild Name|Killan nimi|Nome da Guilda|Название гильдии|公会名|ギルド名|길드 명|Gildenname
+guild_tag|Guild Tag (max 4 symbols)|Killan lyhenne (max 4 symbolia)|Iniciais da guilda (máximo 4 símbolos)|Тег гильдии (максимум 4 символа)|公会标签（最多四个）|ギルドタグ（最大4記号）|길드 태그 (기호 최대 4개)|Gilden-Tag (max. 4 Symbole)
+guild_desc|Guild Description|Killan selite|Descrição da guilda|Описание гильдии|公会描述|ギルドの説明|길드 소개문|Gildenbeschreibung
+guild_perk_level_10|Daily Guild Quest (10)|||||||
+guild_perk_level_20|Additional Daily Quest (20)|||||||
+guild_perk_level_30|10% Discount to Mercenary Hire (30)|||||||
+guild_perk_level_40|10% Discount to merc resurrection (40)|||||||
+guild_perk_level_50|Unlock Guild Stash (50)|||||||
+guild_perk_level_60|Tier 1 Perk (60)|||||||
+guild_perk_level_70|Second Tier 1 Perk (70)|||||||
+guild_perk_level_80|Tier 2 Perk (80)|||||||
+guild_perk_level_90|Second Tier 2 Perk (90)|||||||
+guild_perk_level_100|Tier 3 Perk (100)|||||||
+guild_permission_no_access|No access|||||||
+guild_permission_view_only|View only|||||||
+guild_permission_add_items|Add items|||||||
+guild_permission_full_access|Full access|||||||
+guild_tab_display|Display|||||||
+guild_tab_perks|Perks|||||||
+guild_tab_settings|Settings|||||||
+guild_officer_color|Officer color|||||||
+guild_member_color|Member color|||||||
+guild_officer_name|Officer name|||||||
+guild_member_name|Member name|||||||
+||||||||
+red|Red|Punainen|Vermelho|Красный|红|赤|빨강|Rot
+green|Green|Vihreä|Verde|Зеленый|绿|緑|초록|Grün
+blue|Blue|Sininen|Azul|Синий|蓝|青|파랑|Blau
+no_guild|You are not in a guild. Would you like to create one?|Et ole killassa. Haluaisitko luoda killan?|Você não está em uma guilda. Gostaria de criar uma?|У вас нет гильдии. Хотите создать?|你尚未加入公会。 你希望创建一个公会吗？|あなたはまだギルドに入っておりません。 1つ作成してみたらどうですか？|소속된 길드가 없습니다. 길드를 생성하시겠습니까?|Du bist nicht in einer Gilde. Möchten Sie eine erstellen?
+resign|Resign|Eroa|Demitir-se|Отказаться|放弃|断念する|지역|Rücktritt
+create|Create|Luo|Criar|Создать|创建|作成する|생성|Erstellen
+yes|Yes|Kyllä|Sim|Да|是|はい|예|Ja
+no|No|Ei|Não|Нет|否|いいえ|아니요|Nein
+confirm|Confirm|Hyväksy|Confirmar|Подтвердить|确认|確認|확인|Bestätigen
+cancel|Cancel|Peruuta|Cancelar|Отменить|取消|キャンセル|취소|Abbrechen
+retry|Retry|Yritä uudelleen|Tentar novamente|Повторить|重试|リトライ|다시 해 보다|Wiederholen
+guild_created|Guild created successfully.|Kilta luotu onnistuneesti.|Guilda criada com sucesso.|Гильдия успешно создана|公会已成功创建。|ギルドの設置に成功しました|길드가 성공적으로 생성되었습니다.|Gilde erfolgreich erstellt.
+join|Join|Liity|Participar|Присоединиться|加入|参加|참가하기|Beitreten
+request_trade|has sent a trade request|lähetti vaihtopyynnön|enviou um pedido de troca|отправил торговый запрос|已发送交易请求|トレードリクエストを送信しました|거래 요청을 보냈습니다.|hat eine Handelsanfrage gesendet
+request_guild|has sent a request to join|lähetti pyynnön liittyä|enviou um pedido de adesão|хочет присоединиться|已发送加入请求|参加リクエストを送信しました|가입 요청을 보냈습니다.|hat eine Beitrittsanfrage gesendet
+request_trade_sent|Pending trade request with|Odotetaan kauppapyyntöä pelaajalta|Pedido de negociação pendente com|Отправлен запрос на торговлю с|待处理的贸易要求|保留中の取引リクエスト|거래 요청 대기 중|Ausstehende Handelsanfrage mit
+friend_list|Friend List|Ystävälista|Lista de amigos|Список друзей|好友列表|友達リスト|친구 목록|Freundesliste
+friend_enter_id|Enter friend id:|Syötä ystävän id:|Insira a id do amigo:|Введите идентификатор друга:|输入朋友ID：|友達IDを入力してください：|친구 ID 입력 :|Freund-ID eingeben:
+friend_add|Add Friend|Lisää ystävä|Adicionar amigo|Добавить в друзья|添加好友|友人を追加する|친구 추가|Freund hinzufügen
+friend_remove|Remove Friend|Poista ystävä|Remover amigo|Удалить из друзей|删除朋友|友達を削除する|친구 제거|Freund entfernen
+invite|Invite|Kutsu||||||
+guild_link_warning|Careful! This is a third party link that is NOT associated with Panic Art Studios, but put here by your guild manager. Are you sure you wish to proceed to |||||||
+||||||||
+[shop]||||||||
+clothing|Clothing|Vaatteet|Roupas|Одежда|服装|衣装|복장|Bekleidung
+minion|Mercenary|Palkkasoturi|Mercenário|Наемник|部下|ミニオン（部下）|부하|Söldner
+active|Active|Aktiivinen|Ativo|Активный|活跃|有効|활성화|Aktiv
+passive|Passive|Passiivinen|Passivo|Пассивный|被动|パッシブ|패시브|Passiv
+name_color|Name color|Nimen väri|Cor do nome|Цвет имени|名字颜色|名前の色|이름 색깔|Namensfarbe
+exit_shop|Exit shop|Poistu kaupasta|Sair da loja|Выйти|退出商店|ショップから出る|상점에서 나가기|Shop verlassen
+melee|Melee|Lähitaistelu|Corpo a corpo|Ближний Бой|近战|近接|근접|Nahkampf
+ranged|Ranged|Kaukotaistelu|Longo alcance|Дальний Бой|远程|遠隔|원거리|Fernkampf
+name|Name|Nimi|Nome|Имя|名字|名前|이름|Bennenen
+use|use|käytä|Usar|использовать|使用|使用|사용|nutzen
+choose_portrait|Portrait|Valitse kuvake|Retrato|Портрет|肖像|ポートレート|초상화|Porträt
+hud|Interface|Käyttöliittymä|Interface|Интерфейс|界面|インターフェース|상호 작용|Interface
+not_enough_rubies|not enough rubies|ei tarpeeksi rubiineja|Não a bastante rubis|недостаточно Рубинов|红宝石不足|ルビーが足りない|루비가 부족합니다|zu wenig Rubine
+not_enough_crystals|not enough crystals|ei tarpeeksi kristalleja|Cristais insuficientes|недостаточно Кристаллов|水晶不足|クリスタルが足りない|크리스탈이 부족합니다|zu wenig Kristalle
+not_enough_gold_need|Not enough gold. You need|Ei tarpeeksi kultaa. Tarvitset|Ouro insuficiente. Você precisa de|Недостаточно Золота. Вам нужно|黄金不足。你需要|ゴールドが足りません。あと _ 必要です|골드가 충분하지 않습니다. ___만큼이 더 필요합니다.|Nicht genug Gold. Du brauchst
+not_enough_gold|not enough gold|ei tarpeeksi kultaa||||||
+coins_to_reset_talents|coins to reset talents.|kultaa palauttaaksesi taitosi.|moedas para resetar os talentos.|монет для сброса талантов.|才能重新设定角色技能。|タレントをリセットするまで _ 枚のコイン|재능을 리셋하는데 ___만큼의 코인이 필요합니다.|Münzen, um die Talente zurückzusetzen.
+coins_to_rename|coins to rename.|kultaa uudelleennimetäksesi.|coins to rename.|coins to rename.|coins to rename.|coins to rename.|coins to rename.|Münzen um dich umzubenennen.
+saving_shop|Saving shop...|Tallennetaan kauppaa...|Salvando a loja...|Сохранение изменений...|保存商店...|ショップを保存しています...|상점 저장 중...|Speichern...
+unlocked|Unlocked|Avattu|Desbloqueado|Разблокировано|已解锁|ロックが解除された|잠금 해제|Entsperrt
+unlock|Unlock|Avaa|Desbloquear|Разблокировать|开锁|ロック解除|터놓다|Freischalten
+lock|Lock|Lukitse|Lock|Lock|Lock|Lock|Lock|Sperren
+buy_key|Buy Key|Osta Avain|Chave de Compra|Купить Ключ|购买密钥|キーを購入|구매 키|Schlüssel Kaufen
+requires_hero_level|Requires Hero Level|Vaatii sankaritason|Requer Nível Herói|Требуется Уровень Героев|需要英雄等级|ヒーローレベルが必要|필요한 영웅 레벨|Benötigt Helden-Level
+halloween|Halloween|Halloween|Halloween|Хэллоуин|万圣节|ハロウィーン|할로윈|Halloween
+christmas|Christmas|Joulu|Natal|Рождество|圣诞节|クリスマス|크리스마스|Weihnachten
+reward|Reward|palkinto|Recompensa|Награда|报酬|報酬|보상|Belohnung
+easter_egg|Shh... It's a secret.|Shh... Se on salaisuus.|Shh... É um segredo.|Тсс... Это секрет.|嘘...它是个秘密。|シーっ...これは秘密です。|쉿... 이건 비밀이야.|Shh... Es ist ein Geheimnis.
+featured|Featured|Esittelyssä|Destacado|Рекомендуем|特征|注目の|추천|Vorgestellt
+accessories|Accessories|Lisävarusteet|Acessórios|Аксессуары|配件|アクセサリー|액세서리|Zubehör
+items|Items|Esineet|Itens|Предметы|项目|アイテム|아이템|Gegenstände
+gems|Gems|Jalokivet|Gemas|Самоцветы|宝石|宝石|보석|Edelsteine
+locked|Locked|Lukittu|Trancado|Заблокировано|锁着的|ロック済み|잠김|Gesperrt
+deactivate|Deactivate|Deaktivoi|Desativar|Деактивировать|禁用|無効化|비활성화|Deaktivieren
+purchase|Purchase|Osta|Compra|Купить|购买|購入|구매|Kaufen
+hats|Hats|Hatut|Chapéus|Шляпы|帽子|帽子|모자|Hüte
+basic|Basic|Perus|Básico|Базовые|基本|ベーシック|기본|Basis
+anniversary|Anniversary|Vuosipäivä|Aniversário|На Годовщину|周年纪念日|アニバーサリー|기념일|Jahrestag
+skins|Skins|Ulkonäöt|Roupas|Облики|皮|スキン|스킨|Skins
+hero|Hero|Sankari|Herói|Герой|英雄|ヒーロー|영웅|Held
+companions|Companions|Kumppanit|Companheiros|Компаньоны|同伴|仲間|동반자|Gefährten
+equip_ingame|This item can be equipped after choosing a character|Tämä esine voidaan pukea hahmon valitsemisen jälkeen|Este item pode ser equipado após escolher um personagem|Этот предмет можно надеть после выбора персонажа.|选择角色后即可装备|このアイテムはキャラクターを選択した後に装備することができます|이 아이템은 캐릭터 선택 후 착용 가능합니다.|Dieser Gegenstand kann nach Auswahl eines Charakters ausgerüstet werden
+equip_not_compatible|This item isn't compatible with your current equipment|Tämä tuote ei ole yhteensopiva nykyisten varusteidesi kanssa|Este item não é compatível com seu equipamento atual|Этот предмет несовместим с вашим текущим снаряжением|此项与您当前的设备不兼容|このアイテムは現在の機器と互換性がありません|이 항목은 현재 장비와 호환되지 않습니다.|Dieser Artikel ist nicht mit Ihrer aktuellen Ausrüstung kompatibel
+season_supporter|Season Supporter|Kausitukija|Season Supporter|Спонсор Сезона|Season Supporter|Season Supporter|Season Supporter|Saison Supporter
+season_supporter_explanation|Only available during the current Season|Saatavilla vain tämän kauden ajan|Only available during the current Season|Only available during the current Season|Only available during the current Season|Only available during the current Season|Only available during the current Season|Only available during the current Season
+season_supporter_hint|You have: [token_count]|Sinulla on: [token_count]|You have: [token_count]|You have: [token_count]|You have: [token_count]|You have: [token_count]|You have: [token_count]|You have: [token_count]
+show_owned|Show owned|Näytä omistetut|Show owned|Show owned|Show owned|Show owned|Show owned|Show owned
+show_locked|Show locked|Näytä lukitut|Show locked|Show locked|Show locked|Show locked|Show locked|Show locked
+show_all_skins|Show all skins|Näytä kaikki ulkonäöt|Show all skins|Show all skins|Show all skins|Show all skins|Show all skins|Show all skins
+wings|Wings|Siivet||||||
+back_accessories|Back Accessories|Selkätarvikkeet||||||
+buy_gold_token|Buy Gold Token|Osta kultapoletti||||||
+buy_gold_token_long|Would you like to buy a Gold Token for|Haluaisitko ostaa kultapoletin||||||
+gold_token|Gold Token|Kultapoletti||||||
+season_reward_portrait|Portrait|Kuvake||||||
+season_reward_effect|Player Effect|Pelaajaefekti||||||
+season_reward_wings|Wings|Siivet||||||
+season_reward_portal|Portal Skin|Portaaliulkonäkö||||||
+season_reward_back|Back Accessory|Selkävaruste||||||
+||||||||
+||||||||
+[ingame]||||||||
+stun_duration|Stun Duration|Tainnutuksen kesto|Duração do Atordoamento|Длительность Оглушения|眩晕持续时间|気絶している時間|스턴 기간|Betäubungsdauer
+proc_chance|Proc Chance|Iskumahdollisuus|Chance de Proc|Шанс срабатывания|触发几率|プロク・チャンス|임의의 기회|Auslösechance
+duration|Duration|Kesto|Duração|Длительность|持续时间|時間|기간|Dauer
+seconds|Seconds|Sekuntia|Segundos|сек.|秒数|秒|초|Sekunden
+second|Second|Sekunti|Segundo|сек.|秒数|秒|초|Sekunde
+aura|Aura|Aura|Aura|Аура|光环|オーラ|영기|Aura
+slow_duration|Slow Duration|Hidastuksen kesto|Duração Lenta|Длительность Замедления|减少持续时间|遅い期間|슬로우 기간|Verlangsamungsdauer
+absorption|Absorption|Imeytyminen|Absorção|Поглощение|吸收|吸収|흡수|Absorption
+offensive_skills|Offensive Abilities|Hyökkäystaidot|Habilidades Ofensivas|Навыки нападения|进攻技能|攻撃スキル|공격 스킬|Offensive Fähigkeiten
+defensive_skills|Defensive Abilities|Puolustustaidot|Habilidades Defensivas|Навыки обороны|防御技能|防御スキル|방어 스킬|Defensive Fähigkeiten
+magic_skills|Magic Abilities|Taikataidot|Habilidades Mágicas|Магические навыки|魔法技能|魔法スキル|마법 스킬|Magische Fähigkeiten
+accept_trade|Trade Accepted|Vaihto hyväksytty|Troca Aceita|Сделка подтверждена|已接受交易|取引承認|거래 수락|Tausch akzeptiert
+open_inventory|Open Inventory|Avaa reppu|Abrir Inventário|Открыть инвентарь|打开仓库|目録を開く|인벤토리 열기|Inventar Öffnen
+agree|Agree|Hyväksy|Concordo|Согласен|同意|同意|동의하기|Zustimmen
+close|Close|Sulje|Fechar|Закрыть|关闭|閉じる|닫기|Schließen
+extra_strength|Extra Strength|Lisävoimaa|Força Extra|Дополнительная сила|额外的力量|追加ストレングス|여분의 힘|Extra-Stärke
+extra_energy|Extra Energy|Lisäenergiaa|Energia Extra|Дополнительная энергия|额外的能量|追加エナジー|여분의 에너지|Extra-Energie
+extra_armor|Extra Armor|Lisäsuojaa|Armadura Extra|Дополнительная броня|额外的护甲|追加アーマー|여분의 갑옷|Extra-Rüstung
+extra_stamina|Extra Stamina|Lisäelämää|Vigor Extra|Дополнительная выносливость|额外的精力|追加スタミナ|여분의 스태미나|Extra-Durchhaltevermögen
+healing|Healing|Parannus|Cura|Исцеление|康复|治癒|치유|Heilung
+magic_resistance|Magic Resistance|Taika-vastustus|Registência Mágica|Магическое Сопротивление|魔法抗性|魔法耐性|마법 저항|Magischer Widerstand
+physical_resistance|Physical Resistance|Fyysinen vastustus|Resistência Física|Физическое Сопротивление|物理抗性|物理耐性|물리적 저항|Physischer Widerstand
+handed|Handed|Kätinen|Entregue|ручный|已上交|手渡されました|장비함|Händig
+buyback|Buyback|Takaisinosto|Recomprar|Выкупить|回购|買い戻し|되사기|Rückkauf
+stacks|Stacks|Pinoa|Pilhas|Заряды|堆|スタック|스택|Stapel
+loadouts|Loadouts|Varustukset|Cargas|Наборы экипировки|装备栏|装備|로드 아웃|Ausrüstungen
+gem_pouch|Gem Pouch|Riimupussi|Bolsa de Gemas|Мешочек с самоцветами|宝石袋|宝石ポーチ|보석 파우치|Edelsteintasche
+seed_pouch|Seed Pouch|Siemenpussi|Bolsa de Sementes|Мешочек с семенами|种子小袋|シードポーチ|씨 파우치|Samentasche
+key_ring|Key Ring|Avainnippu|Key Ring|Key Ring|Key Ring|Key Ring|Key Ring|Key Ring
+consumable|Consumable|Käytettävät|Consumable|Consumable|Consumable|Consumable|Consumable|Consumable
+rune|Rune|Riimu|Runa|Руна|符文|ルーン|룬 문자|Rune
+minion_inventory|Mercenary|Palkkasoturi|Mercenário|Наемник|雇佣兵|傭兵|용병|Söldner
+speak|Speak|Puhu|Falar|Говорить|说|話す|말하기|Sprechen
+sell|Sell|Myy|Vender|Продать|卖|売る|팔기|Verkaufen
+sell_all|Sell All|Myy kaikki|Vender Tudo|Продать всё|出售所有|すべて売却|전부 팔기|Alles verkaufen
+browse|Browse|Selaa|Procurar|Просмотреть|浏览|拾い読み|장비 보기|Stöbern
+inspect|Inspect|Tutki|Inspecionar|Осмотреть|检查|詳しく調べる|비교|Inspizieren
+drop|Drop|Pudota|Dropar|Выбросить|丢弃|落とす|떨어뜨리기|Droppen
+equip|Equip|Pue|Equipar|Надеть|装备|装備|장착|Ausrüsten
+stash|Stash|Pankki|Esconderijo|Тайник|存放|しまう|보관함|Truhe
+guild_stash|Guild Stash|Kilta Pankki||||||
+retrieve|Retrieve|Palauta|Recuperar|Забрать|恢复|回復|꺼내기|Zurückholen
+inventory|Inventory|Reppu|Inventario|Инвентарь|库存|インベントリー|인벤토리|Inventar
+quests|Quests|Tehtävät|Missões|Задания|任务|クエスト|퀘스트|Quests
+accept_quest|Accept Quest|Hyväksy tehtävä|Aceitar Missão|Взять задание|接受任务|クエストを受ける|퀘스트 수락|Quest annehmen
+return_quest|Return Quest|Palauta tehtävä|Retornar Missão|Завершить задание|返回任务|クエストに戻る|퀘스트 반납|Quest abgeben
+delete_quest|Delete quest|Poista tehtävä|Apagar quest|Отказаться от задания|删除任务|クエストを削除|퀘스트 삭제|Quest löschen
+quest_completed|Quest completed!|Tehtävä suoritettu!|Quest completada!|Задание завершено!|任务完成！|クエスト完了！|퀘스트 완료!|Quest abgeschlossen!
+destroy|Destroy|Tuhoa|Destruir|Уничтожить|毁掉|破壊する|파괴|Zerstören
+upgrade|Upgrade|Päivitä|Atualizar|Улучшение|升级|アップグレード|업그레이드|Aufrüsten
+unequip|Unequip|Riisu|Sem equipamentos|Снять|脱下装备|装備を取り去る|해제|Ablegen
+sockets|Sockets|Paikat|Soquetes|Гнёзда|槽位|ソケット|소켓|Sockel
+show_sockets|Show sockets|Näytä paikat|Show sockets|Show sockets|Show sockets|Show sockets|Show sockets|Sockel anzeigen
+hide_sockets|Hide sockets|Piilota paikat|Hide sockets|Hide sockets|Hide sockets|Hide sockets|Hide sockets|Sockel verstecken
+clear_socket|Clear Socket|Tyhjennä paikka|Limpar Soquete|Очистить гнёзда|清除槽位|ソケットの削除|소켓 클리어|Sockel entfernen
+clear_socket_prompt|Are you sure you want to clear sockets from this item?|Oletko varma että haluat tyhjentää tämän esineen paikat?|Tem certeza de que deseja limpar os encaixes deste item?|Вы уверены, что хотите очистить гнёзда этого предмета?|您确定要清除此项目中的套接字吗?|このアイテムのソケットをクリアしますか？|정말로 이 아이템의 소켓을 지우시겠습니까?|Bist du sicher, dass du die Sockel für diesen Gegenstand entfernen willst?
+||||||||
+||||||||
+market|Tarethiel Market|||||||
+craft|Craft|Valmista|Arte|Создать|工艺|クラフト|조합|Herstellen
+crafting|Crafting|Valmistus|Criações|Создание|手工艺|クラフトしています|조합|Herstellung
+random|random|satunnainen|randômico|случайный|随机的|ランダム|무작위|zufällig
+merge|Merge|Yhdistä|Fundir|Объединить|合并|マージ|합치기|Verschmelzen
+difficulty|Difficulty|Vaikeusaste|Dificuldade|Сложность|难度|難易度|난이도|Schwierigkeit
+change_difficulty|Change Difficulty|Vaihda vaikeusastetta|Alterar Dificuldade|Изменить уровень сложности|改变难度|難易度を変更|난이도 변경|ändere die Schwierigkeit
+normal|Normal|Normaali|Normal|Обычная|普通|標準|보통|Normal
+nightmare|Nightmare|Painajainen|Pesadelo|Кошмар|噩梦|悪夢|악몽|Albtraum
+hell|Hell|Helvetti|Inferno|Ад|地狱|地獄|지옥|Hölle
+inferno|Inferno|Piina|Outro Mundo|Инферно|炼狱|煉獄|불지옥|Inferno
+solo_rank|Solo Ranking|Yksinpelisijoitus|Ranking Solo|Соло рейтинг|单人赛排名|個人順位|솔로 랭킹|Solo-Ranking
+duo_rank|Duo Ranking|Kaksinpelisijoitus|Ranking Duo|Рейтинг для двух игроков|双人赛排名|コンビ順位|듀오 랭킹|Duo-Ranking
+trio_rank|Trio Ranking|Kolminpelisijoitus|Ranking Trio|Рейтинг для трех игроков|三人赛排名|トリオ順位|트리오 랭킹|Trio-Ranking
+quad_rank|Quad Ranking|Nelinpelisijoitus|Ranking Quad|Рейтинг для четырех игроков|四人赛排名|4 人組順位|스쿼드 랭킹|Quad-Ranking
+hero_rank|Hero Level Ranking|Sankaritasosijoitus|Ranking Nível Herói|Рейтинг по Уровню Героев|英雄等级排名|ヒーロー・レベル順位|영웅 레벨 랭킹|Heldenlevel-Ranking
+common|Common|Tavallinen|Comum|Обычный|普通|普通|일반|Üblich
+superior|Superior|Epätavallinen|Superior|Превосходный|卓越|優越|고급|Hochwertig
+rare|Rare|Harvinainen|Raro|Редкий|稀有|レア|희귀|Selten
+legendary|Legendary|Legendaarinen|Lendário|Легендарный|传奇|伝説|전설|Legendär
+mythic|Mythic|Myyttinen|Mítico|Мифический|神话|神話|신화|Mythisch
+angelic|Angelic|Enkeli|Agélico|Ангельский|天使的|エンジェリック|천사의|Himmlisch
+satanic|Satanic|Saatanallinen|Satanico|Сатанический|恶魔|魔王|사탄|Satanisch
+heroic|Heroic|Sankarillinen|Heroic|Heroic|Heroic|Heroic|Heroic|Heroic
+heroic_set|Heroic Set|Sankarillinen setti|Conjunto Heroico|Heroic Набор|Heroic Set|Heroic Set|Heroic Set|Heroic Set
+satanic_set|Satanic Set|Saatanallinen setti|Conjunto Satânico|Сатанический Набор|撒旦系列|サタニックセット|사탄 세트|Satanisches Set
+runeword|Runeword|Riimusana|Palabra Runa|Рунное Слово|符文|ルーンワード|룬워드|Runenwort
+||||||||
+[Stats]||||||||
+health|Life|Elämä|Vida|Здоровье|生命值|ヘルス|최대 체력|Lebenspunkte
+mana|Mana|Mana|Mana|Мана|魔法值|マナ|마나|Mana
+||||||||
+level_requirement|Level Req.|Tasovaatimus||||||
+item_level|iLevel|||||||
+picked_up|Picked up|Nostettu||||||
+equipped|Equipped|Puettu||||||
+town_portal|Town Portal|Kyläportaali||||||
+synergy|Synergy|Synergia||||||
+current_level|Current level|Nykyinen taso||||||
+next_level|Next level|Seuraava taso||||||
+||||||||
+physical|Physical|Fyysinen|Físico|Физический|物理|打撃|물리적|Physisch
+magic|Magic|Taika|Mágico|Магический|魔法|魔法|매직 데미지|Magisch
+poison|Poison|Myrkky|Veneno|Яд|施毒|毒|독극물 데미지|Gift
+wind|Wind|Tuuli|Vento|Ветер|风|風|바람 데미지|Wind
+lightning|Lightning|Sähkö|Raio|Молния|雷电|雷|번개|Blitz
+cold|Cold|Kylmä|Frio|Холод|寒冷|冷気|추위 데미지|Kälte
+fire|Fire|Tuli|Fogo|Огонь|火|火気|불 데미지|Feuer
+stunned|Stunned|Tainnutettu|Atordoado|Оглушенный|晕眩|麻痺|기절|Betäubt
+frozen|Deep Freeze|Syväjää|Congelado|Глубокая заморозка|深度冰冻|ディープフリーズ|완전 빙결|Tiefgefroren
+freeze|Frozen|Jäätynyt|Paralizado|Заморожен|冰冻|凍結|빙결|Eingefroren
+poisoned|Poisoned|Myrkytetty|Envenenado|Отравлен|中毒|毒|중독|Vergiftet
+slow|Slow|Hidastus|Lento|Замедление|缓慢|スロー|느려짐|Verlangsamt
+weakened|Weakened|||||||
+burning_damage|Burning Damage|Palamisvahinko|Dano ardente|Урон от горения|燃烧伤害|燃焼ダメージ|불타는 피해|Brandschaden
+burning|Burning|Palava|Em chamas|Горение|燃烧|火傷|불 탐|Brennend
+immortality|Immortality|Kuolemattomuus|Imortalidade|Бессмертие|永生|不死|불사|Unsterblichkeit
+double_damage|Double Damage|Tuplavahinko|Dano Dobrado|Двойной Урон|双重伤害|ダメージ2倍|두 배 데미지|Doppelter Schaden
+elemental|Elemental|Elementaali|Elementar|Элементальный|元素|エレメンタル|근본적|Elementar
+ruby_drops|Increased Ruby drops|Lisää rubiinien määrää|Drops de Rubi Aumentados|Увеличение кол-ва выпадающих Рубинов|增加了的红宝石滴|増加したルビードロップ|증가된 루비 드롭|Erhöhte Rubindrops
+projectiles|Projectiles|Ammuksia|Projéteis|Снаряды|弹丸|発射物|발사체|Projektile
+set_bonus|Set Bonus|Settibonus|Definição de Bônus|Бонус Набора|设置赏金|セット・ボーナス|보너스 설정|Set-Bonus
+||||||||
+chance_to_cast|chance to cast|||||||
+when_struck|when Struck|||||||
+when_strike|when Striking|||||||
+when_kill|after each Kill|||||||
+when_blocking|after Blocking|||||||
+when_casting|when Casting|||||||
+when_attacking|when Attacking|||||||
+||||||||
+block|Block|Torjunta|Bloquear|Блок|阻止|ブロック|차단|Block
+taunt|Taunt|Ärsytys|Provocação|Провокация|羞辱|煽り|조롱|Verspotten
+miniboss|a miniboss|minipomo|un miniboss|минибосс|小老闆|ミニボス|미니 보스|ein miniboss
+summon|Minion|Kätyri|Convocar|Приспешник|奴才|ミニオン|미니언|Diener
+weapon_damage|Weapon Damage|Aseen Vahinko|Dano Por Arma|Урон Оружия|武器伤害|武器ダメージ|무기 피해|Waffenschaden
+tick_rate|Tick Rate|Iskunopeus|taxa de carrapatos|Частота|滴答率|ティックレート|진드기 속도|Tickrate
+cold_break|Cold Break|||||||
+armor_break|Armor Break|Suojan Tuhous|Ruptura de armadura|Разрушение Брони|破甲|アーマーブレイク|방어구|Rüstungsbruch
+cooldown|Cooldown|Palautumisaika|Tempo de recuperação|Перезарядка|恢复时间|回復時間|회복 시간|Abklingzeit
+ability_power|Ability Power|Taitovoima|Ability Power|Сила Способностей|Ability Power|Ability Power|Ability Power|Fähigkeitsstärke
+attack_power|Attack Power|Hyökkäysvoima|Attack Power|Сила Атаки|Attack Power|Attack Power|Attack Power|Angriffsstärke
+runewords|Runewords|Riimusanat||||||
+statistics|Statistics|||||||
+any_base_item|Any base item|Mikä tahansa pohja||||||
+toy_bear|Toy Bear|Lelunalle||||||
+tier|Tier|Taso||||||
+targets|Targets|Kohteet||||||
+||||||||
+[crafting]||||||||
+craft_ability_token|Craft Ability Token|Valmista Taitopoletti|Criar símbolo de habilidade|Создать Жетон Способностей|工艺能力令牌|クラフト能力トークン|공예 능력 토큰|Fähigkeitsmarke
+craft_copper_ore|Craft Copper Ore|Valmista Kuparimalmia|Artesanato de minério de cobre|Создать Медную Руду|工艺铜矿|クラフト銅鉱石|구리 광석 제작|Kupfererz
+craft_crystal_key|Craft Crystal Key|Valmista Kristalliavain|chave de cristal artesanal|Создать Кристальный Ключ|工艺水晶钥匙|クラフトクリスタルキー|공예 크리스탈 열쇠|Kristallschlüssel
+craft_gold_ore|Craft Gold Ore|Valmista Kultamalmia|artesanato de minério de ouro|Создать Золотую Руду|工艺金矿|金鉱石を作る|금광석 제작|Golderz
+craft_iron_ore|Craft Iron Ore|Valmista Rautamalmia|minério de ferro artesanal|Создать Железную Руду|工艺铁矿石|クラフト鉄鉱石|철광석 공예|Eisenerz
+craft_key|Craft Key|Valmista Avain|chave artesanal|Создать Ключ|工艺钥匙|クラフトキー|공예 키|Schlüssel
+craft_merge_leg_powder|Merge Legendary Powder|Yhdistä Myyttinen pulveri|mesclar pó lendário|Переработать Легендарный порошок|合并传奇粉|伝説のパウダーをマージ|전설의 가루를 합치다|Pulver mischen
+craft_random_rare|Craft random Rare item|Valmista satunnainen Harvinainen esine|criar item raro aleatório|Случайный Редкий предмет|工艺随机稀有物品|ランダムレアアイテムを作る|랜덤 레어 아이템 제작|Zufälliger Seltener Gegenstand
+craft_random_legendary|Craft random Legendary item|Valmista satunnainen Legendaarinen esine|criar item lendário aleatório|Случайный Легендарный предмет|工艺随机的传奇物品|ランダムな伝説のアイテムを作る|무작위 전설 아이템 제작|Zufälliger Legendärer Gegenstand
+craft_random_mythical|Craft random Mythical item|Valmista satunnainen Myyttinen esine|criar item mítico aleatório|Случайный Мифический предмет|工艺随机的神话物品|ランダムな神話アイテムを作る|임의의 신화 아이템 제작|Zufälliger Mythischer Gegenstand
+craft_random_satanic|Craft random Satanic item|Valmista satunnainen Saatanallinen esine|criar item satânico aleatório|Случайный Сатанический предмет|工艺随机撒旦物品|ランダムな悪魔のアイテムを作る|무작위 사탄 아이템 제작|Zufälliger Satanischer Gegenstand
+craft_random_satanic_a_tier|Craft random Tier A+ Satanic|Valmista satunnainen A+ tason Saatanallinen||||||
+craft_socket_token|Craft Socket Token|Valmista paikkapoletti||||||
+craft_random_relic|Craft random Relic|Valmista satunnainen Aarre|criar relíquia aleatória|Создать случайную Реликвию|工艺随机遗物|ランダムな遺物を作る|무작위 유물 제작|Zufälliges Relikt
+craft_reroll_token|Craft Re-roll Token|Valmista Uusiopoletti|token de re-roll artesanal|Создать Жетон Качества|工艺重投令牌|クラフトリロールトークン|크래프트 리롤 토큰|Reroll-Token
+craft_satanic_amulet|Craft Satanic Amulet|Valmista Saatanallinen Amuletti|criar amuleto satânico|Создать Сатанический Амулет|工艺撒旦护身符|クラフト悪魔のお守り|사탄 부적 제작|Satanisches Amulett
+craft_satanic_armor|Craft Satanic Body Armor|Valmista Saatanallinen Panssari|fabricar armadura corporal satânica|Создать Сатанический Нагрудник|工艺撒旦防弹衣|悪魔のボディアーマーを作る|사탄 갑옷 제작|Satanischer Körperschutz
+craft_satanic_boots|Craft Satanic Boots|Valmista Saatanalliset Saappaat|fazer botas satânicas|Создать Сатанические Ботинки|工艺撒旦靴|クラフト悪魔のブーツ|공예 사탄 부츠|Satanische Stiefel
+craft_satanic_charm|Craft Satanic Charm|Valmista Saatanallinen Taikakalu|criar charme satânico|Создать Сатанический Оберег|工艺撒旦魅力|クラフト悪魔の魅力|사탄의 매력을 만들어라|Satanischer Charm
+craft_satanic_dice|Craft Satanic Dice|Valmista Saatanallinen noppa|criar dados satânicos|Создать Дьявольские Кости|工艺撒旦骰子|悪魔のサイコロを作る|사탄 주사위 제작|Satanischer Würfel
+craft_satanic_gloves|Craft Satanic Gloves|Valmista Saatanalliset Hanskat|fabricar luvas satânicas|Создать Сатанические Перчатки|工艺撒旦手套|悪魔の手袋を作る|공예 사탄 장갑|Satanische Handschuhe
+craft_satanic_helmet|Craft Satanic Helmet|Valmista Saatanallinen Kypärä|fazer capacete satânico|Создать Сатанический Шлем|工艺撒旦头盔|クラフト悪魔のヘルメット|공예 사탄 헬멧|Satanischer Helm
+craft_satanic_shield|Craft Satanic Shield|Valmista Saatanallinen Kilpi|criar escudo satânico|Создать Сатанический Щит|工艺撒旦盾|クラフト悪魔の盾|사탄 방패 제작|Satanisches Schild
+craft_satanic_weapon|Craft Satanic Weapon|Valmista Saatanallinen Ase|fabricar arma satânica|Создать Сатаническое Оружие|工艺撒旦武器|悪魔の武器を作る|사탄 무기 제작|Satanische Waffe
+craft_upgrade_token|Craft Upgrade Token|Valmista Päivityspoletti|token de atualização de fabricação|Создать Жетон Улучшения|工艺升级令牌|クラフトアップグレードトークン|공예 업그레이드 토큰|Aufrüst-Token
+craft_wormhole_key|Craft Wormhole Key|Valmista Madonreiän avain|chave de buraco de minhoca artesanal|Создать Ключ Червоточины|工艺虫洞钥匙|クラフトワームホールキー|공예 웜홀 키|Wurmlochschlüssel
+craft_jewel|Craft Jewel|Valmista korukivi||||||
+craft_gem|Craft Gem|Valmista jalokivi||||||
+aura_1|Feint|Harhautus|Enganação|Притворство|假的|フェイント|양공|Antäuschen
+aura_2|Mending|Parannus|Conserto|Покаяние|修补|補修|수리|Heilung
+aura_3|Fanaticism|Fanaattisuus|Fanatismo|Фанатизм|狂热|熱狂|광신|Fanatismus
+aura_4|Resistance|Vastustus|Resistência|Сопротивление|电阻|抵抗|저항|Widerstand
+aura_5|Concentration|Keskittyminen|Concentração|Концентрация|浓度|集中|집중|Konzentration
+aura_6|Holy Freeze|Pyhä jää|Congelamento Sagrado|Леденящий Взор|神圣的冻结|ホーリーフリーズ|신성한 동결|Heiliger Frost
+aura_7|Holy Shock|Pyhä isku|Choque Sagrado|Небесная Кара|神圣震击|ホーリーショック|신성한 충격|Heiliger Schock
+aura_10|Mana Pool|Mana Pool|Mana Pool|Mana Pool|Mana Pool|Mana Pool|Mana Pool|Mana Pool
+aura_14|Precognition|Ennakkotieto||||||
+aura_13|Thorns|Piikit|Espinhos|Шипы|荆棘|いばら|가시|Dornen
+aura_15|Angel's Vibrance|Angel's Vibrance|Angel's Vibrance|Angel's Vibrance|Angel's Vibrance|Angel's Vibrance|Angel's Vibrance|Engelskraft
+aura_93|Mana Pool|Mana Pool|Mana Pool|Mana Pool|Mana Pool|Mana Pool|Mana Pool|Mana Pool
+||||||||
+aura_desc_1|Grants you an aura that increases you and your allies movement speed|Grants you an aura that increases you and your allies movement speed|Grants you an aura that increases you and your allies movement speed|Grants you an aura that increases you and your allies movement speed|Grants you an aura that increases you and your allies movement speed|Grants you an aura that increases you and your allies movement speed|Grants you an aura that increases you and your allies movement speed|Gestattet dir und deine Verbündeten eine Geschwindigkeitaura
+aura_desc_2|Grants you an aura that increases you and your allies health regeneration|Grants you an aura that increases you and your allies health regeneration|Grants you an aura that increases you and your allies health regeneration|Grants you an aura that increases you and your allies health regeneration|Grants you an aura that increases you and your allies health regeneration|Grants you an aura that increases you and your allies health regeneration|Grants you an aura that increases you and your allies health regeneration|Gestattet dir und deine Verbündeten eine Lebensregenerationsaura
+aura_desc_3|Grants you an aura that increases you and your allies attack speed|Grants you an aura that increases you and your allies attack speed|Grants you an aura that increases you and your allies attack speed|Grants you an aura that increases you and your allies attack speed|Grants you an aura that increases you and your allies attack speed|Grants you an aura that increases you and your allies attack speed|Grants you an aura that increases you and your allies attack speed|Gestattet dir und deine Verbündeten eine Angriffsgeschwindigkeitsaura
+aura_desc_4|Grants you an aura that increases you and your allies all resistance|Grants you an aura that increases you and your allies all resistance|Grants you an aura that increases you and your allies all resistance|Grants you an aura that increases you and your allies all resistance|Grants you an aura that increases you and your allies all resistance|Grants you an aura that increases you and your allies all resistance|Grants you an aura that increases you and your allies all resistance|Gestattet dir und deine Verbündeten eine Widerstandsaura
+aura_desc_5|Grants you an aura that increases you and your allies attack damage|Grants you an aura that increases you and your allies attack damage|Grants you an aura that increases you and your allies attack damage|Grants you an aura that increases you and your allies attack damage|Grants you an aura that increases you and your allies attack damage|Grants you an aura that increases you and your allies attack damage|Grants you an aura that increases you and your allies attack damage|Gestattet dir und deine Verbündeten eine Angriffsstärkeaura
+aura_desc_6|Grants you an aura that increases you and your allies a chilling aura|Grants you an aura that increases you and your allies a chilling aura|Grants you an aura that increases you and your allies a chilling aura|Grants you an aura that increases you and your allies a chilling aura|Grants you an aura that increases you and your allies a chilling aura|Grants you an aura that increases you and your allies a chilling aura|Grants you an aura that increases you and your allies a chilling aura|Gestattet dir und deine Verbündeten eine frierende Aura
+aura_desc_7|Grants you an aura that increases you and your allies a shocking aura|Grants you an aura that increases you and your allies a shocking aura|Grants you an aura that increases you and your allies a shocking aura|Grants you an aura that increases you and your allies a shocking aura|Grants you an aura that increases you and your allies a shocking aura|Grants you an aura that increases you and your allies a shocking aura|Grants you an aura that increases you and your allies a shocking aura|Gestattet dir und deine Verbündeten eine schockierende Aura
+aura_desc_10|Grants you an aura that increases you and your allies mana regeneration|Grants you an aura that increases you and your allies mana regeneration|Grants you an aura that increases you and your allies mana regeneration|Grants you an aura that increases you and your allies mana regeneration|Grants you an aura that increases you and your allies mana regeneration|Grants you an aura that increases you and your allies mana regeneration|Grants you an aura that increases you and your allies mana regeneration|Gestattet dir und deine Verbündeten eine Manaregenerationsaura
+aura_desc_13|Grants you an aura that increases you and your allies damage return|Grants you an aura that increases you and your allies damage return|Grants you an aura that increases you and your allies damage return|Grants you an aura that increases you and your allies damage return|Grants you an aura that increases you and your allies damage return|Grants you an aura that increases you and your allies damage return|Grants you an aura that increases you and your allies damage return|Gestattet dir und deine Verbündeten eine Dornenaura
+aura_desc_14|Grants you an aura that increases you and your allies elemental damage, block and dodge|||||||
+aura_desc_15|Grants you power of the Angel’s providing you and your allies every buff in the game|Grants you power of the Angel’s providing you and your allies every buff in the game|Grants you power of the Angel’s providing you and your allies every buff in the game|Grants you power of the Angel’s providing you and your allies every buff in the game|Grants you power of the Angel’s providing you and your allies every buff in the game|Grants you power of the Angel’s providing you and your allies every buff in the game|Grants you power of the Angel’s providing you and your allies every buff in the game|Segnet dich mit Engelskraft welche dir jede Aura gestattet
+aura_desc_93|Grants you an aura that increases you and your allies mana regeneration|Grants you an aura that increases you and your allies mana regeneration|Grants you an aura that increases you and your allies mana regeneration|Grants you an aura that increases you and your allies mana regeneration|Grants you an aura that increases you and your allies mana regeneration|Grants you an aura that increases you and your allies mana regeneration|Grants you an aura that increases you and your allies mana regeneration|Gestattet dir und deine Verbündeten eine Manaregenerationsaura
+nothing|Nothing|Ei mitään|Nothing|Nothing|Nothing|Nothing|Nothing|Nothing
+||||||||
+[Professions]||||||||
+mining|Mining|Louhiminen|Mineração|Шахтерское Мастерство|矿业|採掘|채굴|Bergbau
+herbalism|Herbalism|Yrttitaito|Herbalismo|Травничество|草药医术学|薬草学|약초학|Herbalismus
+enchanting|Enchanting|Lumoaminen||||||
+jewelcrafting|Jewelcrafting|Korutyötaito||||||
+copper_ore|Copper Ore|Kuparimalmi|Minério de Cobre|Медная руда|铜矿石|銅鉱石|구리광석|Kupfererz
+iron_ore|Iron Ore|Rautamalmi|Minério de Ferro|Железная руда|铁矿石|鉄鉱石|철광석|Eisenerz
+gold_ore|Gold Ore|Kultamalmi|Minério de Ouro|Золотая руда|金矿石|金鉱石|금광석|Golderz
+ruby_ore|Ruby Ore|Rubiinimalmi|Minério de Rubi|Рубиновая руда|红宝石矿石|ルビー鉱石|루비광석|Rubinerz
+jade_ore|Jade Ore|Jademalmi|Minério de Jade|Нефритовая руда|玉矿|ヒスイ鉱石|옥광석|Jadeerz
+tarethium_ore|Tarethium Ore|Tarethium malmi||||||
+copper_node|Copper Vein|Kuparisuoni|Filão de Cobre|Залежи меди|铜静脉|銅鉱脈|구리광맥|Kupfervene
+iron_node|Iron Vein|Rautasuoni|Filão de Ferro|Залежи железа|铁静脉|鉄鉱脈|철광맥|Eisenvene
+gold_node|Gold Vein|Kultasuoni|Filão de Ouro|Залежи золота|金脉|金鉱脈|금광맥|Goldvene
+ruby_node|Ruby Vein|Rubiinisuoni|Filão de Ruby|Залежи рубиновой руды|红宝石脉|ルビー鉱脈|루비광맥|Rubinvene
+jade_node|Jade Vein|Jadesuoni|Filão de Jade|||||
+tarethium_node|Tarethium Vein|Tarethium suoni||||||
+ranged_resistance|Ranged Resistance|Kaukokestävä|Resistência à Distância|Сопротивление Атакам Дальнего Боя|远程攻击抵抗|遠隔攻撃を抵抗|원거리 공격 저항력|Fernkampfwiderstand
+reflection|Reflection|Heijastava|Reflexão|Отражение|反射|反射|반사|Reflexion
+cold_enhanced|Cold Enhanced|Jäädytetty|Frio Aprimorado|Отмороженный|寒冰增强|冷気を高める|빙결의 힘|Kaltverstärkung
+electrified|Electrified|Sähköistetty|Eletrificado|Шокирующий|带电|電化|전기의 힘|Elektrifiziert
+fiery|Fiery|Tulinen|Ardente|Пылкий|炽热|灼熱|화염의 힘|Feurig
+juggernaut|Juggernaut|Juggernaut|Juggernaut|Неудержимый|主宰|ジャガンナート|저거노트|Juggernaut
+arcana|Arcana|Arkaaninen|Arcano|Таинственный|奥秘|アルカナ|아르카나|Arkana
+thunder_orbiter|Thunder Orbiter|Salamoiva|Orbita do trovão|Шаровая молния|雷电卫星|サンダー・オービター|천둥 궤도자|Donnersonde
+mortar|Mortar|Mörssäri|Argamassa|Мортира|迫击炮|迫撃砲|박격|Mörser
+teleporting|Teleporting|Kaukosiirtyvä|Teleportando|Телепортирующийся|传送|テレポート中|순간 이동|Teleporter
+waller|Waller|Seinästäjä|Waller|Стеностав|岩石制造者|ウォーラー|벽 건설자|Maurer
+punisher|Punisher|Rankaisija|Justiceiro|Каратель|惩罚者|処分者|처벌자|Bestrafer
+thunderstorm|Thunderstorm|Ukkosmyrsky|Trovoada|Гром и молния|雷暴|雷雨|뇌우|Gewittersturm
+pack_leader|Pack Leader|Laumanjohtaja|Líder do Grupo|Лидер группы|召唤护卫|群れのリーダー|무리 리더|Rudelführer
+resume|Resume|Jatka|Resumir|Возобновить|暂停|再開|재개|Fortsetzen
+restart|Restart|Aloita alusta|Reiniciar|Обновить локации|重新开始|リスタート|재시작|Neustart
+save_and_exit|Save & Exit|Tallenna & lopeta|Salvar e Sair|Сохранить и выйти|保存&退出|セーブ＆終了|저장 후 종료|Speichern & Beenden
+points_left|Points Left|Pisteitä jäljellä|Pontos restantes|Осталось очков|剩余点数|残りのポイント|남은 포인트|Verbleibende Punkte
+minion_talents|Mercenary|Palkkasoturi|Mercenário|Наемник|雇佣兵|傭兵|용병|Söldner
+att_talents|Player|Pelaaja|Jogador|Игрок|玩家|プレイヤー|플레이어|Spieler
+hero_talents|Hero Level|Sankaritaso|Nível Herói|Уровень Героев|英雄等级|ヒーロー・レベル|영웅 레벨|Heldenlevel
+enemies_left|Enemies left|Vihollisia jäljellä|Inimigos|врагов|敌人|敵|남은 적|Gegner verbleibend
+last_page|Last Page|Edellinen sivu|Última Página|Предыдущая|最后一页|最後のページ|마지막 페이지|Letze Seite
+next_page|Next Page|Seuraava sivu|Próxima Página|Следующая|下一页|次のページ|다음 페이지|Nächste Seite
+key|Key|Avain|Chave|Ключ|钥匙|キー|키|Schlüssel
+crystal_key|Crystal Key|Kristalliavain|Chave de cristal|Кристальный ключ|晶体的关键|クリスタルキー|크리스탈 열쇠|Kristallschlüssel
+runes|Runes|Riimut|Runas|Руны|符文|ルーン|룬|Runen
+assign_point|Assign point|Aseta piste|Atribuir ponto|Назначать|分配点|割り当てポイント|포인트 분배|Zuweisen
+loading|LOADING|LADATAAN|CARREGANDO|ЗАГРУЗКА|读取中|ロード中|불러오는 중|LADEN
+magic_potion|Magic Potion|Taikarohto|Poção mágica|Магическое зелье|魔法药剂|魔法の薬剤|마법 포션|Zaubertrank
+gold|Gold|Kultaa|Ouro|Золото|金币|ゴールド|골드|Gold
+crystals|Crystals|Kristallia|Cristais|Кристаллы|水晶|クリスタル|크리스탈|Kristalle
+rubies|Rubies|Rubiinia|Rubis|Рубины|红宝石|ルビー|루비|Rubine
+requires_key|Key needed to open|Vaatii avaimen|Chave necessária para abrir|Нужен ключ|打开所需钥匙数|開くために必要なキーの数|열려면 열쇠가 필요합니다|Schlüssel zum Öffnen erforderlich
+requires_crystal_key|Crystal key needed to open|Vaatii kristalliavaimen|Chave de cristal necessária para abrir|Нужен кристальный ключ|打开所需水晶钥匙数|開くために必要なクリスタルキーの数|열러면 크리스탈 열쇠가 필요합니다|Kristallschlüssel zum Öffnen erforderlich
+found_key|Found a Key!|Löysit avaimen!|Encontrei uma chave!|Найден ключ!|找到一把钥匙！|キーを見つけた！|열쇠 발견!|Ich habe einen Schlüssel gefunden!
+found_crystal_key|Found a Crystal Key!|Löysit kristalliavaimen!|Encontrei uma chave de cristal!|Найден кристальный ключ!|找到一把水晶钥匙！|クリスタルキーを見つけた！|크리스탈 열쇠 발견!|Ich habe einen Kristallschlüssel gefunden!
+saving_game|Saving the game...|Tallennetaan peliä...|Salvando o jogo...|Сохранение игры...|正在保存游戏...|ゲームをセーブしています...|게임을 저장하는 중입니다...|Das Spiel wird gespeichert...
+you_died|You Died|Sinä kuolit|Você morreu|Вы погибли|你死了|あなたが死亡しました|죽었습니다|Du bist gestorben
+death_by|Death by|Kuoleman tuotti|Morto por|Смерть от|死于|死亡の原因は|나를 죽게 한 원인|Tod durch
+upgrade_wormhole|Upgrade Wormhole Level|Päivitä madonreiän taso|Atualizar o Nível Portal|Повысить уровень Червоточины|升级虫洞等级|ワームホールレベルをアップグレード|웜홀 레벨 업그레이드|Upgrade Wurmloch-Level
+waiting_for_players|Waiting for players to join...|Odotetaan pelaajia...|Esperando jogadores participarem...|Ждем, пока присоединятся игроки...|正在等待玩家加入...|他のプレイヤーを待っています|다른 플레이어를 기다리는중...|Warte auf Beitritt von Spielern...
+entering_wormhole|player(s) entering wormhole|pelaaja(a) menossa madonreikään|Jogador(es) entrando no wormhole|игрок(-и) заходит(-ят) в Червоточину|玩家进入传送点|プレイヤー（達）はワームホールに入っていきます|플레이어가 웜홀에 입장합니다|Spieler treten dem Wurmloch bei
+entering_challenge_dungeon|player(s) entering challenge dungeon|pelaaja(a) menossa haastetyrmään|player(s) entering challenge dungeon|player(s) entering challenge dungeon|player(s) entering challenge dungeon|player(s) entering challenge dungeon|player(s) entering challenge dungeon|player(s) entering challenge dungeon
+entering_chaos_tower|player(s) entering Chaos Tower|pelaaja(a) menossa kaaostorniin|player(s) entering Chaos Tower|player(s) entering Chaos Tower|player(s) entering Chaos Tower|player(s) entering Chaos Tower|player(s) entering Chaos Tower|player(s) entering Chaos Tower
+monster_level|Monster Level|Vihollisten taso|Nível do Monstro|Уровень Монстров|怪物级别|モンスターレベル|몬스터 레벨|Monsterlevel
+keys|Keys|Avaimet|Chaves|Ключи|按键|キー|열쇠|Schlüssel
+potion_use_health|Full Health!|Täydet elämät!|Saúde Máxima!|Полное Здоровье!|恢复所有生命值！|ヘルス全回復！|체력이 전부 회복됐습니다!|Volle Lebenspunkte
+lift_beachball|Lift <Beachball>|Nosta <Rantapallo>|Levantar <Bola de Praia>|Поднять <пляжный мяч>|举起<沙滩球>|＜ビーチボール＞を上げる|<비치 볼> 들기|Heben <Strandball>
+lift_square_stone|Lift <Square Stone>|Nosta <Neliökivi>|Levantar <Pedra Quadrada>|Поднять <квадратный камень>|举起<方石>|＜角石＞を上げる|<네모난 돌> 들기|Heben <Quadratischer Stein>
+lift_moon_stone|Lift <Moon Stone>|Nosta <Kuukivi>|Levantar <Pedra da Lua>|Поднять <лунный камень>|举起<月亮石>|＜ムーン・ストーン＞を上げる|<달 모양 돌> 들기|Heben <Mond-Stein>.
+lift_round_stone|Lift <Round Stone>|Nosta <Pallokivi>|Levantar <Pedra Redonda>|Поднять <круглый камень>|举起<圆石>|＜丸石＞を上げる|<둥근 돌> 들기|Heben <Rund-Stein>
+lift_triangle_stone|Lift <Triangle Stone>|Nosta <Kolmiokivi>|Levantar <Pedra Triangular>|Поднять <треугольный камень>|举起<三角石>|＜トライアングル・ストーン＞を上げる|<세모난 돌> 들기|Heben <Dreieck-Stein>
+||||||||
+wormhole_key|Next Wormhole|Seuraava Madonreikä|Chave do Buraco de Minhoca|Ключ Червоточины|虫洞钥匙|ワームホール・キー|웜홀 열쇠|Wurmloch-Schlüssel
+found_item|Found|Löysit|Encontrado|Найден|找到|見つかった|획득|Gefunden
+pick_up_item|Pick up|Nosta|Pegar|Взять|拾取|拾う|줍기|Aufheben
+||||||||
+satanic_dice|Satanic Dice|Saatanallinen noppa|Dado Satânico|Дьявольские Кости|邪恶的骰子|魔王のダイス|사탄의 주사위|Satanischer Würfel
+reroll|Re-roll|Arvo uudelleen|Rolar novamente|Перемотать|重新滚动|リロール|다시 굴림|Reroll
+reroll_token|Re-roll Token|Uusiopoletti|Token de relançar|Жетон Качества|重投令牌|リロールトークン|리롤 토큰|Reroll-Token
+upgrade_token|Upgrade Token|Päivityspoletti|Atualizar Token|Жетон Улучшения|升级令牌|アップグレードトークン|업그레이드 토큰|Aufrüst-Token
+offensive_token|Ability Token|Taitopoletti|Token de Habilidade|Жетон Способностей|能力令牌|アビリティトークン|능력 토큰|Fähigkeits-Token
+socket_token|+1 Socket Token|+1 Paikkapoletti|+1 Socket Token|+1 Socket Token|+1 Socket Token|+1 Socket Token|+1 Socket Token|+1 Socket Token
+satanic_powder|Satanic Powder|Saatanallinen pulveri|Pó Satânico|Сатанический порошок|邪恶的粉末|魔王の粉|사탄의 파우더|Satanisches Pulver
+mythic_powder|Mythic Powder|Myyttinen pulveri|Pó Mítico|Мифический порошок|神话的粉末|神話の粉|신화적 파우더|Mythisches Pulver
+legendary_powder|Legendary Powder|Legendaarinen pulveri|Pó Lendário|Легендарный порошок|传奇的粉末|伝説の粉|전설의 파우더|Legendäres Pulver
+||||||||
+damage_on_impact|damage on impact.|vahinkoa osuessaan.|dano por impacto.|урон при попадании.|撞击伤害。|衝撃によるダメージ。|충돌 시 대미지.|Schaden bei Aufprall.
+achievement_unlocked|Achievement Unlocked|Saavutus avattu|Conquista Desbloqueada|Достижение Выполнено!|解锁了成就|アチーブメントがアンロックされました。|업적 잠금해제됨|Errungenschaft freigeschaltet
+complete|Complete|Läpäise|Concluído|Выполнено|完成|終了|완료|Abgeschlossen
+kill|Kill|Tapa|Matar|Убить|击杀|殺害|처치|Tötung
+monsters_killed|monsters killed!|vihollista tapettu!|monstros mortos!|монстров убито.|杀死了怪物！|モンスターを殺害しました！|마리 몬스터 처치!|Monster getötet!
+collect|Collect|Kerää|Coletar|Собрать|收集|回収|수집|Sammeln
+wormhole_level|Wormhole level|Madonreiän taso|Nível de buraco de minhoca|Уровень Червоточины|虫洞关|ワームホールレベル|웜홀 레벨|Wurmloch-Level
+achievement_satans_hands|Destroy Satan's both hands in less than 30 seconds!|Tuhoa Saatanan molemmat kädet alle 30 sekunnissa!|Destrua as duas mãos de Satanás em menos de 30 segundos!|Уничтожьте обе руки Сатаны меньше чем за 30 секунд!|在 30 秒内摧毁撒旦的双手！|30秒以内に悪魔の両手を破壊します！|사탄의 양손을 30초 내에 파괴!|Zerstöre beide Hände von Satan in weniger als 30 Sekunden!
+achievement_all_heroes_100|Reach Level 100 with every Hero!|Saavuta taso 100 jokaisella sankarilla!|Atinja o Nível 100 com cada um dos Heróis!|Достигните 100 уровня на каждом классе.|所有英雄都达到 100 级！|すべてのヒーローでレベル100に到達します！|모든 영웅으로 레벨 100 달성!|Erreiche mit jedem Held Stufe 100!
+achievement_5000_bushes|Demolish 5000 bushes!|Tuhoa 5000 puskaa!|Derrube 5.000 arbustos!|Уничтожьте 5000 кустов!|摧毁 5,000 个灌木丛！|5000個の茂みを破壊します！|덤불 5000개 파괴!|Zerstöre 5.000 Büsche!
+achievement_satanic_item|Obtain a Satanic item!|Poimi Saatanallinen esine!|Obtenha um item Satânico!|Получите Сатанический предмет!|获得撒旦的物品！|悪魔のアイテムを手に入れます！|사탄 아이템 획득!|Erhalte einen satanischen Gegenstand!
+achievement_4_player_play|Play a Multiplayer game with 4 players!|Pelaa moninpeliä 4 pelaajan kanssa!|Jogue no modo Multijogador com 4 jogadores!|Сыграйте в многопользовательскую игру в группе из 4 игроков!|由 4 个玩家一起玩多人游戏！|マルチプレイヤーゲームを4人でプレイします！|플레이어 4명과 함께 멀티플레이어 게임 플레이!|Spiel ein Mehrspielerspiel mit 4 Spielern!
+achievement_4_player_complete|Complete the game with 4 players!|Läpäise peli 4 pelaajan kanssa!|Conclua o jogo com 4 jogadores!|Пройдите игру в группе из 4 игроков!|由 4 个玩家一同完成游戏！|4人でのゲームを終了します！|플레이어 4명과 함께 게임 완료!|Schließe das Spiel mit 4 Spielern ab!
+achievement_ancient_monster|Slay an Ancient Monster!|Tapa muinainen hirviö!|Mate um Monstro Antigo!|Уничтожьте Древнего монстра!|杀死一个古老的怪物！|古代のモンスターを殺害します！|고대의 몬스터 처치!|Töte ein uraltes Monster!
+achievement_coffee_club|Join <Sarcaster's Coffee Club>|Liity <Sarcasterin kahvikerho>|Participe do <Sarcaster's Coffee Club>|Присоединитесь к <Кофейному клубу Саркастера>|加入<萨卡斯特咖啡俱乐部>|<サルカスターズコーヒークラブ>に入会します。|<사르캐스터의 커피 클럽> 가입|Trete <Sarcaster's Coffee Club> bei
+achievement_sheep_level|Find the Secret Sheep level!|Löydä salainen lammastaso!|Encontre o nível das Ovelhas Secretas!|Найдите секретный овечий уровень!|找到隐藏的绵羊关卡！|シークレットシープレベルを見つけてください！|비밀의 양 레벨 발견!|Finde das geheime Schaf-Level!
+achievement_solve_puzzle|Solve a Puzzle|Ratkaise pulma|Resolva um Quebra-cabeça|Решите головоломку.|解决谜题|パズルを解きます|퍼즐 해결|Löse ein Rätsel
+achievement_chaos_tower|Clear Chaos Tower|Läpäise kaaostorni||||||
+achievement_king_rakhul|Defeat King Rakhul|Surmaa kuningas Rakhul||||||
+achievement_angelic_realm|Enter Angelic Realm|Astu enkelivaltakuntaan||||||
+achievement_sung_lee|Defeat Sung Lee|Surmaa Sung Lee||||||
+achievement_valhalla_valkyrie|Defeat Valkyrie|Surmaa Valkyrie||||||
+achievement_valhalla_river|Defeat Jörmungar|Surmaa Jörmungar||||||
+achievement_valhalla_odin|Defeat Corrupted Odin|Surmaa korruptoitunut Odin||||||
+achievement_valhalla_ring|Acquire ring|||||||
+achievements|Achievements|Saavutukset|Conquistas|Достижения|成就|実績|업적|Erfolge
+weapon_type|Weapon Type|Asetyyppi|Tipo de Arma|Оружие Тип|武器类型|武器の種類|무기 종류|Waffentyp
+weapon_type_sword|Sword|Miekka||||||
+weapon_type_dagger|Dagger|Tikari||||||
+weapon_type_mace|Mace|Nuija||||||
+weapon_type_axe|Axe|Kirves||||||
+weapon_type_polearm|Polearm|||||||
+weapon_type_staff|Staff|||||||
+weapon_type_cane|Cane|||||||
+weapon_type_spellblade|Spellblade|||||||
+weapon_type_book|Book|Kirja||||||
+weapon_type_wand|Wand|Sauva||||||
+weapon_type_throwing|Throwing|Heitettävä||||||
+weapon_type_bow|Bow|Jousi|Arco|Лук|弓|弓|활|Bogen
+weapon_type_claw|Claw|Kynnet|Garra|Когти|爪|クロー|발톱|Klaue
+weapon_type_gun|Gun|Ase|Arma de Fogo|Огнестрельное оружие|枪|銃|총|Gewehr
+weapon_type_chainsaw|Chainsaw|Moottorisaha|Motosserra|Пила|链锯|チェーンソー|전기 톱|Kettensäge
+weapon_type_flask|Flask|Pullo|Frasco|Фласка|瓶|フラスコ|플라스크|Fläschchen
+weapon_type_universal|Novelty|Novelty|Novelty|Novelty|Novelty|Novelty|Novelty|Novelty
+extra_damage|extra damage.|lisävahinkoa.|daño adicional.|дополнительный урон.|额外伤害。|追加ダメージ。|추가 데미지.|Extra Schaden.
+enhance|Enhance|Tehosta|Mejorar|Усилить|提高|強化|높이다|Verbessern
+loadout|Loadout|Varustus|Loadout|Экипировка|装车|バックパック内|장전|Slot
+save_loadout|Save Loadout|Tallenna Varustus|Guardar Loadout|Сохранить|保存装车|保存バックパック内|저장로드 아웃|Speichern Ausrüstung
+load_loadout|Equip Loadout|Pue Varustus|Equipo Loadout|Загрузить|装备装车|装備バックパック内|만큼로드 아웃|Ausstatten Ausrüstung
+remove_loadout|Remove from loadout|Poista varustuksista|Remove from loadout|Remove from loadout|Remove from loadout|Remove from loadout|Remove from loadout|Remove from loadout
+activate|Activate|Aktivoi|Activar|Активировать|启用|アクティブ|활성화|Aktivieren
+attack_speed_bonus|attack speed bonus.|hyökkäysnopeutta.|atacar bonus de velocidad.|бонус Скорости Атаки.|攻速加成。|スピードボーナスを攻撃します。|속도 보너스를 공격한다.|Angriffsgeschwindigkeit Bonus.
+extra_damage_on_impact|extra damage on impact.|lisävahinkoa törmätessä|daño adicional en el impacto.|дополнительный урон при попадании.|对影响额外伤害。|インパクトの追加ダメージ。|영향에 대한 추가 데미지.|zusätzlicher Schaden beim Aufprall.
+increased|increased|lisätty|aumentado|увеличенный|增加|増加|증가|gestiegene
+seconds_of_aggro|seconds of aggro.|sekuntia aggressiivisuutta.|segundos del agro.|секунд Провокации.|的仇恨秒。|アグロの秒。|어그로의 초.|Sekunden Aggro.
+of_damage_mitigated|of damage mitigated.|vahinkoa lievenetty.|de daño mitigado.|входящего урона не получено.|损伤的缓解。|被害の軽減。|손상의 완화.|Schadensmilderung.
+of_health_as_shield|of health as shield.|terveyttä kilpenä.|de la salud como escudo.|Здоровья в виде Щита.|健康作为屏蔽。|シールドとして健康の。|방패로 건강.|Lebenspunkte als Absorption.
+of_damage_healed|of damage healed.|vahinkoa parannettu.|del daño sanado.|урона исцелено.|损伤的愈合。|損傷の癒さ。|손상의 치료.|des Schadens heilt.
+of_damage_returned|of damage returned.|vahinkoa palautettu.|del daño devuelto.|урона отражено.|损伤的恢复。|ダメージを返さ。|손상으로 돌아왔다.|Schadensreflexion.
+both|Both|Molemmat|Ambos|оба|都|どちらも|양자 모두|Beide
+left|Left|Vasen|Izquierda|Лево|剩下|左|왼쪽|Links
+right|Right|Oikea|Derecha|Право|对|正しい|권리|Recht
+uber|Uber|Uber|Uber|Убер|尤伯杯|ユーバー|동네 짱|Uber
+rebound_damage|rebound damage.|vahinkoa kimmotessa.|repuntar daños.|урона от рикошета.|反弹伤害。|ダメージをリバウンド。|손상을 회복.|Abprallschaden.
+chance_to_pierce|chance to pierce.|mahdollisuus lävistää.|posibilidad de perforar.|шанс Пронзить.|机会刺穿。|突き刺すチャンス。|피어싱 기회.|Chance zu durchbohren.
+retaliation_damage|retaliation damage.|kostoiskuvahinkoa.|daños represalia.|ответного урона.|报复伤害。|報復の損傷。|보복 손상.|Vergeltungsschaden.
+loot_filter|Loot filter|Esinesuodatin|Filtro botín|Лут фильтр|战利品过滤器|戦利品フィルタ|전리품 필터|Beutefilter
+rune_filter|Rune filter|Riimusuodatin|Filtro de runa|Фильтр Рун|符文过滤器|ルーンフィルタ|룬 필터|Runenfilter
+common_loot_socket_filter|Common loot socket filter|Yleisten esineiden paikkasuodatin|Common loot socket filter|Common loot socket filter|Common loot socket filter|Common loot socket filter|Common loot socket filter|Common loot socket filter
+filter|Filter|Suodatin|Filtro|Фильтр|过滤|フィルタ|필터|Filter
+filter_all|All|Kaikki|Tudo|Всё|所有|すべて|모두|Alle
+filter_chests_and_keys|Chests|Arkut|Baús|Сундуки|箱子|チェスト|상자|Truhen
+filter_items|Items|Esineet|Itens|Предметы|物品|アイテム|아이템|Gegenstände
+owned|Owned|Omistettu|Propiedad|Приобретено|国有|所有|소유|Erworben
+not_purchased|Not Purchased|Ei Ostettu|No comprado|Не приобретено|未购买|購入していません|구입하지|Nicht gekauft
+class|Class|Luokka|Clase|Класс|类|クラス|수업|Klasse
+skin|Skin|Ulkoasu|Piel|Костюм|皮肤|肌|피부|Skin
+companion|Companion|Kumppani|Compañero|Компаньон|伴侣|コンパニオン|동반자|Begleiter
+rank|Rank|Sijoitus|Rango|Ранг|秩|順位|계급|Rang
+mage|Mage|Velho|Mago|Маг|魔术师|メイジ|마술사|Magier
+tank|Tank|Tankki|Tanque|Танк|罐|タンク|탱크|Panzer
+join_own_guild|Join one of your own guilds?|Liity omaan kiltaasi?|Juntar-se a uma de suas próprias guildas?|Присоединиться к одной из ваших собственных гильдий?|加入您自己的公会之一？|自分のギルドに参加しませんか？|자신의 길드 중 하나에 가입 하시겠습니까?|Einer deiner eigenen Gilden beitreten?
+resign_from_guild|Are you sure you want to resign from this guild?|Haluatko varmasti erota killasta?|Tem certeza de que quer demitir-se desta aliança?|Вы уверены, что хотите выйти из этой гильдии?|你确定你想从这个公会辞职？|あなたはこのギルドから辞任してもよろしいでしょうか？|당신은 당신이 길드에서 탈퇴 하시겠습니까?|Sind Sie sicher, dass Sie diese Gilde verlassen wollen?
+invited_to_guild|has invited you to join|kutsui sinut liittymään|convidou você para participar|приглашает вас присоединиться к|已邀请您加入|に参加するためにあなたを招待しました|초대했습니다|hat Sie zu einer Gilde eingeladen
+trade_failed|Trade failed.|Vaihto epäonnistui.|Comércio falhou.|Не удалось совершить Обмен.|交易失败。|トレードに失敗しました。|무역에 실패했습니다.|Handel fehlgeschlagen.
+other_inventory_full|Other player's inventory is full.|Toisen pelaajan reppu on täynnä.|Inventário de outro jogador está cheia.|Инвентарь другого игрока заполнен.|其他玩家的库存已满。|他のプレイヤーのインベントリがいっぱいです。|다른 플레이어의 인벤토리가 꽉 찼습니다.|Inventar des anderen Spielers ist voll.
+inventory_full|Inventory full!|Reppu täynnä!|Estoque cheio!|Инвентарь заполнен!|库存十足！|在庫いっぱい！|재고 가득!|Inventar voll!
+rank_challenger|Challenger|Haastaja|Desafiador|Претендент|挑战者|挑戦者|챌린저|Herausforderer
+rank_master|Master|Mestari|Maestro|Мастер|主|主人|마스터|Meister
+rank_diamond|Diamond|Timantti|Diamante|Бриллиантовый|钻石|ダイヤモンド|다이아|Diamant
+rank_platinum|Platinum|Platina|Platino|Платиновый|铂|白金|플래티넘|Platin
+rank_gold|Gold|Kultaa|Ouro|Золото|金币|ゴールド|골드|Gold
+rank_silver|Silver|Hopea|Plata|Серебряный|银|銀|실버|Silber
+rank_bronze|Bronze|Pronssi|Bronce|Бронзовый|青铜|ブロンズ|브론즈|Bronze
+souls|Souls|Sielua|El alma|Души|灵魂|魂|영혼|Seelen
+seeds_idle|Idle Seeds|Joutilaat Siemenet|Semillas de inactividad|Неактивные Семена|空闲种子|アイドルの種|유휴 씨|Leerlauf Samen
+seeds_active|Active Seeds|Aktiiviset Siemenet|Semillas activas|Активированные Семена|主动种子|活性種|활성 씨앗|Aktive Samen
+seeds_deposit|Deposit Seeds|Talleta Siemeniä|semillas de depósitos|Сложить Семена|存款种子|預金の種|예금 씨앗|Kaution Samen
+quest_jacks_key|Jack's Key!|Jackin avain!|Clave de Jack!|Ключ Джека!|杰克的关键！|ジャックのキー！|잭의 키!|Jacks Schlüssel!
+failed|Failed!|Epäonnistui!|¡Ha fallado!|Неудача!|失败！|失敗しました！|실패한!|Gescheitert!
+rescue_prisoner|Rescue the Prisoner|Pelasta vanki|Resgatar o prisioneiro|Спасти Пленника|拯救犯人|囚人を救います|포로를 구출|Rettung der Gefangenen
+prisoner|Prisoner|Vanki|Prisioneiro|Пленник|囚犯|囚人|죄인|Häftling
+samurai_ad|Samurai is a close combat class with lots of mobility and deadly damage!|Samurai on lähitaistelun luokka, jolla on paljon liikkuvutta ja tappavaa vahinkoa!|Samurai es una clase de cuerpo a cuerpo con mucha movilidad y el daño mortal!|Самурай - это класс ближнего боя. Высокая мобильность и смертоносные атаки.|武士是近战类有大量的流动性和致命的伤害！|サムライ は、 モビリティ と 致命的な 損傷 の たくさん の 近接 戦闘 クラスです！|사무라이는 이동성과 치명적인 손상을 많이 가진 가까운 전투 클래스입니다!|Der Samurai ist eine Nahkampf-Klasse mit viel Mobilität und tödlichen Schaden!
+paladin_ad|Paladin is a hybrid class that can be built into a healing tank, physical damage dealer or a mage!|Temppeliritari on hybridiluokka, joka voidaan kehittää parantavaksi tankiksi, fyysiseksi vahingontuottajaksi tai velhoksi!|Paladín es una clase híbrida que puede ser construido en un tanque de curación, distribuidor daño físico o un mago!|Паладин  - гибкий гибридный класс, он способен танковать, исцелять, сражаться в ближнем бою и использовать мощные способности.|圣骑士是可以内置到愈合坦克， 物理损坏的经销商或法师的混合类！|パラディン は、 治癒 タンク、 物理的な ダメージディーラー や 魔術師 に 組み込む こと が できる ハイブリッド クラスです！|성기사 치유 탱크, 물리적 손상 대리점 또는 마법사에 내장 할 수있는 하이브리드 클래스입니다!|Der Paladin ist eine Hybrid-Klasse, welche die Rolle als heilender Tank, physischem Kämpfer oder Magier annimt!
+amazon_ad|Amazon is a ranged fighter with lots of burst damage, can be built to poison, lightning or physical builds!|Amatsoni on kaukotaistelija, jolla on paljon purkausvahinkoa, voidaan kehittää myrkky-, salama- tai fyysiseen taisteluun!|Amazonas es un luchador a distancia con un montón de daño explosivo, se puede construir al veneno, rayos o construye física!|Амазонка сражается в дальнем бою. Её можно собрать через Урон Ядом, можно через Урон Молний или Физический Урон.|亚马逊是一个远程战斗机有很多爆发伤害的， 建成后可中毒，雷击或物理构建！|アマゾン は 多く の バーストダメージ を 持つ 遠距離 戦闘機であり、  毒、 雷、 または 物理的な ビルド に 構築 できます！|아마존, 독, 번개 또는 물리적 빌드에 파열 손상의 많은 원거리 전투기 구축 할 수 있습니다!|Die Amazone ist eine Fernkämpferin mit vielem Burst-Schaden welche mit gift, blitz oder physischem Schaden gebaut werden kann!
+demon_slayer_ad|Demon Slayer is a mobile master of arms, can use guns or melee weapons! DLC also includes Demonspawn!|Pirunmetsästäjä on liikkuva aseiden mestari, joka voi käyttää pyssyjä tai lähitaisteluaseita! Lisäosa sisältää myös Pirulaisen!|Matador de demônios es un maestro de armas móvil, puede utilizar armas de fuego o armas cuerpo a cuerpo! DLC también incluye Demonspawn!|Убийца Демонов может использовать огнестрельное оружие и оружие ближнего боя! В это Дополнение также входит Демоническое Отродье.|斩妖除魔的武器移动主，可以使用枪支或近战武器！ DLC还包括 恶魔之子！|デーモンスレイヤーは腕のモバイルマスターである、 銃や近接武器を使用することができます！ DLCも悪魔の子が含まれています！|악마 사냥꾼은 총이나 근접 무기를 사용할 수있는 무기의 모바일 마스터입니다! DLC는 데몬스폰을 포함!|Der Dämonentöter ist ein mobiler Waffenmeister der entweder Pistolen oder Nahkampfwaffen verwendet! Das DLC enthält auch die Dämonenbrut!
+demonspawn_ad|Demonspawn is a caster class with lots of AOE spells, can also fly by default! DLC also includes Demon Slayer!|Pirulainen on velhomainen luokka, jolla on paljon alueloitusja, voi lentää oletuksena! Lisäosa sisältää myös Pirunmetsästäjän!|Demonspawn es una clase de lanzador con un montón de hechizos de área de efecto, también puede volar por defecto! DLC también incluye Matador de demônios!|Демоническое Отродье обладает мощными чарами с уроном по области и может летать! В это Дополнение также входит Убийца Демонов.|恶魔之子 是施法类， 有很多影响法术的面积， 也可以在默认情况下飞！ DLC还包括斩妖除魔！|悪魔の子 もデフォルトで飛ぶことができ、 効果呪文の面積の多くが付い ているキャスタークラスです！ DLCはまた、 悪魔スレイヤーが含まれています！|데몬스폰 는 기본적으로 비행 할 수, 효과 주문의 지역의 많은 캐스터 클래스입니다! DLC는 악마 슬레이어를 포함!|Die Dämonenbrut ist eine Caster Klasse mit vielen Flächenzauber, ebenfalls fliegt Sie auch immer! Das DLC enthält auch den Dämonentöter!
+shaman_ad|Shaman specializes in elemental damage, has companion wolves and totems!|Shamaani erikoistuu elementaalivahinkoon, hänellä on seurasusia ja toteemeja!|Chamán se especializa en el daño elemental, tiene lobos de compañía y tótems!|Шаману подвластны все стихии! Шаман способен призывать тотемы и духов диких волков!|萨满专注于元素伤害， 有伴侣狼和图腾！|シャーマンは、 元素の損傷に特化し、 コンパニオンオオカミとトーテムを持っています！|주술사가 원소 피해 전문, 동반자 늑대 토템이있다!|Der Schamane ist in Elementarschaden spezialisiert, wird von Wölfen und Totems begleitet!
+marauder_ad|Marauder is the ultimate war machine, specializing in mobility, explosives and stunning enemies!|Ryöväri on ylivoimainen sotakone, joka erikoistuu liikkuvuuteen, räjähteisiin ja vihollisten tainnutukseen!|Saqueador es la última máquina de guerra, que se especializa en la movilidad, explosivos y aturdiendo a los enemigos!|Мародёр - живое воплощение беспощадной всепожирающей военной машины! Его цепи сковывают, стягивают врагов и разрывают плоть! А бомбы и ловушки не оставляют врагам шанса. Беспощадный и смертоносный!|掠夺者是最终的战争机器， 专业性， 炸药和令人惊叹的敌人！|マローダーは、 モビリティ、 爆発物や見事な敵に特化した、 究極の戦争マシンです！|약탈자는 궁극적 인 전쟁 기계 이동성, 폭발물과 멋진 원수 전문!|Der Marodeur ist die ultimative Kampfmaschine, spezialisiert auf Mobilität, Sprengstoffe und die Betäubung von Feinden!
+plague_doctor_ad|Plague Doctor specializes in spreading the plague, dealing DOT damage and breathing fire!|Ruttolääkäri erikoistuu ruton levittämiseen, vahinkoon ajan myötä ja tulen syöksemiseen!|Doctor de la plaga se especializa en la difusión de la plaga, haciendo daño en el tiempo y respirando fuego!|Чумной Доктор - вестник Чумы! Он специализируется на периодическом уроне!|瘟疫医生专门传播瘟疫， 造成伤害随着时间的推移和喷火！|ペスト医師は、 疫病を拡散時間をかけてダメージを与え、 火災の呼吸を専門に！|전염병 의사, 전염병 확산 시간이 지남에 따라 피해를 입히고 불을 호흡을 전문으로!|Der Pest-Doktor spezialisiert sich darin DOTs mit der Pest und Feuerspuckendem Atem zu verbreiten!
+lancer_ad|Shield Lancer is an extremely tanky class specializing in returning damage and taunting enemies!|Kilpiseivästäjä on erittäin tankkimainen luokka, joka erikoistuu vahingon palauttamiseen ja vihollisten hämäämiseen!|Lanceiro de Escudo es una clase extremadamente voluminosos especializada en la devolución de los daños y provocando a los enemigos!|Копейщик легко танкует урон, аггрит на себя врагов и отражает входящий урон!|盾蓝瑟是专门返回损坏和嘲 弄敌人一个非常庞大的类！|シールドランサーはダメージを返すと敵を ばかに特化した非常にかさばるクラスです！|쉴드 랜서 피해를 반환하고 원수를 조롱을 전문으로 매우 부피가 큰 클래스입니다!|Der Schild-Lanzenträger ist eine extrem robuste Klasse welche sich auf das Verspotten von Gegnern und die Reflexion ihres Schadens konzentriert!
+jotunn_ad|Jötunn is a Warrior Mage who specializes in ice spells and the power of lightning!|||||||
+illusionist_ad|Illusionist is the master of Sand and Time. She summons and controls Sand Guardians as well as bends time and space!|||||||
+monster|Monster|Hirviö|Monstro|монстр|怪物|モンスター|괴물|Monster
+relic|Relic|Aarre|Reliquia|Реликвия|遗迹|遺物|유물|Relikt
+upgrade_token_desc|Used to upgrade Satanic items.|Käytetään saatanillisten esineiden päivittämiseen.|Se utiliza para actualizar los elementos satánicos.|Используется для Улучшения Сатанических предметов.|用来升级撒旦项目。|悪魔のアイテムをアップグレードするために使用します。|사탄 항목을 업그레이드하는 데 사용됩니다.|Wird dazu verwendet Satanische Gegenstände aufzurüsten.
+reroll_token_desc|Re-rolls the quality of an item.|Arpoo esineen laadun uudelleen.|Vuelva a rodar la calidad de un artículo.|Случайно изменяет Качество предмета.|重辊的物品的质量。|アイテムは再ロール。|항목의 품질을 다시 롤.|Rerollt die Qualität eines Gegenstandes.
+offensive_token_desc|Adds a random ability to a Weapon.|Lisää satunnaisen taidon Aseeseen.|Añade una habilidad al azar a un arma.|Добавляет случайную Способность на оружие.|添加一个随机的能力的武器。|武器へのランダム機能を追加します。|무기에 임의의 기능을 추가합니다.|Gibt einer Waffe eine zufällig Fähigkeit.
+satanic_dice_desc_one|Chance to increase the quality of an item or corrupt it.|Mahdollisuus parantaa esineen laatua tai korruptoida se.|Oportunidad de aumentar la calidad de un artículo o corrupto.|Может повысить Качество предмета выше 100% или Осквернить его.|机会增加一个项目或损坏它的质量。|アイテムの品質、または破損し、 それを向上させるチャンス。|기회는 항목이나 손상 그것의 품질을 증가시킵니다.|Chance die Qualität eines Gegenstandes zu steigern, oder den Gegenstand zu verderben.
+satanic_dice_desc_two|Item has to be max level|Esineen tulee olla maksimitasolla|El artículo tiene que estar al mismo nivel máximo|Предмет должен быть Улучшен до максимального уровня.|项目必须是最高等级|項目は最大レベルである必要があります|항목 최대 수준이어야한다|Gegenstand muss die maximale Stufe erreicht haben
+requires_mining|Requires Mining|Vaatii louhimistaidon|Requiere nivel de la minería|Требуется Шахтерское Мастерство|需要开采水平|採掘レベルが必要です|광산 요구 레벨|Benötigt Bergbau
+requires_jewelcrafting|Requires Jewelcrafting|Vaatii korutyötaidon||||||
+requires_enchanting|Requires Enchanting|Vaatii lumousstaidon||||||
+requires_herbalism|Requires Herbalism|Vaatii yrttitaidon||||||
+requires_fishing|Requires Fishing|Vaatii kalastustaidon||||||
+extra_space_dlc|Get More Space|Lisätilaa|Más espacio|Получи больше места!|更多空间|より多くの スペース|더 많은 공간|Mehr Stauraum holen
+price|Price|Hinta|Preço|Цена|价钱|価格|가격|Preis
+price_free|FREE|ILMAINEN|GRATIS|БЕСПЛАТНО|自由|自由|비어 있는|KOSTENLOS
+blocked|Blocked|Estetty|Obstruido|заблокировано|受阻|ブロックされました|막힌|Blockiert
+miss|Miss|Huti|Evitar|промах|避免|避ける|기피|Verfehlt
+immune|Immune|Immuuni|Inmune|Иммунитет|免疫的|免疫|면역|Immun
+negated|Negated|Mitätöity|Negada|нейтрализовано|否定|否定|부정|Negiert
+accept|Accept|Hyväksy|Aceptar|Принять|接受|受け入れます|수락|Akzeptieren
+decline|Decline|Kieltäydy|Negar|Отказаться|垃圾|ごみ|폐물|Verweigern
+disconnected|Disconnected|Yhteys katkaistu|Desconectada|Отключен|断开|切断|분리|Getrennt
+version_mismatch|Version mismatch.|Versio ei täsmää.|Incompatibilidade de versão.|Несоответствие версий.|版本不匹配。|バージョンが一致しません。|버전 불일치.|Versionskonflikt.
+identification_error|Identification error.|Tunnistamisvirhe.|Erro de identificação.|Ошибка идентификации.|识别错误。|識別エラー。|식별 오류입니다.|Identifikationsfehler.
+item_max|MAX|MAX|MAX|МАКС|最大|最大|최고|MAX
+item_corrupted|Corrupted|Korruptoitunut|Corrupto|Осквернен|腐败的|形無し|손상된|Verdorben
+login_connection_error|Connection failed.|Yhteys epäonnistui.|Falha na conexão.|Не удалось установить соединение.|连接失败。|接続に失敗しました。|연결에 실패.|Verbindung fehlgeschlagen.
+login_internet_error|No Internet connection.|Ei Internet-yhteyttä.|Sem conexão à Internet.|Нет соединения с Интернетом.|没有网络连接。|いいえ、インターネット接続されていません。|인터넷에 연결되지 않음.|Keine Internetverbindung.
+login_validation_error|VALIDATION ERROR|TARKISTUSVIRHE|ERRO DE VALIDAÇÃO|ОШИБКА ВЕРИФИКАЦИИ|验证错误|検証エラー|유효성 검사 오류|VALIDIERUNGSFEHLER
+login_account_error|ACCOUNT ERROR|TILIVIRHE|ERRO DE CONTA|ОШИБКА АККАУНТА|帐号错误|アカウントエラー|계정 오류|KONTOFEHLER
+found_mystery_hat|Found a Mystery Hat!|Löysit Mysteerihatun!|Encontrei um chapéu misterioso!|Вы нашли Таинственную Шляпу!|发现神秘的帽子！|謎の帽子を見つけました！|신비의 모자를 발견!|Einen geheimen Hut gefunden!
+server_connection_failed|Server connection failed.|Palvelinyhteys epäonnistui.|Falha na conexão do servidor.|Не удается подключиться к серверу.|服务器连接失败。|サーバーの接続に失敗しました。|서버 연결에 실패했습니다.|Server-Verbindung fehlgeschlagen.
+server_shutting_down|Server shutting down soon|Palvelin suljetaan pian|Servidor desligado em breve|Сервер скоро отключат|服务器即将关闭|サーバーすぐにシャットダウン|서버 곧 종료|Server fährt bald herunter
+server_no_response|No response from server.|Ei vastausta palvelimelta.|Sem resposta do servidor.|Сервер не отвечает.|从服务器无响应。|サーバーからの応答がありません。|서버에서 응답이 없습니다.|Keine Antwort vom Server.
+server_kicked|Kicked from the server.|Potkittu palvelimelta.|Chutado do servidor.|Выгнан с сервера.|从服务器踢。|サーバから蹴りました。|서버에서 추방.|vom Server gekickt.
+server_not_unlocked|Difficulty not unlocked!|Vaikeusaste ei ole avattuna!|Dificuldade não desbloqueado!|Сложность не разблокирована!|难度不解锁！|難易度のロックを解除していません！|어려움은 없습니다 잠금을 해제!|Schwierigkeitsgrad nicht freigeschaltet!
+server_full|Server is full.|Palvelin on täynnä.|Servidor está cheio.|Сервер полный.|服务器已满。|サーバーがいっぱいです。|서버가 가득 찼습니다.|Server ist voll.
+server_password|Enter password:|Kirjoita salasana:|Digite a senha:|Введите пароль:|输入密码：|パスワードを入力する：|암호를 입력:|Passwort eingeben:
+multiplayer_disabled|Online multiplayer is currently disabled.|Moninpeli ei ole käytössä tällä hetkellä.|O modo multijogador online está desativado no momento.|Онлайн режим временно недоступен.|目前在线多人被禁用。|オンラインマルチプレイヤー は 現在 無効 に なって います。|온라인 멀티는 현재 사용할 수 없습니다.|Online-Multiplayer ist derzeit deaktiviert.
+new_version|There is a new version available.|Uusi versio on saatavilla.|Existe uma nova versão disponível.|Доступна новая версия игры.|有可用的新版本。|利用可能な新しいバージョンがあります。|사용할 수있는 새로운 버전이 있습니다.|Eine neue Spielversion ist verfügbar.
+update_game|Update your game.|Päivitä pelisi.|Atualize seu jogo.|Обновите игру, пожалуйста.|更新您的游戏。|あなたのゲームを更新します。|게임을 업데이트합니다.|Aktualisiere dein Spiel.
+account_disabled|Your account has been disabled.|Tilisi on poistettu käytöstä.|Sua conta foi desativada.|Ваш аккаунт отключен.|您的帐户已禁用。|あなたのアカウントが無効になっています。|계정이 비활성화되었습니다.|Dein Konto wurde deaktiviert.
+reason|Reason|Syy|Razón|Причина|原因|理由|이유|Grund
+logged_in_elsewhere|Your account has logged in elsewhere.|Tilisi on kirjautunut muualla.|Sua conta fez login em outro lugar.|Был осуществлен вход в ваш аккаунт на другом устройстве.|您的帐户登录其它地方。|あなたのアカウントは別の場所でログインしています。|계정이 다른 곳에서 로그인 한.|Auf ihr Konto wurde von woanders zugegriffen.
+support_120hz|Please make sure your setup supports 120Hz to avoid performance issues.|Varmista, että laitteistosi tukee 120Hz välttääksesi suorituskykyongelmia.|Asegúrese de que su configuración de soportes de 120 Hz para evitar problemas de rendimiento.|Пожалуйста, убедитесь, что ваша система поддерживает частоту 120hz, чтоб избежать проблем с производительностью.|确保您的安装程序支持的120Hz，以避免出现性能问题。|パフォーマンスの問題を避けるために、 必ずセットアップのサポートの 120Hzのを確認します。|성능 문제를 방지하기 위해 반드시 셋업 지원의 120Hz를 확인합니다.|Um Leistungsprobleme zu vermeiden, stellen Sie sicher das ihr Computer 120 Hz unterstützt.
+support_144hz|Please make sure your setup supports 144Hz to avoid performance issues.|Varmista, että laitteistosi tukee 144Hz välttääksesi suorituskykyongelmia.|Asegúrese de que su configuración de soportes de 144 Hz para evitar problemas de rendimiento.|Пожалуйста, убедитесь, что ваша система поддерживает частоту 144hz, чтоб избежать проблем с производительностью.|确保您的安装程序支持的144Hz，以避免出现性能问题。|パフォーマンスの問題を避けるために、 必ずセットアップのサポートの 144Hzのを確認します。|성능 문제를 방지하기 위해 반드시 셋업 지원의 144Hz를 확인합니다.|Um Leistungsprobleme zu vermeiden, stellen Sie sicher das ihr Computer 144 Hz unterstützt.
+privacy_policy|Privacy Policy|Tietosuojakäytäntö|Política de privacidad|Политика конфиденциальности|隐私政策|個人情報保護方針|개인 정보 정책|Datenschutz-Bestimmungen
+privacy_policy_msg1|We have updated our Privacy Policy.|Olemme päivittäneet tietosuojakäytäntömme.|Atualizamos nossa Política de Privacidade.|Мы обновили нашу Политику конфиденциальности.|我们已经更新了我们的隐私政策。|プライバシーポリシーを更新しました。|개인 정보 보호 정책이 업데이트되었습니다.|Wir haben unsere Datenschutzrichtlinien aktualisiert.
+privacy_policy_msg2|Please review and accept the changes to continue|Tarkista muutokset ja hyväksy ne jatkaaksesi|Revise e aceite as alterações para continuar|Пожалуйста, просмотрите и примите изменения, чтобы продолжить|请查看并接受更改以继续|続行するには、変更を確認して同意してください|계속하려면 변경 사항을 검토하고 동의하십시오|Bitte überprüfen und akzeptieren Sie die Änderungen, um fortzufahren
+privacy_policy_agree|I have read and agree both the EULA and the Privacy Policy.|Olen lukenut ja hyväksyn EULA:n ja tietosuojakäytännön.|He leído y acepto la política de privacidad.|Я прочитал и согласен с Политикой конфиденциальности.|我已阅读并同意隐私政策。|私が読んおよびプライバシーポリシーに同意しています。|본인은 개인 정보 보호 정책에 동의합니다.|Ich habe die Datenschutzerklärung gelesen und bin damit einverstanden.
+privacy_policy_must_agree|EULA and Privacy Policy must be agreed to register.|Rekisteröityminen vaatii EULA:n ja tietosuojakäytännön hyväksymisen.|Política de Privacidade deve ser acordado para se registrar.|Для регистрации необходимо согласиться с Политикой конфиденциальности.|隐私政策必须同意注册。|プライバシーポリシーは、登録することで合意しなければなりません。|개인 정보 보호 정책 등록하기로 동의해야합니다.|Der Datenschutzerklärung muss für die Registrierung zugestimmt werden.
+privacy_policy_ok|Ok, I accept.|Ok, hyväksyn.|Ok, eu aceito.|Да, я согласен.|好吧，我接受。|承知しました。|알겠습니다|Okay, ich stimme zu.
+privacy_policy_not_ok|No, I don't accept.|Ei, en hyväksy.|Não, eu não aceito.|Нет, я не согласен.|不，我不接受。|いいえ、同意しません。|아니요, 동의하지 않습니다.|Nein, ich stimme nicht zu.
+privacy_policy_i_agree|I agree|Hyväksyn|Eu aceito|Я согласен.|我接受|承諾します|동의 함|Ich stimme zu
+wormhole_error|Error loading wormhole.|Virhe ladatessa madonreikää.|Error agujero de gusano de carga.|Ошибка при загрузке Червоточины.|错误加载虫洞。|読み込みエラーワームホール。|오류로드 웜홀.|Fehler beim Laden des Wurmloches.
+wormhole_disabled|Season wormholes are currently disabled.|Kauden madonreiät eivät ole käytössä.|agujeros de gusano temporada están desactivadas.|Червоточины в Сезонных режимах временно отключены.|目前季节虫洞被禁用。|シーズンワームホールは現在無効になっています。|시즌 웜홀은 현재 비활성화됩니다.|Saison Wurmlöcher sind zur Zeit deaktiviert.
+wormhole_awarded|You have been awarded 1 Wormhole Level!|Olet ansainnut yhden Madonreiän tason!|Você recebeu 1 nível de buraco de minhoca!|Вы получили 1 уровень червоточины!|您已赢得1虫洞等级！|ワームホールレベル1を獲得しました！|웜홀 레벨 1을 획득했습니다!|Du hast 1 Wurmlochlevel erhalten!
+unstable_rift_waves|Unstable Rift Waves:|Epävakaa Repeämä Aallot:|Ondas de Fenda Instáveis:|Нестабильный Разлом, Волны:|不稳定的裂谷波：|不安定なリフト波：|불안정한 균열 파:|Instabile Risswellen:
+unstable_rift_cleared|Unstable Rift Cleared|Epävakaa Repeämä Läpäisty|Fenda instável limpa|Нестабильный Разлом зачищен|不稳定的裂痕被清除|不安定なリフトをクリア|불안정한 균열 제거|Instabiler Riss beseitigt
+legacy|Legacy|Vanha|Legado|Наследие|遗产|レガシー|유산|Erbe
+event|Event|Tapahtuma|Evento|Событие|事件|イベント|행사|Veranstaltung
+player_two_press|Player 2 press|Pelaaja 2 paina|Jogador 2, pressione|Игрок 2, нажмите|玩家 2 按|プレイヤー2 プレス|플레이어 2 프레스|Spieler 2 drücke
+player_two_join|to join.|liittyäksesi peliin.|para participar.|чтобы присоединиться.|加入游戏。|ゲームに参加する。|게임에 참여합니다.|um beizutreten.
+guild_invite|Invite to guild|Kutsu kiltaan|Convite|Пригласить|邀请|招待する|초대|Gildeneinladung
+guild_promote|Guild Promote|Ylennä|Promover|Повысить|促进|プロモート|홍보|Beförderung
+guild_demote|Guild Demote|Alenna|Rebaixar|Понизить|降级|降格|강등|Degradieren
+guild_remove|Guild Remove|Poista|Retirar|Убрать|去掉|削除する|없애다|Entfernen
+guild_rep|Guild Reputation|Kilta Maine|Reputação Aliança|Репутация Гильдии|公会声望|ギルドの評判|길드 평판|Gildenruf
+friendly|Friendly|Ystävällinen|Amigáveis|Дружелюбный|友好|優しいです|친한|Freundlich
+honored|Honored|Kunnioitettu|Honrado|Уважаемый|荣幸|表彰|수상|Wohlwollend
+revered|Revered|Arvostettu|Reverenciado|Достопочтенный|崇敬|尊敬|존경|Respektvoll
+exalted|Exalted|Ylistetty|Exaltado|Великий|崇高的|誇らしいです|고귀한|Ehrfürchtig
+no_players_found|No players found|Pelaajia ei löytynyt|Nenhum jogador encontrado|Игроки не найдены|找不到任何玩家|選手見つかりません|어떤 선수를 찾을 수 없습니다|Keine Spieler gefunden
+error|Error|Virhe|Erro|Ошибка|错误|エラー|오류|Fehler
+warning|Warning|Varoitus|Warning|Warning|Warning|Warning|Warning|Warnung
+lost_connection|Lost connection|Yhteys katkennut|Conexão perdida|Соединение потеряно|失去了连接|接続が切れました|분실 연결|Verbindung verloren
+in_different_zone|is in a different zone!|on eri alueella!|está em uma zona diferente!|находится в другой зоне!|在不同的区域！|別のゾーンにあります！|다른 영역에!|ist in einer anderen Zone!
+sell_prompt|Are you sure you want to sell?|Haluatko varmasti myydä?|Tem certeza de que quer vender?|Вы уверены, что хотите продать?|你确定你想卖？|あなたが販売したいですか？|당신은 당신이 판매 하시겠습니까?|Sind Sie sicher, die Sie dies verkaufen möchten?
+sell_all_prompt|Are you sure you want to sell all items in this category?|Haluatko varmasti myydä kaikki kategorian ensineet?|Tem certeza de que quer vender todos os itens nesta categoria?|Вы уверены, что хотите продать все предметы в этой категории?|你确定你想卖这个类别中的所有项目？|あなた は、このカテゴリ内 の すべてのアイテム を 販売 して も よろしいです か？|이 카테고리의 모든 상품을 판매 하시겠습니까?|Sind Sie sicher, dass Sie alle Gegenstände in dieser Kategorie verkaufen wollen?
+angelic_upgrade_prompt|Are you sure you want to upgrade this item?|Haluatko varmasti päivittää tämän esineen?|Are you sure you want to upgrade this item?|Are you sure you want to upgrade this item?|Are you sure you want to upgrade this item?|Are you sure you want to upgrade this item?|Are you sure you want to upgrade this item?|Sind Sie sich sicher, dass Sie diesen Gegenstand aufrüsten wollen?
+attempts_remaining|Attempts remaining:|Yrityksiä jäljellä:|Tentativas restantes:|Осталось попыток:|其余的尝试：|残りの試み：|나머지 시도:|Verbleibende Versuche:
+minute|Minute|Minuutti|minuto|Минута|分钟|分|분|Minute
+minutes|Minutes|Minuuttia|Minutos|Минут|分钟|分|의사록|Minuten
+insert_coin|Insert Coin!|Syötä Kolikko!|Insira Moeda!|Вставьте Монету!|投币！|コインを挿入！|동전을 넣으세요!|Münze Einwerfen!
+dig_treasure|Dig for David's treasure!|Kaiva Davidin aarre esiin!|Cavar para o tesouro de David!|Откопай сокровище Давида!|挖掘大卫的宝藏！|デビッドの宝物を探してください！|다윗의 보물을 파헤쳐 라!|Grabe nach Davids Schatz!
+dig|Dig|Kaiva|Dig|Dig|Dig|Dig|Dig|Graben
+whisper|Whisper|Kuiskaa|Sussurro|Личное сообщение|耳语|ささやき|속삭임|Flüstern
+msg_cant_connect_global|Can't connect to the chat server.|Ei voitu yhdistää chat-palvelimeen.|Não foi possível conectar ao servidor de bate-papo.|Не удается подключиться к серверу чата.|无法连接到聊天服务器。|チャットサーバーに接続できません。|채팅 서버에 연결할 수 없습니다.|Es kann keine Verbindung zum Chat-Server hergestellt werden.
+msg_cant_connect_guild|Can't connect to guild chat server.|Ei voitu yhdistää killan chat-palvelimeen.|Não é possível ligar para guild servidor de chat.|Не удается подключиться к серверу чата гильдии.|无法连接到公会聊天服务器。|ギルドチャットサーバーに接続できません。|채팅 서버 길드에 연결할 수 없습니다.|Es kann keine Verbindung zum Gildenchat-Server hergestellt werden.
+msg_welcome|Welcome to Hero Siege global chat!|Tervetuloa Hero Siegen globaaliin chattiin!|Bem-vindo ao chat global do Hero Siege!|Добро пожаловать в общий чат Hero Siege!|欢迎来到英雄围攻全球聊天室！|Hero Siegeグローバルチャットへようこそ！|Hero Siege 글로벌 채팅에 오신 것을 환영합니다!|Willkommen im globalen Chat von Hero Siege!
+msg_help|Type /help for commands.|Näytä komennot kirjoittamalla /help|Digite /help para comandos.|Для просмотра списка доступных команд введите /help|输入 /help 作为命令。|コマンドの場合は /help と入力します。|명령에 /help 를 입력하십시오.|Geben Sie /help für eine Befehlsliste ein.
+msg_time|Time|Aika|Tempo|Время|时间|時間|시각|Zeit
+msg_date|Date|Päivämäärä|Encontro|Дата|日期|日付|데이트|Datum
+msg_parental_control|Parental control is enabled. Communication is not allowed for this user on this device.|Lapsilukko on käytössä. Tämän käyttäjän viestintä ei ole sallittu.|O controle dos pais está ativado. A comunicação não é permitida para este usuário neste dispositivo.|Родительский Контроль включен. Для этого пользователя связь на этом устройстве запрещена.|家长控制已启用。 不允许该用户在此设备上进行通信。|保護者による使用制限が有効になっています。 このユーザーはこのデバイスで通信できません。|자녀 보호 기능이 활성화되었습니다. 이 기기에서이 사용자에 대한 통신이 허용되지 않습니다.|Die Kindersicherung ist aktiviert. Für diesen Benutzer ist auf diesem Gerät keine Kommunikation zulässig.
+msg_spam|Too many messages. Wait [time] seconds.|Liian monta viestiä. Odota [time] sekuntia.|Muitas mensagens. Aguarde [time] segundos.|Слишком много сообщений. Подождите [time] секунд.|太多的消息。等待[time]秒。|あまりにも多くのメッセージ。 [time]秒待ちます。|너무 많은 메시지. [time] 초 정도 기다립니다.|Zu viele Nachrichten. [time] Sekunden warten.
+msg_not_in_guild|You are not in a guild.|Et kuulu kiltaan.|Você não está em uma aliança.|Вы не в гильдии.|你是不是在一个公会。|あなたはギルドではありません。|당신은 길드에 있지 않습니다.|Sie befinden sich nicht in einer Gilde.
+msg_status_low|Your guild status is too low.|Asemasi killassa on liian matala.|Seu status de alianças é muito baixo.|Ваш статус в гильдии недостаточно высок.|你的公会的地位太低。|あなたのギルドステータスが低すぎます。|길드 상태가 너무 낮습니다.|Ihr Gilden Status ist zu niedrig.
+msg_playername|player name|pelaajan nimi|nome do jogador|имя игрока|选手姓名|プレーヤの名前|선수 이름|spielername
+msg_message|message|viesti|mensagem|сообщение|信息|メッセージ|메시지|botschaft
+msg_whisper|to whisper|kuiskataksesi|sussurar|написать личное сообщение|说悄悄话|ささやく|속삭임에|flüstern
+msg_reply|to reply to a whisper|vastataksesi kuiskaukseen|para responder a um sussurro|ответить на личное сообщение|回复耳语|ささやきに返信します|속삭임의 질문에 답변|einem flüstern antworten
+msg_game_invite|to send a game invite|lähettäksesi kutsun peliin|para enviar um convite de jogo|отправить приглашение в игру|发送游戏邀请|ゲームの招待状を送信するには|게임 초대를 보내려면|um eine Spieleinladung zu senden
+msg_guild_invite|to send a guild invite|lähettäksesi kutsun kiltaan|para enviar uma aliança convidá|отправить приглашение в гильдию|发送公会邀请|ギルド招待送信します|길드 초대 보내|eine Gildeneinladung zu senden
+msg_mute|to mute a player|mykistääksesi pelaajan|para silenciar um jogador|заглушить игрока|静音玩家|プレイヤーをミュートします|플레이어를 음소거|einen Spieler stummzuschalten
+msg_unmute|to unmute a player|poistaaksesi pelaajan mykistyksen|para remover mudo do jogador|снять заглушение|删除玩家的静音|プレイヤーのミュートを削除します|플레이어의 음소거를 제거|einen Spieler entstummen
+msg_promoted|You have been promoted!|Sinut on ylennetty!|Você foi promovido!|Вас повысили!|你已被提升为！|あなたが推進されています！|당신은 승진되었다!|Sie wurden befördert!
+msg_demoted|You have been demoted.|Sinut on alennettu|Você foi rebaixado.|Вас понизили.|你被降职。|あなたは降格されています。|당신은 강등되었다.|Sie wurden degradiert.
+msg_removed|You have been removed from the guild.|Sinut on poistettu killasta.|Você foi removido da aliança.|Вы были исключены из гильдии.|你已经从公会中移除。|あなたはギルドから削除されました。|당신은 길드에서 제거되었습니다.|Sie wurden aus der Gilde entfernt.
+msg_voted_reset|Voted for reset|Äänesti uudelleenaloitusta|Votou para reset|Проголосовал за обновление локаций.|投票复位|リセットに投票|리셋 투표|hat für einen Reset gestimmt.
+msg_removed_vote|Removed their reset vote.|Poisti äänestyksensä.|Removido o voto de redefinição.|Отозвал голос за обновление локаций.|删除了他们的重置投票。|リセット投票を削除しました。|재설정 투표를 삭제했습니다.|hat ihre Stimme für den Reset zurückgezogen.
+msg_invited|has invited you to join game|kutsui sinut peliin|convidou você para participar do jogo|пригласил вас присоединиться к игре|邀请您加入游戏|ゲームに招待されました|게임에 초대했습니다|hat dich zum Spiel eingeladen
+msg_joined|joined!|liittyi!|juntou!|присоединился!|加入！|参加しました！|합류했습니다!|hat den Raum betreten!
+msg_left|left!|poistui!|desaparecido!|покинул!|不见了！|消えた！|사라졌다!|ist verschwunden!
+msg_died|died!|kuoli!|morreu!|умер!|死了！|死亡しました！|사망 한!|ist gestorben!
+msg_grave|The final resting place:|Viimeinen lepopaikka:|O local de descanso final:|Место упокоения:|最后的安息之地：|最後の休憩所：|마지막 휴식 장소 :|Die letzte Ruhestätte:
+gaben_event|Gaben walks the earth...|Gaben kävelee joukossamme...|Gaben caminha sobre a Terra...|Габен ходит по Земле...|Gaben走地球...|Gabenは地球を歩きます...|Gaben는 지구를 산책...|Gaben geht die Erde...
+ping_timeout|Ping timeout.|Ping-aikakatkaisu.|Tempo limite de ping.|Ping timeout. Превышено ожидание.|Ping超时。|Pingタイムアウト。|핑 타임 아웃.|Ping-Zeitüberschreitung.
+revive|Revive|Elvytä|Reviver|Возродить|复活|復活|소생|Wiederbeleben
+respawn|Respawn|Herää henkiin|Respawn|Respawn|Respawn|Respawn|Respawn|Respawnen
+magic_rubies|Magic Rubies|Taikarubiinit|Rubis Mágicas|Волшебные Рубины|魔法红宝石|魔法のルビー|마법 루비|Magische Rubine
+black_market|Black Market|Musta Pörssi|Mercado Negro|Черный Рынок|黑市|ブラックマーケット|암시장|Schwarzmarkt
+mystery_hat_equip|You just looted a Mystery Hat, would you like to equip it?|Keräsit Mysteerihatun, haluatko pukea sen?|Você só saquearam um chapéu Mistério, que gostaria de equipá-lo?|Вы только что нашли Таинственную Шляпу, хотите ее надеть?|你只是一个洗劫神秘的帽子， 你想装备呢？|あなただけのミステリー帽子を略奪、 あなたがそれを装備したいと思いますか？|당신은 당신이 그것을 장착하고 싶습니다 신비 모자를 약탈?|Sie haben einen mysteriösen Hut gefunden, möchten Sie ihn aufsetzen?
+color_picker_current|Current Color|Nykyinen Väri|Cor Atual|Текущий Цвет|当前颜色|現在の色|현재의 색|Aktuelle Farbe
+altar_um|Um's Altar|Umin Alttari|Altar de Um|Алтарь Ума|恩祭坛|ウムの祭壇|음 제단|Ums Altar
+quest_take_one|Take one!|Ota yksi!|Pegue um!|Выбери один!|拿一个！|一つを取って！|하나를 수행합니다!|Wähle einen!
+quest_choose|Choose wisely!|Valitse viisaasti!|Escolha sabiamente!|Выбирай с умом!|做出明智的选择！|賢く選択してください！|현명하게 선택해!|Wähl Klug!
+prompt_name_empty|The name field cannot be empty!|Nimi-kenttä ei voi olla tyhjä!|O campo do nome não pode estar vazio!|Поле имени не может быть пустым!|名称字段不能为空！|名前フィールドは空にできません！|이름 필드는 비워 둘 수 없습니다!|Das Namensfeld darf nicht leer sein!
+prompt_delete_guild|Are you sure you want to delete this guild?|Haluatko varmasti poistaa tämän killan?|Tem certeza de que deseja excluir esta aliança?|Вы уверены, что хотите удалить эту гильдию?|你确定要删除这个公会？|あなたはこのギルドを削除してもよろしいですか？|이 길드를 삭제 하시겠습니까?|Sind Sie sicher, dass Sie diese Gilde löschen möchten?
+prompt_black_market_buy|Are you sure you want to buy?|Haluatko varmasti ostaa?|Tem certeza de que quer comprar?|Вы уверены, что хотите купить?|你确定你要购买？|あなたが購入してもよろしいですか？|당신은 당신이 구매 하시겠습니까?|Sind Sie sich sicher, dass Sie dies kaufen möchten?
+page|Page|Sivu|Página|Страница|页|ページ|페이지|Seite
+minion_resurrect|Resurrect Mercenary|Henkiinherätä palkkasoturi||||||
+minion_discharge|Discharge Mercenary|Vapauta palkkasoturi||||||
+minion_discharge_confirm|Are you sure you want to discharge your mercenary?|Haluatko varmasti vapauttaa palkkasoturisi?||||||
+minion_use|Use Mercenary|Käytä palkkasoturia|Uso de Mercenários|Использовать Наемника|使用雇佣军|傭兵を使用|사용 용병|Söldner Verwernden
+minion_buy|Hire Mercenary|Värvää palkkasoturi|Hire Mercenary|Hire Mercenary|Hire Mercenary|Hire Mercenary|Hire Mercenary|Hire Mercenary
+minion_melee|Knight|Ritari||||||
+minion_ranged|Archer|Jousiampuja||||||
+minion_spell|Magister|Taikuri||||||
+keyboard_backspace|Backspace|Askelpalautin|Retrocesso|бекспейс|退格|バックスペース|역행 키이|Rücktaste
+take_cover|TAKE COVER!|SUOJAUDU!|PROTEJA-SE!|В УКРЫТИЕ !|带套！|カバーを取る！|커버를 받아!|IN DECKUNG!
+mystery_chest_hat|Mystery Chest Hat|Mysteeri arkkuhattu|Chapéu Misterioso|Таинственный сундук|神秘胸帽|ミステリーチェストハット|미스터리 가슴 모자|Mysteriöser Truhehut
+requires_verification|Requires account verification|Vaatii tilin vahvistamisen|Requer verificação da conta|Требуется верификация аккаунта|需要帐户验证|アカウントの確認が必要|계정 확인이 필요합니다|Erfordert eine Kontobestätigung
+requires_steam_item|Requires Steam Item|Vaatii Steam-esineen|Requer Item Steam|Требуется Steam предмет|需要 Steam 物品|Steam アイテムが必要|Steam 아이템 필요|Benötigt Steam-Gegenstand
+unavailable|Unavailable|Ei saatavilla|Indisponível|Недоступно|不可用|利用できません|없는|Nicht verfügbar
+share_data|Share Gameplay Data|Jaa pelitiedot|Compartilhar dados do jogo|Поделиться игровыми данными|分享游戏数据|ゲームプレイデータの共有|게임 플레이 데이터 공유|Gameplay-Daten teilen
+show_border|Show HUD Border|Näytä HUD-reunus|Mostrar borda do HUD|Отображать рамку по краям экрана|显示HUD边框|HUDボーダーを表示|HUD 테두리 표시|HUD-Rand anzeigen
+field_of_view|Field of View|Näkökenttä|Campo de visão|Поле зрения|视场|視野|시야|Sichtfeld
+joystick_opacity|Joystick Opacity|Joystick läpinäkyvyys|Opacidade do joystick|Прозрачность джойстика|游戏杆不透明度|ジョイスティックの不透明度|조이스틱 불투명도|Joystick-Deckkraft
+restore_purchases|Restore Purchases|Palauta ostokset|Restaurar compras|Восстановить Покупки|恢复购买|購入を復元|구매를 복원|Einkäufe wiederherstellen
+ascendancy|Ascendancy|Ylemmyys|Ascendência|Превосходство|优势|優勢|승천|Aufstieg
+attack_stick|Attack Stick|Hyökkäystatti|Vara de ataque|Стик Атаки|攻击棒|アタックスティック|어택 스틱|Angriffsstick
+move_stick|Move Stick|Liiketatti|mova a vara|Стик Передвижения|移动棒|スティックを動かす|스틱 이동|Bewegungsstick
+free|Free|Vapaa|Livre|Бесплатно|自由|自由|비어 있는|Frei
+magic_mushroom|Magic Mushroom|Taikasieni|Cogumelo Mágico|Волшебный гриб|魔法菇|マジック ・ マッシュルーム|마법 버섯|Magischer Pilz
+per|Per|Per|Por|за|每|あたり|당|Pro
+inv_merc|Inventory Mercenary|Palkkasoturin reppu|Mercenário de inventário|Инветарь Наемника|库存佣工|インベントリ傭兵|재고 용병|Inventar Söldner
+inv_secondary|Inventory Secondary|Toissijainen reppu|Inventário Secundário|Второе Оружие или Щит|二级库存|在庫セカンダリ|재고 보조|Inventar Sekundär
+vsync|VSync|Pystytahdistus|VSync|Вертикальная синхронизация|垂直同步|垂直同期|수직 동기|VSync
+no_shield|No shield!|Ei kilpeä!|Sem escudo!|Нет щита!|没有盾牌！|シールドなし！|방패가 없습니다!|Kein Schild!
+scrap|Scrap|Romuta|Sucatear|Хлам|废料|スクラップ|한조각|Verschrotten
+combine|Combine|Yhdistä|Combinar|Скомбинировать|结合|コンバイン|결합시키다|Kombinieren
+dual_wield|Dual Wield|Dual Wield|Dual Wield|Dual Wield|Dual Wield|Dual Wield|Dual Wield|Beidhändig
+soulbound|Herobound|Sankarisidonnainen|Herobound|Herobound|Herobound|Herobound|Herobound|Herobound
+||||||||
+[Item types]||||||||
+item_type_helmet|Helmet|Kypärä|Capacete|Шлем|头盔|ヘルメット|헬멧|Helm
+item_type_armor|Armor|Panssari|Armaduras|Нагрудник|盔甲|鎧|갑옷|Rüstung
+item_type_boots|Boots|Saappaat|Botas|Ботинки|靴子|ブーツ|부츠|Stiefel
+item_type_weapon|Weapon|Ase|Arma|Оружие|武器|武器|무기|Waffe
+item_type_gloves|Gloves|Hanskat|Luvas|Перчатки|手套|手袋|장갑|Handschuhe
+item_type_amulet|Amulet|Amuletti|Amuleto|Амулет|护身符|お守り|부적|Amulett
+item_type_charm|Charm|Taikakalu|Charme|Оберег|魅力|チャーム|매력|Charm
+item_type_shield|Shield|Kilpi|Escudo|Щит|屏蔽|シールド|방패|Schild
+item_type_ring|Ring|Sormus|Anel|Кольцо|环|リング|반지|Ring
+item_type_belt|Belt|Vyö|Cinto|Ремень|带|ベルト|벨트|Gürtel
+item_type_potion|Potion|Rohto|Porção|Зелье|剂量|薬|물약|Trank
+item_type_uber|Special|Erityinen|Especial|Специальный|特别|特殊|특별한|Spezial
+||||||||
+[Short stat names]||||||||
+stat_movement_speed|Movement Speed|Liikkumisnopeus|Velocidade|Скор. Передвиж.|移动速度|移動速度|이동 속도|Geschwindigkeit
+stat_ruby_drops|Ruby Drops|Lisää Rubiineja|Mais Rubis|Выпад. Рубинов|更红宝石|より多くのルビー|더 루비|Rubindrops
+stat_experience|Experience|Kokemusta|Experiência|Ув. получ. Опыта|经验|経験|경험|Erfahrung
+||||||||
+[Loot names]||||||||
+loot_body_part|Body part|Ruumiinosa|Parte do Corpo|Часть Тела|身体的一部分|ボディ部|신체 부위|Körperteil
+loot_brick|Brick|Tiili|Tijolo|Кирпич|砖|煉瓦|벽돌|Backstein
+loot_christmas_star|Christmas Star|Joulutähti|Estrela de Natal|Рождественская Звезда|圣诞星|クリスマスの星|크리스마스 스타|Weihnachtsstern
+loot_christmas_tree|Christmas Tree|Joulukuusi|Árvore de Natal|Рождественская Елка|圣诞树|クリスマスツリー|크리스마스 트리|Weihnachtsbaum
+loot_coffee_beans|Coffee Beans|Kahvipavut|Grãos de café|Кофейные Зерна|咖啡豆|コーヒー豆|커피 콩|Kaffeebohnen
+loot_coffee_mug|Coffee Mug|Kahvimuki|Coffee Mug|Coffee Mug|Coffee Mug|Coffee Mug|Coffee Mug|Kaffeetasse
+loot_mystery_hat|Mystery Hat|Mysteerihattu|chapéu mistério|Таинственная Шляпа|神秘的帽子|ミステリー帽子|미스터리 모자|Mysteriöser Hut
+loot_mystery_wings|Mystery Wings|Mystery Wings|Mystery Wings|Mystery Wings|Mystery Wings|Mystery Wings|Mystery Wings|Mysteriöse Flügel
+loot_pile_of_socks|Pile of Socks|Sukkakasa|Pilha de Meias|Кучка Носков|一堆袜子|靴下の山|양말의 더미|Stapel von Socken
+loot_snowman_head|Snowman's Head|Lumiukon Pää|Cabeça do boneco de neve|Голова Снеговика|雪人的头|雪だるまの頭|눈사람의 머리|Schneemann-Kopf
+loot_skeleton_bone|Skeleton Bone|Luurankon Luu|Osso Esqueleto|Кость Скелета|骷髅骨|スケルトンの骨|골격 뼈|Skelett Knochen
+loot_bards_guitar|Bard's Guitar|Bardin Kitara|Guitarra do Bardo|Гитара Барда|吟游诗人的吉他|バードのギター|음유 시인의 기타|Bardengitarre
+loot_moonshine|Moonshine|Pontikka|Luar|Самогон|空想|狂想|달빛|schwarzgebrannter Schnaps
+loot_beer|Beer|Kalja|Cerveja|Пиво|啤酒|ビール|맥주|Bier
+loot_wine|Wine|Viini|Vinho|Вино|葡萄酒|ワイン|포도주|Wein
+loot_grapes|Grapes|Rypäleet|Uvas|Виноград|葡萄|葡萄|포도|Trauben
+loot_metal_debris|Metal Debris|Metallipirstaleet|Detritos de Metal|Металлические Обломки|金属碎片|金属の破片|금속 파편|Metalltrümmer
+loot_essence|Essence|Esanssi|Essência|Эссенция|本质|エッセンス|본질|Essenz
+loot_gemstone|Rainbow Gemstone|||||||
+loot_braggite|Braggite|||||||
+loot_corrupted_dirt|Corrupted Dirt|||||||
+loot_hogmeat|Delicious Hog Meat|||||||
+loot_doom_weed|Doom Weed|||||||
+loot_essence_of_gods|Essence of the Gods|||||||
+loot_naga_scale|Naga Scale|||||||
+loot_cart_wheel|Mining Cart Wheel|||||||
+loot_golden_statue|Golden Warrior Statue|||||||
+loot_naga_amulet|Golden Snake Amulet|||||||
+loot_hero_skull|Hero Skull|||||||
+loot_fat_pumpkin|Fat Pumpkin|||||||
+loot_maggot_corpse|Yummy maggot|||||||
+loot_spellbook_ahriman|Mysterious spellbook|||||||
+loot_ginseng|Ginseng|||||||
+loot_loska|Loska|||||||
+loot_frost_dill|Frost Dill|||||||
+loot_vermroot|Vermroot|||||||
+loot_fanglen|Fanglen|||||||
+loot_carnage_track|Bear tracks|||||||
+loot_jaspers_whip|Jasper's Whip|||||||
+loot_staff_map|Old Map|||||||
+loot_devils_cabbage|Devil's Cabbage|||||||
+loot_empty_mining_cart|Empty Mining Cart|||||||
+loot_sturdy_bamboo|Sturdy Bamboo|||||||
+loot_aki_workbench|Aki's Workbench|||||||
+loot_spiderweb|Thick Spiderweb|||||||
+loot_metal_hook|Metal Hook|||||||
+loot_eternal_chalice|The Eternal Chalice|||||||
+loot_soul|Lost Soul|||||||
+loot_sealed_grave|Seal of Eternity|||||||
+||||||||
+||||||||
+[Marketplace]||||||||
+sell_item|Sell item|Myy esine|Vender item|Продать предмет|出售物品|アイテムを売る|상품 판매|Gegenstand verkaufen
+buy_item|Buy item|Osta esine|Comprar item|Купить предмет|买东西|商品を購入|물건을 사다|Gegenstand kaufen
+remove_item|Remove item|Poista esine|Remover item|Снять предмет|除去项目|アイテムを削除する|항목 제거|Gegenstand entfernen
+claim_rubies|Claim rubies|Lunasta rubiinit|Reivindicar rubis|Снять рубины|索取红宝石|ルビーを要求する|루비 받기|Rubine auszahlen
+search|Search|Haku|Pesquisa|Поиск|搜索|探す|검색|Suche
+sort|Sort|Lajittele|Ordenar|Сортировать|分类|ソート|종류|Sortieren
+get_items|Get items|Hae esineet|Obter itens|Получить предметы|获取物品|アイテムを入手する|아이템 받기|Gegenstände einholen
+get_own_items|My listings|Omat esineet|Minhas listas|Мои товары|我的清单|私のリスト|내 목록|Meine Angebote
+type|Type|Tyyppi|Tipo|Тип|类型|タイプ|유형|Art
+damage_type|Damage type|Vahinkotyyppi|Tipo de dano|Тип Урона|损坏类型|ダメージタイプ|손상 유형|Schadensart
+rarity|Rarity|Harvinaisuus|Raridade|Редкость|稀有度|希少性|희박|Seltenheit
+expired|Expired|Vanhentunut|Expirado|Истекло|已过期|期限切れ|만료 됨|Abgelaufen
+unit_price|Unit Price|Yksikköhinta|Preço unitário|Цена за ед.|单位价格|単位：百万円|Unit Price|Stückpreis
+market_items_sold|You have sold items in the market|Sinulla on myytyjä tuotteita marketissa|Você vendeu itens no mercado|Имеются проданные товары|您已在市场上出售商品|市場で商品を販売しました|시장에서 품목을 판매했습니다.|Du hast Gegenstände auf dem Markt verkauft
+market_items_expired|You have expired items in the market|Sinulla on vanhentuneita tuotteita marketissa|Você expirou itens no mercado|Имеются товары с истёкшим сроком|您在市场上有过期的物品|市場で期限切れのアイテムがあります|시장에서 만료 된 항목이 있습니다.|Du hast abgelaufene Gegenstände auf dem Markt
+market_tax|7% tax on sale completion|7% vero myynnin päätöksessä|7% de imposto sobre a conclusão da venda|7% налог при продаже|完成销售的7％税|販売完了時に7％の税金|판매 완료시 7 % 세금|7% Steuer bei Abschluss des Verkaufs
+market_connect|Connection to the marketplace failed.|Yhteys markkinapaikalle epäonnistui.|A conexão com o mercado falhou.|Не удалось подключиться к Торговой Системе.|与市场的连接失败。|マーケットプレイスへの接続に失敗しました。|마켓 플레이스에 연결하지 못했습니다.|Die Verbindung zum Marktplatz ist fehlgeschlagen.
+market_limit_reached|Apply search terms or filters to narrow your results.|Aseta hakutermejä tai suodattimia tuloksien kaventamiseksi.|Aplique termos de busca ou filtros para restringir seus resultados.|Примените фильтры, чтобы сузить поиск.|应用搜索词或过滤器来缩小结果范围。|検索条件やフィルターを適用して、検索結果を絞り込むことができます。|Apply search terms or filters to narrow your results.|Wende Suchbegriffe oder Filter an, um die Ergebnisse einzugrenzen.
+market_list_filled|No more results found with current criteria.|Enempää tuloksia ei löytynyt nykyisillä kriteereillä.|Não foram encontrados mais resultados com os critérios atuais.|Других результатов по заданным критериям поиска не найдено.|在目前的标准下没有找到更多的结果。|現在の基準では、これ以上の結果は見つかりませんでした。|No more results found with current criteria.|Keine weiteren Ergebnisse mit aktuellen Kriterien gefunden.
+market_send_full|You can sell 10 items at a time|Voit myydä 10 tuotetta kerrallaan|Você pode vender 10 itens de cada vez|Вы можете выставить на продажу не более 10 товаров одновременно.|你可以一次销售10件物品|一度に10個のアイテムを販売することができます。|You can sell 10 items at a time|Du kannst höchstens 10 Gegenstände auf einmal verkaufen
+market_pending|Pending confirmation from the buyer|Odottaa ostajan vahvistusta|Pending confirmation from the buyer|Pending confirmation from the buyer|Pending confirmation from the buyer|Pending confirmation from the buyer|Pending confirmation from the buyer|Ausstehende Bestätigung vom Käufer
+market_instructions_welcome|[c_coin]Welcome to the Tarethiel Marketplace|[c_coin]Tervetuloa Tarethielin Markettiin|Bem-vindo ao Tarethiel Marketplace|Добро пожаловать на Таретиэльский Аукцион|欢迎来到Tarethiel市场|タレシエルマーケットプレイスへようこそ|Welcome to the Tarethiel Marketplace|Willkommen auf dem Tarethiel-Marktplatz
+market_instructions_tax|The tax is 1% when listing items and 5% when claiming a sold listing.|Vero on 1%, kun listataan esineitä, ja 5%, kun lunastetaan myytyjä esineitä.|O imposto é de 1% ao listar itens e 5% ao reivindicar uma listagem vendida.|Взимается налог в размере 1% при выставлении товара и в размере 5% при продаже.|在列出物品时，税率为1%，在要求出售物品时，税率为5%。|税金は、商品を出品する際には1％、売れた商品をクレームする際には5％です。|The tax is 1% when listing items and 5% when claiming a sold listing.|Die Steuer beträgt 1 % beim Einstellen von Gegenständen und 5 % bei der Reklamation eines verkauften Gegenstands.
+market_instructions_expiration|Listings that are older than 30 days will be permanently deleted if they are not claimed or recalled.|Yli 30 päivää vanhat ilmoitukset poistetaan pysyvästi, jos niitä ei lunasteta tai kerätä takaisin.|As listas com mais de 30 dias serão permanentemente apagadas se não forem reclamadas ou chamadas de volta.|Через 30 дней после выставления товара лот будет удалён. При удалении непроданный товар или неснятая валюта будут безвозвратно утеряны.|如果没有人认领或召回，超过30天的列表将被永久删除。|30日以上経過したリスティングは、クレームやリコールがない場合、永久に削除されます。|Listings that are older than 30 days will be permanently deleted if they are not claimed or recalled.|Einträge, die älter als 30 Tage sind, werden dauerhaft gelöscht, wenn sie nicht beansprucht oder zurückgerufen werden.
+market_critical_error|Network communication data was lost. The Marketplace will be closed.|Verkkoyhteys katkaistu. Marketti suljetaan.|Network communication data was lost. The Marketplace will be closed.|Network communication data was lost. The Marketplace will be closed.|Network communication data was lost. The Marketplace will be closed.|Network communication data was lost. The Marketplace will be closed.|Network communication data was lost. The Marketplace will be closed.|Network communication data was lost. The Marketplace will be closed.
+steam_scrap_confirm|Are you sure you want to scrap this item? This will cause the item to be permanently destroyed. |Oletko varma että haluat tuhota tämän esineen? Esine tuhoutuu tällöin pysyvästi.|Tem certeza que gostaria de sucatear este item? Isto fará com que o item seja destruído permanentemente.|Вы уверены, что хотите утилизировать этот предмет? Он будет безвозвратно уничтожен.|破坏此道具会导致道具永远消失 |Are you sure you want to scrap this item?|정말 이 물건을 폐기하시겠습니까? 그러면 항목이 영구적으로 삭제됩니다 |Möchtest Du diesen Gegenstand wirklich zerlegen? Durch diese Aktion wird das Item permanent zerstört.
+claim_keys|Claim keys|Lunasta avaimet||||||
+claim|Claim |Lunasta ||||||
+challenge_dungeon|Challenge Dungeon|Haastetyrmä||||||
+open|Open|Avaa||||||
+overrides|Overrides|Kumoaa||||||
+ability|Ability|Taito||||||
+mail_send|Send|Lähetä||||||
+mail_recipient|Recipient|Vastaanottaja||||||
+mail_title|Title|Otsikko||||||
+mail_send_new|Send new mail|Lähetä uusi kirje||||||
+mailbox|Mailbox|Postilaatikko||||||
+||||||||
+[Companions]||||||||
+companion_name_1|Corgi|Corgi|Corgi|Корги|柯基犬|コーギー|코기|Corgi
+companion_name_2|Turtle|Kilpikonna|Tortuga|Черепаха|龟|カメ|터틀|Schildkröte
+companion_name_3|Slime|Lima|Limo|Слайм|粘液|ヘドロ|덮다|Schleim
+companion_name_4|Stickman Steve|Teemu Tikku-Ukko|Stickman Steve|Стикмен Стив|曲棍球手史蒂夫|スティックマンスティーブ|막대인간 스티브|Strichmännchen Steve
+companion_name_5|Dodo|Dodo|Dodo|Додо|渡渡鸟|ドードー|도도|Dodo
+companion_name_6|Sir Penguin|Herra Pingviini|Senhor Pinguim|Господин Пингвин|企鹅爵士|サーペンギン|선생님 펭귄|Sir Pinguin
+companion_name_7|Random Goose|Satunnainen Hanhi|Ganso Aleatório|Рандомный Гусь|鹅随机|ランダムなガチョウ|무작위 거위|Ziellose Gans
+companion_name_8|Baby Cactus|Vauva Kaktus|Cacto De Bebê|Кактусёнок|婴儿仙人掌|赤ちゃんサボテン|아기 선인장|Babykaktus
+companion_name_9|Spooky Scary Skeleton|Kammottava Luuranko|Esqueleto assustador|Жуткий страшный скелет|幽灵般可怕的骨架|不気味な怖いスケルトン|으스스한 무서운 해골|Gruseliges Skelett
+companion_name_10|Black Cat|Musta Kissa|Gato preto|Черный кот|黑猫|黒猫|검은 고양이|Schwarze Katze
+companion_name_11|Floating Pumpkin Head|Leijuva Kurpitsapää|Cabeça de abóbora flutuante|Плавающая голова тыквы|浮动南瓜头|フローティングパンプキンヘッド|떠 다니는 호박 머리|Schwebender Kürbiskopf
+companion_name_12|Snowman|Lumiukko|Boneco de neve|Снеговик|雪人|雪だるま|눈사람|Schneemann
+companion_name_13|Elf|Tonttu|Duende|Эльф|小精灵|妖精|꼬마 요정|Elf
+companion_name_14|Rudolph|Petteri|Rodolfo|Рудольф|鲁道夫|ルドルフ|루돌프|Rudolf
+companion_name_15|Helicopter Drone|Helikopteri Drone|Helicopter Drone|Дрон|Helicopter Drone|Helicopter Drone|Helicopter Drone|Helikopter Drone
+companion_name_16|Clockwork Dragon|Kellopelilohikäärme|Clockwork Dragon|Механический Дракон|Clockwork Dragon|Clockwork Dragon|Clockwork Dragon|Uhrwerkdrache
+companion_name_17|Steam Powered Wolf|Höyryvoimasusi|Steam Powered Wolf|Паровой Волк|Steam Powered Wolf|Steam Powered Wolf|Steam Powered Wolf|Dampf Angetriebener Wolf
+companion_name_18|Wooden Spiderbot|Puinen hämähäkkirobotti|Wooden Spiderbot|Деревянный Робот-Паук|Wooden Spiderbot|Wooden Spiderbot|Wooden Spiderbot|Hölzener Spinnenbot
+companion_name_19|Mini Chaos Tower|||||||
+companion_name_20|Heavenly Dove|Taivaallinen kyyhkynen|Heavenly Dove|Heavenly Dove|Heavenly Dove|Heavenly Dove|Heavenly Dove|Himmlische Taube
+companion_name_21|Eternal Protector|Ikuinen suojelija|Eternal Protector|Eternal Protector|Eternal Protector|Eternal Protector|Eternal Protector|Ewiger Beschützer
+companion_name_22|Pride of the Order of Angels|Enkeliritarien ylpeys|Pride of the Order of Angels|Pride of the Order of Angels|Pride of the Order of Angels|Pride of the Order of Angels|Pride of the Order of Angels|Rudel der Engelsordnung
+companion_name_23|Angel & Devil|Enkeli & Piru|Angel & Devil|Angel & Devil|Angel & Devil|Angel & Devil|Angel & Devil|Engel & Teufel
+companion_name_24|Lost Soul|Eksynyt sielu|Lost Soul|Lost Soul|Lost Soul|Lost Soul|Lost Soul|Lost Soul
+companion_name_25|Armored Polar|Panssarijääkarhu|Armored Polar|Armored Polar|Armored Polar|Armored Polar|Armored Polar|Armored Polar
+companion_name_26|Burning Server|Palava Palvelin|Burning Server|Burning Server|Burning Server|Burning Server|Burning Server|Burning Server
+companion_name_27|Raven|Korppi|Raven|Raven|Raven|Raven|Raven|Raven
+companion_name_28|Grizzly Bear|Karhu|Grizzly Bear|Grizzly Bear|Grizzly Bear|Grizzly Bear|Grizzly Bear|Grizzly Bear
+companion_name_29|Fenrir|Fenrir|Fenrir|Fenrir|Fenrir|Fenrir|Fenrir|Fenrir
+companion_name_30|Shadow Wolf|Varjosusi|Shadow Wolf|Shadow Wolf|Shadow Wolf|Shadow Wolf|Shadow Wolf|Shadow Wolf
+companion_name_31|Lil' Prophet|Pikkuprofeetta||||||
+companion_name_32|Molten Drake|Laavalohikäärme||||||

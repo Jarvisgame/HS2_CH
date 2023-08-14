@@ -1,0 +1,356 @@
+|en|fi|pt|ru|zh|ja|ko|de
+[Item Stats]||||||||
+stat_base_damage|Damage|||||||
+stat_defense|Defense|||||||
+stat_defense_p|Increased Defense|||||||
+stat_block_chance|Block Chance|Torjumismahdollisuus|Chance de Bloqueio|Шанс Блока|格挡几率|ブロック・チャンス|블럭 확률|Block-Chance
+||||||||
+stat_all_skills|to All Skills|||||||
+stat_increased_speed|Increased Movement Speed|||||||
+stat_faster_cast_rate|Faster Cast Rate|||||||
+stat_attack_speed_p|Increased Attack Speed|||||||
+stat_cooldown_reduction|Cooldowns Reduced by |||||||
+stat_to|to |||||||
+||||||||
+stat_skill_damage|Skill Damage increased by |||||||
+stat_explosion_aoe|Explosion area of effect increased by |||||||
+||||||||
+stat_block_rating|Increased Chance of Blocking|||||||
+stat_enhanced_damage|Enhanced Damage|||||||
+stat_enhanced_defense|Enhanced Defense|||||||
+stat_critical_rate|Increased Chance to Critical Strike|||||||
+stat_deadly_blow|Chance for a Deadly Blow|||||||
+stat_crushing_blow|Chance for a Crushing Blow|||||||
+stat_attack_rating_p|Increased Attack Rating|||||||
+stat_attack_rating|to Attack Rating|||||||
+||||||||
+stat_life_per_hit|Life stolen per Hit|||||||
+stat_mana_per_hit|Mana stolen per Hit|||||||
+stat_critical_damage|Increased Critical Strike Damage|||||||
+stat_target_defense|of target Defense ignored|||||||
+stat_open_wounds|Chance to Open Wounds|||||||
+stat_piercing|Piercing Attack|||||||
+stat_slow_target|Slows target by |||||||
+stat_prevent_monster_heal|Prevent Monster Heal|||||||
+||||||||
+stat_strength|to Strength|||||||
+stat_dexterity|to Dexterity|||||||
+stat_energy|to Energy|||||||
+stat_armor|to Armor|||||||
+stat_vitality|to Vitality|||||||
+stat_pointsLeft|Points Left|||||||
+stat_all_stats|to All Attributes|||||||
+||||||||
+stat_physical_damage|to Attack Damage|||||||
+stat_magic_damage|to Additive Magic Damage|||||||
+stat_lightning_damage|to Additive Lightning Damage|||||||
+stat_fire_damage|to Additive Fire Damage|||||||
+stat_cold_damage|to Additive Cold Damage|||||||
+stat_poison_damage|to Additive Poison Damage|||||||
+||||||||
+stat_fire_damage_p|Fire Skill Damage increased by |||||||
+stat_cold_damage_p|Cold Skill Damage increased by |||||||
+stat_magic_damage_p|Magic Skill Damage increased by |||||||
+stat_poison_damage_p|Poison Skill Damage increased by |||||||
+stat_lightning_damage_p|Lightning Skill Damage increased by |||||||
+stat_physical_damage_p|Attack Damage increased by |||||||
+||||||||
+stat_cold_skills|to Cold Skills|||||||
+stat_lightning_skills|to Lightning Skills|||||||
+stat_fire_skills|to Fire Skills|||||||
+stat_poison_skills|to Poison Skills|||||||
+stat_magic_skills|to Magic Skills|||||||
+stat_physical_skills|to Physical Skills|||||||
+||||||||
+stat_ignore_cold_resist|to Enemy Cold Resistance|||||||
+stat_ignore_fire_resist|to Enemy Fire Resistance|||||||
+stat_ignore_poison_resist|to Enemy Poison Resistance|||||||
+stat_ignore_lightning_resist|to Enemy Lightning Resistance|||||||
+stat_ignore_magic_resist|to Enemy Magic Resistance|||||||
+||||||||
+stat_jump_power|Increased Jumping Power|||||||
+||||||||
+stat_hp_rep|Replenish Life |||||||
+stat_mana_rep|Replenish Mana |||||||
+||||||||
+stat_life|to Life|||||||
+stat_mana|to Mana|||||||
+||||||||
+stat_faster_hit_recovery|Faster Hit Recovery|||||||
+stat_defense_vs_missile|Defense vs Missiles|||||||
+stat_hp_kill|Life After each Kill|||||||
+stat_mana_kill|Mana After each Kill|||||||
+stat_max_hp|Life Increased by |||||||
+stat_max_mana|Mana Increased by |||||||
+stat_light_radius|to Light Radius|||||||
+stat_damage_return|of Damage Returned to the Attacker|||||||
+stat_damage_taken_mana|of Damage Taken goes to Mana|||||||
+stat_damage_reduction|Physical Damage Taken Reduced by |||||||
+stat_magic_damage_reduction|Magic Damage Taken Reduced by |||||||
+stat_damage_reduced|Damage Taken Reduced by |||||||
+||||||||
+stat_mana_per_level|to Mana (Based on Level)|||||||
+stat_life_per_level|to Life (Based on Level)|||||||
+stat_defense_per_level|Defense (Based on Level)|||||||
+stat_magic_find_per_level|Magic Find (Based on Level)|||||||
+stat_enhanced_defense_per_level|Enhanced Defense (Based on Level)|||||||
+stat_enhanced_damage_per_level|Enhanced Damage (Based on Level)|||||||
+stat_damage_per_level|to Damage (Based on Level)|||||||
+stat_strength_per_level|to Strength (Based on Level)|||||||
+stat_energy_per_level|to Energy (Based on Level)|||||||
+stat_armor_per_level|to Armor (Based on Level)|||||||
+stat_vitality_per_level|to Vitality (Based on Level)|||||||
+||||||||
+stat_all_resistance|to All Resistances|Kaikkiin vastustuksiin|Todas as Resistências|Ко всем Сопротивлениям|所有抗性|全耐性|모든 저항|Alle Widerstände
+stat_magic_resistance|to Magic Resistance|Taika-vastustus|Registência Mágica|Магическое Сопротивление|魔法抗性|魔法耐性|마법 저항|Magischer Widerstand
+stat_cold_resistance|to Cold Resistance|Kylmävastustus|Resistência a Frio|Сопротивление Холоду|耐寒性|氷耐性|추위 저항|Kältewiderstand
+stat_fire_resistance|to Fire Resistance|Tulivastustus|Resistência a Fogo|Сопротивление Огню|耐火性|炎耐性|불 저항|Feuerwiderstand
+stat_poison_resistance|to Poison Resistance|Myrkkyvastustus|Resistência a Veneno|Сопротивление Яду|毒药抵抗|毒耐性|독 저항|Giftwiderstand
+stat_lightning_resistance|to Lightning Resistance|Sähkövastustus|Resistência a Raio|Сопротивление Молнии|闪电的阻力|雷耐性|번개 저항|Blitzwiderstand
+||||||||
+stat_max_magic_resistance|to Maximum Magic Resist|Maksimi taikavastustus|Resistência Mágica Máxima|к максимуму Магического Сопротивления|最大化魔法抗性|魔法耐性最大|마법 저항 최대치|Maximaler magischer Widerstand
+stat_max_fire_resistance|to Maximum Fire Resist|Maksimi tulivastustus|Resistência a Fogo Máxima|к максимуму Сопротивления Огню|最大化耐火性|炎耐性最大|불 저항 최대치|Maximaler Feuerwiderstand
+stat_max_cold_resistance|to Maximum Cold Resist|Maksimi kylmävastustus|Resistência a Frio Máxima|к максимуму Сопротивления Холоду|最大化耐寒性|氷耐性最大|추위 저항 최대치|Maximaler Kältewiderstand
+stat_max_poison_resistance|to Maximum Poison Resist|Maksimi myrkkyvastustus|Resistência a Veneno Máxima|к максимуму Сопротивления Яду|最大化毒药抵抗|毒耐性最大|독 저항 최대치|Maximaler Giftwiderstand
+stat_max_lightning_resistance|to Maximum Lightning Resist|Maksimi sähkövastustus|Resistência a Raio Máxima|к максимуму Сопротивления Молнии|最大化闪电阻力|雷耐性最大|번개 저항 최대치|Maximaler Blitzwiderstand
+||||||||
+stat_extra_ruby|Extra Rubies Dropped From Kills|||||||
+stat_extra_gold|Extra Gold Dropped From Kills|||||||
+stat_magic_find|Increased Magic Find|||||||
+stat_exp_gain|Increased Experience Gain|||||||
+||||||||
+stat_poison_length_reduced|Poison Length Reduced by |||||||
+stat_half_freeze_duration|Half Freeze Duration|||||||
+stat_cannot_be_frozen|Cannot be Frozen|||||||
+||||||||
+stat_fire_absorb|Fire Damage Absorbed|||||||
+stat_cold_absorb|Cold Damage Absorbed|||||||
+stat_lightning_absorb|Lightning Damage Absorbed|||||||
+||||||||
+stat_belt_slots|Belt Slots|||||||
+||||||||
+||||||||
+||||||||
+[Global Stats]||||||||
+attacks_per_second|Attacks per Second|Hyökkäystä sekunnissa|Ataques Por Segundo|Скорость Атаки|每秒攻击数|毎秒の攻撃力|초당 공격력|Attacken pro Sekunde
+attack_speed|Attack Speed|Hyökkäysnopeus|Velocidade de ataque|Скорость атаки|攻击速度|攻撃速度|공격 속도|Angriffsgeschwindigkeit
+movement_speed|Movement Speed|Liikkumisnopeus|Velocidade de movimento|Скорость передвижения|移动速度|移動速度|이동 속도|Bewegungsgeschwindigkeit
+||||||||
+strength|Strength|Voima|Força|Сила|力量|強さ|힘|Stärke
+dexterity|Dexterity|||||||
+energy|Energy|Energia|Energy|Энергия|能量|エネルギー|에너지|Energie
+armor|Armor|Suoja|Armadura|Броня|护甲|アーマー|방어력|Rüstung
+vitality|Vitality|||||||
+all_stats|All Attributes|||||||
+all_talents|All Skills|||||||
+skill_damage|Skill Damage|||||||
+||||||||
+damage|Damage|Vahinko|Dano|Урон|伤害|ダメージ|공격력|Schaden
+attack_rating|Attack Rating|||||||
+faster_cast_rate|Faster Cast Rate|||||||
+critical_damage|Critical Strike Damage|||||||
+critical_chance|Chance for Critical Strike|||||||
+||||||||
+magic_damage|Additive Magic Damage|||||||
+lightning_damage|Additive Lightning Damage|||||||
+fire_damage|Additive Fire Damage|||||||
+cold_damage|Additive Cold Damage|||||||
+poison_damage|Additive Poison Damage|||||||
+||||||||
+magic_damage_p|Magic Skill Damage|||||||
+lightning_damage_p|Lightning Skill Damage|||||||
+fire_damage_p|Fire Skill Damage|||||||
+cold_damage_p|Cold Skill Damage|||||||
+poison_damage_p|Poison Skill Damage|||||||
+||||||||
+max_hp|Life|||||||
+max_mana|Mana|||||||
+light_radius|Light Radius|||||||
+health_regen|Life Replenish|||||||
+mana_regen|Mana Replenish|||||||
+||||||||
+life_per_hit|Life stolen per Hit|||||||
+mana_per_hit|Mana stolen per Hit|||||||
+||||||||
+cooldown_reduction|Cooldowns Reduction|||||||
+exp_gain|Increased Experience Gain|Lisäkokemusta|Ganho de exp|Увеличение получаемого опыта|经验获取|経験値獲得|추가 경험치|Erfahrungsbonus
+magic_find|Magic Find|Löytöonni|Necrófago|Удача|搜刮者|スカベンジャー|상위 아이템 드랍 확률|Glück
+||||||||
+block_rate|Chance to Block attacks|||||||
+defense|Defense|||||||
+reduction|Damage Reduction|||||||
+magic_reduction|Magic Damage Reduction|||||||
+damage_return|Damage Return|Vahingonpalautus|Retorno de Dano|Отражение Урона|伤害返还|ダメージ・リターン|피해량 반사|Schadensreflexion
+all_resistance|All Resistances|Kaikkiin vastustuksiin|Todas as Resistências|Ко всем Сопротивлениям|所有抗性|全耐性|모든 저항|Alle Widerstände
+fire_resistance|Fire Resistance|Tulivastustus|Resistência a Fogo|Сопротивление Огню|耐火性|炎耐性|불 저항|Feuerwiderstand
+cold_resistance|Cold Resistance|Kylmävastustus|Resistência a Frio|Сопротивление Холоду|耐寒性|氷耐性|추위 저항|Kältewiderstand
+poison_resistance|Poison Resistance|Myrkkyvastustus|Resistência a Veneno|Сопротивление Яду|毒药抵抗|毒耐性|독 저항|Giftwiderstand
+lightning_resistance|Lightning Resistance|Sähkövastustus|Resistência a Raio|Сопротивление Молнии|闪电的阻力|雷耐性|번개 저항|Blitzwiderstand
+||||||||
+max_magic_resistance|Maximum Magic Resist|Maksimi taikavastustus|Resistência Mágica Máxima|к максимуму Магического Сопротивления|最大化魔法抗性|魔法耐性最大|마법 저항 최대치|Maximaler magischer Widerstand
+max_fire_resistance|Maximum Fire Resist|Maksimi tulivastustus|Resistência a Fogo Máxima|к максимуму Сопротивления Огню|最大化耐火性|炎耐性最大|불 저항 최대치|Maximaler Feuerwiderstand
+max_cold_resistance|Maximum Cold Resist|Maksimi kylmävastustus|Resistência a Frio Máxima|к максимуму Сопротивления Холоду|最大化耐寒性|氷耐性最大|추위 저항 최대치|Maximaler Kältewiderstand
+max_poison_resistance|Maximum Poison Resist|Maksimi myrkkyvastustus|Resistência a Veneno Máxima|к максимуму Сопротивления Яду|最大化毒药抵抗|毒耐性最大|독 저항 최대치|Maximaler Giftwiderstand
+max_lightning_resistance|Maximum Lightning Resist|Maksimi sähkövastustus|Resistência a Raio Máxima|к максимуму Сопротивления Молнии|最大化闪电阻力|雷耐性最大|번개 저항 최대치|Maximaler Blitzwiderstand
+||||||||
+fire_absorb|Fire Absorption|||||||
+cold_absorb|Cold Absorption|||||||
+lightning_absorb|Lightning Absorption|||||||
+||||||||
+socketed|Socketed|||||||
+||||||||
+[Stat Explanations]||||||||
+stat_desc_aps|Amount of attacks performed in a second.|||||||
+stat_desc_attack_speed|Amount of increased Attack Speed.|||||||
+stat_desc_movement_speed|Amount of increased Movement Speed.|||||||
+||||||||
+stat_desc_strength|Every point in Strength increases your Attack Damage by 1% and adds 1 to additive Physical Damage.|||||||
+stat_desc_dexterity|Every point in Dexterity increases your Attack Rating by 5 and your Critical Damage by 0.25%.|||||||
+stat_desc_energy|Every point in Energy increases your Mana by 4.|||||||
+stat_desc_armor|Every point in Armor increases your Defense by 5.|||||||
+stat_desc_vitality|Every point in Vitality increases your Life by 5.|||||||
+stat_desc_all_skills|Increases the level of all Skills.|||||||
+stat_desc_pointsLeft|Points left to allocate into any of the primary stats. You can allocate 4  points by Shift + Left Clicking.|||||||
+||||||||
+stat_desc_cold_skills|Increases the level of all Cold Skills.|||||||
+stat_desc_lightning_skills|Increases the level of all Lightning Skills.|||||||
+stat_desc_fire_skills|Increases the level of all Fire Skills.|||||||
+stat_desc_magic_skills|Increases the level of all Magic Skills.|||||||
+stat_desc_poison_skills|Increases the level of all Poison Skills.|||||||
+stat_desc_physical_skills|Increases the level of all Physical Skills.|||||||
+||||||||
+stat_desc_damage|The amount of damage your attacks deal.|||||||
+stat_desc_attack_rating|Increases your chance of hitting enemies with attacks.|||||||
+stat_desc_faster_cast_rate|Increases your Casting speed.|||||||
+stat_desc_skill_damage|Increases the damage of your skills.|||||||
+stat_desc_critical_damage|Amount of your Critical Strike damage.|||||||
+stat_desc_critical_chance|Chance for a Critical Strike when striking.|||||||
+||||||||
+stat_desc_magic_damage|Magic Damage added to your attacks.|||||||
+stat_desc_cold_damage|Cold Damage added to your attacks.|||||||
+stat_desc_fire_damage|Fire Damage added to your attacks.|||||||
+stat_desc_poison_damage|Poison Damage added to your attacks.|||||||
+stat_desc_lightning_damage|Lightning Damage added to your attacks.|||||||
+||||||||
+stat_desc_magic_damage_p|Increases the damage of your Magic skills.|||||||
+stat_desc_cold_damage_p|Increases the damage of your Cold skills.|||||||
+stat_desc_fire_damage_p|Increases the damage of your Fire skills.|||||||
+stat_desc_poison_damage_p|Increases the damage of your Poison skills.|||||||
+stat_desc_lightning_damage_p|Increases the damage of your Lightning skills.|||||||
+||||||||
+stat_desc_life|Your Maximum Life.|||||||
+stat_desc_mana|Your Maximum Mana.|||||||
+stat_desc_life_replenish|Amount of Life replenished each second.|||||||
+stat_desc_mana_replenish|Amount of Mana replenished each second.|||||||
+stat_desc_life_per_hit|Amount of Life replenished when striking an enemy.|||||||
+stat_desc_mana_per_hit|Amount of Mana replenished when striking an enemy.|||||||
+||||||||
+stat_desc_cooldown_reduction|Decreases cooldowns on all abilities.|||||||
+stat_desc_life_after_kill|Amount of Life replenished after killing a monster.|||||||
+stat_desc_mana_after_kill|Amount of Mana replenished after killing a monster.|||||||
+stat_desc_experience_gain|Increases your experience gained from killing monsters.|||||||
+stat_desc_magic_find|Increased chance of finding magic items.|||||||
+||||||||
+stat_desc_block_rate|The chance to block incoming attacks and projectiles.|||||||
+stat_desc_defense|Defense lowers the chance of enemies hitting you with attacks and projectiles.|||||||
+stat_desc_reduction|Reduces incoming Physical Damage|||||||
+stat_desc_magic_reduction|Reduces incoming Magic Damage|||||||
+stat_desc_damage_return|Returns a portion of incoming damage back to the attacker.|||||||
+stat_desc_all_resistances|Increases your resistance against damage from All Elements.|||||||
+stat_desc_magic_resistance|Increases your resistance to Magic damage.|Lisää vastustuskykyäsi Magic-vahinkoille.|Aumenta sua resistência ao dano mágico.|Увеличивает ваше Сопротивление Магическому Урону.|增加您对魔法伤害的抵抗力。|魔法ダメージに対する抵抗力を増加させます。|마법 피해에 대한 저항력이 증가합니다.|Erhöht deine Widerstandsfähigkeit gegen magischen Schaden.
+stat_desc_cold_resistance|Increases your resistance to Cold damage.|Lisää vastustuskykyä kylmävaurioille.|Aumenta sua resistência ao dano de Gelo.|Увеличивает ваше Сопротивление Урону Холода.|增强抗寒能力。|冷気ダメージへの耐性を高めます。|냉기 피해에 대한 저항력이 증가합니다.|Erhöht deine Widerstandsfähigkeit gegen Kälteschaden.
+stat_desc_fire_resistance|Increases your resistance to Fire damage.|Lisää vastustuskykyäsi palovammoille.|Aumenta sua resistência ao dano de Fogo.|Увеличивает ваше Сопротивление Урону Огня.|增加您对火焰伤害的抵抗力。|火炎ダメージに対する抵抗力を増加させます。|화염 피해에 대한 저항력이 증가합니다.|Erhöht deine Widerstandsfähigkeit gegen Feuerschaden.
+stat_desc_poison_resistance|Increases your resistance to Poison damage.|Lisää vastustuskykyäsi myrkkyvaurioille.|Aumenta sua resistência ao dano Venenoso.|Увеличивает ваше Сопротивление Урону Яда.|提高抵抗毒素伤害的能力。|毒によるダメージへの耐性を高めます。|독 피해에 대한 저항력이 증가합니다.|Erhöht deine Widerstandsfähigkeit gegen Giftschaden.
+stat_desc_lightning_resistance|Increases your resistance to Lightning damage.|Lisää vastustuskykyä salamavaurioille.|Aumenta sua resistência ao dano de raio.|Увеличивает ваше Сопротивление Урону Молний.|提高抵抗闪电伤害的能力。|雷ダメージへの耐性を高めます。|번개 피해에 대한 저항력이 증가합니다.|Erhöht deine Widerstandsfähigkeit gegen Blitzschaden.
+||||||||
+stat_desc_fire_absorb|Absorbs a portion of all incoming Fire Damage as healing.|||||||
+stat_desc_cold_absorb|Absorbs a portion of all incoming Cold Damage as healing.|||||||
+stat_desc_lightning_absorb|Absorbs a portion of all incoming Lightning Damage as healing.|||||||
+||||||||
+stat_desc_light_radius|Effects your visibility range and base movement speed scaling.|||||||
+||||||||
+stat_desc_mining|Your Mining skill level. Copper Ore require 0 Mining. Iron Ore requires 125 Mining. Gold Ore requires 225 Mining. Ruby Ore requires 500 Mining. Jade Ore requires 750 mining and has a 2% chance per Ruby Vein to appear. Increasing your mining level unlocks new recipes in the crafting menu.|Your Mining skill level. Copper Ore require 0 Mining. Iron Ore requires 125 Mining. Gold Ore requires 225 Mining. Ruby Ore requires 500 Mining. Jade Ore requires 750 mining and has a 2% chance per Ruby Vein to appear. Increasing your mining level unlocks new recipes in the crafting menu.|Your Mining skill level. Copper Ore require 0 Mining. Iron Ore requires 125 Mining. Gold Ore requires 225 Mining. Ruby Ore requires 500 Mining. Jade Ore requires 750 mining and has a 2% chance per Ruby Vein to appear. Increasing your mining level unlocks new recipes in the crafting menu.|Your Mining skill level. Copper Ore require 0 Mining. Iron Ore requires 125 Mining. Gold Ore requires 225 Mining. Ruby Ore requires 500 Mining. Jade Ore requires 750 mining and has a 2% chance per Ruby Vein to appear. Increasing your mining level unlocks new recipes in the crafting menu.|Your Mining skill level. Copper Ore require 0 Mining. Iron Ore requires 125 Mining. Gold Ore requires 225 Mining. Ruby Ore requires 500 Mining. Jade Ore requires 750 mining and has a 2% chance per Ruby Vein to appear. Increasing your mining level unlocks new recipes in the crafting menu.|Your Mining skill level. Copper Ore require 0 Mining. Iron Ore requires 125 Mining. Gold Ore requires 225 Mining. Ruby Ore requires 500 Mining. Jade Ore requires 750 mining and has a 2% chance per Ruby Vein to appear. Increasing your mining level unlocks new recipes in the crafting menu.|Your Mining skill level. Copper Ore require 0 Mining. Iron Ore requires 125 Mining. Gold Ore requires 225 Mining. Ruby Ore requires 500 Mining. Jade Ore requires 750 mining and has a 2% chance per Ruby Vein to appear. Increasing your mining level unlocks new recipes in the crafting menu.|Your Mining skill level. Copper Ore require 0 Mining. Iron Ore requires 125 Mining. Gold Ore requires 225 Mining. Ruby Ore requires 500 Mining. Jade Ore requires 750 mining and has a 2% chance per Ruby Vein to appear. Increasing your mining level unlocks new recipes in the crafting menu.
+stat_desc_jewelcrafting|Your Jewelcrafting skill level.|Jalokivivalmistuksen taitotasosi.||||||
+stat_desc_herbalism|Your Herbalism skill level.|Herbalismin taitotasosi.|Seu nível de habilidade em Herbalism.|Уровень Травничества.|您的草药技能水平。|あなたの本草学のスキルレベル。|약초 기술 수준.|Ihre Kräuterkunde Fähigkeitsstufe.
+||||||||
+||||||||
+[Talent Tooltips]||||||||
+tal_duration|Duration |||||||
+tal_slow_duration|Slow Duration |||||||
+tal_stun_duration|Stun Duration |||||||
+tal_freeze_duration|Freeze Duration |||||||
+tal_hex_duration|Hex Duration |||||||
+tal_disarm_duration|Disarm Duration |||||||
+tal_root_duration|Root Duration |||||||
+tal_gold|Gold Amount |||||||
+tal_distance|Distance |||||||
+tal_seconds|s|||||||
+tal_size|Size |||||||
+tal_targets|Targets |||||||
+tal_range|Range |||||||
+tal_projectiles|Projectiles |||||||
+tal_magic_find|Magic Find |||||||
+tal_movement_speed|Movement Speed |||||||
+tal_attack_speed|Attack Speed |||||||
+tal_attack_rating|Attack Rating |||||||
+tal_critical_chance|Critical Strike Chance |||||||
+tal_critical_damage|Critical Strike Damage |||||||
+tal_life_replenish|Life Replenish |||||||
+tal_mana_replenish|Mana Replenish |||||||
+tal_damage_taken|Damage Taken Reduced |||||||
+tal_damage_return|Damage Return |||||||
+tal_defense|Defense |||||||
+tal_cooldown|Cooldown Reduction |||||||
+tal_parry_chance|Parry Chance |||||||
+tal_dodge_chance|Dodge Chance |||||||
+tal_all_resistances|All Resistances |||||||
+tal_aoe|Area of Effect |||||||
+tal_energy|Energy |||||||
+tal_healing|Healing |||||||
+tal_life|Life |||||||
+tal_mana|Mana |||||||
+tal_mana_cost|Mana Cost|||||||
+tal_life_after_kill|Life After Kill |||||||
+tal_mana_after_kill|Mana After Kill |||||||
+tal_faster_cast_rate|Cast Rate |||||||
+tal_life_steal|Life Steal |||||||
+tal_mana_steal|Mana Steal |||||||
+tal_attack_damage|Attack Damage |||||||
+tal_damage_dealt|Damage Dealt |||||||
+tal_damage_multiplier|Damage Multiplier |||||||
+tal_damage|Damage |||||||
+tal_damage_fire|Fire Damage |||||||
+tal_damage_cold|Cold Damage |||||||
+tal_damage_poison|Poison Damage |||||||
+tal_damage_lightning|Lightning Damage |||||||
+tal_damage_magic|Magic Damage |||||||
+tal_skill_damage|Skill Damage |||||||
+tal_skill_fire_damage|Fire Skill Damage |||||||
+tal_skill_cold_damage|Cold Skill Damage |||||||
+tal_skill_poison_damage|Poison Skill Damage |||||||
+tal_skill_lightning_damage|Lightning Skill Damage |||||||
+tal_skill_magic_damage|Magic Skill Damage |||||||
+tal_break_armor|Armor Break |||||||
+tal_break_fire|Fire Break |||||||
+tal_break_cold|Cold Break |||||||
+tal_break_poison|Poison Break |||||||
+tal_break_lightning|Lightning Break |||||||
+tal_break_magic|Magic Break |||||||
+tal_poisoned_damage|Poisoned Damage |||||||
+tal_burning_damage|Burning Damage |||||||
+tal_bleed_damage|Bleeding Damage |||||||
+tal_plague_damage|Plague Damage|||||||
+tal_ignore_armor|Armor Ignored |||||||
+tal_resistance_fire|Fire Resistance |||||||
+tal_resistance_cold|Cold Resistance |||||||
+tal_resistance_poison|Poison Resistance |||||||
+tal_resistance_lightning|Lightning Resistance |||||||
+tal_resistance_magic|Magic Resistance |||||||
+||||||||
+[Augments]||||||||
+augment|Augment|||||||
+per_level|per level|||||||
+||||||||
+[Misc]||||||||
+item_dropped_by_mf|of Fortune|||||||
+item_unique_equipped|Unique Equipped|||||||
