@@ -400,55 +400,55 @@ coins_to_reset_talents|coins to reset talents.|kultaa palauttaaksesi taitosi.|mo
 coins_to_rename|coins to rename.|kultaa uudelleennimetäksesi.|coins to rename.|coins to rename.|金币更改你的名字|coins to rename.|coins to rename.|Münzen um dich umzubenennen.
 saving_shop|Saving shop...|Tallennetaan kauppaa...|Salvando a loja...|Сохранение изменений...|保存商店...|ショップを保存しています...|상점 저장 중...|Speichern...
 unlocked|Unlocked|Avattu|Desbloqueado|Разблокировано|已解锁|ロックが解除された|잠금 해제|Entsperrt
-unlock|Unlock|Avaa|Desbloquear|Разблокировать|开锁|ロック解除|터놓다|Freischalten
-lock|Lock|Lukitse|Lock|Lock|Lock|Lock|Lock|Sperren
-buy_key|Buy Key|Osta Avain|Chave de Compra|Купить Ключ|购买密钥|キーを購入|구매 키|Schlüssel Kaufen
+unlock|Unlock|Avaa|Desbloquear|Разблокировать|解锁|ロック解除|터놓다|Freischalten
+lock|Lock|Lukitse|Lock|Lock|未解锁|Lock|Lock|Sperren
+buy_key|Buy Key|Osta Avain|Chave de Compra|Купить Ключ|购买钥匙|キーを購入|구매 키|Schlüssel Kaufen
 requires_hero_level|Requires Hero Level|Vaatii sankaritason|Requer Nível Herói|Требуется Уровень Героев|需要英雄等级|ヒーローレベルが必要|필요한 영웅 레벨|Benötigt Helden-Level
 halloween|Halloween|Halloween|Halloween|Хэллоуин|万圣节|ハロウィーン|할로윈|Halloween
 christmas|Christmas|Joulu|Natal|Рождество|圣诞节|クリスマス|크리스마스|Weihnachten
 reward|Reward|palkinto|Recompensa|Награда|报酬|報酬|보상|Belohnung
 easter_egg|Shh... It's a secret.|Shh... Se on salaisuus.|Shh... É um segredo.|Тсс... Это секрет.|嘘...它是个秘密。|シーっ...これは秘密です。|쉿... 이건 비밀이야.|Shh... Es ist ein Geheimnis.
 featured|Featured|Esittelyssä|Destacado|Рекомендуем|特征|注目の|추천|Vorgestellt
-accessories|Accessories|Lisävarusteet|Acessórios|Аксессуары|配件|アクセサリー|액세서리|Zubehör
-items|Items|Esineet|Itens|Предметы|项目|アイテム|아이템|Gegenstände
+accessories|Accessories|Lisävarusteet|Acessórios|Аксессуары|配饰|アクセサリー|액세서리|Zubehör
+items|Items|Esineet|Itens|Предметы|物品|アイテム|아이템|Gegenstände
 gems|Gems|Jalokivet|Gemas|Самоцветы|宝石|宝石|보석|Edelsteine
-locked|Locked|Lukittu|Trancado|Заблокировано|锁着的|ロック済み|잠김|Gesperrt
+locked|Locked|Lukittu|Trancado|Заблокировано|上锁的|ロック済み|잠김|Gesperrt
 deactivate|Deactivate|Deaktivoi|Desativar|Деактивировать|禁用|無効化|비활성화|Deaktivieren
 purchase|Purchase|Osta|Compra|Купить|购买|購入|구매|Kaufen
 hats|Hats|Hatut|Chapéus|Шляпы|帽子|帽子|모자|Hüte
 basic|Basic|Perus|Básico|Базовые|基本|ベーシック|기본|Basis
 anniversary|Anniversary|Vuosipäivä|Aniversário|На Годовщину|周年纪念日|アニバーサリー|기념일|Jahrestag
-skins|Skins|Ulkonäöt|Roupas|Облики|皮|スキン|스킨|Skins
+skins|Skins|Ulkonäöt|Roupas|Облики|皮肤|スキン|스킨|Skins
 hero|Hero|Sankari|Herói|Герой|英雄|ヒーロー|영웅|Held
 companions|Companions|Kumppanit|Companheiros|Компаньоны|同伴|仲間|동반자|Gefährten
-equip_ingame|This item can be equipped after choosing a character|Tämä esine voidaan pukea hahmon valitsemisen jälkeen|Este item pode ser equipado após escolher um personagem|Этот предмет можно надеть после выбора персонажа.|选择角色后即可装备|このアイテムはキャラクターを選択した後に装備することができます|이 아이템은 캐릭터 선택 후 착용 가능합니다.|Dieser Gegenstand kann nach Auswahl eines Charakters ausgerüstet werden
-equip_not_compatible|This item isn't compatible with your current equipment|Tämä tuote ei ole yhteensopiva nykyisten varusteidesi kanssa|Este item não é compatível com seu equipamento atual|Этот предмет несовместим с вашим текущим снаряжением|此项与您当前的设备不兼容|このアイテムは現在の機器と互換性がありません|이 항목은 현재 장비와 호환되지 않습니다.|Dieser Artikel ist nicht mit Ihrer aktuellen Ausrüstung kompatibel
-season_supporter|Season Supporter|Kausitukija|Season Supporter|Спонсор Сезона|Season Supporter|Season Supporter|Season Supporter|Saison Supporter
-season_supporter_explanation|Only available during the current Season|Saatavilla vain tämän kauden ajan|Only available during the current Season|Only available during the current Season|Only available during the current Season|Only available during the current Season|Only available during the current Season|Only available during the current Season
-season_supporter_hint|You have: [token_count]|Sinulla on: [token_count]|You have: [token_count]|You have: [token_count]|You have: [token_count]|You have: [token_count]|You have: [token_count]|You have: [token_count]
-show_owned|Show owned|Näytä omistetut|Show owned|Show owned|Show owned|Show owned|Show owned|Show owned
-show_locked|Show locked|Näytä lukitut|Show locked|Show locked|Show locked|Show locked|Show locked|Show locked
-show_all_skins|Show all skins|Näytä kaikki ulkonäöt|Show all skins|Show all skins|Show all skins|Show all skins|Show all skins|Show all skins
-wings|Wings|Siivet||||||
-back_accessories|Back Accessories|Selkätarvikkeet||||||
-buy_gold_token|Buy Gold Token|Osta kultapoletti||||||
-buy_gold_token_long|Would you like to buy a Gold Token for|Haluaisitko ostaa kultapoletin||||||
-gold_token|Gold Token|Kultapoletti||||||
-season_reward_portrait|Portrait|Kuvake||||||
-season_reward_effect|Player Effect|Pelaajaefekti||||||
-season_reward_wings|Wings|Siivet||||||
-season_reward_portal|Portal Skin|Portaaliulkonäkö||||||
-season_reward_back|Back Accessory|Selkävaruste||||||
+equip_ingame|This item can be equipped after choosing a character|Tämä esine voidaan pukea hahmon valitsemisen jälkeen|Este item pode ser equipado após escolher um personagem|Этот предмет можно надеть после выбора персонажа.|该物品选择角色之后即可装备|このアイテムはキャラクターを選択した後に装備することができます|이 아이템은 캐릭터 선택 후 착용 가능합니다.|Dieser Gegenstand kann nach Auswahl eines Charakters ausgerüstet werden
+equip_not_compatible|This item isn't compatible with your current equipment|Tämä tuote ei ole yhteensopiva nykyisten varusteidesi kanssa|Este item não é compatível com seu equipamento atual|Этот предмет несовместим с вашим текущим снаряжением|该物品与您当前的装备不兼容|このアイテムは現在の機器と互換性がありません|이 항목은 현재 장비와 호환되지 않습니다.|Dieser Artikel ist nicht mit Ihrer aktuellen Ausrüstung kompatibel
+season_supporter|Season Supporter|Kausitukija|Season Supporter|Спонсор Сезона|赛季支持者|Season Supporter|Season Supporter|Saison Supporter
+season_supporter_explanation|Only available during the current Season|Saatavilla vain tämän kauden ajan|Only available during the current Season|Only available during the current Season|仅在当前赛季有效|Only available during the current Season|Only available during the current Season|Only available during the current Season
+season_supporter_hint|You have: [token_count]|Sinulla on: [token_count]|You have: [token_count]|You have: [token_count]|你拥有: [token_count]|You have: [token_count]|You have: [token_count]|You have: [token_count]
+show_owned|Show owned|Näytä omistetut|Show owned|Show owned|展示已拥有|Show owned|Show owned|Show owned
+show_locked|Show locked|Näytä lukitut|Show locked|Show locked|展示未解锁|Show locked|Show locked|Show locked
+show_all_skins|Show all skins|Näytä kaikki ulkonäöt|Show all skins|Show all skins|展示全部皮肤|Show all skins|Show all skins|Show all skins
+wings|Wings|Siivet|||翅膀|||
+back_accessories|Back Accessories|Selkätarvikkeet|||背部配饰|||
+buy_gold_token|Buy Gold Token|Osta kultapoletti|||购买黄金代币|||
+buy_gold_token_long|Would you like to buy a Gold Token for|Haluaisitko ostaa kultapoletin|||你会为了什么购买黄金代币？|||
+gold_token|Gold Token|Kultapoletti|||黄金季票|||
+season_reward_portrait|Portrait|Kuvake|||赛季奖励|||
+season_reward_effect|Player Effect|Pelaajaefekti|||赛季奖励玩家特效|||
+season_reward_wings|Wings|Siivet|||赛季奖励翅膀|||
+season_reward_portal|Portal Skin|Portaaliulkonäkö|||赛季奖励入口皮肤|||
+season_reward_back|Back Accessory|Selkävaruste|||赛季奖励背部配饰|||
 ||||||||
 ||||||||
-[ingame]||||||||
-stun_duration|Stun Duration|Tainnutuksen kesto|Duração do Atordoamento|Длительность Оглушения|眩晕持续时间|気絶している時間|스턴 기간|Betäubungsdauer
+[ingame]|||||[游戏内]|||
+stun_duration|Stun Duration|Tainnutuksen kesto|Duração do Atordoamento|Длительность Оглушения|眩晕时长|気絶している時間|스턴 기간|Betäubungsdauer
 proc_chance|Proc Chance|Iskumahdollisuus|Chance de Proc|Шанс срабатывания|触发几率|プロク・チャンス|임의의 기회|Auslösechance
 duration|Duration|Kesto|Duração|Длительность|持续时间|時間|기간|Dauer
-seconds|Seconds|Sekuntia|Segundos|сек.|秒数|秒|초|Sekunden
-second|Second|Sekunti|Segundo|сек.|秒数|秒|초|Sekunde
+seconds|Seconds|Sekuntia|Segundos|сек.|秒|秒|초|Sekunden
+second|Second|Sekunti|Segundo|сек.|秒|秒|초|Sekunde
 aura|Aura|Aura|Aura|Аура|光环|オーラ|영기|Aura
-slow_duration|Slow Duration|Hidastuksen kesto|Duração Lenta|Длительность Замедления|减少持续时间|遅い期間|슬로우 기간|Verlangsamungsdauer
+slow_duration|Slow Duration|Hidastuksen kesto|Duração Lenta|Длительность Замедления|减速时长|遅い期間|슬로우 기간|Verlangsamungsdauer
 absorption|Absorption|Imeytyminen|Absorção|Поглощение|吸收|吸収|흡수|Absorption
 offensive_skills|Offensive Abilities|Hyökkäystaidot|Habilidades Ofensivas|Навыки нападения|进攻技能|攻撃スキル|공격 스킬|Offensive Fähigkeiten
 defensive_skills|Defensive Abilities|Puolustustaidot|Habilidades Defensivas|Навыки обороны|防御技能|防御スキル|방어 스킬|Defensive Fähigkeiten
@@ -460,8 +460,8 @@ close|Close|Sulje|Fechar|Закрыть|关闭|閉じる|닫기|Schließen
 extra_strength|Extra Strength|Lisävoimaa|Força Extra|Дополнительная сила|额外的力量|追加ストレングス|여분의 힘|Extra-Stärke
 extra_energy|Extra Energy|Lisäenergiaa|Energia Extra|Дополнительная энергия|额外的能量|追加エナジー|여분의 에너지|Extra-Energie
 extra_armor|Extra Armor|Lisäsuojaa|Armadura Extra|Дополнительная броня|额外的护甲|追加アーマー|여분의 갑옷|Extra-Rüstung
-extra_stamina|Extra Stamina|Lisäelämää|Vigor Extra|Дополнительная выносливость|额外的精力|追加スタミナ|여분의 스태미나|Extra-Durchhaltevermögen
-healing|Healing|Parannus|Cura|Исцеление|康复|治癒|치유|Heilung
+extra_stamina|Extra Stamina|Lisäelämää|Vigor Extra|Дополнительная выносливость|额外的耐力|追加スタミナ|여분의 스태미나|Extra-Durchhaltevermögen
+healing|Healing|Parannus|Cura|Исцеление|治疗|治癒|치유|Heilung
 magic_resistance|Magic Resistance|Taika-vastustus|Registência Mágica|Магическое Сопротивление|魔法抗性|魔法耐性|마법 저항|Magischer Widerstand
 physical_resistance|Physical Resistance|Fyysinen vastustus|Resistência Física|Физическое Сопротивление|物理抗性|物理耐性|물리적 저항|Physischer Widerstand
 handed|Handed|Kätinen|Entregue|ручный|已上交|手渡されました|장비함|Händig
@@ -469,20 +469,20 @@ buyback|Buyback|Takaisinosto|Recomprar|Выкупить|回购|買い戻し|되�
 stacks|Stacks|Pinoa|Pilhas|Заряды|堆|スタック|스택|Stapel
 loadouts|Loadouts|Varustukset|Cargas|Наборы экипировки|装备栏|装備|로드 아웃|Ausrüstungen
 gem_pouch|Gem Pouch|Riimupussi|Bolsa de Gemas|Мешочек с самоцветами|宝石袋|宝石ポーチ|보석 파우치|Edelsteintasche
-seed_pouch|Seed Pouch|Siemenpussi|Bolsa de Sementes|Мешочек с семенами|种子小袋|シードポーチ|씨 파우치|Samentasche
-key_ring|Key Ring|Avainnippu|Key Ring|Key Ring|Key Ring|Key Ring|Key Ring|Key Ring
+seed_pouch|Seed Pouch|Siemenpussi|Bolsa de Sementes|Мешочек с семенами|种子袋|シードポーチ|씨 파우치|Samentasche
+key_ring|Key Ring|Avainnippu|Key Ring|Key Ring|钥匙圈|Key Ring|Key Ring|Key Ring
 consumable|Consumable|Käytettävät|Consumable|Consumable|Consumable|Consumable|Consumable|Consumable
 rune|Rune|Riimu|Runa|Руна|符文|ルーン|룬 문자|Rune
 minion_inventory|Mercenary|Palkkasoturi|Mercenário|Наемник|雇佣兵|傭兵|용병|Söldner
 speak|Speak|Puhu|Falar|Говорить|说|話す|말하기|Sprechen
-sell|Sell|Myy|Vender|Продать|卖|売る|팔기|Verkaufen
+sell|Sell|Myy|Vender|Продать|出售|売る|팔기|Verkaufen
 sell_all|Sell All|Myy kaikki|Vender Tudo|Продать всё|出售所有|すべて売却|전부 팔기|Alles verkaufen
 browse|Browse|Selaa|Procurar|Просмотреть|浏览|拾い読み|장비 보기|Stöbern
 inspect|Inspect|Tutki|Inspecionar|Осмотреть|检查|詳しく調べる|비교|Inspizieren
 drop|Drop|Pudota|Dropar|Выбросить|丢弃|落とす|떨어뜨리기|Droppen
 equip|Equip|Pue|Equipar|Надеть|装备|装備|장착|Ausrüsten
-stash|Stash|Pankki|Esconderijo|Тайник|存放|しまう|보관함|Truhe
-guild_stash|Guild Stash|Kilta Pankki||||||
+stash|Stash|Pankki|Esconderijo|Тайник|储物箱|しまう|보관함|Truhe
+guild_stash|Guild Stash|Kilta Pankki|||公会储物箱|||
 retrieve|Retrieve|Palauta|Recuperar|Забрать|恢复|回復|꺼내기|Zurückholen
 inventory|Inventory|Reppu|Inventario|Инвентарь|库存|インベントリー|인벤토리|Inventar
 quests|Quests|Tehtävät|Missões|Задания|任务|クエスト|퀘스트|Quests
@@ -490,14 +490,14 @@ accept_quest|Accept Quest|Hyväksy tehtävä|Aceitar Missão|Взять зада
 return_quest|Return Quest|Palauta tehtävä|Retornar Missão|Завершить задание|返回任务|クエストに戻る|퀘스트 반납|Quest abgeben
 delete_quest|Delete quest|Poista tehtävä|Apagar quest|Отказаться от задания|删除任务|クエストを削除|퀘스트 삭제|Quest löschen
 quest_completed|Quest completed!|Tehtävä suoritettu!|Quest completada!|Задание завершено!|任务完成！|クエスト完了！|퀘스트 완료!|Quest abgeschlossen!
-destroy|Destroy|Tuhoa|Destruir|Уничтожить|毁掉|破壊する|파괴|Zerstören
+destroy|Destroy|Tuhoa|Destruir|Уничтожить|销毁|破壊する|파괴|Zerstören
 upgrade|Upgrade|Päivitä|Atualizar|Улучшение|升级|アップグレード|업그레이드|Aufrüsten
 unequip|Unequip|Riisu|Sem equipamentos|Снять|脱下装备|装備を取り去る|해제|Ablegen
 sockets|Sockets|Paikat|Soquetes|Гнёзда|槽位|ソケット|소켓|Sockel
-show_sockets|Show sockets|Näytä paikat|Show sockets|Show sockets|Show sockets|Show sockets|Show sockets|Sockel anzeigen
-hide_sockets|Hide sockets|Piilota paikat|Hide sockets|Hide sockets|Hide sockets|Hide sockets|Hide sockets|Sockel verstecken
-clear_socket|Clear Socket|Tyhjennä paikka|Limpar Soquete|Очистить гнёзда|清除槽位|ソケットの削除|소켓 클리어|Sockel entfernen
-clear_socket_prompt|Are you sure you want to clear sockets from this item?|Oletko varma että haluat tyhjentää tämän esineen paikat?|Tem certeza de que deseja limpar os encaixes deste item?|Вы уверены, что хотите очистить гнёзда этого предмета?|您确定要清除此项目中的套接字吗?|このアイテムのソケットをクリアしますか？|정말로 이 아이템의 소켓을 지우시겠습니까?|Bist du sicher, dass du die Sockel für diesen Gegenstand entfernen willst?
+show_sockets|Show sockets|Näytä paikat|Show sockets|Show sockets|显示槽位|Show sockets|Show sockets|Sockel anzeigen
+hide_sockets|Hide sockets|Piilota paikat|Hide sockets|Hide sockets|隐藏槽位|Hide sockets|Hide sockets|Sockel verstecken
+clear_socket|Clear Socket|Tyhjennä paikka|Limpar Soquete|Очистить гнёзда|清除槽内物品|ソケットの削除|소켓 클리어|Sockel entfernen
+clear_socket_prompt|Are you sure you want to clear sockets from this item?|Oletko varma että haluat tyhjentää tämän esineen paikat?|Tem certeza de que deseja limpar os encaixes deste item?|Вы уверены, что хотите очистить гнёзда этого предмета?|您确定要抠出这件装备全部的符文/宝石吗(抠出来的东西就没有了奥)?|このアイテムのソケットをクリアしますか？|정말로 이 아이템의 소켓을 지우시겠습니까?|Bist du sicher, dass du die Sockel für diesen Gegenstand entfernen willst?
 ||||||||
 ||||||||
 market|Tarethiel Market|||||||
