@@ -501,12 +501,12 @@ clear_socket_prompt|Are you sure you want to clear sockets from this item?|Oletk
 ||||||||
 ||||||||
 market|Tarethiel Market|||||||
-craft|Craft|Valmista|Arte|Создать|工艺|クラフト|조합|Herstellen
-crafting|Crafting|Valmistus|Criações|Создание|手工艺|クラフトしています|조합|Herstellung
-random|random|satunnainen|randômico|случайный|随机的|ランダム|무작위|zufällig
-merge|Merge|Yhdistä|Fundir|Объединить|合并|マージ|합치기|Verschmelzen
+craft|Craft|Valmista|Arte|Создать|#矿石精炼|クラフト|조합|Herstellen
+crafting|Crafting|Valmistus|Criações|Создание|锻造台|クラフトしています|조합|Herstellung
+random|random|satunnainen|randômico|случайный|随机|ランダム|무작위|zufällig
+merge|Merge|Yhdistä|Fundir|Объединить|融合|マージ|합치기|Verschmelzen
 difficulty|Difficulty|Vaikeusaste|Dificuldade|Сложность|难度|難易度|난이도|Schwierigkeit
-change_difficulty|Change Difficulty|Vaihda vaikeusastetta|Alterar Dificuldade|Изменить уровень сложности|改变难度|難易度を変更|난이도 변경|ändere die Schwierigkeit
+change_difficulty|Change Difficulty|Vaihda vaikeusastetta|Alterar Dificuldade|Изменить уровень сложности|更改难度|難易度を変更|난이도 변경|ändere die Schwierigkeit
 normal|Normal|Normaali|Normal|Обычная|普通|標準|보통|Normal
 nightmare|Nightmare|Painajainen|Pesadelo|Кошмар|噩梦|悪夢|악몽|Albtraum
 hell|Hell|Helvetti|Inferno|Ад|地狱|地獄|지옥|Hölle
@@ -522,100 +522,100 @@ rare|Rare|Harvinainen|Raro|Редкий|稀有|レア|희귀|Selten
 legendary|Legendary|Legendaarinen|Lendário|Легендарный|传奇|伝説|전설|Legendär
 mythic|Mythic|Myyttinen|Mítico|Мифический|神话|神話|신화|Mythisch
 angelic|Angelic|Enkeli|Agélico|Ангельский|天使的|エンジェリック|천사의|Himmlisch
-satanic|Satanic|Saatanallinen|Satanico|Сатанический|恶魔|魔王|사탄|Satanisch
-heroic|Heroic|Sankarillinen|Heroic|Heroic|Heroic|Heroic|Heroic|Heroic
-heroic_set|Heroic Set|Sankarillinen setti|Conjunto Heroico|Heroic Набор|Heroic Set|Heroic Set|Heroic Set|Heroic Set
-satanic_set|Satanic Set|Saatanallinen setti|Conjunto Satânico|Сатанический Набор|撒旦系列|サタニックセット|사탄 세트|Satanisches Set
+satanic|Satanic|Saatanallinen|Satanico|Сатанический|恶魔的|魔王|사탄|Satanisch
+heroic|Heroic|Sankarillinen|Heroic|Heroic|英雄的|Heroic|Heroic|Heroic
+heroic_set|Heroic Set|Sankarillinen setti|Conjunto Heroico|Heroic Набор|英雄级套装|Heroic Set|Heroic Set|Heroic Set
+satanic_set|Satanic Set|Saatanallinen setti|Conjunto Satânico|Сатанический Набор|撒旦套装|サタニックセット|사탄 세트|Satanisches Set
 runeword|Runeword|Riimusana|Palabra Runa|Рунное Слово|符文|ルーンワード|룬워드|Runenwort
 ||||||||
-[Stats]||||||||
+[Stats]|||||[状态]|||
 health|Life|Elämä|Vida|Здоровье|生命值|ヘルス|최대 체력|Lebenspunkte
 mana|Mana|Mana|Mana|Мана|魔法值|マナ|마나|Mana
 ||||||||
-level_requirement|Level Req.|Tasovaatimus||||||
-item_level|iLevel|||||||
-picked_up|Picked up|Nostettu||||||
-equipped|Equipped|Puettu||||||
-town_portal|Town Portal|Kyläportaali||||||
-synergy|Synergy|Synergia||||||
-current_level|Current level|Nykyinen taso||||||
-next_level|Next level|Seuraava taso||||||
+level_requirement|Level Req.|Tasovaatimus|||需要等级|||
+item_level|iLevel||||物品等级|||
+picked_up|Picked up|Nostettu|||拾取|||
+equipped|Equipped|Puettu|||装备|||
+town_portal|Town Portal|Kyläportaali|||回城卷轴|||
+synergy|Synergy|Synergia|||#协作|||
+current_level|Current level|Nykyinen taso|||当前等级|||
+next_level|Next level|Seuraava taso|||下一级|||
 ||||||||
 physical|Physical|Fyysinen|Físico|Физический|物理|打撃|물리적|Physisch
 magic|Magic|Taika|Mágico|Магический|魔法|魔法|매직 데미지|Magisch
-poison|Poison|Myrkky|Veneno|Яд|施毒|毒|독극물 데미지|Gift
+poison|Poison|Myrkky|Veneno|Яд|毒|毒|독극물 데미지|Gift
 wind|Wind|Tuuli|Vento|Ветер|风|風|바람 데미지|Wind
 lightning|Lightning|Sähkö|Raio|Молния|雷电|雷|번개|Blitz
 cold|Cold|Kylmä|Frio|Холод|寒冷|冷気|추위 데미지|Kälte
-fire|Fire|Tuli|Fogo|Огонь|火|火気|불 데미지|Feuer
+fire|Fire|Tuli|Fogo|Огонь|火焰|火気|불 데미지|Feuer
 stunned|Stunned|Tainnutettu|Atordoado|Оглушенный|晕眩|麻痺|기절|Betäubt
-frozen|Deep Freeze|Syväjää|Congelado|Глубокая заморозка|深度冰冻|ディープフリーズ|완전 빙결|Tiefgefroren
+frozen|Deep Freeze|Syväjää|Congelado|Глубокая заморозка|冻结|ディープフリーズ|완전 빙결|Tiefgefroren
 freeze|Frozen|Jäätynyt|Paralizado|Заморожен|冰冻|凍結|빙결|Eingefroren
 poisoned|Poisoned|Myrkytetty|Envenenado|Отравлен|中毒|毒|중독|Vergiftet
-slow|Slow|Hidastus|Lento|Замедление|缓慢|スロー|느려짐|Verlangsamt
-weakened|Weakened|||||||
+slow|Slow|Hidastus|Lento|Замедление|移速降低|スロー|느려짐|Verlangsamt
+weakened|Weakened||||虚弱|||
 burning_damage|Burning Damage|Palamisvahinko|Dano ardente|Урон от горения|燃烧伤害|燃焼ダメージ|불타는 피해|Brandschaden
-burning|Burning|Palava|Em chamas|Горение|燃烧|火傷|불 탐|Brennend
+burning|Burning|Palava|Em chamas|Горение|引燃|火傷|불 탐|Brennend
 immortality|Immortality|Kuolemattomuus|Imortalidade|Бессмертие|永生|不死|불사|Unsterblichkeit
 double_damage|Double Damage|Tuplavahinko|Dano Dobrado|Двойной Урон|双重伤害|ダメージ2倍|두 배 데미지|Doppelter Schaden
 elemental|Elemental|Elementaali|Elementar|Элементальный|元素|エレメンタル|근본적|Elementar
-ruby_drops|Increased Ruby drops|Lisää rubiinien määrää|Drops de Rubi Aumentados|Увеличение кол-ва выпадающих Рубинов|增加了的红宝石滴|増加したルビードロップ|증가된 루비 드롭|Erhöhte Rubindrops
+ruby_drops|Increased Ruby drops|Lisää rubiinien määrää|Drops de Rubi Aumentados|Увеличение кол-ва выпадающих Рубинов|红宝石掉落概率提升|増加したルビードロップ|증가된 루비 드롭|Erhöhte Rubindrops
 projectiles|Projectiles|Ammuksia|Projéteis|Снаряды|弹丸|発射物|발사체|Projektile
 set_bonus|Set Bonus|Settibonus|Definição de Bônus|Бонус Набора|设置赏金|セット・ボーナス|보너스 설정|Set-Bonus
 ||||||||
-chance_to_cast|chance to cast|||||||
-when_struck|when Struck|||||||
-when_strike|when Striking|||||||
-when_kill|after each Kill|||||||
-when_blocking|after Blocking|||||||
-when_casting|when Casting|||||||
-when_attacking|when Attacking|||||||
+chance_to_cast|chance to cast||||#投掷命中概率|||
+when_struck|when Struck||||#攻击时|||
+when_strike|when Striking||||#被击中时|||
+when_kill|after each Kill||||#在击杀单位后|||
+when_blocking|after Blocking||||#被阻挡后|||
+when_casting|when Casting||||#在投掷时|||
+when_attacking|when Attacking||||#在攻击时|||
 ||||||||
-block|Block|Torjunta|Bloquear|Блок|阻止|ブロック|차단|Block
-taunt|Taunt|Ärsytys|Provocação|Провокация|羞辱|煽り|조롱|Verspotten
-miniboss|a miniboss|minipomo|un miniboss|минибосс|小老闆|ミニボス|미니 보스|ein miniboss
-summon|Minion|Kätyri|Convocar|Приспешник|奴才|ミニオン|미니언|Diener
+block|Block|Torjunta|Bloquear|Блок|阻挡|ブロック|차단|Block
+taunt|Taunt|Ärsytys|Provocação|Провокация|嘲讽|煽り|조롱|Verspotten
+miniboss|a miniboss|minipomo|un miniboss|минибосс|小Boss|ミニボス|미니 보스|ein miniboss
+summon|Minion|Kätyri|Convocar|Приспешник|奴仆|ミニオン|미니언|Diener
 weapon_damage|Weapon Damage|Aseen Vahinko|Dano Por Arma|Урон Оружия|武器伤害|武器ダメージ|무기 피해|Waffenschaden
-tick_rate|Tick Rate|Iskunopeus|taxa de carrapatos|Частота|滴答率|ティックレート|진드기 속도|Tickrate
-cold_break|Cold Break|||||||
+tick_rate|Tick Rate|Iskunopeus|taxa de carrapatos|Частота|刷新率|ティックレート|진드기 속도|Tickrate
+cold_break|Cold Break||||#寒冷打破|||
 armor_break|Armor Break|Suojan Tuhous|Ruptura de armadura|Разрушение Брони|破甲|アーマーブレイク|방어구|Rüstungsbruch
-cooldown|Cooldown|Palautumisaika|Tempo de recuperação|Перезарядка|恢复时间|回復時間|회복 시간|Abklingzeit
-ability_power|Ability Power|Taitovoima|Ability Power|Сила Способностей|Ability Power|Ability Power|Ability Power|Fähigkeitsstärke
-attack_power|Attack Power|Hyökkäysvoima|Attack Power|Сила Атаки|Attack Power|Attack Power|Attack Power|Angriffsstärke
-runewords|Runewords|Riimusanat||||||
-statistics|Statistics|||||||
-any_base_item|Any base item|Mikä tahansa pohja||||||
-toy_bear|Toy Bear|Lelunalle||||||
-tier|Tier|Taso||||||
-targets|Targets|Kohteet||||||
+cooldown|Cooldown|Palautumisaika|Tempo de recuperação|Перезарядка|CD|回復時間|회복 시간|Abklingzeit
+ability_power|Ability Power|Taitovoima|Ability Power|Сила Способностей|法术伤害|Ability Power|Ability Power|Fähigkeitsstärke
+attack_power|Attack Power|Hyökkäysvoima|Attack Power|Сила Атаки|物理伤害|Attack Power|Attack Power|Angriffsstärke
+runewords|Runewords|Riimusanat|||#符文|||
+statistics|Statistics||||统计数据|||
+any_base_item|Any base item|Mikä tahansa pohja|||#任意基本项目|||
+toy_bear|Toy Bear|Lelunalle|||玩具熊|||
+tier|Tier|Taso|||等级|||
+targets|Targets|Kohteet|||目标|||
 ||||||||
-[crafting]||||||||
-craft_ability_token|Craft Ability Token|Valmista Taitopoletti|Criar símbolo de habilidade|Создать Жетон Способностей|工艺能力令牌|クラフト能力トークン|공예 능력 토큰|Fähigkeitsmarke
-craft_copper_ore|Craft Copper Ore|Valmista Kuparimalmia|Artesanato de minério de cobre|Создать Медную Руду|工艺铜矿|クラフト銅鉱石|구리 광석 제작|Kupfererz
-craft_crystal_key|Craft Crystal Key|Valmista Kristalliavain|chave de cristal artesanal|Создать Кристальный Ключ|工艺水晶钥匙|クラフトクリスタルキー|공예 크리스탈 열쇠|Kristallschlüssel
-craft_gold_ore|Craft Gold Ore|Valmista Kultamalmia|artesanato de minério de ouro|Создать Золотую Руду|工艺金矿|金鉱石を作る|금광석 제작|Golderz
-craft_iron_ore|Craft Iron Ore|Valmista Rautamalmia|minério de ferro artesanal|Создать Железную Руду|工艺铁矿石|クラフト鉄鉱石|철광석 공예|Eisenerz
-craft_key|Craft Key|Valmista Avain|chave artesanal|Создать Ключ|工艺钥匙|クラフトキー|공예 키|Schlüssel
-craft_merge_leg_powder|Merge Legendary Powder|Yhdistä Myyttinen pulveri|mesclar pó lendário|Переработать Легендарный порошок|合并传奇粉|伝説のパウダーをマージ|전설의 가루를 합치다|Pulver mischen
-craft_random_rare|Craft random Rare item|Valmista satunnainen Harvinainen esine|criar item raro aleatório|Случайный Редкий предмет|工艺随机稀有物品|ランダムレアアイテムを作る|랜덤 레어 아이템 제작|Zufälliger Seltener Gegenstand
-craft_random_legendary|Craft random Legendary item|Valmista satunnainen Legendaarinen esine|criar item lendário aleatório|Случайный Легендарный предмет|工艺随机的传奇物品|ランダムな伝説のアイテムを作る|무작위 전설 아이템 제작|Zufälliger Legendärer Gegenstand
-craft_random_mythical|Craft random Mythical item|Valmista satunnainen Myyttinen esine|criar item mítico aleatório|Случайный Мифический предмет|工艺随机的神话物品|ランダムな神話アイテムを作る|임의의 신화 아이템 제작|Zufälliger Mythischer Gegenstand
-craft_random_satanic|Craft random Satanic item|Valmista satunnainen Saatanallinen esine|criar item satânico aleatório|Случайный Сатанический предмет|工艺随机撒旦物品|ランダムな悪魔のアイテムを作る|무작위 사탄 아이템 제작|Zufälliger Satanischer Gegenstand
-craft_random_satanic_a_tier|Craft random Tier A+ Satanic|Valmista satunnainen A+ tason Saatanallinen||||||
-craft_socket_token|Craft Socket Token|Valmista paikkapoletti||||||
-craft_random_relic|Craft random Relic|Valmista satunnainen Aarre|criar relíquia aleatória|Создать случайную Реликвию|工艺随机遗物|ランダムな遺物を作る|무작위 유물 제작|Zufälliges Relikt
-craft_reroll_token|Craft Re-roll Token|Valmista Uusiopoletti|token de re-roll artesanal|Создать Жетон Качества|工艺重投令牌|クラフトリロールトークン|크래프트 리롤 토큰|Reroll-Token
-craft_satanic_amulet|Craft Satanic Amulet|Valmista Saatanallinen Amuletti|criar amuleto satânico|Создать Сатанический Амулет|工艺撒旦护身符|クラフト悪魔のお守り|사탄 부적 제작|Satanisches Amulett
-craft_satanic_armor|Craft Satanic Body Armor|Valmista Saatanallinen Panssari|fabricar armadura corporal satânica|Создать Сатанический Нагрудник|工艺撒旦防弹衣|悪魔のボディアーマーを作る|사탄 갑옷 제작|Satanischer Körperschutz
-craft_satanic_boots|Craft Satanic Boots|Valmista Saatanalliset Saappaat|fazer botas satânicas|Создать Сатанические Ботинки|工艺撒旦靴|クラフト悪魔のブーツ|공예 사탄 부츠|Satanische Stiefel
-craft_satanic_charm|Craft Satanic Charm|Valmista Saatanallinen Taikakalu|criar charme satânico|Создать Сатанический Оберег|工艺撒旦魅力|クラフト悪魔の魅力|사탄의 매력을 만들어라|Satanischer Charm
-craft_satanic_dice|Craft Satanic Dice|Valmista Saatanallinen noppa|criar dados satânicos|Создать Дьявольские Кости|工艺撒旦骰子|悪魔のサイコロを作る|사탄 주사위 제작|Satanischer Würfel
-craft_satanic_gloves|Craft Satanic Gloves|Valmista Saatanalliset Hanskat|fabricar luvas satânicas|Создать Сатанические Перчатки|工艺撒旦手套|悪魔の手袋を作る|공예 사탄 장갑|Satanische Handschuhe
-craft_satanic_helmet|Craft Satanic Helmet|Valmista Saatanallinen Kypärä|fazer capacete satânico|Создать Сатанический Шлем|工艺撒旦头盔|クラフト悪魔のヘルメット|공예 사탄 헬멧|Satanischer Helm
-craft_satanic_shield|Craft Satanic Shield|Valmista Saatanallinen Kilpi|criar escudo satânico|Создать Сатанический Щит|工艺撒旦盾|クラフト悪魔の盾|사탄 방패 제작|Satanisches Schild
-craft_satanic_weapon|Craft Satanic Weapon|Valmista Saatanallinen Ase|fabricar arma satânica|Создать Сатаническое Оружие|工艺撒旦武器|悪魔の武器を作る|사탄 무기 제작|Satanische Waffe
-craft_upgrade_token|Craft Upgrade Token|Valmista Päivityspoletti|token de atualização de fabricação|Создать Жетон Улучшения|工艺升级令牌|クラフトアップグレードトークン|공예 업그레이드 토큰|Aufrüst-Token
-craft_wormhole_key|Craft Wormhole Key|Valmista Madonreiän avain|chave de buraco de minhoca artesanal|Создать Ключ Червоточины|工艺虫洞钥匙|クラフトワームホールキー|공예 웜홀 키|Wurmlochschlüssel
+[crafting]|||||[合成]|||
+craft_ability_token|Craft Ability Token|Valmista Taitopoletti|Criar símbolo de habilidade|Создать Жетон Способностей|合成能力令牌|クラフト能力トークン|공예 능력 토큰|Fähigkeitsmarke
+craft_copper_ore|Craft Copper Ore|Valmista Kuparimalmia|Artesanato de minério de cobre|Создать Медную Руду|合成铜矿|クラフト銅鉱石|구리 광석 제작|Kupfererz
+craft_crystal_key|Craft Crystal Key|Valmista Kristalliavain|chave de cristal artesanal|Создать Кристальный Ключ|合成水晶钥匙|クラフトクリスタルキー|공예 크리스탈 열쇠|Kristallschlüssel
+craft_gold_ore|Craft Gold Ore|Valmista Kultamalmia|artesanato de minério de ouro|Создать Золотую Руду|合成金矿|金鉱石を作る|금광석 제작|Golderz
+craft_iron_ore|Craft Iron Ore|Valmista Rautamalmia|minério de ferro artesanal|Создать Железную Руду|合成铁矿石|クラフト鉄鉱石|철광석 공예|Eisenerz
+craft_key|Craft Key|Valmista Avain|chave artesanal|Создать Ключ|合成钥匙|クラフトキー|공예 키|Schlüssel
+craft_merge_leg_powder|Merge Legendary Powder|Yhdistä Myyttinen pulveri|mesclar pó lendário|Переработать Легендарный порошок|合成传奇粉|伝説のパウダーをマージ|전설의 가루를 합치다|Pulver mischen
+craft_random_rare|Craft random Rare item|Valmista satunnainen Harvinainen esine|criar item raro aleatório|Случайный Редкий предмет|合成随机稀有装备|ランダムレアアイテムを作る|랜덤 레어 아이템 제작|Zufälliger Seltener Gegenstand
+craft_random_legendary|Craft random Legendary item|Valmista satunnainen Legendaarinen esine|criar item lendário aleatório|Случайный Легендарный предмет|合成随机的传奇装备|ランダムな伝説のアイテムを作る|무작위 전설 아이템 제작|Zufälliger Legendärer Gegenstand
+craft_random_mythical|Craft random Mythical item|Valmista satunnainen Myyttinen esine|criar item mítico aleatório|Случайный Мифический предмет|合成随机的神话装备|ランダムな神話アイテムを作る|임의의 신화 아이템 제작|Zufälliger Mythischer Gegenstand
+craft_random_satanic|Craft random Satanic item|Valmista satunnainen Saatanallinen esine|criar item satânico aleatório|Случайный Сатанический предмет|合成随机撒旦装备|ランダムな悪魔のアイテムを作る|무작위 사탄 아이템 제작|Zufälliger Satanischer Gegenstand
+craft_random_satanic_a_tier|Craft random Tier A+ Satanic|Valmista satunnainen A+ tason Saatanallinen|||合成随机等级A+撒旦装备|||
+craft_socket_token|Craft Socket Token|Valmista paikkapoletti|||合成槽令牌|||
+craft_random_relic|Craft random Relic|Valmista satunnainen Aarre|criar relíquia aleatória|Создать случайную Реликвию|合成随机遗物|ランダムな遺物を作る|무작위 유물 제작|Zufälliges Relikt
+craft_reroll_token|Craft Re-roll Token|Valmista Uusiopoletti|token de re-roll artesanal|Создать Жетон Качества|合成重投令牌|クラフトリロールトークン|크래프트 리롤 토큰|Reroll-Token
+craft_satanic_amulet|Craft Satanic Amulet|Valmista Saatanallinen Amuletti|criar amuleto satânico|Создать Сатанический Амулет|合成撒旦护身符|クラフト悪魔のお守り|사탄 부적 제작|Satanisches Amulett
+craft_satanic_armor|Craft Satanic Body Armor|Valmista Saatanallinen Panssari|fabricar armadura corporal satânica|Создать Сатанический Нагрудник|合成撒旦护甲|悪魔のボディアーマーを作る|사탄 갑옷 제작|Satanischer Körperschutz
+craft_satanic_boots|Craft Satanic Boots|Valmista Saatanalliset Saappaat|fazer botas satânicas|Создать Сатанические Ботинки|合成撒旦靴|クラフト悪魔のブーツ|공예 사탄 부츠|Satanische Stiefel
+craft_satanic_charm|Craft Satanic Charm|Valmista Saatanallinen Taikakalu|criar charme satânico|Создать Сатанический Оберег|合成撒旦饰品|クラフト悪魔の魅力|사탄의 매력을 만들어라|Satanischer Charm
+craft_satanic_dice|Craft Satanic Dice|Valmista Saatanallinen noppa|criar dados satânicos|Создать Дьявольские Кости|合成撒旦骰子（欢迎赌狗）|悪魔のサイコロを作る|사탄 주사위 제작|Satanischer Würfel
+craft_satanic_gloves|Craft Satanic Gloves|Valmista Saatanalliset Hanskat|fabricar luvas satânicas|Создать Сатанические Перчатки|合成撒旦手套|悪魔の手袋を作る|공예 사탄 장갑|Satanische Handschuhe
+craft_satanic_helmet|Craft Satanic Helmet|Valmista Saatanallinen Kypärä|fazer capacete satânico|Создать Сатанический Шлем|合成撒旦头盔|クラフト悪魔のヘルメット|공예 사탄 헬멧|Satanischer Helm
+craft_satanic_shield|Craft Satanic Shield|Valmista Saatanallinen Kilpi|criar escudo satânico|Создать Сатанический Щит|合成撒旦盾|クラフト悪魔の盾|사탄 방패 제작|Satanisches Schild
+craft_satanic_weapon|Craft Satanic Weapon|Valmista Saatanallinen Ase|fabricar arma satânica|Создать Сатаническое Оружие|合成撒旦武器|悪魔の武器を作る|사탄 무기 제작|Satanische Waffe
+craft_upgrade_token|Craft Upgrade Token|Valmista Päivityspoletti|token de atualização de fabricação|Создать Жетон Улучшения|合成升级令牌|クラフトアップグレードトークン|공예 업그레이드 토큰|Aufrüst-Token
+craft_wormhole_key|Craft Wormhole Key|Valmista Madonreiän avain|chave de buraco de minhoca artesanal|Создать Ключ Червоточины|合成虫洞钥匙|クラフトワームホールキー|공예 웜홀 키|Wurmlochschlüssel
 craft_jewel|Craft Jewel|Valmista korukivi||||||
 craft_gem|Craft Gem|Valmista jalokivi||||||
 aura_1|Feint|Harhautus|Enganação|Притворство|假的|フェイント|양공|Antäuschen
