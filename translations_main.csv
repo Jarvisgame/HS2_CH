@@ -616,55 +616,55 @@ craft_satanic_shield|Craft Satanic Shield|Valmista Saatanallinen Kilpi|criar esc
 craft_satanic_weapon|Craft Satanic Weapon|Valmista Saatanallinen Ase|fabricar arma satânica|Создать Сатаническое Оружие|合成撒旦武器|悪魔の武器を作る|사탄 무기 제작|Satanische Waffe
 craft_upgrade_token|Craft Upgrade Token|Valmista Päivityspoletti|token de atualização de fabricação|Создать Жетон Улучшения|合成升级令牌|クラフトアップグレードトークン|공예 업그레이드 토큰|Aufrüst-Token
 craft_wormhole_key|Craft Wormhole Key|Valmista Madonreiän avain|chave de buraco de minhoca artesanal|Создать Ключ Червоточины|合成虫洞钥匙|クラフトワームホールキー|공예 웜홀 키|Wurmlochschlüssel
-craft_jewel|Craft Jewel|Valmista korukivi||||||
-craft_gem|Craft Gem|Valmista jalokivi||||||
-aura_1|Feint|Harhautus|Enganação|Притворство|假的|フェイント|양공|Antäuschen
-aura_2|Mending|Parannus|Conserto|Покаяние|修补|補修|수리|Heilung
+craft_jewel|Craft Jewel|Valmista korukivi|||合成珠宝|||
+craft_gem|Craft Gem|Valmista jalokivi|||合成宝石|||
+aura_1|Feint|Harhautus|Enganação|Притворство|#假装|フェイント|양공|Antäuschen
+aura_2|Mending|Parannus|Conserto|Покаяние|修理|補修|수리|Heilung
 aura_3|Fanaticism|Fanaattisuus|Fanatismo|Фанатизм|狂热|熱狂|광신|Fanatismus
-aura_4|Resistance|Vastustus|Resistência|Сопротивление|电阻|抵抗|저항|Widerstand
-aura_5|Concentration|Keskittyminen|Concentração|Концентрация|浓度|集中|집중|Konzentration
-aura_6|Holy Freeze|Pyhä jää|Congelamento Sagrado|Леденящий Взор|神圣的冻结|ホーリーフリーズ|신성한 동결|Heiliger Frost
+aura_4|Resistance|Vastustus|Resistência|Сопротивление|抵抗|抵抗|저항|Widerstand
+aura_5|Concentration|Keskittyminen|Concentração|Концентрация|专注|集中|집중|Konzentration
+aura_6|Holy Freeze|Pyhä jää|Congelamento Sagrado|Леденящий Взор|神圣冻结|ホーリーフリーズ|신성한 동결|Heiliger Frost
 aura_7|Holy Shock|Pyhä isku|Choque Sagrado|Небесная Кара|神圣震击|ホーリーショック|신성한 충격|Heiliger Schock
-aura_10|Mana Pool|Mana Pool|Mana Pool|Mana Pool|Mana Pool|Mana Pool|Mana Pool|Mana Pool
-aura_14|Precognition|Ennakkotieto||||||
+aura_10|Mana Pool|Mana Pool|Mana Pool|Mana Pool|法力池|Mana Pool|Mana Pool|Mana Pool
+aura_14|Precognition|Ennakkotieto|||先知|||
 aura_13|Thorns|Piikit|Espinhos|Шипы|荆棘|いばら|가시|Dornen
-aura_15|Angel's Vibrance|Angel's Vibrance|Angel's Vibrance|Angel's Vibrance|Angel's Vibrance|Angel's Vibrance|Angel's Vibrance|Engelskraft
-aura_93|Mana Pool|Mana Pool|Mana Pool|Mana Pool|Mana Pool|Mana Pool|Mana Pool|Mana Pool
+aura_15|Angel's Vibrance|Angel's Vibrance|Angel's Vibrance|Angel's Vibrance|天使活力|Angel's Vibrance|Angel's Vibrance|Engelskraft
+aura_93|Mana Pool|Mana Pool|Mana Pool|Mana Pool|法力池|Mana Pool|Mana Pool|Mana Pool
 ||||||||
-aura_desc_1|Grants you an aura that increases you and your allies movement speed|Grants you an aura that increases you and your allies movement speed|Grants you an aura that increases you and your allies movement speed|Grants you an aura that increases you and your allies movement speed|Grants you an aura that increases you and your allies movement speed|Grants you an aura that increases you and your allies movement speed|Grants you an aura that increases you and your allies movement speed|Gestattet dir und deine Verbündeten eine Geschwindigkeitaura
-aura_desc_2|Grants you an aura that increases you and your allies health regeneration|Grants you an aura that increases you and your allies health regeneration|Grants you an aura that increases you and your allies health regeneration|Grants you an aura that increases you and your allies health regeneration|Grants you an aura that increases you and your allies health regeneration|Grants you an aura that increases you and your allies health regeneration|Grants you an aura that increases you and your allies health regeneration|Gestattet dir und deine Verbündeten eine Lebensregenerationsaura
-aura_desc_3|Grants you an aura that increases you and your allies attack speed|Grants you an aura that increases you and your allies attack speed|Grants you an aura that increases you and your allies attack speed|Grants you an aura that increases you and your allies attack speed|Grants you an aura that increases you and your allies attack speed|Grants you an aura that increases you and your allies attack speed|Grants you an aura that increases you and your allies attack speed|Gestattet dir und deine Verbündeten eine Angriffsgeschwindigkeitsaura
-aura_desc_4|Grants you an aura that increases you and your allies all resistance|Grants you an aura that increases you and your allies all resistance|Grants you an aura that increases you and your allies all resistance|Grants you an aura that increases you and your allies all resistance|Grants you an aura that increases you and your allies all resistance|Grants you an aura that increases you and your allies all resistance|Grants you an aura that increases you and your allies all resistance|Gestattet dir und deine Verbündeten eine Widerstandsaura
-aura_desc_5|Grants you an aura that increases you and your allies attack damage|Grants you an aura that increases you and your allies attack damage|Grants you an aura that increases you and your allies attack damage|Grants you an aura that increases you and your allies attack damage|Grants you an aura that increases you and your allies attack damage|Grants you an aura that increases you and your allies attack damage|Grants you an aura that increases you and your allies attack damage|Gestattet dir und deine Verbündeten eine Angriffsstärkeaura
-aura_desc_6|Grants you an aura that increases you and your allies a chilling aura|Grants you an aura that increases you and your allies a chilling aura|Grants you an aura that increases you and your allies a chilling aura|Grants you an aura that increases you and your allies a chilling aura|Grants you an aura that increases you and your allies a chilling aura|Grants you an aura that increases you and your allies a chilling aura|Grants you an aura that increases you and your allies a chilling aura|Gestattet dir und deine Verbündeten eine frierende Aura
-aura_desc_7|Grants you an aura that increases you and your allies a shocking aura|Grants you an aura that increases you and your allies a shocking aura|Grants you an aura that increases you and your allies a shocking aura|Grants you an aura that increases you and your allies a shocking aura|Grants you an aura that increases you and your allies a shocking aura|Grants you an aura that increases you and your allies a shocking aura|Grants you an aura that increases you and your allies a shocking aura|Gestattet dir und deine Verbündeten eine schockierende Aura
-aura_desc_10|Grants you an aura that increases you and your allies mana regeneration|Grants you an aura that increases you and your allies mana regeneration|Grants you an aura that increases you and your allies mana regeneration|Grants you an aura that increases you and your allies mana regeneration|Grants you an aura that increases you and your allies mana regeneration|Grants you an aura that increases you and your allies mana regeneration|Grants you an aura that increases you and your allies mana regeneration|Gestattet dir und deine Verbündeten eine Manaregenerationsaura
-aura_desc_13|Grants you an aura that increases you and your allies damage return|Grants you an aura that increases you and your allies damage return|Grants you an aura that increases you and your allies damage return|Grants you an aura that increases you and your allies damage return|Grants you an aura that increases you and your allies damage return|Grants you an aura that increases you and your allies damage return|Grants you an aura that increases you and your allies damage return|Gestattet dir und deine Verbündeten eine Dornenaura
-aura_desc_14|Grants you an aura that increases you and your allies elemental damage, block and dodge|||||||
-aura_desc_15|Grants you power of the Angel’s providing you and your allies every buff in the game|Grants you power of the Angel’s providing you and your allies every buff in the game|Grants you power of the Angel’s providing you and your allies every buff in the game|Grants you power of the Angel’s providing you and your allies every buff in the game|Grants you power of the Angel’s providing you and your allies every buff in the game|Grants you power of the Angel’s providing you and your allies every buff in the game|Grants you power of the Angel’s providing you and your allies every buff in the game|Segnet dich mit Engelskraft welche dir jede Aura gestattet
-aura_desc_93|Grants you an aura that increases you and your allies mana regeneration|Grants you an aura that increases you and your allies mana regeneration|Grants you an aura that increases you and your allies mana regeneration|Grants you an aura that increases you and your allies mana regeneration|Grants you an aura that increases you and your allies mana regeneration|Grants you an aura that increases you and your allies mana regeneration|Grants you an aura that increases you and your allies mana regeneration|Gestattet dir und deine Verbündeten eine Manaregenerationsaura
-nothing|Nothing|Ei mitään|Nothing|Nothing|Nothing|Nothing|Nothing|Nothing
+aura_desc_1|Grants you an aura that increases you and your allies movement speed|Grants you an aura that increases you and your allies movement speed|Grants you an aura that increases you and your allies movement speed|Grants you an aura that increases you and your allies movement speed|给你提供一个能够提升你和你的盟友移动速度的光环|Grants you an aura that increases you and your allies movement speed|Grants you an aura that increases you and your allies movement speed|Gestattet dir und deine Verbündeten eine Geschwindigkeitaura
+aura_desc_2|Grants you an aura that increases you and your allies health regeneration|Grants you an aura that increases you and your allies health regeneration|Grants you an aura that increases you and your allies health regeneration|Grants you an aura that increases you and your allies health regeneration|给你提供一个能够提升你和你的盟友生命回复的光环|Grants you an aura that increases you and your allies health regeneration|Grants you an aura that increases you and your allies health regeneration|Gestattet dir und deine Verbündeten eine Lebensregenerationsaura
+aura_desc_3|Grants you an aura that increases you and your allies attack speed|Grants you an aura that increases you and your allies attack speed|Grants you an aura that increases you and your allies attack speed|Grants you an aura that increases you and your allies attack speed|给你提供一个能够提升你和你的盟友攻击速度的光环|Grants you an aura that increases you and your allies attack speed|Grants you an aura that increases you and your allies attack speed|Gestattet dir und deine Verbündeten eine Angriffsgeschwindigkeitsaura
+aura_desc_4|Grants you an aura that increases you and your allies all resistance|Grants you an aura that increases you and your allies all resistance|Grants you an aura that increases you and your allies all resistance|Grants you an aura that increases you and your allies all resistance|给你提供一个能够提升你和你的盟友全部抗性的光环|Grants you an aura that increases you and your allies all resistance|Grants you an aura that increases you and your allies all resistance|Gestattet dir und deine Verbündeten eine Widerstandsaura
+aura_desc_5|Grants you an aura that increases you and your allies attack damage|Grants you an aura that increases you and your allies attack damage|Grants you an aura that increases you and your allies attack damage|Grants you an aura that increases you and your allies attack damage|给你提供一个能够提升你和你的盟友伤害的光环|Grants you an aura that increases you and your allies attack damage|Grants you an aura that increases you and your allies attack damage|Gestattet dir und deine Verbündeten eine Angriffsstärkeaura
+aura_desc_6|Grants you an aura that increases you and your allies a chilling aura|Grants you an aura that increases you and your allies a chilling aura|Grants you an aura that increases you and your allies a chilling aura|Grants you an aura that increases you and your allies a chilling aura|给你提供一个能够减少你和你的盟友冷却时间的光环|Grants you an aura that increases you and your allies a chilling aura|Grants you an aura that increases you and your allies a chilling aura|Gestattet dir und deine Verbündeten eine frierende Aura
+aura_desc_7|Grants you an aura that increases you and your allies a shocking aura|Grants you an aura that increases you and your allies a shocking aura|Grants you an aura that increases you and your allies a shocking aura|Grants you an aura that increases you and your allies a shocking aura|给你和你的盟友提供一个震慑光环|Grants you an aura that increases you and your allies a shocking aura|Grants you an aura that increases you and your allies a shocking aura|Gestattet dir und deine Verbündeten eine schockierende Aura
+aura_desc_10|Grants you an aura that increases you and your allies mana regeneration|Grants you an aura that increases you and your allies mana regeneration|Grants you an aura that increases you and your allies mana regeneration|Grants you an aura that increases you and your allies mana regeneration|给你提供一个能够提升你和你的盟友发力回复的光环|Grants you an aura that increases you and your allies mana regeneration|Grants you an aura that increases you and your allies mana regeneration|Gestattet dir und deine Verbündeten eine Manaregenerationsaura
+aura_desc_13|Grants you an aura that increases you and your allies damage return|Grants you an aura that increases you and your allies damage return|Grants you an aura that increases you and your allies damage return|Grants you an aura that increases you and your allies damage return|给你提供一个能够提升你和你的盟友反伤的光环|Grants you an aura that increases you and your allies damage return|Grants you an aura that increases you and your allies damage return|Gestattet dir und deine Verbündeten eine Dornenaura
+aura_desc_14|Grants you an aura that increases you and your allies elemental damage, block and dodge||||给你提供一个能够提升你和你的盟友元素伤害、抵抗和闪避的光环|||
+aura_desc_15|Grants you power of the Angel’s providing you and your allies every buff in the game|Grants you power of the Angel’s providing you and your allies every buff in the game|Grants you power of the Angel’s providing you and your allies every buff in the game|Grants you power of the Angel’s providing you and your allies every buff in the game|赐予你天使之力，为你提供一个能够给你和你的盟友游戏内全部buff的光环|Grants you power of the Angel’s providing you and your allies every buff in the game|Grants you power of the Angel’s providing you and your allies every buff in the game|Segnet dich mit Engelskraft welche dir jede Aura gestattet
+aura_desc_93|Grants you an aura that increases you and your allies mana regeneration|Grants you an aura that increases you and your allies mana regeneration|Grants you an aura that increases you and your allies mana regeneration|Grants you an aura that increases you and your allies mana regeneration|给你提供一个能够提升你和你的盟友发力回复的光环|Grants you an aura that increases you and your allies mana regeneration|Grants you an aura that increases you and your allies mana regeneration|Gestattet dir und deine Verbündeten eine Manaregenerationsaura
+nothing|Nothing|Ei mitään|Nothing|Nothing|无物品|Nothing|Nothing|Nothing
 ||||||||
 [Professions]||||||||
 mining|Mining|Louhiminen|Mineração|Шахтерское Мастерство|矿业|採掘|채굴|Bergbau
-herbalism|Herbalism|Yrttitaito|Herbalismo|Травничество|草药医术学|薬草学|약초학|Herbalismus
+herbalism|Herbalism|Yrttitaito|Herbalismo|Травничество|草药学|薬草学|약초학|Herbalismus
 enchanting|Enchanting|Lumoaminen||||||
 jewelcrafting|Jewelcrafting|Korutyötaito||||||
 copper_ore|Copper Ore|Kuparimalmi|Minério de Cobre|Медная руда|铜矿石|銅鉱石|구리광석|Kupfererz
 iron_ore|Iron Ore|Rautamalmi|Minério de Ferro|Железная руда|铁矿石|鉄鉱石|철광석|Eisenerz
 gold_ore|Gold Ore|Kultamalmi|Minério de Ouro|Золотая руда|金矿石|金鉱石|금광석|Golderz
 ruby_ore|Ruby Ore|Rubiinimalmi|Minério de Rubi|Рубиновая руда|红宝石矿石|ルビー鉱石|루비광석|Rubinerz
-jade_ore|Jade Ore|Jademalmi|Minério de Jade|Нефритовая руда|玉矿|ヒスイ鉱石|옥광석|Jadeerz
-tarethium_ore|Tarethium Ore|Tarethium malmi||||||
-copper_node|Copper Vein|Kuparisuoni|Filão de Cobre|Залежи меди|铜静脉|銅鉱脈|구리광맥|Kupfervene
-iron_node|Iron Vein|Rautasuoni|Filão de Ferro|Залежи железа|铁静脉|鉄鉱脈|철광맥|Eisenvene
-gold_node|Gold Vein|Kultasuoni|Filão de Ouro|Залежи золота|金脉|金鉱脈|금광맥|Goldvene
-ruby_node|Ruby Vein|Rubiinisuoni|Filão de Ruby|Залежи рубиновой руды|红宝石脉|ルビー鉱脈|루비광맥|Rubinvene
-jade_node|Jade Vein|Jadesuoni|Filão de Jade|||||
-tarethium_node|Tarethium Vein|Tarethium suoni||||||
+jade_ore|Jade Ore|Jademalmi|Minério de Jade|Нефритовая руда|玉矿石|ヒスイ鉱石|옥광석|Jadeerz
+tarethium_ore|Tarethium Ore|Tarethium malmi|||蓝宝石矿|||
+copper_node|Copper Vein|Kuparisuoni|Filão de Cobre|Залежи меди|铜矿脉|銅鉱脈|구리광맥|Kupfervene
+iron_node|Iron Vein|Rautasuoni|Filão de Ferro|Залежи железа|铁矿脉|鉄鉱脈|철광맥|Eisenvene
+gold_node|Gold Vein|Kultasuoni|Filão de Ouro|Залежи золота|金矿脉|金鉱脈|금광맥|Goldvene
+ruby_node|Ruby Vein|Rubiinisuoni|Filão de Ruby|Залежи рубиновой руды|红宝石矿脉|ルビー鉱脈|루비광맥|Rubinvene
+jade_node|Jade Vein|Jadesuoni|Filão de Jade||玉矿脉|||
+tarethium_node|Tarethium Vein|Tarethium suoni|||蓝宝石矿脉|||
 ranged_resistance|Ranged Resistance|Kaukokestävä|Resistência à Distância|Сопротивление Атакам Дальнего Боя|远程攻击抵抗|遠隔攻撃を抵抗|원거리 공격 저항력|Fernkampfwiderstand
 reflection|Reflection|Heijastava|Reflexão|Отражение|反射|反射|반사|Reflexion
-cold_enhanced|Cold Enhanced|Jäädytetty|Frio Aprimorado|Отмороженный|寒冰增强|冷気を高める|빙결의 힘|Kaltverstärkung
+cold_enhanced|Cold Enhanced|Jäädytetty|Frio Aprimorado|Отмороженный|强化寒冷|冷気を高める|빙결의 힘|Kaltverstärkung
 electrified|Electrified|Sähköistetty|Eletrificado|Шокирующий|带电|電化|전기의 힘|Elektrifiziert
 fiery|Fiery|Tulinen|Ardente|Пылкий|炽热|灼熱|화염의 힘|Feurig
 juggernaut|Juggernaut|Juggernaut|Juggernaut|Неудержимый|主宰|ジャガンナート|저거노트|Juggernaut
@@ -680,16 +680,16 @@ resume|Resume|Jatka|Resumir|Возобновить|暂停|再開|재개|Fortsetz
 restart|Restart|Aloita alusta|Reiniciar|Обновить локации|重新开始|リスタート|재시작|Neustart
 save_and_exit|Save & Exit|Tallenna & lopeta|Salvar e Sair|Сохранить и выйти|保存&退出|セーブ＆終了|저장 후 종료|Speichern & Beenden
 points_left|Points Left|Pisteitä jäljellä|Pontos restantes|Осталось очков|剩余点数|残りのポイント|남은 포인트|Verbleibende Punkte
-minion_talents|Mercenary|Palkkasoturi|Mercenário|Наемник|雇佣兵|傭兵|용병|Söldner
-att_talents|Player|Pelaaja|Jogador|Игрок|玩家|プレイヤー|플레이어|Spieler
-hero_talents|Hero Level|Sankaritaso|Nível Herói|Уровень Героев|英雄等级|ヒーロー・レベル|영웅 레벨|Heldenlevel
-enemies_left|Enemies left|Vihollisia jäljellä|Inimigos|врагов|敌人|敵|남은 적|Gegner verbleibend
+minion_talents|Mercenary|Palkkasoturi|Mercenário|Наемник|雇佣兵技能|傭兵|용병|Söldner
+att_talents|Player|Pelaaja|Jogador|Игрок|玩家技能|プレイヤー|플레이어|Spieler
+hero_talents|Hero Level|Sankaritaso|Nível Herói|Уровень Героев|英雄等级技能|ヒーロー・レベル|영웅 레벨|Heldenlevel
+enemies_left|Enemies left|Vihollisia jäljellä|Inimigos|врагов|敌人剩余数量|敵|남은 적|Gegner verbleibend
 last_page|Last Page|Edellinen sivu|Última Página|Предыдущая|最后一页|最後のページ|마지막 페이지|Letze Seite
 next_page|Next Page|Seuraava sivu|Próxima Página|Следующая|下一页|次のページ|다음 페이지|Nächste Seite
 key|Key|Avain|Chave|Ключ|钥匙|キー|키|Schlüssel
-crystal_key|Crystal Key|Kristalliavain|Chave de cristal|Кристальный ключ|晶体的关键|クリスタルキー|크리스탈 열쇠|Kristallschlüssel
+crystal_key|Crystal Key|Kristalliavain|Chave de cristal|Кристальный ключ|水晶钥匙|クリスタルキー|크리스탈 열쇠|Kristallschlüssel
 runes|Runes|Riimut|Runas|Руны|符文|ルーン|룬|Runen
-assign_point|Assign point|Aseta piste|Atribuir ponto|Назначать|分配点|割り当てポイント|포인트 분배|Zuweisen
+assign_point|Assign point|Aseta piste|Atribuir ponto|Назначать|分配点数|割り当てポイント|포인트 분배|Zuweisen
 loading|LOADING|LADATAAN|CARREGANDO|ЗАГРУЗКА|读取中|ロード中|불러오는 중|LADEN
 magic_potion|Magic Potion|Taikarohto|Poção mágica|Магическое зелье|魔法药剂|魔法の薬剤|마법 포션|Zaubertrank
 gold|Gold|Kultaa|Ouro|Золото|金币|ゴールド|골드|Gold
