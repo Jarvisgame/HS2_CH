@@ -701,10 +701,10 @@ found_key|Found a Key!|Löysit avaimen!|Encontrei uma chave!|Найден клю
 found_crystal_key|Found a Crystal Key!|Löysit kristalliavaimen!|Encontrei uma chave de cristal!|Найден кристальный ключ!|找到一把水晶钥匙！|クリスタルキーを見つけた！|크리스탈 열쇠 발견!|Ich habe einen Kristallschlüssel gefunden!
 saving_game|Saving the game...|Tallennetaan peliä...|Salvando o jogo...|Сохранение игры...|正在保存游戏...|ゲームをセーブしています...|게임을 저장하는 중입니다...|Das Spiel wird gespeichert...
 you_died|You Died|Sinä kuolit|Você morreu|Вы погибли|你死了|あなたが死亡しました|죽었습니다|Du bist gestorben
-death_by|Death by|Kuoleman tuotti|Morto por|Смерть от|死于|死亡の原因は|나를 죽게 한 원인|Tod durch
-upgrade_wormhole|Upgrade Wormhole Level|Päivitä madonreiän taso|Atualizar o Nível Portal|Повысить уровень Червоточины|升级虫洞等级|ワームホールレベルをアップグレード|웜홀 레벨 업그레이드|Upgrade Wurmloch-Level
+death_by|Death by|Kuoleman tuotti|Morto por|Смерть от|死因|死亡の原因は|나를 죽게 한 원인|Tod durch
+upgrade_wormhole|Upgrade Wormhole Level|Päivitä madonreiän taso|Atualizar o Nível Portal|Повысить уровень Червоточины|提升虫洞等级|ワームホールレベルをアップグレード|웜홀 레벨 업그레이드|Upgrade Wurmloch-Level
 waiting_for_players|Waiting for players to join...|Odotetaan pelaajia...|Esperando jogadores participarem...|Ждем, пока присоединятся игроки...|正在等待玩家加入...|他のプレイヤーを待っています|다른 플레이어를 기다리는중...|Warte auf Beitritt von Spielern...
-entering_wormhole|player(s) entering wormhole|pelaaja(a) menossa madonreikään|Jogador(es) entrando no wormhole|игрок(-и) заходит(-ят) в Червоточину|玩家进入传送点|プレイヤー（達）はワームホールに入っていきます|플레이어가 웜홀에 입장합니다|Spieler treten dem Wurmloch bei
+entering_wormhole|player(s) entering wormhole|pelaaja(a) menossa madonreikään|Jogador(es) entrando no wormhole|игрок(-и) заходит(-ят) в Червоточину|玩家进入虫洞|プレイヤー（達）はワームホールに入っていきます|플레이어가 웜홀에 입장합니다|Spieler treten dem Wurmloch bei
 entering_challenge_dungeon|player(s) entering challenge dungeon|pelaaja(a) menossa haastetyrmään|player(s) entering challenge dungeon|player(s) entering challenge dungeon|player(s) entering challenge dungeon|player(s) entering challenge dungeon|player(s) entering challenge dungeon|player(s) entering challenge dungeon
 entering_chaos_tower|player(s) entering Chaos Tower|pelaaja(a) menossa kaaostorniin|player(s) entering Chaos Tower|player(s) entering Chaos Tower|player(s) entering Chaos Tower|player(s) entering Chaos Tower|player(s) entering Chaos Tower|player(s) entering Chaos Tower
 monster_level|Monster Level|Vihollisten taso|Nível do Monstro|Уровень Монстров|怪物级别|モンスターレベル|몬스터 레벨|Monsterlevel
